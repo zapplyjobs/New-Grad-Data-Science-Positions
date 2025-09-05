@@ -1,152 +1,112 @@
 [
   {
     "employer_name": "Dell",
-    "job_title": "Supply Chain Graduate Intern",
-    "job_city": "Austin",
+    "job_title": "Data Science Undergraduate Intern",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Data Science Undergraduate Internlocations2 Locationsposted onPosted TodayR277346Principal Data Scientistremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR274794Compensation Consultantremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR265199Analytics Undergrad Internremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted TodayR277342Global Operations Undergrad Internremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted TodayR275493Supply Chain Graduate InternlocationsAustin, Texas, United Statesposted onPosted TodayR276365Advisor, Strategic Technology Ecosystemsremote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted 3 Days AgoR273925Strategy and Research Consultantremote typeOnsitelocations2 Locationsposted onPosted 10 Days AgoR272222Software Senior Engineer, PowerScaleremote typeOnsitelocationsSeattle, Washington, United Statesposted onPosted TodayR276871Dell Technologies Services Undergraduate Engineering InternlocationsRound Rock, Texas, United Statesposted onPosted TodayR277344Federal Technical Staff, Systems Development Engineering - DOEremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 9 Days AgoR273436Technical Staff-Network Architect remote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted 9 Days AgoR266477Technical Staff-Network Architect remote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted 17 Days AgoR271883Senior Principal Engineering TechnologistlocationsAustin, Texas, United Statesposted onPosted 7 Days AgoR276878.",
+    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Round-Rock-Texas-United-States/Data-Science-Undergraduate-Intern_R277346-1?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "dell-data-science-undergraduate-intern-2-locations"
+  },
+  {
+    "employer_name": "Dell",
+    "job_title": "Analytics Undergrad Intern",
+    "job_city": "Round Rock",
     "job_state": "Texas",
     "job_posted_at": "Posted Today",
-    "job_description": "• Principal Data Scientistremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR274794Compensation Consultantremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR265199AI-ML Software Engineerremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted TodayR276917Supply Chain Graduate InternlocationsAustin, Texas, United Statesposted onPosted TodayR276365Advisor, Strategic Technology Ecosystemsremote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted 3 Days AgoR273925Strategy and Research Consultantremote typeOnsitelocations2 Locationsposted onPosted 10 Days AgoR272222Software Senior Engineer, PowerScaleremote typeOnsitelocationsSeattle, Washington, United Statesposted onPosted TodayR276871Federal Technical Staff, Systems Development Engineering - DOEremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 9 Days AgoR273436Technical Staff-Network Architect remote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted 9 Days AgoR266477Technical Staff-Network Architect remote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted 17 Days AgoR271883Senior Principal Engineering TechnologistlocationsAustin, Texas, United Statesposted onPosted 7 Days AgoR276878.",
-    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Austin-Texas-United-States/Supply-Chain-Graduate-Intern_R276365-1?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "dell-supply-chain-graduate-intern-austin"
+    "job_description": "• Data Science Undergraduate Internlocations2 Locationsposted onPosted TodayR277346Principal Data Scientistremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR274794Compensation Consultantremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR265199Analytics Undergrad Internremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted TodayR277342Global Operations Undergrad Internremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted TodayR275493Supply Chain Graduate InternlocationsAustin, Texas, United Statesposted onPosted TodayR276365Advisor, Strategic Technology Ecosystemsremote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted 3 Days AgoR273925Strategy and Research Consultantremote typeOnsitelocations2 Locationsposted onPosted 10 Days AgoR272222Software Senior Engineer, PowerScaleremote typeOnsitelocationsSeattle, Washington, United Statesposted onPosted TodayR276871Dell Technologies Services Undergraduate Engineering InternlocationsRound Rock, Texas, United Statesposted onPosted TodayR277344Federal Technical Staff, Systems Development Engineering - DOEremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 9 Days AgoR273436Technical Staff-Network Architect remote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted 9 Days AgoR266477Technical Staff-Network Architect remote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted 17 Days AgoR271883Senior Principal Engineering TechnologistlocationsAustin, Texas, United Statesposted onPosted 7 Days AgoR276878.",
+    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Round-Rock-Texas-United-States/Analytics-Undergrad-Intern_R277342-1?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "dell-analytics-undergrad-intern-round-rock"
+  },
+  {
+    "employer_name": "Dell",
+    "job_title": "Dell Technologies Services Undergraduate Engineering Intern",
+    "job_city": "Round Rock",
+    "job_state": "Texas",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Data Science Undergraduate Internlocations2 Locationsposted onPosted TodayR277346Principal Data Scientistremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR274794Compensation Consultantremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR265199Analytics Undergrad Internremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted TodayR277342Global Operations Undergrad Internremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted TodayR275493Supply Chain Graduate InternlocationsAustin, Texas, United Statesposted onPosted TodayR276365Advisor, Strategic Technology Ecosystemsremote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted 3 Days AgoR273925Strategy and Research Consultantremote typeOnsitelocations2 Locationsposted onPosted 10 Days AgoR272222Software Senior Engineer, PowerScaleremote typeOnsitelocationsSeattle, Washington, United Statesposted onPosted TodayR276871Dell Technologies Services Undergraduate Engineering InternlocationsRound Rock, Texas, United Statesposted onPosted TodayR277344Federal Technical Staff, Systems Development Engineering - DOEremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 9 Days AgoR273436Technical Staff-Network Architect remote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted 9 Days AgoR266477Technical Staff-Network Architect remote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted 17 Days AgoR271883Senior Principal Engineering TechnologistlocationsAustin, Texas, United Statesposted onPosted 7 Days AgoR276878.",
+    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Round-Rock-Texas-United-States/Dell-Technologies-Services-Undergraduate-Engineering-Intern_R277344-1?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "dell-dell-technologies-services-undergraduate-engineering-intern-round-rock"
   },
   {
     "employer_name": "Micron Technology",
-    "job_title": "BU Analyst - Catalyst Rotation Program",
+    "job_title": "Product Development Engineer",
     "job_city": "Boise",
     "job_state": "Idaho",
-    "job_posted_at": "19 hours",
-    "job_description": "• Translate Business Unit requirements into a product/manufacturing strategy and create a plan which achieves those objectives Good communication skills and ability to work effectively with diverse types of people Less than 2 years Collaborate with key stakeholders and functional experts, across Technology, Supply Chain, BUs, Engineering, and Sales teams, to integrate key datasets into analysis workflows, dashboards etc.\n• Assist finance and business operations teams to create revenue, margin, cashflow projections associated with the operational plan Lead Product Owner – Smart Manufacturing & AI for FinanceBoise, Idaho, United States of America + 2 morePosted a month ago Intern - Technical Program Manager, Program Management Office (PMO)Boise, Idaho, United States of AmericaPosted 5 days ago Senior Manager - Product and System Engineering Package Data AnalyticsSingapore, SingaporePosted a month ago Senior Digital Marketing AnalystMeridian, Idaho, United States of AmericaPosted a month ago Senior Grant Data Analyst IIBatu Kawan, Pulau Pinang (Penang), MalaysiaPosted 3 months ago.",
-    "job_apply_link": "https://careers.micron.com/careers/job/37817814",
-    "id": "micron-technology-bu-analyst-catalyst-rotation-program-boise"
+    "job_posted_at": "4 days",
+    "job_description": "• Senior / Engineer, HIG-HBM Product Engineering (Media Health Reliability)Singapore, SingaporePosted 3 days ago Less than 2 years Engineer/ Senior Engineer, Product Engineering, Media Health Manufacturing, HIG-HBMSingapore, SingaporePosted 11 days ago Engineer/ Senior Engineer, Product Engineering, Media Health Manufacturing, HIG-HBMSingapore, SingaporePosted 11 days ago Engineer/Senior Engineer, HIG-HBM Product Engineering (Media Health Manufacturing)Singapore, SingaporePosted a month ago.",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-product-development-engineer-boise"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Intern - Dry Etch Process Development",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "21 hours",
+    "job_description": "• (or equivalent education) in Electrical Engineering, Mechanical Engineering, Materials Science, Chemical Engineering, Chemistry, Physics, or other related technical fields.\n• Developing etch processes to meet the physical and electrical requirements of Micron’s products.\n• Proficiency in statistics, preferably in statistical process control.\n• Strong analytical and creative problem-solving skills.\n• Experience in experimental design and data analysis.\n• Experience in programming or scripting is desirable.\n• Currently pursuing a M.\n• Knowledge of semiconductor processing, solid-state device physics, and of dry etch processing or plasma physics is desirable.",
+    "job_apply_link": "https://careers.micron.com/careers/job/37834787",
+    "id": "micron-technology-intern-dry-etch-process-development-boise"
   },
   {
     "employer_name": "BAE Systems",
-    "job_title": "Computer Scientist",
-    "job_city": "McLean",
+    "job_title": "Cost Analyst, Mid",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Software Engineer, SeniorlocationsHerndon, VAposted onPosted 29 Days AgoR0223921 Software Architect, Leadlocations3 Locationsposted onPosted 16 Days AgoR0224420 AI Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0222690 AI Engineer, Seniorlocations2 Locationsposted onPosted TodayR0225510.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Cost-Analyst--Mid_R0225692?q=data+science",
+    "id": "bae-systems-cost-analyst-mid-washington"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "AI Research Scientist",
+    "job_city": "Arlington",
     "job_state": "VA",
     "job_posted_at": "Posted Today",
-    "job_description": "• University, 2026 Summer Games Data Scientist Internlocations11 Locationsposted onPosted 3 Days AgoR0225534 Interoperability Data ScientistlocationsLorton, VAposted onPosted 30 Days AgoR0223517 Data Scientist, SeniorlocationsJoint Base Pearl Harbor - Hickam, HIposted onPosted 16 Days AgoR0224782 Data Scientist, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0223023 Data Scientist, LeadlocationsMacDill AFB, FLposted onPosted 22 Days AgoR0223739 Data Scientist, LeadlocationsAlexandria, VAposted onPosted 18 Days AgoR0222218 Data Scientist, Seniorlocations2 Locationsposted onPosted 8 Days AgoR0225299 Data Scientist, LeadlocationsMcLean, VAposted onPosted 9 Days AgoR0225190.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Computer-Scientist_R0224558-1?q=data+science",
-    "id": "bae-systems-computer-scientist-mclean"
+    "job_description": "• Counterintelligence Requirements OfficerlocationsSpringfield, VAposted onPosted 30+ Days AgoR0221537 Counterintelligence Requirements OfficerlocationsSt.\n• Louis, MOposted onPosted 30+ Days AgoR0221477 Ocean Systems Engineer, Senior ManagerlocationsPort Hueneme, CAposted onPosted 30+ Days AgoR0223274 Software Defined Network Engineer, LeadlocationsSan Diego, CAposted onPosted 8 Days AgoR0225275 MS&A SaaS Tool Cyber Operations LeadlocationsEglin AFB, FLposted onPosted 18 Days AgoR0224460.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/AI-Research-Scientist_R0225639?q=data+science",
+    "id": "bae-systems-ai-research-scientist-arlington"
   },
   {
-    "employer_name": "BAE Systems",
-    "job_title": "EHR Provisioning Analyst",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "11 Days",
-    "job_description": "• Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224192 Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224190 Cyber Automation Engineer, LeadlocationsEgg Harbor Township, NJposted onPosted 25 Days AgoR0224019 Defense Technical Delivery DirectorlocationsPanama City, FLposted onPosted 2 Days AgoR0225681 Operations Researcher, SeniorlocationsFort Meade, MDposted onPosted 3 Days AgoR0225432 Mechanical Engineer, SeniorlocationsPanama City, FLposted onPosted 7 Days AgoR0225394 SIGINT Technical ExpertlocationsFort Meade, MDposted onPosted 30+ Days AgoR0208588 Mechanical Engineer, JuniorlocationsOdon, INposted onPosted YesterdayR0225666 Computer Vision ExpertlocationsBethesda, MDposted onPosted YesterdayR0225632 Statistician, SeniorlocationsDahlgren, VAposted onPosted 21 Days AgoR0224439.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/EHR-Provisioning-Analyst_R0224893?q=data+science",
-    "id": "bae-systems-ehr-provisioning-analyst-2-locations"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Offensive Cyberspace Operations Planner",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224192 Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224190 Cyber Automation Engineer, LeadlocationsEgg Harbor Township, NJposted onPosted 25 Days AgoR0224019 Defense Technical Delivery DirectorlocationsPanama City, FLposted onPosted 2 Days AgoR0225681 Operations Researcher, SeniorlocationsFort Meade, MDposted onPosted 3 Days AgoR0225432 Mechanical Engineer, SeniorlocationsPanama City, FLposted onPosted 7 Days AgoR0225394 SIGINT Technical ExpertlocationsFort Meade, MDposted onPosted 30+ Days AgoR0208588 Mechanical Engineer, JuniorlocationsOdon, INposted onPosted YesterdayR0225666 Computer Vision ExpertlocationsBethesda, MDposted onPosted YesterdayR0225632 Statistician, SeniorlocationsDahlgren, VAposted onPosted 21 Days AgoR0224439.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Offensive-Cyberspace-Operations-Planner_R0219676?q=data+science",
-    "id": "bae-systems-offensive-cyberspace-operations-planner-fort-meade"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Logistics and Overhaul PEO UWS TR",
-    "job_city": "USA MD Home Office (MDHOME)",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Home-Office-MDHOME/Logistics-and-Overhaul-PEO-UWS-TR_RQ206318-1?q=data+science",
-    "id": "general-dynamics-logistics-and-overhaul-peo-uws-tr-usa-md-home-office-mdhome"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Power Platform Application Developer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Power-Platform-Application-Developer_RQ206579-1?q=data+science",
-    "id": "general-dynamics-power-platform-application-developer-2-locations"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "CAD Engineer  - Methodology/Flow/ STA",
-    "job_city": "US",
-    "job_state": "TX",
+    "employer_name": "Arm",
+    "job_title": "Graduate GPU Modeling Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "• Experience with analyzing timing reports and identifying design/constraint issues.\n• Requires EDA tool competence and strong scripting capability.\n• Excellent UNIX and programming skills (Perl, Python, and TCL).\n• Experience working on multiple projects in a global team environment.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Bachelor's or Master's Degree in Electrical Engineering or Computer Science or equivalent with experience.\n• Strong digital circuit fundamentals.\n• Proficient in STA methodologies for timing closure.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/69723/login",
-    "id": "amd-cad-engineer-methodology-flow-sta-us"
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-gpu-modeling-engineer/33099/70199981248",
+    "id": "arm-graduate-gpu-modeling-engineer-austin"
   },
   {
     "employer_name": "JPMorgan Chase",
-    "job_title": "Operations Analyst- Loan Sales",
+    "job_title": "Software Engineer III - Data Scientist / ML Engineer",
     "job_city": "Jersey City",
     "job_state": "NJ",
     "job_posted_at": "Recently",
     "job_description": "• 2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York Chicago, IL, United States and 4 more Data & AnalyticsSeasonal Employee Use your data analysis and coding skills to help a nonprofit organization further their mission.\n• Applied AIML Lead Bengaluru, Karnataka, India Data & AnalyticsPredictive Science Develop AI solutions for compliance and risk, enhancing skills in a dynamic data science team.\n• Associate New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Data Scientist Director Brooklyn, NY, United States Data & AnalyticsPredictive Science Seeking a dynamic leader with a strong corporate finance and analytical background.\n• Data Scientist Associate - SQL, Python, Tableau Mumbai, Maharashtra, India and 1 more Data & AnalyticsPredictive Science Drive data-driven solutions to enhance technology efficiency and developer experience at Chase Bank.\n• Vice President Product Manager - Data & AI Platform Adoption Lead Jersey City, NJ, United States and 1 more ProductProduct Management Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Associate Data Domain Architect Mumbai, Maharashtra, India and 1 more Data & AnalyticsAnalytics Solutions & Delivery Join the team tasked with delivering Data pipeline automation and visualization to support the multiple Workforce Planning functions.\n• Sr Manager of Software Engineering - Data Engineering Expertise Wilmington, DE, United States TechnologyData Engineering Serve in a leadership role by providing data engineering advisory and anticipate the needs and dependencies of data users at the firm Site Reliability Engineer [Multiple Positions Available] Plano, TX, United States TechnologySoftware Engineering Develop tools and visualizations to gain insights into the customer experience and product interactions.\n• Data Scientist Senior Associate - Fraud Analytics Bengaluru, Karnataka, India Data & AnalyticsPredictive Science We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• Senior GenAI Engineering Lead - Private Bank Jersey City, NJ, United States TechnologyPredictive Science Building the next generation technology that combines JPMC unique data and full-service advantage to develop high impact AI application Data Owner Vice President - Credit Card Customer Journey Plano, TX, United States and 1 more Data & AnalyticsAnalytics Solutions & Delivery Join our team to drive data-driven product development and enhance the Chase customer experience in the Credit Card business.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662545/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-operations-analyst-loan-sales-jersey-city"
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210638229/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-iii-data-scientist-ml-engineer-jersey-city"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, AI/ML, Google Cloud Compute",
-    "job_city": "Kirkland",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Software Engineer III, AI/ML, Google Cloud Compute",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/76501661480035014-software-engineer-iii-aiml-google-cloud-compute?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=10",
-    "id": "google-software-engineer-iii-ai-ml-google-cloud-compute-kirkland"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, AI/ML, Google Workspace",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Software Engineer III, AI/ML, Google Workspace",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/91083628695429830-software-engineer-iii-aiml-google-workspace?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=10",
-    "id": "google-software-engineer-iii-ai-ml-google-workspace-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, AI/ML Computer Vision, YouTube",
+    "job_title": "Data Scientist II, Product, Geo Data Science",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role Software Engineer III, AI/ML Computer Vision, YouTube",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/105070597716746950-software-engineer-iii-aiml-computer-vision-youtube?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=10",
-    "id": "google-software-engineer-iii-ai-ml-computer-vision-youtube-mountain-view"
+    "job_description": "data science job for the role Data Scientist II, Product, Geo Data Science",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/133624321716167366-data-scientist-ii-product-geo-data-science?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1",
+    "id": "google-data-scientist-ii-product-geo-data-science-mountain-view"
   },
   {
     "employer_name": "Google",
-    "job_title": "AI Developer, Professional Services Organization, Google Cloud Consulting",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role AI Developer, Professional Services Organization, Google Cloud Consulting",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/90433235086910150-ai-developer-professional-services-organization-google-cloud-consulting?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=10",
-    "id": "google-ai-developer-professional-services-organization-google-cloud-consulting-austin"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Generative AI, Google Cloud Business Platform",
-    "job_city": "Sunnyvale",
+    "job_title": "Data Scientist III, Research, Google Play",
+    "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role Software Engineer, Generative AI, Google Cloud Business Platform",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/78817206124585670-software-engineer-generative-ai-google-cloud-business-platform?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=10",
-    "id": "google-software-engineer-generative-ai-google-cloud-business-platform-sunnyvale"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Applied Scientist, US Prime and Marketing Tech",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "3 weeks",
-    "job_description": "data science job for the role Applied Scientist, US Prime and Marketing Tech",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3056433/applied-scientist-us-prime-and-marketing-tech",
-    "id": "amazon-applied-scientist-us-prime-and-marketing-tech-seattle"
+    "job_description": "data science job for the role Data Scientist III, Research, Google Play",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/80236271909118662-data-scientist-iii-research-google-play?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1",
+    "id": "google-data-scientist-iii-research-google-play-mountain-view"
   }
 ]
