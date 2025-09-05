@@ -1,1042 +1,152 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Junior Data Scientist Apprentice",
-    "job_city": "RESEARCH TRIANGLE PARK",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Junior Data Scientist Apprentice",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=19101&source=WEB_Search_NA",
-    "id": "ibm-junior-data-scientist-apprentice-research-triangle-park"
-  },
-  {
     "employer_name": "Dell",
-    "job_title": "AI-ML Software Engineer",
-    "job_city": "Hopkinton",
-    "job_state": "Massachusetts",
+    "job_title": "Supply Chain Graduate Intern",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Posted Today",
-    "job_description": "• Principal Data Scientistremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR274794Compensation Consultantremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR265199AI-ML Software Engineerremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted TodayR276917Advisor, Strategic Technology Ecosystemsremote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted 3 Days AgoR273925Strategy and Research Consultantremote typeOnsitelocations2 Locationsposted onPosted 10 Days AgoR272222Software Senior Engineer, PowerScaleremote typeOnsitelocationsSeattle, Washington, United Statesposted onPosted TodayR276871Federal Technical Staff, Systems Development Engineering - DOEremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 9 Days AgoR273436Technical Staff-Network Architect remote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted 9 Days AgoR266477Technical Staff-Network Architect remote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted 17 Days AgoR271883Senior Principal Engineering TechnologistlocationsAustin, Texas, United Statesposted onPosted 7 Days AgoR276878.",
-    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Hopkinton-Massachusetts-United-States/Software-Principal-Engineer_R276917?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "dell-ai-ml-software-engineer-hopkinton"
+    "job_description": "• Principal Data Scientistremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR274794Compensation Consultantremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR265199AI-ML Software Engineerremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted TodayR276917Supply Chain Graduate InternlocationsAustin, Texas, United Statesposted onPosted TodayR276365Advisor, Strategic Technology Ecosystemsremote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted 3 Days AgoR273925Strategy and Research Consultantremote typeOnsitelocations2 Locationsposted onPosted 10 Days AgoR272222Software Senior Engineer, PowerScaleremote typeOnsitelocationsSeattle, Washington, United Statesposted onPosted TodayR276871Federal Technical Staff, Systems Development Engineering - DOEremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 9 Days AgoR273436Technical Staff-Network Architect remote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted 9 Days AgoR266477Technical Staff-Network Architect remote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted 17 Days AgoR271883Senior Principal Engineering TechnologistlocationsAustin, Texas, United Statesposted onPosted 7 Days AgoR276878.",
+    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Austin-Texas-United-States/Supply-Chain-Graduate-Intern_R276365-1?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "dell-supply-chain-graduate-intern-austin"
   },
   {
-    "employer_name": "Siemens",
-    "job_title": "Operations Internship- Rolling Stock (Summer 2026)",
-    "job_city": "Sacramento",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Operations Internship- Rolling Stock (Summer 2026)",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-operations-internship-rolling-stock-summer-2026-sacramento"
-  },
-  {
-    "employer_name": "Siemens",
-    "job_title": "Junior Network Control Engineer Internship - Rail Electrification (Summer 2026)",
-    "job_city": "Wilsonville",
-    "job_state": "Oregon",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Junior Network Control Engineer Internship - Rail Electrification (Summer 2026)",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-junior-network-control-engineer-internship-rail-electrification-summer-2026-wilsonville"
+    "employer_name": "Micron Technology",
+    "job_title": "BU Analyst - Catalyst Rotation Program",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "19 hours",
+    "job_description": "• Translate Business Unit requirements into a product/manufacturing strategy and create a plan which achieves those objectives Good communication skills and ability to work effectively with diverse types of people Less than 2 years Collaborate with key stakeholders and functional experts, across Technology, Supply Chain, BUs, Engineering, and Sales teams, to integrate key datasets into analysis workflows, dashboards etc.\n• Assist finance and business operations teams to create revenue, margin, cashflow projections associated with the operational plan Lead Product Owner – Smart Manufacturing & AI for FinanceBoise, Idaho, United States of America + 2 morePosted a month ago Intern - Technical Program Manager, Program Management Office (PMO)Boise, Idaho, United States of AmericaPosted 5 days ago Senior Manager - Product and System Engineering Package Data AnalyticsSingapore, SingaporePosted a month ago Senior Digital Marketing AnalystMeridian, Idaho, United States of AmericaPosted a month ago Senior Grant Data Analyst IIBatu Kawan, Pulau Pinang (Penang), MalaysiaPosted 3 months ago.",
+    "job_apply_link": "https://careers.micron.com/careers/job/37817814",
+    "id": "micron-technology-bu-analyst-catalyst-rotation-program-boise"
   },
   {
     "employer_name": "BAE Systems",
-    "job_title": "Data Scientist",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Science and Technical Intelligence Program ManagerlocationsHuntsville, ALposted onPosted 14 Days AgoR0222373 Data Science ExpertlocationsAlexandria, VAposted onPosted 2 Days AgoR0225538 Data Scientist, SeniorlocationsVicenzaposted onPosted 30+ Days AgoR0222831.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Data-Scientist_R0221768?q=data+science",
-    "id": "bae-systems-data-scientist-annapolis-junction"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Data Scientist",
+    "job_title": "Computer Scientist",
     "job_city": "McLean",
     "job_state": "VA",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Science and Technical Intelligence Program ManagerlocationsHuntsville, ALposted onPosted 14 Days AgoR0222373 Data Science ExpertlocationsAlexandria, VAposted onPosted 2 Days AgoR0225538 Data Scientist, SeniorlocationsVicenzaposted onPosted 30+ Days AgoR0222831.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0221949?q=data+science",
-    "id": "bae-systems-data-scientist-mclean"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Data Scientist",
-    "job_city": "Stuttgart",
-    "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "10 Days",
-    "job_description": "• Science and Technical Intelligence Program ManagerlocationsHuntsville, ALposted onPosted 14 Days AgoR0222373 Data Science ExpertlocationsAlexandria, VAposted onPosted 2 Days AgoR0225538 Data Scientist, SeniorlocationsVicenzaposted onPosted 30+ Days AgoR0222831.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Data-Scientist_R0225079?q=data+science",
-    "id": "bae-systems-data-scientist-stuttgart"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Data Scientist",
-    "job_city": "Hickam AFB",
-    "job_state": "HI",
-    "job_posted_at": "8 Days",
-    "job_description": "• Science and Technical Intelligence Program ManagerlocationsHuntsville, ALposted onPosted 14 Days AgoR0222373 Data Science ExpertlocationsAlexandria, VAposted onPosted 2 Days AgoR0225538 Data Scientist, SeniorlocationsVicenzaposted onPosted 30+ Days AgoR0222831.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Hickam-AFB-HI/Data-Scientist_R0225249?q=data+science",
-    "id": "bae-systems-data-scientist-hickam-afb"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Data Scientist",
-    "job_city": "Springfield",
-    "job_state": "VA",
-    "job_posted_at": "2 Days",
-    "job_description": "• Science and Technical Intelligence Program ManagerlocationsHuntsville, ALposted onPosted 14 Days AgoR0222373 Data Science ExpertlocationsAlexandria, VAposted onPosted 2 Days AgoR0225538 Data Scientist, SeniorlocationsVicenzaposted onPosted 30+ Days AgoR0222831.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist_R0225584?q=data+science",
-    "id": "bae-systems-data-scientist-springfield"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Data and Artificial Intelligence Strategist",
-    "job_city": "Hickam AFB",
-    "job_state": "HI",
-    "job_posted_at": "8 Days",
+    "job_posted_at": "Posted Today",
     "job_description": "• University, 2026 Summer Games Data Scientist Internlocations11 Locationsposted onPosted 3 Days AgoR0225534 Interoperability Data ScientistlocationsLorton, VAposted onPosted 30 Days AgoR0223517 Data Scientist, SeniorlocationsJoint Base Pearl Harbor - Hickam, HIposted onPosted 16 Days AgoR0224782 Data Scientist, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0223023 Data Scientist, LeadlocationsMacDill AFB, FLposted onPosted 22 Days AgoR0223739 Data Scientist, LeadlocationsAlexandria, VAposted onPosted 18 Days AgoR0222218 Data Scientist, Seniorlocations2 Locationsposted onPosted 8 Days AgoR0225299 Data Scientist, LeadlocationsMcLean, VAposted onPosted 9 Days AgoR0225190.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Hickam-AFB-HI/Data-and-Artificial-Intelligence-Strategist_R0225266?q=data+science",
-    "id": "bae-systems-data-and-artificial-intelligence-strategist-hickam-afb"
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Computer-Scientist_R0224558-1?q=data+science",
+    "id": "bae-systems-computer-scientist-mclean"
   },
   {
     "employer_name": "BAE Systems",
-    "job_title": "Data Analyst",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_posted_at": "9 Days",
-    "job_description": "• University, 2026 Summer Games Data Scientist Internlocations11 Locationsposted onPosted 3 Days AgoR0225534 Interoperability Data ScientistlocationsLorton, VAposted onPosted 30 Days AgoR0223517 Data Scientist, SeniorlocationsJoint Base Pearl Harbor - Hickam, HIposted onPosted 16 Days AgoR0224782 Data Scientist, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0223023 Data Scientist, LeadlocationsMacDill AFB, FLposted onPosted 22 Days AgoR0223739 Data Scientist, LeadlocationsAlexandria, VAposted onPosted 18 Days AgoR0222218 Data Scientist, Seniorlocations2 Locationsposted onPosted 8 Days AgoR0225299 Data Scientist, LeadlocationsMcLean, VAposted onPosted 9 Days AgoR0225190.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Analyst_R0225141?q=data+science",
-    "id": "bae-systems-data-analyst-arlington"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Software and Data Engineer",
+    "job_title": "EHR Provisioning Analyst",
     "job_city": "2 Locations",
     "job_state": "US",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Data Visualization and Qlik Developer, LeadlocationsAlexandria, VAposted onPosted 18 Days AgoR0222604 Defense Technology Program Senior ManagerlocationsFussa, Tokyoposted onPosted 30+ Days AgoR0222672 Data Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 30+ Days AgoR0223368 Data Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 25 Days AgoR0223367 Data Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 30 Days AgoR0223833 Data Analyst, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 30+ Days AgoR0223372 Data Analyst, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 30+ Days AgoR0223371 Data Analyst, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 30+ Days AgoR0223373 Data Engineer, SeniorlocationsCambridgeshireposted onPosted 30+ Days AgoR0223365 Data Scientist, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0222544.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Software-and-Data-Engineer_R0221136?q=data+science",
-    "id": "bae-systems-software-and-data-engineer-2-locations"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Data Engineer",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Defense Technology Program Senior ManagerlocationsHonolulu, HIposted onPosted 9 Days AgoR0225117 Human Capital Analytics ExpertlocationsSpringfield, VAposted onPosted 18 Days AgoR0223448 Solutions Architect, LeadlocationsAugusta, GAposted onPosted 25 Days AgoR0221898 AI and ML Engineer, Seniorlocations2 Locationsposted onPosted 3 Days AgoR0224567 Data Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0222851 Data Governance Leadlocations6 Locationsposted onPosted TodayR0225455.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Data-Engineer_R0224573-1?q=data+science",
-    "id": "bae-systems-data-engineer-atlanta"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Enterprise Cybersecurity AI Security Orchestration and Automation Engineer",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Defense Technology Program Senior ManagerlocationsHonolulu, HIposted onPosted 9 Days AgoR0225117 Human Capital Analytics ExpertlocationsSpringfield, VAposted onPosted 18 Days AgoR0223448 Solutions Architect, LeadlocationsAugusta, GAposted onPosted 25 Days AgoR0221898 AI and ML Engineer, Seniorlocations2 Locationsposted onPosted 3 Days AgoR0224567 Data Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0222851 Data Governance Leadlocations6 Locationsposted onPosted TodayR0225455.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Enterprise-Cybersecurity-AI-Automation-Engineer_R0222673?q=data+science",
-    "id": "bae-systems-enterprise-cybersecurity-ai-security-orchestration-and-automation-engineer-mclean"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Defense Mission Professional and Provisioner",
-    "job_city": "Warren",
-    "job_state": "MI",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Defense Technology Program Senior ManagerlocationsHonolulu, HIposted onPosted 9 Days AgoR0225117 Human Capital Analytics ExpertlocationsSpringfield, VAposted onPosted 18 Days AgoR0223448 Solutions Architect, LeadlocationsAugusta, GAposted onPosted 25 Days AgoR0221898 AI and ML Engineer, Seniorlocations2 Locationsposted onPosted 3 Days AgoR0224567 Data Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0222851 Data Governance Leadlocations6 Locationsposted onPosted TodayR0225455.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warren-MI/Defense-Mission-Professional_R0222880?q=data+science",
-    "id": "bae-systems-defense-mission-professional-and-provisioner-warren"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Defense Mission Professional and Publications Content Developer",
-    "job_city": "Warren",
-    "job_state": "MI",
-    "job_posted_at": "7 Days",
-    "job_description": "• Defense Technology Program Senior ManagerlocationsHonolulu, HIposted onPosted 9 Days AgoR0225117 Human Capital Analytics ExpertlocationsSpringfield, VAposted onPosted 18 Days AgoR0223448 Solutions Architect, LeadlocationsAugusta, GAposted onPosted 25 Days AgoR0221898 AI and ML Engineer, Seniorlocations2 Locationsposted onPosted 3 Days AgoR0224567 Data Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0222851 Data Governance Leadlocations6 Locationsposted onPosted TodayR0225455.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warren-MI/Defense-Mission-Professional-and-Publications-Content-Developer_R0222881?q=data+science",
-    "id": "bae-systems-defense-mission-professional-and-publications-content-developer-warren"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "AI Engineer",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Defense Technology Program Senior ManagerlocationsHonolulu, HIposted onPosted 9 Days AgoR0225117 Human Capital Analytics ExpertlocationsSpringfield, VAposted onPosted 18 Days AgoR0223448 Solutions Architect, LeadlocationsAugusta, GAposted onPosted 25 Days AgoR0221898 AI and ML Engineer, Seniorlocations2 Locationsposted onPosted 3 Days AgoR0224567 Data Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0222851 Data Governance Leadlocations6 Locationsposted onPosted TodayR0225455.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/AI-Engineer_R0223032?q=data+science",
-    "id": "bae-systems-ai-engineer-washington"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Data Engineer, Mid",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_posted_at": "21 Days",
-    "job_description": "• Defense Technology Program Senior ManagerlocationsHonolulu, HIposted onPosted 9 Days AgoR0225117 Human Capital Analytics ExpertlocationsSpringfield, VAposted onPosted 18 Days AgoR0223448 Solutions Architect, LeadlocationsAugusta, GAposted onPosted 25 Days AgoR0221898 AI and ML Engineer, Seniorlocations2 Locationsposted onPosted 3 Days AgoR0224567 Data Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0222851 Data Governance Leadlocations6 Locationsposted onPosted TodayR0225455.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Engineer--Mid_R0224311?q=data+science",
-    "id": "bae-systems-data-engineer-mid-mclean"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "GEOINT Collection Analyst",
-    "job_city": "Springfield",
-    "job_state": "VA",
-    "job_posted_at": "2 Days",
-    "job_description": "• Knowledge Management ManagerlocationsArlington, VAposted onPosted 22 Days AgoR0224156 Defense Mission Professional and Integrated Logistics Support ManagerlocationsWarren, MIposted onPosted 22 Days AgoR0223114 Defense Mission Professional and Integrated Logistics Support ManagerlocationsWarren, MIposted onPosted 18 Days AgoR0224382 Defense Mission Professional & Equipment SpecialistlocationsWarren, MIposted onPosted 30+ Days AgoR0223113 Senior Technical Product ManagerlocationsMcLean, VAposted onPosted 15 Days AgoR0224811 AI and ML Engineer, LeadlocationsFort Meade, MDposted onPosted 15 Days AgoR0224878 Software Engineer, SeniorlocationsHerndon, VAposted onPosted 29 Days AgoR0223921.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/GEOINT-Collection-Analyst_R0225293?q=data+science",
-    "id": "bae-systems-geoint-collection-analyst-springfield"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Cost Analyst",
-    "job_city": "San Diego",
-    "job_state": "CA",
     "job_posted_at": "11 Days",
-    "job_description": "• Knowledge Management ManagerlocationsArlington, VAposted onPosted 22 Days AgoR0224156 Defense Mission Professional and Integrated Logistics Support ManagerlocationsWarren, MIposted onPosted 22 Days AgoR0223114 Defense Mission Professional and Integrated Logistics Support ManagerlocationsWarren, MIposted onPosted 18 Days AgoR0224382 Defense Mission Professional & Equipment SpecialistlocationsWarren, MIposted onPosted 30+ Days AgoR0223113 Senior Technical Product ManagerlocationsMcLean, VAposted onPosted 15 Days AgoR0224811 AI and ML Engineer, LeadlocationsFort Meade, MDposted onPosted 15 Days AgoR0224878 Software Engineer, SeniorlocationsHerndon, VAposted onPosted 29 Days AgoR0223921.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Cost-Analyst_R0225026-1?q=data+science",
-    "id": "bae-systems-cost-analyst-san-diego"
+    "job_description": "• Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224192 Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224190 Cyber Automation Engineer, LeadlocationsEgg Harbor Township, NJposted onPosted 25 Days AgoR0224019 Defense Technical Delivery DirectorlocationsPanama City, FLposted onPosted 2 Days AgoR0225681 Operations Researcher, SeniorlocationsFort Meade, MDposted onPosted 3 Days AgoR0225432 Mechanical Engineer, SeniorlocationsPanama City, FLposted onPosted 7 Days AgoR0225394 SIGINT Technical ExpertlocationsFort Meade, MDposted onPosted 30+ Days AgoR0208588 Mechanical Engineer, JuniorlocationsOdon, INposted onPosted YesterdayR0225666 Computer Vision ExpertlocationsBethesda, MDposted onPosted YesterdayR0225632 Statistician, SeniorlocationsDahlgren, VAposted onPosted 21 Days AgoR0224439.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/EHR-Provisioning-Analyst_R0224893?q=data+science",
+    "id": "bae-systems-ehr-provisioning-analyst-2-locations"
   },
   {
     "employer_name": "BAE Systems",
-    "job_title": "AI and ML Engineer",
-    "job_city": "Clearfield",
-    "job_state": "UT",
-    "job_posted_at": "16 Days",
-    "job_description": "• Information Systems Security ManagerlocationsAlexandria, VAposted onPosted 9 Days AgoR0225171 Materials Scientist, SeniorlocationsArlington, VAposted onPosted 8 Days AgoR0225222 Software Architect, Leadlocations3 Locationsposted onPosted 16 Days AgoR0224420 AI Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0222690.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Clearfield-UT/AI-and-ML-Engineer_R0221694?q=data+science",
-    "id": "bae-systems-ai-and-ml-engineer-clearfield"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Technical Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "22 Days",
-    "job_description": "• Information Systems Security ManagerlocationsAlexandria, VAposted onPosted 9 Days AgoR0225171 Materials Scientist, SeniorlocationsArlington, VAposted onPosted 8 Days AgoR0225222 Software Architect, Leadlocations3 Locationsposted onPosted 16 Days AgoR0224420 AI Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0222690.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Jacksonville-NC/Technical-Engineer_R0224261?q=data+science",
-    "id": "bae-systems-technical-engineer-2-locations"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "SIGINT Communication Intelligence Analyst",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Defense Technical Delivery DirectorlocationsPanama City, FLposted onPosted 2 Days AgoR0225681 Operations Researcher, SeniorlocationsFort Meade, MDposted onPosted 3 Days AgoR0225432 Mechanical Engineer, SeniorlocationsPanama City, FLposted onPosted 7 Days AgoR0225394 Materials Scientist, SeniorlocationsArlington, VAposted onPosted 8 Days AgoR0225222 SIGINT Technical ExpertlocationsFort Meade, MDposted onPosted 30+ Days AgoR0208588 Mechanical Engineer, JuniorlocationsOdon, INposted onPosted YesterdayR0225666 Computer Vision ExpertlocationsBethesda, MDposted onPosted YesterdayR0225632 Statistician, SeniorlocationsDahlgren, VAposted onPosted 21 Days AgoR0224439.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/SIGINT-Communication-Intelligence-Analyst_R0221592?q=data+science",
-    "id": "bae-systems-sigint-communication-intelligence-analyst-mclean"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Imagery Scientist",
-    "job_city": "Springfield",
-    "job_state": "VA",
-    "job_posted_at": "7 Days",
-    "job_description": "• Defense Technical Delivery DirectorlocationsPanama City, FLposted onPosted 2 Days AgoR0225681 Operations Researcher, SeniorlocationsFort Meade, MDposted onPosted 3 Days AgoR0225432 Mechanical Engineer, SeniorlocationsPanama City, FLposted onPosted 7 Days AgoR0225394 Materials Scientist, SeniorlocationsArlington, VAposted onPosted 8 Days AgoR0225222 SIGINT Technical ExpertlocationsFort Meade, MDposted onPosted 30+ Days AgoR0208588 Mechanical Engineer, JuniorlocationsOdon, INposted onPosted YesterdayR0225666 Computer Vision ExpertlocationsBethesda, MDposted onPosted YesterdayR0225632 Statistician, SeniorlocationsDahlgren, VAposted onPosted 21 Days AgoR0224439.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Imagery-Scientist_R0225364?q=data+science",
-    "id": "bae-systems-imagery-scientist-springfield"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Trellix Cybersecurity Engineer",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_posted_at": "8 Days",
-    "job_description": "• Defense Technical Delivery DirectorlocationsPanama City, FLposted onPosted 2 Days AgoR0225681 Operations Researcher, SeniorlocationsFort Meade, MDposted onPosted 3 Days AgoR0225432 Mechanical Engineer, SeniorlocationsPanama City, FLposted onPosted 7 Days AgoR0225394 Materials Scientist, SeniorlocationsArlington, VAposted onPosted 8 Days AgoR0225222 SIGINT Technical ExpertlocationsFort Meade, MDposted onPosted 30+ Days AgoR0208588 Mechanical Engineer, JuniorlocationsOdon, INposted onPosted YesterdayR0225666 Computer Vision ExpertlocationsBethesda, MDposted onPosted YesterdayR0225632 Statistician, SeniorlocationsDahlgren, VAposted onPosted 21 Days AgoR0224439.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Trellix-Cybersecurity-Engineer_R0224455-1?q=data+science",
-    "id": "bae-systems-trellix-cybersecurity-engineer-washington"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Technical Surveillance Countermeasures Practitioner",
-    "job_city": "Springfield",
-    "job_state": "VA",
-    "job_posted_at": "25 Days",
-    "job_description": "• Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224187 Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224188 Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224189 Structural Engineer, SeniorlocationsTinker AFB, OKposted onPosted 16 Days AgoR0223626 Mechanical Engineer, SeniorlocationsPicatinny, NJposted onPosted 30+ Days AgoR0222700.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Technical-Surveillance-Countermeasures-Practitioner_R0221067?q=data+science",
-    "id": "bae-systems-technical-surveillance-countermeasures-practitioner-springfield"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Enterprise Cybersecurity Exercise Designer",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224187 Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224188 Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224189 Structural Engineer, SeniorlocationsTinker AFB, OKposted onPosted 16 Days AgoR0223626 Mechanical Engineer, SeniorlocationsPicatinny, NJposted onPosted 30+ Days AgoR0222700.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Enterprise-Cybersecurity-Exercise-Designer_R0222227-1?q=data+science",
-    "id": "bae-systems-enterprise-cybersecurity-exercise-designer-mclean"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Manufacturing Engineer",
-    "job_city": "Wharton",
-    "job_state": "NJ",
-    "job_posted_at": "23 Days",
-    "job_description": "• Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224187 Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224188 Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224189 Structural Engineer, SeniorlocationsTinker AFB, OKposted onPosted 16 Days AgoR0223626 Mechanical Engineer, SeniorlocationsPicatinny, NJposted onPosted 30+ Days AgoR0222700.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wharton-NJ/Manufacturing-Engineer_R0222691?q=data+science",
-    "id": "bae-systems-manufacturing-engineer-wharton"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Mechanical Engineer, Mid",
-    "job_city": "Odon",
-    "job_state": "IN",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "• Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224187 Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224188 Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224189 Structural Engineer, SeniorlocationsTinker AFB, OKposted onPosted 16 Days AgoR0223626 Mechanical Engineer, SeniorlocationsPicatinny, NJposted onPosted 30+ Days AgoR0222700.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Odon-IN/Mechanical-Engineer--Mid_R0225670?q=data+science",
-    "id": "bae-systems-mechanical-engineer-mid-odon"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Model Integrator",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "• Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224187 Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224188 Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224189 Structural Engineer, SeniorlocationsTinker AFB, OKposted onPosted 16 Days AgoR0223626 Mechanical Engineer, SeniorlocationsPicatinny, NJposted onPosted 30+ Days AgoR0222700.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Model-Integrator_R0225572?q=data+science",
-    "id": "bae-systems-model-integrator-arlington"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Information System Security Officer",
+    "job_title": "Offensive Cyberspace Operations Planner",
     "job_city": "Fort Meade",
     "job_state": "MD",
-    "job_posted_at": "9 Days",
-    "job_description": "• Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224187 Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224188 Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224189 Structural Engineer, SeniorlocationsTinker AFB, OKposted onPosted 16 Days AgoR0223626 Mechanical Engineer, SeniorlocationsPicatinny, NJposted onPosted 30+ Days AgoR0222700.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Information-System-Security-Officer_R0225077?q=data+science",
-    "id": "bae-systems-information-system-security-officer-fort-meade"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Counterintelligence Requirements Officer",
-    "job_city": "St. Louis",
-    "job_state": "MO",
     "job_posted_at": "30+ Days",
-    "job_description": "• Counterintelligence Requirements OfficerlocationsSpringfield, VAposted onPosted 30+ Days AgoR0221537 Counterintelligence Requirements OfficerlocationsSt.\n• Louis, MOposted onPosted 30+ Days AgoR0221477 Ocean Systems Engineer, Senior ManagerlocationsPort Hueneme, CAposted onPosted 30+ Days AgoR0223274 Software Defined Network Engineer, LeadlocationsSan Diego, CAposted onPosted 8 Days AgoR0225275 MS&A SaaS Tool Cyber Operations LeadlocationsEglin AFB, FLposted onPosted 18 Days AgoR0224460 Technical Site Deployment Specialistlocations2 Locationsposted onPosted 11 Days AgoR0224890 Deployment Managerlocations2 Locationsposted onPosted 3 Days AgoR0222631.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/St-Louis-MO/Counterintelligence-Requirements-Officer_R0221477?q=data+science",
-    "id": "bae-systems-counterintelligence-requirements-officer-st-louis"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Information Systems Security Engineer",
-    "job_city": "Lorton",
-    "job_state": "VA",
-    "job_posted_at": "30 Days",
-    "job_description": "• Counterintelligence Requirements OfficerlocationsSpringfield, VAposted onPosted 30+ Days AgoR0221537 Counterintelligence Requirements OfficerlocationsSt.\n• Louis, MOposted onPosted 30+ Days AgoR0221477 Ocean Systems Engineer, Senior ManagerlocationsPort Hueneme, CAposted onPosted 30+ Days AgoR0223274 Software Defined Network Engineer, LeadlocationsSan Diego, CAposted onPosted 8 Days AgoR0225275 MS&A SaaS Tool Cyber Operations LeadlocationsEglin AFB, FLposted onPosted 18 Days AgoR0224460 Technical Site Deployment Specialistlocations2 Locationsposted onPosted 11 Days AgoR0224890 Deployment Managerlocations2 Locationsposted onPosted 3 Days AgoR0222631.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Information-Systems-Security-Engineer_R0223478?q=data+science",
-    "id": "bae-systems-information-systems-security-engineer-lorton"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Cyber Systems Engineer",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_posted_at": "3 Days",
-    "job_description": "• Counterintelligence Requirements OfficerlocationsSpringfield, VAposted onPosted 30+ Days AgoR0221537 Counterintelligence Requirements OfficerlocationsSt.\n• Louis, MOposted onPosted 30+ Days AgoR0221477 Ocean Systems Engineer, Senior ManagerlocationsPort Hueneme, CAposted onPosted 30+ Days AgoR0223274 Software Defined Network Engineer, LeadlocationsSan Diego, CAposted onPosted 8 Days AgoR0225275 MS&A SaaS Tool Cyber Operations LeadlocationsEglin AFB, FLposted onPosted 18 Days AgoR0224460 Technical Site Deployment Specialistlocations2 Locationsposted onPosted 11 Days AgoR0224890 Deployment Managerlocations2 Locationsposted onPosted 3 Days AgoR0222631.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Cyber-Systems-Engineer_R0225461?q=data+science",
-    "id": "bae-systems-cyber-systems-engineer-chantilly"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Cybersecurity Automation Engineer",
-    "job_city": "Langley AFB",
-    "job_state": "VA",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Counterintelligence Requirements OfficerlocationsSpringfield, VAposted onPosted 30+ Days AgoR0221537 Counterintelligence Requirements OfficerlocationsSt.\n• Louis, MOposted onPosted 30+ Days AgoR0221477 Ocean Systems Engineer, Senior ManagerlocationsPort Hueneme, CAposted onPosted 30+ Days AgoR0223274 Software Defined Network Engineer, LeadlocationsSan Diego, CAposted onPosted 8 Days AgoR0225275 MS&A SaaS Tool Cyber Operations LeadlocationsEglin AFB, FLposted onPosted 18 Days AgoR0224460 Technical Site Deployment Specialistlocations2 Locationsposted onPosted 11 Days AgoR0224890 Deployment Managerlocations2 Locationsposted onPosted 3 Days AgoR0222631.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Langley-AFB-VA/Cybersecurity-Automation-Engineer_R0223710?q=data+science",
-    "id": "bae-systems-cybersecurity-automation-engineer-langley-afb"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "CNO Developer",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
-    "job_posted_at": "10 Days",
-    "job_description": "• Counterintelligence Requirements OfficerlocationsSpringfield, VAposted onPosted 30+ Days AgoR0221537 Counterintelligence Requirements OfficerlocationsSt.\n• Louis, MOposted onPosted 30+ Days AgoR0221477 Ocean Systems Engineer, Senior ManagerlocationsPort Hueneme, CAposted onPosted 30+ Days AgoR0223274 Software Defined Network Engineer, LeadlocationsSan Diego, CAposted onPosted 8 Days AgoR0225275 MS&A SaaS Tool Cyber Operations LeadlocationsEglin AFB, FLposted onPosted 18 Days AgoR0224460 Technical Site Deployment Specialistlocations2 Locationsposted onPosted 11 Days AgoR0224890 Deployment Managerlocations2 Locationsposted onPosted 3 Days AgoR0222631.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/CNO-Developer_R0219616?q=data+science",
-    "id": "bae-systems-cno-developer-annapolis-junction"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "EHR Clinical Analyst",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "11 Days",
-    "job_description": "• Counterintelligence Requirements OfficerlocationsSpringfield, VAposted onPosted 30+ Days AgoR0221537 Counterintelligence Requirements OfficerlocationsSt.\n• Louis, MOposted onPosted 30+ Days AgoR0221477 Ocean Systems Engineer, Senior ManagerlocationsPort Hueneme, CAposted onPosted 30+ Days AgoR0223274 Software Defined Network Engineer, LeadlocationsSan Diego, CAposted onPosted 8 Days AgoR0225275 MS&A SaaS Tool Cyber Operations LeadlocationsEglin AFB, FLposted onPosted 18 Days AgoR0224460 Technical Site Deployment Specialistlocations2 Locationsposted onPosted 11 Days AgoR0224890 Deployment Managerlocations2 Locationsposted onPosted 3 Days AgoR0222631.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/EHR-Clinical-Analyst_R0224892?q=data+science",
-    "id": "bae-systems-ehr-clinical-analyst-2-locations"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "EHR Technology Analyst",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "• Counterintelligence Requirements OfficerlocationsSpringfield, VAposted onPosted 30+ Days AgoR0221537 Counterintelligence Requirements OfficerlocationsSt.\n• Louis, MOposted onPosted 30+ Days AgoR0221477 Ocean Systems Engineer, Senior ManagerlocationsPort Hueneme, CAposted onPosted 30+ Days AgoR0223274 Software Defined Network Engineer, LeadlocationsSan Diego, CAposted onPosted 8 Days AgoR0225275 MS&A SaaS Tool Cyber Operations LeadlocationsEglin AFB, FLposted onPosted 18 Days AgoR0224460 Technical Site Deployment Specialistlocations2 Locationsposted onPosted 11 Days AgoR0224890 Deployment Managerlocations2 Locationsposted onPosted 3 Days AgoR0222631.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/EHR-Technology-Analyst_R0224870?q=data+science",
-    "id": "bae-systems-ehr-technology-analyst-2-locations"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Elastic Engineer SME",
-    "job_city": "Langley AFB",
-    "job_state": "VA",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Requirements EngineerlocationsClearfield, UTposted onPosted 30 Days AgoR0221679 Chief Solutions ArchitectlocationsAnnapolis Junction, MDposted onPosted 22 Days AgoR0224383 In-Place Monitoring System LeadlocationsSpringfield, VAposted onPosted 24 Days AgoR0223440 Avionics Systems Engineer, SeniorlocationsHouston, TXposted onPosted 8 Days AgoR0223744 Front End Engineer, Seniorlocations4 Locationsposted onPosted 30+ Days AgoR0223275.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Langley-AFB-VA/Elastic-Engineer-SME_R0223709?q=data+science",
-    "id": "bae-systems-elastic-engineer-sme-langley-afb"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Requirements Engineer",
-    "job_city": "Clearfield",
-    "job_state": "UT",
-    "job_posted_at": "30 Days",
-    "job_description": "• Requirements EngineerlocationsClearfield, UTposted onPosted 30 Days AgoR0221679 Chief Solutions ArchitectlocationsAnnapolis Junction, MDposted onPosted 22 Days AgoR0224383 In-Place Monitoring System LeadlocationsSpringfield, VAposted onPosted 24 Days AgoR0223440 Avionics Systems Engineer, SeniorlocationsHouston, TXposted onPosted 8 Days AgoR0223744 Front End Engineer, Seniorlocations4 Locationsposted onPosted 30+ Days AgoR0223275.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Clearfield-UT/Requirements-Engineer_R0221679-1?q=data+science",
-    "id": "bae-systems-requirements-engineer-clearfield"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "CI Cyber Threat Technical Analyst",
-    "job_city": "Springfield",
-    "job_state": "VA",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Requirements EngineerlocationsClearfield, UTposted onPosted 30 Days AgoR0221679 Chief Solutions ArchitectlocationsAnnapolis Junction, MDposted onPosted 22 Days AgoR0224383 In-Place Monitoring System LeadlocationsSpringfield, VAposted onPosted 24 Days AgoR0223440 Avionics Systems Engineer, SeniorlocationsHouston, TXposted onPosted 8 Days AgoR0223744 Front End Engineer, Seniorlocations4 Locationsposted onPosted 30+ Days AgoR0223275.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/CI-Cyber-Threat-Technical-Analyst_R0221339?q=data+science",
-    "id": "bae-systems-ci-cyber-threat-technical-analyst-springfield"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "F-35 Test and Evaluation Technical Analyst",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Requirements EngineerlocationsClearfield, UTposted onPosted 30 Days AgoR0221679 Chief Solutions ArchitectlocationsAnnapolis Junction, MDposted onPosted 22 Days AgoR0224383 In-Place Monitoring System LeadlocationsSpringfield, VAposted onPosted 24 Days AgoR0223440 Avionics Systems Engineer, SeniorlocationsHouston, TXposted onPosted 8 Days AgoR0223744 Front End Engineer, Seniorlocations4 Locationsposted onPosted 30+ Days AgoR0223275.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/F-35-Test-and-Evaluation-Technical-Analyst_R0222886?q=data+science",
-    "id": "bae-systems-f-35-test-and-evaluation-technical-analyst-arlington"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "F-35 Flight Test Infrastructure Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Requirements EngineerlocationsClearfield, UTposted onPosted 30 Days AgoR0221679 Chief Solutions ArchitectlocationsAnnapolis Junction, MDposted onPosted 22 Days AgoR0224383 In-Place Monitoring System LeadlocationsSpringfield, VAposted onPosted 24 Days AgoR0223440 Avionics Systems Engineer, SeniorlocationsHouston, TXposted onPosted 8 Days AgoR0223744 Front End Engineer, Seniorlocations4 Locationsposted onPosted 30+ Days AgoR0223275.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/F-35-Flight-Test-Infrastructure-Engineer_R0223516?q=data+science",
-    "id": "bae-systems-f-35-flight-test-infrastructure-engineer-2-locations"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "F-35 Electronic Warfare Engineer",
-    "job_city": "Wright Patterson AFB",
-    "job_state": "OH",
-    "job_posted_at": "9 Days",
-    "job_description": "• Requirements EngineerlocationsClearfield, UTposted onPosted 30 Days AgoR0221679 Chief Solutions ArchitectlocationsAnnapolis Junction, MDposted onPosted 22 Days AgoR0224383 In-Place Monitoring System LeadlocationsSpringfield, VAposted onPosted 24 Days AgoR0223440 Avionics Systems Engineer, SeniorlocationsHouston, TXposted onPosted 8 Days AgoR0223744 Front End Engineer, Seniorlocations4 Locationsposted onPosted 30+ Days AgoR0223275.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wright-Patterson-AFB-OH/F-35-Electronic-Warfare-Engineer_R0225210?q=data+science",
-    "id": "bae-systems-f-35-electronic-warfare-engineer-wright-patterson-afb"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Platform Engineer and Golang SME",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "• Requirements EngineerlocationsClearfield, UTposted onPosted 30 Days AgoR0221679 Chief Solutions ArchitectlocationsAnnapolis Junction, MDposted onPosted 22 Days AgoR0224383 In-Place Monitoring System LeadlocationsSpringfield, VAposted onPosted 24 Days AgoR0223440 Avionics Systems Engineer, SeniorlocationsHouston, TXposted onPosted 8 Days AgoR0223744 Front End Engineer, Seniorlocations4 Locationsposted onPosted 30+ Days AgoR0223275.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Platform-Engineer-and-Golang-SME_R0220497?q=data+science",
-    "id": "bae-systems-platform-engineer-and-golang-sme-chantilly"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Computer Engineer",
-    "job_city": "Odon",
-    "job_state": "IN",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "• Requirements EngineerlocationsClearfield, UTposted onPosted 30 Days AgoR0221679 Chief Solutions ArchitectlocationsAnnapolis Junction, MDposted onPosted 22 Days AgoR0224383 In-Place Monitoring System LeadlocationsSpringfield, VAposted onPosted 24 Days AgoR0223440 Avionics Systems Engineer, SeniorlocationsHouston, TXposted onPosted 8 Days AgoR0223744 Front End Engineer, Seniorlocations4 Locationsposted onPosted 30+ Days AgoR0223275.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Odon-IN/Computer-Engineer_R0225672?q=data+science",
-    "id": "bae-systems-computer-engineer-odon"
+    "job_description": "• Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224192 Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 23 Days AgoR0224190 Cyber Automation Engineer, LeadlocationsEgg Harbor Township, NJposted onPosted 25 Days AgoR0224019 Defense Technical Delivery DirectorlocationsPanama City, FLposted onPosted 2 Days AgoR0225681 Operations Researcher, SeniorlocationsFort Meade, MDposted onPosted 3 Days AgoR0225432 Mechanical Engineer, SeniorlocationsPanama City, FLposted onPosted 7 Days AgoR0225394 SIGINT Technical ExpertlocationsFort Meade, MDposted onPosted 30+ Days AgoR0208588 Mechanical Engineer, JuniorlocationsOdon, INposted onPosted YesterdayR0225666 Computer Vision ExpertlocationsBethesda, MDposted onPosted YesterdayR0225632 Statistician, SeniorlocationsDahlgren, VAposted onPosted 21 Days AgoR0224439.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Offensive-Cyberspace-Operations-Planner_R0219676?q=data+science",
+    "id": "bae-systems-offensive-cyberspace-operations-planner-fort-meade"
   },
   {
     "employer_name": "General Dynamics",
-    "job_title": "Data Engineer",
-    "job_city": "USA VA McLean",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-McLean/Data-Engineer---TS-SCI-w-Polygraph_RQ200909?q=data+science",
-    "id": "general-dynamics-data-engineer-usa-va-mclean"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "SMPES Integration Data Integration Developer",
-    "job_city": "USA NE Offutt AFB",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NE-Offutt-AFB/SCITLS-SMPES-Integration-Data-Integration-Developer_RQ204648-1?q=data+science",
-    "id": "general-dynamics-smpes-integration-data-integration-developer-usa-ne-offutt-afb"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "SCITLS Power BI Software Developer - $8,000 incentive  - Relocation assistance available",
-    "job_city": "USA NE Offutt AFB",
-    "job_state": "US",
-    "job_posted_at": "2 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NE-Offutt-AFB/SCITLS-Power-BI-Software-Developer_RQ198763?q=data+science",
-    "id": "general-dynamics-scitls-power-bi-software-developer-8-000-incentive-relocation-assistance-available-usa-ne-offutt-afb"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Data Analyst- Springfield, VA - Top Secret clearance",
-    "job_city": "USA VA Springfield",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Springfield/Data-Analyst--Springfield--VA---Top-Secret-clearance_RQ204762?q=data+science",
-    "id": "general-dynamics-data-analyst-springfield-va-top-secret-clearance-usa-va-springfield"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Data Scientist- Springfield, VA - Top Secret clearance",
-    "job_city": "USA VA Springfield",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Springfield/Data-Scientist--Springfield--VA---Top-Secret-clearance_RQ204765?q=data+science",
-    "id": "general-dynamics-data-scientist-springfield-va-top-secret-clearance-usa-va-springfield"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Data Engineer -Springfield, VA - Top Secret clearance",
-    "job_city": "USA VA Springfield",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Springfield/Data-Engineer--Springfield--VA---Top-Secret-clearance_RQ204764?q=data+science",
-    "id": "general-dynamics-data-engineer-springfield-va-top-secret-clearance-usa-va-springfield"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "GIS Analyst- Springfield, VA - Top Secret clearance",
-    "job_city": "USA VA Springfield",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Springfield/GIS-Analyst--Springfield--VA---Top-Secret-clearance_RQ204767?q=data+science",
-    "id": "general-dynamics-gis-analyst-springfield-va-top-secret-clearance-usa-va-springfield"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Data Scientist - Active TS/SCI Clearance Required",
-    "job_city": "USA DC Washington",
-    "job_state": "US",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Data-Scientist---Active-TS-SCI-Clearance-Required_RQ206584-1?q=data+science",
-    "id": "general-dynamics-data-scientist-active-ts-sci-clearance-required-usa-dc-washington"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Mission Systems RDT&E",
-    "job_city": "USA NE Offutt AFB",
+    "job_title": "Logistics and Overhaul PEO UWS TR",
+    "job_city": "USA MD Home Office (MDHOME)",
     "job_state": "US",
     "job_posted_at": "Posted Today",
     "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NE-Offutt-AFB/SCITLS-Mission-Systems-RDT-E_RQ205594-1?q=data+science",
-    "id": "general-dynamics-mission-systems-rdt-e-usa-ne-offutt-afb"
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Home-Office-MDHOME/Logistics-and-Overhaul-PEO-UWS-TR_RQ206318-1?q=data+science",
+    "id": "general-dynamics-logistics-and-overhaul-peo-uws-tr-usa-md-home-office-mdhome"
   },
   {
     "employer_name": "General Dynamics",
-    "job_title": "Scientific Researcher",
-    "job_city": "USA NC Raleigh",
-    "job_state": "US",
-    "job_posted_at": "3 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NC-Raleigh/Scientific-Researcher_RQ206559-1?q=data+science",
-    "id": "general-dynamics-scientific-researcher-usa-nc-raleigh"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Database Engineer",
-    "job_city": "ational",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/International/Database-Engineer_RQ204661-2?q=data+science",
-    "id": "general-dynamics-database-engineer-ational"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Cyber-Security Solutions Engineer",
+    "job_title": "Power Platform Application Developer",
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "Posted Today",
     "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NC-Morrisville/Cyber-Security-Solutions-SME_RQ206438-1?q=data+science",
-    "id": "general-dynamics-cyber-security-solutions-engineer-2-locations"
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Power-Platform-Application-Developer_RQ206579-1?q=data+science",
+    "id": "general-dynamics-power-platform-application-developer-2-locations"
   },
   {
-    "employer_name": "General Dynamics",
-    "job_title": "Behavioral Health Advisor (Traumatic Brain Injury Exp. Required)",
-    "job_city": "USA MD Silver Spring",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Silver-Spring/Behavioral-Health-Advisor--Traumatic-Brain-Injury-Exp-Required-_RQ203247-1?q=data+science",
-    "id": "general-dynamics-behavioral-health-advisor-traumatic-brain-injury-exp-required-usa-md-silver-spring"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Scientist Physician  (Traumatic Brain Injury Exp required)",
-    "job_city": "USA MD Silver Spring",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Silver-Spring/Scientist-Physician---Traumatic-Brain-Injury-Exp-required-_RQ203248-1?q=data+science",
-    "id": "general-dynamics-scientist-physician-traumatic-brain-injury-exp-required-usa-md-silver-spring"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "G2 SQL Database Administrator | Active Top Secret clearance",
-    "job_city": "Any Location /",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/G2-SQL-Database-Administrator---Active-Top-Secret-clearance_RQ202943-1?q=data+science",
-    "id": "general-dynamics-g2-sql-database-administrator-active-top-secret-clearance-any-location"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Cognitive Enhancement Practitioner",
-    "job_city": "USA NC Fort Bragg",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NC-Fort-Bragg/Cognitive-Enhancement-Practitioner_RQ203956?q=data+science",
-    "id": "general-dynamics-cognitive-enhancement-practitioner-usa-nc-fort-bragg"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "NCIS ServiceNow Developer | Active Secret clearance",
-    "job_city": "USA VA Quantico",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Quantico/NCIS-ServiceNow-Developer---Active-Secret-clearance_RQ202722-1?q=data+science",
-    "id": "general-dynamics-ncis-servicenow-developer-active-secret-clearance-usa-va-quantico"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "F-35 Identity Engineer | Secret clearance",
-    "job_city": "USA VA Arlington",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/F-35-Identity-Engineer---Secret-clearance_RQ204416-1?q=data+science",
-    "id": "general-dynamics-f-35-identity-engineer-secret-clearance-usa-va-arlington"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Splunk Engineer - Active Secret Clearance",
-    "job_city": "USA DC Washington",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Splunk-Engineer---Active-Secret-Clearance_RQ201403-1?q=data+science",
-    "id": "general-dynamics-splunk-engineer-active-secret-clearance-usa-dc-washington"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Cloud Infrastructure Engineers-Azure/RBAC-DC Metro Area",
-    "job_city": "USA DC Home Office (DCHOME)",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Home-Office-DCHOME/Cloud-Infrastructure-Engineers-Azure--DC-Metro-Area_RQ204850?q=data+science",
-    "id": "general-dynamics-cloud-infrastructure-engineers-azure-rbac-dc-metro-area-usa-dc-home-office-dchome"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Systems Admin/DBA (Secret Clearance)",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Home-Office-DCHOME/Systems-Admin-DBA_RQ200762-2?q=data+science",
-    "id": "general-dynamics-systems-admin-dba-secret-clearance-2-locations"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Systems Admin/DBA (Secret Clearance) - DC Metro Area",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Home-Office-DCHOME/Systems-Admin-DBA--Secret-Clearance-_RQ206367-1?q=data+science",
-    "id": "general-dynamics-systems-admin-dba-secret-clearance-dc-metro-area-2-locations"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "PowerApp Developer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Germantown/PowerApp-Developer_RQ206016?q=data+science",
-    "id": "general-dynamics-powerapp-developer-2-locations"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Capabilities Development Engineer",
-    "job_city": "USA MD Hanover",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Hanover/Capabilities-Development-Engineer_RQ201046-1?q=data+science",
-    "id": "general-dynamics-capabilities-development-engineer-usa-md-hanover"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Junior Java Developer (Active TS/SCI w/Poly Required)",
-    "job_city": "USA MD Annapolis Junction",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/Junior-Java-Developer--Active-TS-SCI-w-Poly-_RQ201504?q=data+science",
-    "id": "general-dynamics-junior-java-developer-active-ts-sci-w-poly-required-usa-md-annapolis-junction"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "G2 SharePoint Systems Administrator | Active Top Secret clearance",
-    "job_city": "Any Location /",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/G2-SharePoint-Systems-Administrator---Active-Top-Secret-clearance_RQ202916-1?q=data+science",
-    "id": "general-dynamics-g2-sharepoint-systems-administrator-active-top-secret-clearance-any-location"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "AI Operations SME",
-    "job_city": "USA VA Falls Church",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/AIOps-Architect_RQ199926-1?q=data+science",
-    "id": "general-dynamics-ai-operations-sme-usa-va-falls-church"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Windows Systems Engineer - TS/SCI with Polygraph",
-    "job_city": "USA VA Chantilly",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Windows-Systems-Engineer---TS-SCI-with-Polygraph_RQ205828-1?q=data+science",
-    "id": "general-dynamics-windows-systems-engineer-ts-sci-with-polygraph-usa-va-chantilly"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Software Engineer | Active Secret clearance",
-    "job_city": "Any Location /",
-    "job_state": "US",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Software-Engineer---Active-Secret-clearance_RQ206548-2?q=data+science",
-    "id": "general-dynamics-software-engineer-active-secret-clearance-any-location"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Systems Engineer - Herndon, VA  / TS/SCI with Polygraph",
-    "job_city": "USA VA Herndon",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/Systems-Engineer---Herndon--VA----TS-SCI-with-Polygraph_RQ204796-1?q=data+science",
-    "id": "general-dynamics-systems-engineer-herndon-va-ts-sci-with-polygraph-usa-va-herndon"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "G2 Infrastructure Engineer | Active Top Secret clearance",
-    "job_city": "Any Location /",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/G2-Infrastructure-Engineer---Active-Top-Secret-clearance_RQ202914-1?q=data+science",
-    "id": "general-dynamics-g2-infrastructure-engineer-active-top-secret-clearance-any-location"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Mid-Level Java Developer (Active TS/SCI with Poly Required - NEW HIRE SIGN-ON BONUS UP TO $30,000)",
-    "job_city": "USA MD Annapolis Junction",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/Mid-Level-Java-Developer--TS-SCI-with-Poly-NEW-HIRE-SIGN-ON-BONUS-UP-TO--30-000-_RQ198648?q=data+science",
-    "id": "general-dynamics-mid-level-java-developer-active-ts-sci-with-poly-required-new-hire-sign-on-bonus-up-to-30-000-usa-md-annapolis-junction"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Junior Front End Developer (Active TS/SCI w/Poly Required)",
-    "job_city": "USA MD Annapolis Junction",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/Junior-Front-End-Developer--TS-SCI-w-Poly-_RQ199703?q=data+science",
-    "id": "general-dynamics-junior-front-end-developer-active-ts-sci-w-poly-required-usa-md-annapolis-junction"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "TWMS Web Developer | Active TS clearance",
-    "job_city": "USA CA San Diego",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/TWMS-Web-Developer---Active-TS-clearance_RQ203609-1?q=data+science",
-    "id": "general-dynamics-twms-web-developer-active-ts-clearance-usa-ca-san-diego"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Technical Editor",
-    "job_city": "USA AZ Fort Huachuca",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-AZ-Fort-Huachuca/Technical-Editing-Writing_RQ206694-1?q=data+science",
-    "id": "general-dynamics-technical-editor-usa-az-fort-huachuca"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Platform Engineer/ Performance Tester",
-    "job_city": "Any Location /",
-    "job_state": "US",
-    "job_posted_at": "3 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Platform-Engineer--Performance-Tester_RQ204607-1?q=data+science",
-    "id": "general-dynamics-platform-engineer-performance-tester-any-location"
-  },
-  {
-    "employer_name": "Guidehouse",
-    "job_title": "Scientist",
-    "job_city": "US - MD",
-    "job_state": "Bethesda",
-    "job_posted_at": "3 Days",
-    "job_description": "• ScientistlocationsUS - MD, Bethesdaposted onPosted 3 Days Ago31962RCMI Senior Solution Technical Expert - PathNetlocations2 Locationsposted onPosted 30+ Days Ago30584Revenue Cycle Senior Solution Technical ExpertlocationsUS - TX, San Antonioposted onPosted 30+ Days Ago30589RCMI Senior Solution Technical Expert – Traininglocations2 Locationsposted onPosted 30+ Days Ago30577RCMI Senior Solution Technical Expert – Patient Accesslocations2 Locationsposted onPosted 30+ Days Ago30583RCMI Senior Solution Technical Expert – Patient Accountinglocations2 Locationsposted onPosted 30+ Days Ago30580RCMI Senior Solution Technical Expert - Order Alertslocations2 Locationsposted onPosted 30+ Days Ago30586Senior Developer – Microsoft Dynamics 365locationsIN - Chennaiposted onPosted 11 Days Ago31229Laboratory Technologist (MPC)locationsUS - MD, Bethesdaposted onPosted 14 Days Ago31711Catheter Development EngineerlocationsUS - MD, Bethesdaposted onPosted 14 Days Ago31709Cardiovascular Catheter Development EngineerlocationsUS - MD, Bethesdaposted onPosted Today32132Program Manager - SAP OperationslocationsUS - MD, Patuxent Riverposted onPosted 30+ Days Ago28862Microsoft Dynamics 365 DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago30536Microsoft Dynamics DeveloperlocationsUS - Remote (Any location)posted onPosted Yesterday32092Quality Assurance SpecialistlocationsUS - MD, Bethesdaposted onPosted 14 Days Ago31748Appian Solution ArchitectlocationsUS - VA, McLeanposted onPosted 7 Days Ago31943Quality Assurance Manager, Sterility TestinglocationsUS - MD, Bethesdaposted onPosted 22 Days Ago31549ServiceNow Business AnalystlocationsUS - VA, McLeanposted onPosted 30+ Days Ago29880Program ManagerlocationsUS - DC, Washingtonposted onPosted Yesterday30278Senior Clinical Research SonographerlocationsUS - MD, Bethesdaposted onPosted 14 Days Ago31710.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Bethesda/Scientist_31962?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-scientist-us-md"
-  },
-  {
-    "employer_name": "Guidehouse",
-    "job_title": "Cardiovascular Catheter Development Engineer",
-    "job_city": "US - MD",
-    "job_state": "Bethesda",
-    "job_posted_at": "Posted Today",
-    "job_description": "• ScientistlocationsUS - MD, Bethesdaposted onPosted 3 Days Ago31962RCMI Senior Solution Technical Expert - PathNetlocations2 Locationsposted onPosted 30+ Days Ago30584Revenue Cycle Senior Solution Technical ExpertlocationsUS - TX, San Antonioposted onPosted 30+ Days Ago30589RCMI Senior Solution Technical Expert – Traininglocations2 Locationsposted onPosted 30+ Days Ago30577RCMI Senior Solution Technical Expert – Patient Accesslocations2 Locationsposted onPosted 30+ Days Ago30583RCMI Senior Solution Technical Expert – Patient Accountinglocations2 Locationsposted onPosted 30+ Days Ago30580RCMI Senior Solution Technical Expert - Order Alertslocations2 Locationsposted onPosted 30+ Days Ago30586Senior Developer – Microsoft Dynamics 365locationsIN - Chennaiposted onPosted 11 Days Ago31229Laboratory Technologist (MPC)locationsUS - MD, Bethesdaposted onPosted 14 Days Ago31711Catheter Development EngineerlocationsUS - MD, Bethesdaposted onPosted 14 Days Ago31709Cardiovascular Catheter Development EngineerlocationsUS - MD, Bethesdaposted onPosted Today32132Program Manager - SAP OperationslocationsUS - MD, Patuxent Riverposted onPosted 30+ Days Ago28862Microsoft Dynamics 365 DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago30536Microsoft Dynamics DeveloperlocationsUS - Remote (Any location)posted onPosted Yesterday32092Quality Assurance SpecialistlocationsUS - MD, Bethesdaposted onPosted 14 Days Ago31748Appian Solution ArchitectlocationsUS - VA, McLeanposted onPosted 7 Days Ago31943Quality Assurance Manager, Sterility TestinglocationsUS - MD, Bethesdaposted onPosted 22 Days Ago31549ServiceNow Business AnalystlocationsUS - VA, McLeanposted onPosted 30+ Days Ago29880Program ManagerlocationsUS - DC, Washingtonposted onPosted Yesterday30278Senior Clinical Research SonographerlocationsUS - MD, Bethesdaposted onPosted 14 Days Ago31710.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Bethesda/Cardiovascular-Catheter-Development-Engineer_32132?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-cardiovascular-catheter-development-engineer-us-md"
-  },
-  {
-    "employer_name": "Illumina",
-    "job_title": "District Inside Sales Representative",
-    "job_city": "US - California - Southern -",
-    "job_state": "US",
-    "job_posted_at": "8 Days",
-    "job_description": "• Director, Global Commercial FP&A, Business Insights & Data Science (San Diego/Hybrid)locationsUS - California - San Diegoposted onPosted 21 Days Ago41191-JOBDirector, SAP Data & AnalyticslocationsUS - California - San Diego - HQposted onPosted 28 Days Ago41161-JOBStaff, Global Operations Reporting SME (SAP HANA)locationsUS - California - San Diegoposted onPosted 30+ Days Ago40638-JOBSenior Clinical Informatics Sales Specialist, Westlocations6 Locationsposted onPosted 17 Days Ago41151-JOBSenior Clinical Informatics Sales Specialist, Northeastlocations7 Locationsposted onPosted 17 Days Ago41108-JOBSenior Clinical Informatics Sales Specialist, Southlocations6 Locationsposted onPosted 17 Days Ago41148-JOBSenior Informatics Sales Specialist, NortheastlocationsUS - Remoteposted onPosted 17 Days Ago41081-JOBSenior Informatics Sales Specialist, Westlocations6 Locationsposted onPosted 17 Days Ago41152-JOBSr.\n• Deep Learning/AI Engineer - Machine Learning (Hybrid or Remote)locations7 Locationsposted onPosted 8 Days Ago40197-JOBManager Sales SpecialistslocationsUS - Remoteposted onPosted 30+ Days Ago40629-JOBDistrict Inside Sales RepresentativelocationsUS - California - Southern - Remoteposted onPosted 8 Days Ago41223-JOBEngineer 2 / Senior Engineer - Process DevelopmentlocationsUS - California - San Diegoposted onPosted 30+ Days Ago41046-JOBSr.\n• District Sales ManagerlocationsUS - Tennessee - Remoteposted onPosted 30+ Days Ago40659-JOBAssociate Director Program Management - Sequencing PlatformslocationsUS - California - San Diegoposted onPosted 2 Days Ago41315-JOBSenior Territory Account Manager - HealthcarelocationsUS - Ohio - Remoteposted onPosted 30 Days Ago40558-JOBSenior Territory Account Manager, Healthcare - TexaslocationsUS - Remoteposted onPosted 30+ Days Ago40976-JOBSenior Territory Account Manager, Healthcare - GA/ALlocationsUS - Georgia - Remoteposted onPosted 24 Days Ago41097-JOBContract Lifecycle Management Capability OwnerlocationsUS - California - Southern - Remoteposted onPosted 30+ Days Ago40487-JOBSenior Territory Account Managerlocations2 Locationsposted onPosted 17 Days Ago41195-JOBSenior Territory Account Managerlocations2 Locationsposted onPosted 30+ Days Ago41058-JOB.",
-    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---Southern---Remote/District-Inside-Sales-Representative_41223-JOB-1?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "illumina-district-inside-sales-representative-us-california-southern"
-  },
-  {
-    "employer_name": "Illumina",
-    "job_title": "Contract Lifecycle Management Capability Owner",
-    "job_city": "US - California - Southern -",
-    "job_state": "US",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Director, Global Commercial FP&A, Business Insights & Data Science (San Diego/Hybrid)locationsUS - California - San Diegoposted onPosted 21 Days Ago41191-JOBDirector, SAP Data & AnalyticslocationsUS - California - San Diego - HQposted onPosted 28 Days Ago41161-JOBStaff, Global Operations Reporting SME (SAP HANA)locationsUS - California - San Diegoposted onPosted 30+ Days Ago40638-JOBSenior Clinical Informatics Sales Specialist, Westlocations6 Locationsposted onPosted 17 Days Ago41151-JOBSenior Clinical Informatics Sales Specialist, Northeastlocations7 Locationsposted onPosted 17 Days Ago41108-JOBSenior Clinical Informatics Sales Specialist, Southlocations6 Locationsposted onPosted 17 Days Ago41148-JOBSenior Informatics Sales Specialist, NortheastlocationsUS - Remoteposted onPosted 17 Days Ago41081-JOBSenior Informatics Sales Specialist, Westlocations6 Locationsposted onPosted 17 Days Ago41152-JOBSr.\n• Deep Learning/AI Engineer - Machine Learning (Hybrid or Remote)locations7 Locationsposted onPosted 8 Days Ago40197-JOBManager Sales SpecialistslocationsUS - Remoteposted onPosted 30+ Days Ago40629-JOBDistrict Inside Sales RepresentativelocationsUS - California - Southern - Remoteposted onPosted 8 Days Ago41223-JOBEngineer 2 / Senior Engineer - Process DevelopmentlocationsUS - California - San Diegoposted onPosted 30+ Days Ago41046-JOBSr.\n• District Sales ManagerlocationsUS - Tennessee - Remoteposted onPosted 30+ Days Ago40659-JOBAssociate Director Program Management - Sequencing PlatformslocationsUS - California - San Diegoposted onPosted 2 Days Ago41315-JOBSenior Territory Account Manager - HealthcarelocationsUS - Ohio - Remoteposted onPosted 30 Days Ago40558-JOBSenior Territory Account Manager, Healthcare - TexaslocationsUS - Remoteposted onPosted 30+ Days Ago40976-JOBSenior Territory Account Manager, Healthcare - GA/ALlocationsUS - Georgia - Remoteposted onPosted 24 Days Ago41097-JOBContract Lifecycle Management Capability OwnerlocationsUS - California - Southern - Remoteposted onPosted 30+ Days Ago40487-JOBSenior Territory Account Managerlocations2 Locationsposted onPosted 17 Days Ago41195-JOBSenior Territory Account Managerlocations2 Locationsposted onPosted 30+ Days Ago41058-JOB.",
-    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---Southern---Remote/Contract-Lifecycle-Management-Capability-Owner_40487-JOB?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "illumina-contract-lifecycle-management-capability-owner-us-california-southern"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "Technical Sales  - Intern, Graduate",
-    "job_city": "4 Locations",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Data Scientist - Economicslocations3 Locationsposted onPosted 9 Days AgoJR0277007Global Technical Leader, Data Center Architecture and Customer Engagementlocations4 Locationsposted onPosted 14 Days AgoJR0276881Government Information Security Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0276257Government Information Security Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0276258Information Systems Security Manager (ISSM)locations5 Locationsposted onPosted 28 Days AgoJR0276661Technical Sales - Intern, Graduatelocations4 Locationsposted onPosted TodayJR0277153Technical Sales - Intern, Bachelorslocations4 Locationsposted onPosted TodayJR0277165Platform Hardware and Systems Engineering - Intern, Graduatelocations5 Locationsposted onPosted 15 Days AgoJR0276770Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted 15 Days AgoJR0276771Platform Hardware and Systems Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 15 Days AgoJR0276776Manufacturing and Process Development - College Graduate, Graduate Degreelocations3 Locationsposted onPosted 15 Days AgoJR0276878Manufacturing and Process Development - College Graduate, Bachelorslocations3 Locationsposted onPosted 15 Days AgoJR0276877Senior Director, Module Development Engineeringlocations2 Locationsposted onPosted 18 Days AgoJR0276800Epitaxial Silicon Growth EngineerlocationsUS, Oregon, Hillsboroposted onPosted YesterdayJR0276179FVCTO - Formal Verification Senior Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276239FVCTO - Formal Verification Architectlocations4 Locationsposted onPosted 23 Days AgoJR0276238Technical Program ManagerlocationsUS, California, Santa Claraposted onPosted 3 Days AgoJR0277003Network Security Engineer (DevSecOps)locations2 Locationsposted onPosted 30+ Days AgoJR0275922Facilities Mechanical EngineerlocationsUS, Oregon, Hillsboroposted onPosted 3 Days AgoJR0277029Network Security Engineer (DevSecOps)locations3 Locationsposted onPosted 30+ Days AgoJR0276652.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Technical-Sales----Intern--Graduate_JR0277153?q=data+science&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-technical-sales-intern-graduate-4-locations"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "Technical Sales - Intern, Bachelors",
-    "job_city": "4 Locations",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Data Scientist - Economicslocations3 Locationsposted onPosted 9 Days AgoJR0277007Global Technical Leader, Data Center Architecture and Customer Engagementlocations4 Locationsposted onPosted 14 Days AgoJR0276881Government Information Security Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0276257Government Information Security Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0276258Information Systems Security Manager (ISSM)locations5 Locationsposted onPosted 28 Days AgoJR0276661Technical Sales - Intern, Graduatelocations4 Locationsposted onPosted TodayJR0277153Technical Sales - Intern, Bachelorslocations4 Locationsposted onPosted TodayJR0277165Platform Hardware and Systems Engineering - Intern, Graduatelocations5 Locationsposted onPosted 15 Days AgoJR0276770Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted 15 Days AgoJR0276771Platform Hardware and Systems Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 15 Days AgoJR0276776Manufacturing and Process Development - College Graduate, Graduate Degreelocations3 Locationsposted onPosted 15 Days AgoJR0276878Manufacturing and Process Development - College Graduate, Bachelorslocations3 Locationsposted onPosted 15 Days AgoJR0276877Senior Director, Module Development Engineeringlocations2 Locationsposted onPosted 18 Days AgoJR0276800Epitaxial Silicon Growth EngineerlocationsUS, Oregon, Hillsboroposted onPosted YesterdayJR0276179FVCTO - Formal Verification Senior Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276239FVCTO - Formal Verification Architectlocations4 Locationsposted onPosted 23 Days AgoJR0276238Technical Program ManagerlocationsUS, California, Santa Claraposted onPosted 3 Days AgoJR0277003Network Security Engineer (DevSecOps)locations2 Locationsposted onPosted 30+ Days AgoJR0275922Facilities Mechanical EngineerlocationsUS, Oregon, Hillsboroposted onPosted 3 Days AgoJR0277029Network Security Engineer (DevSecOps)locations3 Locationsposted onPosted 30+ Days AgoJR0276652.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Technical-Sales---Intern--Bachelors_JR0277165?q=data+science&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-technical-sales-intern-bachelors-4-locations"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "Epitaxial Silicon Growth Engineer",
+    "employer_name": "AMD",
+    "job_title": "CAD Engineer  - Methodology/Flow/ STA",
     "job_city": "US",
-    "job_state": "Oregon",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "• Data Scientist - Economicslocations3 Locationsposted onPosted 9 Days AgoJR0277007Global Technical Leader, Data Center Architecture and Customer Engagementlocations4 Locationsposted onPosted 14 Days AgoJR0276881Government Information Security Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0276257Government Information Security Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0276258Information Systems Security Manager (ISSM)locations5 Locationsposted onPosted 28 Days AgoJR0276661Technical Sales - Intern, Graduatelocations4 Locationsposted onPosted TodayJR0277153Technical Sales - Intern, Bachelorslocations4 Locationsposted onPosted TodayJR0277165Platform Hardware and Systems Engineering - Intern, Graduatelocations5 Locationsposted onPosted 15 Days AgoJR0276770Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted 15 Days AgoJR0276771Platform Hardware and Systems Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 15 Days AgoJR0276776Manufacturing and Process Development - College Graduate, Graduate Degreelocations3 Locationsposted onPosted 15 Days AgoJR0276878Manufacturing and Process Development - College Graduate, Bachelorslocations3 Locationsposted onPosted 15 Days AgoJR0276877Senior Director, Module Development Engineeringlocations2 Locationsposted onPosted 18 Days AgoJR0276800Epitaxial Silicon Growth EngineerlocationsUS, Oregon, Hillsboroposted onPosted YesterdayJR0276179FVCTO - Formal Verification Senior Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276239FVCTO - Formal Verification Architectlocations4 Locationsposted onPosted 23 Days AgoJR0276238Technical Program ManagerlocationsUS, California, Santa Claraposted onPosted 3 Days AgoJR0277003Network Security Engineer (DevSecOps)locations2 Locationsposted onPosted 30+ Days AgoJR0275922Facilities Mechanical EngineerlocationsUS, Oregon, Hillsboroposted onPosted 3 Days AgoJR0277029Network Security Engineer (DevSecOps)locations3 Locationsposted onPosted 30+ Days AgoJR0276652.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Epitaxial-Silicon-Growth-Engineer_JR0276179-1?q=data+science&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-epitaxial-silicon-growth-engineer-us"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "Sales and Marketing Rotation Program (Technical)  - College Graduate",
-    "job_city": "4 Locations",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Network Security Engineer (DevSecOps)locations3 Locationsposted onPosted 30+ Days AgoJR0276099Identity Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276330Systems and Solutions Architect / Intel Foundrylocations4 Locationsposted onPosted 3 Days AgoJR0276102Identity Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276329Sales and Marketing Rotation Program (Technical) - College Graduatelocations4 Locationsposted onPosted TodayJR0277151Business Development Manager - Intel Foundry (Aerospace Defense and Government Business Group)locations2 Locationsposted onPosted 30+ Days AgoJR0276103Director-Commercial Workstation Segmentlocations4 Locationsposted onPosted 7 Days AgoJR0277012Facilities Services - College Graduate, Graduate Degreelocations4 Locationsposted onPosted 15 Days AgoJR0276875Manufacturing and Process Development - Intern, Graduatelocations3 Locationsposted onPosted 15 Days AgoJR0276775Software Engineering - Intern, Graduatelocations5 Locationsposted onPosted 15 Days AgoJR0276778Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted 15 Days AgoJR0276774IP Enablement Application Engineerlocations3 Locationsposted onPosted 3 Days AgoJR0273988Facilities Services - College Graduate, Bachelor’slocations4 Locationsposted onPosted 15 Days AgoJR0276874Manufacturing and Process Development - Intern, Bachelorslocations3 Locationsposted onPosted 15 Days AgoJR0276779Software Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 15 Days AgoJR0276773Silicon Hardware Engineering - Intern, Bachelorslocations5 Locationsposted onPosted 15 Days AgoJR0276780Sr.\n• Principal Engineer Post-Silicon Validation and Debuglocations2 Locationsposted onPosted 10 Days AgoJR0276862Physical Verification Application Engineerlocations3 Locationsposted onPosted 3 Days AgoJR0272754.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Sales-and-Marketing-Rotation-Program--Technical-----College-Graduate_JR0277151?q=data+science&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-sales-and-marketing-rotation-program-technical-college-graduate-4-locations"
-  },
-  {
-    "employer_name": "Magna International",
-    "job_title": "QA Engineer",
-    "job_city": "Lowell",
-    "job_state": "Massachusetts",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Senior Data ScientistlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164194Data Scientist Americaslocations3 Locationsposted onPosted 30+ Days AgoR00191821Operations Data AnalystlocationsMuncie, Indiana, USposted onPosted 30+ Days AgoR00201608Senior Full Stack Software Developerlocations2 Locationsposted onPosted 30+ Days AgoR00185812Maker, Tool & Die (Certified)locationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00167816Senior QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201689QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201549Tooling EngineerlocationsEthridge, Tennessee, USposted onPosted 16 Days AgoR00206379Student - Engineering Object FusionlocationsAuburn Hills, Michigan, USposted onPosted 9 Days AgoR00207379Student - Engineering OpticslocationsSouthfield, Michigan, USposted onPosted 22 Days AgoR00204849Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164195Software Engineer, Industrial IOTlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00190451Solutions Engineer, SoftwarelocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00177592IOT Architectlocations2 Locationsposted onPosted 30+ Days AgoR00197257Senior Health and Safety SpecialistlocationsBowling Green, Kentucky, USposted onPosted 30+ Days AgoR00200904Principal Software Engineer - Image Signal ProcessinglocationsSouthfield, Michigan, USposted onPosted 8 Days AgoR00205993MES AnalystlocationsWarren, Michigan, USposted onPosted 3 Days AgoR00207708Senior Software EngineerlocationsLowell, Massachusetts, USposted onPosted 11 Days AgoR00199562IoT EngineerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00199540Technical Program ManagerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00201678.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/QA-Engineer_R00201549?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-qa-engineer-lowell"
-  },
-  {
-    "employer_name": "Magna International",
-    "job_title": "MES Analyst",
-    "job_city": "Warren",
-    "job_state": "Michigan",
-    "job_posted_at": "3 Days",
-    "job_description": "• Senior Data ScientistlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164194Data Scientist Americaslocations3 Locationsposted onPosted 30+ Days AgoR00191821Operations Data AnalystlocationsMuncie, Indiana, USposted onPosted 30+ Days AgoR00201608Senior Full Stack Software Developerlocations2 Locationsposted onPosted 30+ Days AgoR00185812Maker, Tool & Die (Certified)locationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00167816Senior QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201689QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201549Tooling EngineerlocationsEthridge, Tennessee, USposted onPosted 16 Days AgoR00206379Student - Engineering Object FusionlocationsAuburn Hills, Michigan, USposted onPosted 9 Days AgoR00207379Student - Engineering OpticslocationsSouthfield, Michigan, USposted onPosted 22 Days AgoR00204849Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164195Software Engineer, Industrial IOTlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00190451Solutions Engineer, SoftwarelocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00177592IOT Architectlocations2 Locationsposted onPosted 30+ Days AgoR00197257Senior Health and Safety SpecialistlocationsBowling Green, Kentucky, USposted onPosted 30+ Days AgoR00200904Principal Software Engineer - Image Signal ProcessinglocationsSouthfield, Michigan, USposted onPosted 8 Days AgoR00205993MES AnalystlocationsWarren, Michigan, USposted onPosted 3 Days AgoR00207708Senior Software EngineerlocationsLowell, Massachusetts, USposted onPosted 11 Days AgoR00199562IoT EngineerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00199540Technical Program ManagerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00201678.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Warren-Michigan-US/MES-Analyst_R00207708?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-mes-analyst-warren"
-  },
-  {
-    "employer_name": "Magna International",
-    "job_title": "Controls/Automation Engineer",
-    "job_city": "Troy",
-    "job_state": "Michigan",
-    "job_posted_at": "15 Days",
-    "job_description": "• Deployment Engineer, Autonomous Mobile RobotslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00164191Lead Software EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00183560Sr.\n• DevOps EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00197256Principal Software Engineer – Linux/BSPlocationsSouthfield, Michigan, USposted onPosted 9 Days AgoR00205992Sr.\n• DevOps EngineerlocationsLowell, Massachusetts, USposted onPosted TodayR00209295Senior Manager, Program Management Industrial Solutionslocations2 Locationsposted onPosted 22 Days AgoR00205224Deployment Engineer, Autonomous Mobile Robotslocations3 Locationsposted onPosted 30+ Days AgoR00190837Senior Category Manager, SemiconductorslocationsSouthfield, Michigan, USposted onPosted 30+ Days AgoR00170644Engineer Sr Staff - SoftwarelocationsGoleta, California, USposted onPosted 30+ Days AgoR00182947Cloud Solutions Architect, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00187092Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 15 Days AgoR00203332Magna Engineered Glass: Validation / Chem Lab SupervisorlocationsHolland, Michigan, USposted onPosted 18 Days AgoR00194909Expert, Business Process Optimizationlocations2 Locationsposted onPosted 30+ Days AgoR00198754Simulation EngineerlocationsTroy, Michigan, USposted onPosted 3 Days AgoR00200693.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Controls-Automation-Engineer_R00203332-1?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-controls-automation-engineer-troy"
-  },
-  {
-    "employer_name": "Marvel Technology",
-    "job_title": "AI/ML Engineer HW/SW",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "• Senior Principal Engineer, Architecture ASIC / Systemlocations5 Locationsposted onPosted 7 Days Ago2501559Regional Compensation Leaderlocations2 Locationsposted onPosted 30+ Days Ago2501755Senior Principal Switch ArchitectlocationsSanta Clara, CAposted onPosted 30+ Days Ago2500457Senior Principal Technical Program Managerlocations4 Locationsposted onPosted Yesterday2502196Principal Hardware Design EngineerlocationsSanta Clara, CAposted onPosted Yesterday2502089AI/ML Engineer HW/SWlocationsSanta Clara, CAposted onPosted Yesterday2501958Senior Embedded Systems Engineer - Innovation & Customer EnablementlocationsSanta Clara, CAposted onPosted 2 Days Ago2502141Principal Engineer, Design VerificationlocationsWestborough, MAposted onPosted 7 Days Ago2501550DSP Systems ArchitectlocationsUS - CA - Santa Clara - Marvell Parkposted onPosted 7 Days Ago2401990Silicon Senior Principal Engineering Program Manager (Cloud Data Center)locations3 Locationsposted onPosted 7 Days Ago2501927Analog IC Design Engineer, PrincipallocationsIrvine, CAposted onPosted 9 Days Ago2500825Staff Engineer, Physical DesignlocationsSanta Clara, CAposted onPosted 10 Days Ago2501366Analog IC Design Engineer, Senior StafflocationsIrvine, CAposted onPosted 11 Days Ago2502061Principal Software EngineerlocationsSanta Clara, CAposted onPosted 14 Days Ago2501689Senior Staff Software EngineerlocationsSanta Clara, CAposted onPosted 14 Days Ago2501690Senior Staff Software EngineerlocationsSanta Clara, CAposted onPosted 15 Days Ago2501061Principal Design Verification EngineerlocationsSanta Clara, CAposted onPosted 15 Days Ago2501857Senior Staff Optical EngineerlocationsSanta Clara, CAposted onPosted 17 Days Ago2501775Principal Optical Module Failure Analysis EngineerlocationsSanta Clara, CAposted onPosted 17 Days Ago2501959Senior Staff Optical Module Failure Analysis EngineerlocationsSanta Clara, CAposted onPosted 17 Days Ago2501960.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/AI-ML-Engineer-HW-SW_2501958?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-ai-ml-engineer-hw-sw-santa-clara"
-  },
-  {
-    "employer_name": "Marvel Technology",
-    "job_title": "SaaS and Cloud Access Security Platform Engineer",
-    "job_city": "3 Locations",
-    "job_state": "US",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Principal Field Application Engineer-NetworkinglocationsSanta Clara, CAposted onPosted 30+ Days Ago2501653Cloud Custom Silicon Senior Director of Program Managementlocations3 Locationsposted onPosted 30+ Days Ago2501609Product Management DirectorlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501573Hardware & Silicon Validation Senior Staff EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501514Distinguished Engineer, Switch ArchitectlocationsSanta Clara, CAposted onPosted 30+ Days Ago2500949Hardware & Silicon Validation Senior Staff EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501515Senior Staff Engineer - Applications EngineeringlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501475Senior Principal IC Design Engineerlocations3 Locationsposted onPosted 30+ Days Ago2500354SaaS and Cloud Access Security Platform Engineerlocations3 Locationsposted onPosted 30+ Days Ago2500068Package Development, Signal Integrity and Power Integrity Engineer, StafflocationsSanta Clara, CAposted onPosted 30+ Days Ago2501004Principle DSP EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501467Senior Staff Post-Silicon Validation EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2500906Senior Demand PlannerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501465Application EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501314Senior Principal Design Verification EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501284Principal Engineer, Physical DesignlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501200Principal Design Verification EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501283Principal Engineer - Silicon Validation EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501012Principal Optical EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501175Director Customer Support - US Customer Solutions GrouplocationsSanta Clara, CAposted onPosted 30+ Days Ago2501136.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/SaaS-and-Cloud-Access-Security-Platform-Engineer_2500068?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-saas-and-cloud-access-security-platform-engineer-3-locations"
-  },
-  {
-    "employer_name": "Marvel Technology",
-    "job_title": "Hardware Applications Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Design Verification Engineer, Senior StafflocationsSanta Clara, CAposted onPosted 30+ Days Ago2501199Senior Principal Engineer - Design For Test (DFT)locationsMorrisville, NCposted onPosted 30+ Days Ago2500638Principal Engineer, Hardware & Silicon ValidationlocationsWestborough, MAposted onPosted 30+ Days Ago2500868Analog IC Design Engineer, PrincipallocationsIrvine, CAposted onPosted 30+ Days Ago2402472Hardware Applications EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501054Sr.\n• Principal Custom Memory Architectlocations2 Locationsposted onPosted 30+ Days Ago2500813Senior Principal Applications Engineering - Network ValidationlocationsSanta Clara, CAposted onPosted 30+ Days Ago2500444Staff Applications Engineering - Network ValidationlocationsSanta Clara, CAposted onPosted 30+ Days Ago2402288Principal Analog Mixed Signal IC Design EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2500692Sr.\n• Principal Package EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2500618.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Hardware-Applications-Engineer_2501054?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-hardware-applications-engineer-santa-clara"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "Data Governance Analyst",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "11 Days",
-    "job_description": "• Senior HPC Performance Engineer - AI for Science at Scalelocations5 Locationsposted onPosted 26 Days AgoJR2001296Data Governance Analystlocations2 Locationsposted onPosted 11 Days AgoJR2001616Senior Data Processing Platform Engineerlocations5 Locationsposted onPosted 28 Days AgoJR1999148Data Product Manager, Generative AIlocationsUS, CA, Santa Claraposted onPosted TodayJR1999429Systems Data Engineerlocations2 Locationsposted onPosted YesterdayJR1999730Principal Data Platform ArchitectlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1998942Data Engineer Cloud Gaminglocations2 Locationsposted onPosted YesterdayJR2003229Director, Data and IntegrationlocationsUS, CA, Santa Claraposted onPosted 11 Days AgoJR2002647Senior Architect, Data Center Modelinglocations4 Locationsposted onPosted 30+ Days AgoJR1997202Senior Solutions Architect, Data Processinglocations5 Locationsposted onPosted 30+ Days AgoJR1998787Solutions Architect, Data Center Infrastructurelocations4 Locationsposted onPosted TodayJR2003366Data Center Firmware Test ArchitectlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2000186Senior Datacenter System Software Architect - DGX Cloudlocations2 Locationsposted onPosted 2 Days AgoJR2002330Senior Systems Software Engineer, Data Centerlocations2 Locationsposted onPosted 30+ Days AgoJR1999792Senior Software Architect - Data Center Systemslocations6 Locationsposted onPosted YesterdayJR1973150Technical Marketing Manager - Data Center Infrastructurelocations2 Locationsposted onPosted 30+ Days AgoJR1996301Senior Software Manager - Data Center Performancelocations6 Locationsposted onPosted 4 Days AgoJR2000291Senior Software Engineer - Data Center System BringuplocationsUS, CA, Santa Claraposted onPosted YesterdayJR1993516Senior Business Solutions Architect, Enterprise Data ManagementlocationsUS, CA, Santa Claraposted onPosted 2 Days AgoJR2002880Distinguished Engineer – Integrated Data Center Systems ArchitecturelocationsUS, CA, Remoteposted onPosted 11 Days AgoJR2002438.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Governance-Analyst_JR2001616?q=data+science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-data-governance-analyst-2-locations"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "Data Engineer Cloud Gaming",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "• Senior HPC Performance Engineer - AI for Science at Scalelocations5 Locationsposted onPosted 26 Days AgoJR2001296Data Governance Analystlocations2 Locationsposted onPosted 11 Days AgoJR2001616Senior Data Processing Platform Engineerlocations5 Locationsposted onPosted 28 Days AgoJR1999148Data Product Manager, Generative AIlocationsUS, CA, Santa Claraposted onPosted TodayJR1999429Systems Data Engineerlocations2 Locationsposted onPosted YesterdayJR1999730Principal Data Platform ArchitectlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1998942Data Engineer Cloud Gaminglocations2 Locationsposted onPosted YesterdayJR2003229Director, Data and IntegrationlocationsUS, CA, Santa Claraposted onPosted 11 Days AgoJR2002647Senior Architect, Data Center Modelinglocations4 Locationsposted onPosted 30+ Days AgoJR1997202Senior Solutions Architect, Data Processinglocations5 Locationsposted onPosted 30+ Days AgoJR1998787Solutions Architect, Data Center Infrastructurelocations4 Locationsposted onPosted TodayJR2003366Data Center Firmware Test ArchitectlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2000186Senior Datacenter System Software Architect - DGX Cloudlocations2 Locationsposted onPosted 2 Days AgoJR2002330Senior Systems Software Engineer, Data Centerlocations2 Locationsposted onPosted 30+ Days AgoJR1999792Senior Software Architect - Data Center Systemslocations6 Locationsposted onPosted YesterdayJR1973150Technical Marketing Manager - Data Center Infrastructurelocations2 Locationsposted onPosted 30+ Days AgoJR1996301Senior Software Manager - Data Center Performancelocations6 Locationsposted onPosted 4 Days AgoJR2000291Senior Software Engineer - Data Center System BringuplocationsUS, CA, Santa Claraposted onPosted YesterdayJR1993516Senior Business Solutions Architect, Enterprise Data ManagementlocationsUS, CA, Santa Claraposted onPosted 2 Days AgoJR2002880Distinguished Engineer – Integrated Data Center Systems ArchitecturelocationsUS, CA, Remoteposted onPosted 11 Days AgoJR2002438.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Engineer-Cloud-Gaming_JR2003229?q=data+science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-data-engineer-cloud-gaming-2-locations"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Junior Data Scientist",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "19h",
-    "job_description": "• Jobs Companies Recruiting Pricing Login Sign Up Post Jobs Jobs Companies Recruiting Pricing Login Sign Up Post Jobs.",
-    "job_apply_link": "https://www.aijobs.com/jobs/160924136-junior-data-scientist",
-    "id": "ai-jobs-junior-data-scientist-"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "Mississippi",
-    "job_state": "United States",
-    "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Pricing Login Sign Up Post Jobs Jobs Companies Recruiting Pricing Login Sign Up Post Jobs.",
-    "job_apply_link": "https://www.aijobs.com/jobs/158883739-data-scientist",
-    "id": "ai-jobs-data-scientist-mississippi"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Junior Machine Learning Engineer",
-    "job_city": "Alpharetta",
-    "job_state": "GA",
-    "job_posted_at": "1d",
-    "job_description": "• A foundational understanding of machine learning concepts and algorithmsSome experience with Python and common ML libraries (e.\n• , scikit-learn, pandas, NumPy)Familiarity with SQL and relational databases (Postgres is a big plus)A strong desire to learn and grow in the fields of machine learning, data engineering, and DevOpsExcellent problem-solving skills and the ability to work effectively in a collaborative team environmentFormal training in Data Science, Statistics, Research Science or a related field (e.\n• , a bachelor's degree, bootcamp, or certificate program), or equivalent practical experienceApplicants must be legally authorized to work in the United States without the need for employer sponsorship, now or in the future.\n• PDI Technologies is unable to offer visa sponsorship for this role Develop and experiment with AI agents to solve complex security challengesDesign, build, train, and deploy machine learning models using Python and AWS SageMakerCollaborate with data engineers to ensure data quality and availability for model developmentWrite clean, maintainable, and efficient Python code for our APIs and services using FastAPIContribute to the team's data management strategy using dbt and SQLStay up-to-date with the latest advancements in AI and machine learning.",
-    "job_apply_link": "https://www.aijobs.com/jobs/160706438-junior-machine-learning-engineer",
-    "id": "ai-jobs-junior-machine-learning-engineer-alpharetta"
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "• Experience with analyzing timing reports and identifying design/constraint issues.\n• Requires EDA tool competence and strong scripting capability.\n• Excellent UNIX and programming skills (Perl, Python, and TCL).\n• Experience working on multiple projects in a global team environment.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Bachelor's or Master's Degree in Electrical Engineering or Computer Science or equivalent with experience.\n• Strong digital circuit fundamentals.\n• Proficient in STA methodologies for timing closure.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/69723/login",
+    "id": "amd-cad-engineer-methodology-flow-sta-us"
   },
   {
     "employer_name": "JPMorgan Chase",
-    "job_title": "Program Delivery Associate",
-    "job_city": "Columbus",
-    "job_state": "OH",
+    "job_title": "Operations Analyst- Loan Sales",
+    "job_city": "Jersey City",
+    "job_state": "NJ",
     "job_posted_at": "Recently",
     "job_description": "• 2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York Chicago, IL, United States and 4 more Data & AnalyticsSeasonal Employee Use your data analysis and coding skills to help a nonprofit organization further their mission.\n• Applied AIML Lead Bengaluru, Karnataka, India Data & AnalyticsPredictive Science Develop AI solutions for compliance and risk, enhancing skills in a dynamic data science team.\n• Associate New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Data Scientist Director Brooklyn, NY, United States Data & AnalyticsPredictive Science Seeking a dynamic leader with a strong corporate finance and analytical background.\n• Data Scientist Associate - SQL, Python, Tableau Mumbai, Maharashtra, India and 1 more Data & AnalyticsPredictive Science Drive data-driven solutions to enhance technology efficiency and developer experience at Chase Bank.\n• Vice President Product Manager - Data & AI Platform Adoption Lead Jersey City, NJ, United States and 1 more ProductProduct Management Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Associate Data Domain Architect Mumbai, Maharashtra, India and 1 more Data & AnalyticsAnalytics Solutions & Delivery Join the team tasked with delivering Data pipeline automation and visualization to support the multiple Workforce Planning functions.\n• Sr Manager of Software Engineering - Data Engineering Expertise Wilmington, DE, United States TechnologyData Engineering Serve in a leadership role by providing data engineering advisory and anticipate the needs and dependencies of data users at the firm Site Reliability Engineer [Multiple Positions Available] Plano, TX, United States TechnologySoftware Engineering Develop tools and visualizations to gain insights into the customer experience and product interactions.\n• Data Scientist Senior Associate - Fraud Analytics Bengaluru, Karnataka, India Data & AnalyticsPredictive Science We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• Senior GenAI Engineering Lead - Private Bank Jersey City, NJ, United States TechnologyPredictive Science Building the next generation technology that combines JPMC unique data and full-service advantage to develop high impact AI application Data Owner Vice President - Credit Card Customer Journey Plano, TX, United States and 1 more Data & AnalyticsAnalytics Solutions & Delivery Join our team to drive data-driven product development and enhance the Chase customer experience in the Credit Card business.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210664539/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-program-delivery-associate-columbus"
-  },
-  {
-    "employer_name": "Texas Instruments",
-    "job_title": "Information Technology Intern – Software",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "Today",
-    "job_description": "• Information Technology Intern – Data Analysis & Engineering Locations Dallas, TX, United States Posting Date09/05/2025 Information Technology Intern – Infrastructure Locations Dallas, TX, United States Posting Date09/05/2025 Information Technology Intern – Software Locations Dallas, TX, United States Posting Date09/05/2025 IT Operations Development Program Locations Dallas, TX, United States Posting Date09/05/2025 Web Marketing Intern - Digital Experience and Analytics Locations Dallas, TX, United States Posting Date09/04/2025 Web Marketing Intern - Web Technology and Platforms Locations Dallas, TX, United States Posting Date09/04/2025 Career Accelerator Program - Test Engineer Locations Dallas, TX, United States Posting Date09/05/2025 Resolution Enhancement Techniques (RET) Process Development Engr Locations Dallas, TX, United States Posting Date07/02/2025 GaN Techology Development Leader Locations Dallas, TX, United States Posting Date07/14/2025 Process Development Engineer Locations Dallas, TX, United States Posting Date07/18/2025 Entry Level Process Technician (Lehi, UT) Locations Lehi, UT, United States Posting Date08/25/2025 DFM Engineer Locations Dallas, TX, United States Posting Date07/02/2025 Principle Architect – Customer Experience & AI Systems Locations Dallas, TX, United States Posting Date07/31/2025 Candidate login Employee login Join our talent community Find your role Engineering Manufacturing Technical sales & applications Communications Marketing Finance, accounting & operations Human resources Information technology Job opportunities Recruitment process Recruitment events Students & new grads Veterans Our culture Locations North America Europe Asia Pacific Jobs 13 Job search results 13 Events 0 Work Locations 0 Dallas, North Campus - DMOS V South (4) Dallas, South Campus (3) Dallas, North Campus - Kilby East (3) Richardson, Richardson Fab, Renner Rd (3) Dallas, North Campus - Kilby Center (1) Dallas, North Campus - Generic (1) Lehi, Lehi, UT (1) Categories 0 Information Technology (5) Engineering - Product Dev (5) Marketing (2) Manufacturing (1) Experience Level 0 Experienced Professional (5) Interns (5) Recent College Grads (3) Work Locations 0 Dallas, North Campus - DMOS V South (4) Dallas, South Campus (3) Dallas, North Campus - Kilby East (3) Richardson, Richardson Fab, Renner Rd (3) Dallas, North Campus - Kilby Center (1) Dallas, North Campus - Generic (1) Lehi, Lehi, UT (1) Categories 0 Information Technology (5) Engineering - Product Dev (5) Marketing (2) Manufacturing (1) Experience Level 0 Experienced Professional (5) Interns (5) Recent College Grads (3) Job Identification 25007022 Job Category Information Technology Posting Date 09/05/2025, 03:08 PM Degree Level High School Graduate Locations EXKI 13560 N.\n• Renner Road, Richardson, TX, 75080, US ECL/GTC Required Yes Basic understanding of web development, programming (C, C++, Java, Perl, Python, R, SQL) and scriptingBasic understanding of Networks, Operating systems (Windows, Unix) and DatabasesAbility to establish strong relationships with key stakeholders critical to success, both internally and externallyStrong verbal and written communication skillsAbility to quickly ramp on new systems and processesDemonstrated strong interpersonal, analytical and problem-solving skillsAbility to work in teams and collaborate effectively with people in different functionsAbility to take the initiative and drive for resultsStrong time management skills that enable on-time project delivery Engineer your future.\n• Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger.\n• Experienced Professional (5) Interns (5) Recent College Grads (3) Experienced Professional (5) Interns (5) Recent College Grads (3) Currently pursuing a bachelors degree in Computer Science, Computer engineering, Data Science, Data Engineering, AI, Machine Learning, and Software EngineeringCumulative 3.\n• Central Expwy, Dallas, TX, 75243, US RFAB 300 W.\n• We empower our employees to truly own their career and development.\n• Come collaborate with some of the smartest people in the world to shape the future of electronics.\n• We're different by design.",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007022/?keyword=data+science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-information-technology-intern-software-dallas"
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662545/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-operations-analyst-loan-sales-jersey-city"
   },
   {
     "employer_name": "Google",
-    "job_title": "Applied Machine Learning Analyst, GCP Protection Analytics",
-    "job_city": "Seattle",
+    "job_title": "Software Engineer III, AI/ML, Google Cloud Compute",
+    "job_city": "Kirkland",
     "job_state": "WA",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role Applied Machine Learning Analyst, GCP Protection Analytics",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/90090198196462278-applied-machine-learning-analyst-gcp-protection-analytics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1",
-    "id": "google-applied-machine-learning-analyst-gcp-protection-analytics-seattle"
+    "job_description": "data science job for the role Software Engineer III, AI/ML, Google Cloud Compute",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/76501661480035014-software-engineer-iii-aiml-google-cloud-compute?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=10",
+    "id": "google-software-engineer-iii-ai-ml-google-cloud-compute-kirkland"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML, Google Workspace",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Software Engineer III, AI/ML, Google Workspace",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/91083628695429830-software-engineer-iii-aiml-google-workspace?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=10",
+    "id": "google-software-engineer-iii-ai-ml-google-workspace-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML Computer Vision, YouTube",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Software Engineer III, AI/ML Computer Vision, YouTube",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/105070597716746950-software-engineer-iii-aiml-computer-vision-youtube?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=10",
+    "id": "google-software-engineer-iii-ai-ml-computer-vision-youtube-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "AI Developer, Professional Services Organization, Google Cloud Consulting",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role AI Developer, Professional Services Organization, Google Cloud Consulting",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/90433235086910150-ai-developer-professional-services-organization-google-cloud-consulting?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=10",
+    "id": "google-ai-developer-professional-services-organization-google-cloud-consulting-austin"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Generative AI, Google Cloud Business Platform",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Software Engineer, Generative AI, Google Cloud Business Platform",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/78817206124585670-software-engineer-generative-ai-google-cloud-business-platform?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=10",
+    "id": "google-software-engineer-generative-ai-google-cloud-business-platform-sunnyvale"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Applied Scientist, US Prime and Marketing Tech",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "3 weeks",
+    "job_description": "data science job for the role Applied Scientist, US Prime and Marketing Tech",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3056433/applied-scientist-us-prime-and-marketing-tech",
+    "id": "amazon-applied-scientist-us-prime-and-marketing-tech-seattle"
   }
 ]
