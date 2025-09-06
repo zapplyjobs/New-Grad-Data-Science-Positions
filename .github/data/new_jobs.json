@@ -1,72 +1,22 @@
 [
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Scientist I/II",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_posted_at": "14h",
-    "job_description": "• The minimum education, training, and experience include a bachelor’s degree with major course work in data science, computer science, management information systems, regional planning, geography, demography, economics, statistics, mathematics or a related field, and one to two years of professional experience in data analysis and programming.\n• Intermediate-advanced level programming experience in Python (and other object-oriented program languages) is critical.\n• Experience creating SQL queries, stored procedures, and data views.\n• Experience using geographic information system software such as ESRI ArcGIS or QGIS.\n• Experience using Business Intelligence/Information Sharing software (Power BI, Tableau, etc.\n• Experience updating and maintaining project databases, files, and records, including data documentation.\n• Knowledge of quality assurance and quality control practices used for validating data and ensuring data accuracy and integrity, including statistical analysis and sampling techniques, preferably for demographic and economic data.\n• Experience with data analysis and research methodologies.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161261939-data-scientist-i-ii",
-    "id": "ai-jobs-data-scientist-i-ii-san-diego"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist II, Product, Geo Data Science",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "2d",
-    "job_description": "• Prioritize and communicate user needs, make recommendations and drive implementation for product or process changes.\n• Bachelor's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.\n• 2 years of work experience with analysis applications (e.\n• , extracting insights, performing statistical analysis, or solving business problems), and coding (Python, R, SQL) or work experience with a Master's degree.\n• Master's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.\n• 3 years of work experience with analysis applications (e.\n• Work with leadership teams to implement tracking and reporting of metrics across global programs.\n• Work with large data sets, automate data extraction, build monitoring/reporting dashboards and high-value, automated Business Intelligence solutions (e.",
-    "job_apply_link": "https://www.aijobs.com/jobs/160706437-data-scientist-ii-product-geo-data-science",
-    "id": "ai-jobs-data-scientist-ii-product-geo-data-science-mountain-view"
-  },
-  {
-    "employer_name": "AI Jobs",
     "job_title": "Junior Data Scientist",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "14h",
-    "job_description": "• Jobs Companies Recruiting Pricing Login Sign Up Post Jobs Jobs Companies Recruiting Pricing Login Sign Up Post Jobs.",
-    "job_apply_link": "https://www.aijobs.com/jobs/153418761-junior-data-scientist",
-    "id": "ai-jobs-junior-data-scientist-sunnyvale"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist (Remote - New York)",
-    "job_city": "",
-    "job_state": "US",
+    "job_city": "Austin",
+    "job_state": "TX",
     "job_posted_at": "1d",
-    "job_description": "• 4+ years of professional experience in data science or related fields Expert-level proficiency in SQL and Python or R Strong understanding of statistical methods and machine learning techniques Experience with data transformation and orchestration tools Proven ability to communicate data insights effectively through storytelling and visualization Strong analytical mindset with the ability to manage multiple projects in a fast-paced environment Experience in financial technology, investment, or analytics environments is a plus Competitive base salary: $155,000-$210,000, plus discretionary bonus program and equity participation Flexible, unlimited paid time off Comprehensive medical, dental, and vision benefits for employees and families Life insurance and disability benefits 401(k) retirement savings plan (U.\n• Employees) Paid parental leave Access to proprietary tools and platforms to enhance professional growth Flexible remote work options combined with in-person collaboration opportunities.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161261945-data-scientist-remote-new-york",
-    "id": "ai-jobs-data-scientist-remote-new-york-"
+    "job_description": "• Jobs Companies Recruiting Pricing Login Sign Up Post Jobs Jobs Companies Recruiting Pricing Login Sign Up Post Jobs.",
+    "job_apply_link": "https://www.aijobs.com/jobs/160924136-junior-data-scientist",
+    "id": "ai-jobs-junior-data-scientist-austin"
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "Urbandale",
-    "job_state": "IA",
-    "job_posted_at": "16h",
-    "job_description": "• Experience with Visualization tools such as Tableau, Kepler.\n• Experience with Data Modeling techniques such as Normalization, data quality and coverage assessment, attribute analysis, performance management, etc.\n• Experience building machine learning models such as Regression, supervised learning, unsupervised learning, probabilistic inference, natural language modeling, etc.\n• Excellent communication skills.\n• What makes candidates stand out are skills such as:Experience with Geospatial data search and analysis, geo-indexing techniques, vector and raster data structures.\n• Experience with remote sensing, GIS tools, and satellite imagery analysis.\n• Experience with CVMLExperience with advanced AI techniques and tools.\n• Familiarity with Distributed DatasetsExperienced with a variety of data structures such as time-series, geo-tagged, text, structured, and unstructured.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161261934-data-scientist",
-    "id": "ai-jobs-data-scientist-urbandale"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist I, US - Risk & Fraud",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "11h",
-    "job_description": "• Advanced degree in a quantitative field such as Statistics, Mathematics, Operations Research, Economics, or a related discipline Prior background in Risk or Fraud Data engineering/pipeline creation experience A natural problem-solver with a passion for critical thinking and a \"get things done\" mindset Good communication skills and the ability to articulate technical concepts to diverse stakeholders Comfortable with ambiguity and capable of thriving in a dynamic, self-directed environment Familiarity with statistical optimization under unsupervised learning, boosted trees, neural networks, or natural language processing architectures.\n• Perform statistical analysis to understand behaviours and contribute to detection features Build and maintain rules to address evolving fraudulent activities Extract insights from large datasets to develop fraud mitigation strategies Build deep understanding of data, reporting, and key metrics Conduct to and optimize mitigation solutions Collaborate with global cross-functional teams on prevention projects using the full variety of statistical learning solutions Effectively communicate findings to drive business decisions With guidance from manager, define and develop an area of expertise Minimum of 1 year of experience in a data-focused role, such as data science, analytics, management, or business intelligence Exceptional proficiency in and statistical analysis languages (SQL, R, or similar) Proven track record of leveraging advanced analytical techniques and statistical methods to solve complex, real-world problems Experience in hypothesis testing and statistical modeling Expertise in defining, measuring, and communicating performance metrics that drive business impact.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161261940-data-scientist-i-us-risk-fraud",
-    "id": "ai-jobs-data-scientist-i-us-risk-fraud-san-francisco"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Intern Hardware Engineer",
-    "job_city": "Raleigh",
-    "job_state": "North Carolina",
-    "job_posted_at": "Recently",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/raleigh/intern-hardware-engineer/33099/85831486368",
-    "id": "arm-intern-hardware-engineer-raleigh"
+    "job_title": "Data Scientist , Entry Level",
+    "job_city": "Statesville",
+    "job_state": "NC",
+    "job_posted_at": "19h",
+    "job_description": "• Data Manipulation: Proficiency in Pandas and NumPy for data analysis and processingVisualization: Experience with Plotly for interactive visualizations and Dash for web application developmentWeb Requests: Familiarity with requests library for API interactions and data collectionMachine Learning: Hands-on experience with Scikit-Learn for traditional ML algorithmsTime Series: Experience with Prophet for forecasting and time series analysisDeep Learning: Basic familiarity with PyTorch for neural network development (preferred) Version Control: Experience with GitHub for code management and collaborationCloud Platforms: Familiarity with Amazon Web Services (AWS) or equivalent cloud platformsContainerization: Basic understanding of Docker, Docker-Compose, and Docker Desktop for development environmentsAPIs: General API usage experience for data integration and external service connectivityDatabases: Hands-on experience with PostgreSQL and TimescaleDB for time-series data management Bachelor's or Master's degree in Data Science, Machine Learning, Mechanical Engineering, Computer Science, Statistics, or related quantitative fieldStrong academic project portfolio demonstrating practical application of data science techniquesPrevious work experience (any industry) showing reliability, teamwork, and professional communication skillsDemonstrated experience with large dataset analysis and processing (academic or personal projects) Experience with supervised and unsupervised machine learning techniquesUnderstanding of time series analysis and forecasting methodsAbility to design experiments and A/B tests to validate hypothesesStrong mathematical foundation in linear algebra, calculus, and statisticsExperience processing and analyzing large datasets (200+ GB scale preferred) Python: Proficiency in Python > 3.\n• 10 for data analysis, machine learning, and web application developmentSQL: Strong SQL skills for database querying, data extraction, and analysisCSS: Basic CSS knowledge for dashboard styling and web interface customization Create interactive dashboards and visualizations to present complex data insights to technical and non-technical stakeholdersDevelop time-series analysis for performance trends, vehicle dynamics, and operational metricsSupport race weekend analytics with real-time data processing and visualizationGenerate analytical reports for Technical Director, Director of Competition, and race team personnel Work closely with DevOps engineers, senior data scientists, and race teamsParticipate in cross-functional projects with IT, Engineering, and Racing Operations teamsContribute to the evaluation and integration of new analytical tools and technologies.",
+    "job_apply_link": "https://www.aijobs.com/jobs/161261947-data-scientist-entry-level",
+    "id": "ai-jobs-data-scientist-entry-level-statesville"
   }
 ]
