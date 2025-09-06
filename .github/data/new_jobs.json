@@ -1,62 +1,32 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Engineer, Metrology",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "a day",
-    "job_description": "• Less than 2 years Principal/ Senior/ Engineer, Advanced Package Metrology-Real-Time Defect Analysis (MRDA)Singapore, SingaporePosted 4 months ago FE Central Quality - Quality Systems Senior EngineerBoise, Idaho, United States of AmericaPosted 2 months ago Intern - Metrology Process Development EngineerBoise, Idaho, United States of AmericaPosted 2 days ago Principal Design Engineer, TSV PackagingBoise, Idaho, United States of AmericaPosted a month ago Senior/Engineer, Metrology Process DevelopmentSingapore, SingaporePosted 5 months ago Senior/Engineer, Metrology Process DevelopmentSingapore, SingaporePosted a month ago Senior Engineer, Metrology Process DevelopmentSingapore, SingaporePosted a month ago.",
-    "job_apply_link": "https://careers.micron.com/careers/job/37816471",
-    "id": "micron-technology-engineer-metrology-boise"
+    "employer_name": "IBM",
+    "job_title": "Data Scientist Internship",
+    "job_city": "shipRESEARCH TRIANGLE PARK",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Data Scientist Internship 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57074&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-internship-shipresearch-triangle-park"
   },
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Supply Chain Planner",
-    "job_city": "Tlaquepaque",
-    "job_state": "Jalisco",
-    "job_posted_at": "a month",
-    "job_description": "• Bachelor’s degree in Industrial Engineering or related field, or equivalent experience.\n• Experience in operations, supply chain management, or manufacturing.\n• Strong communication and teamwork skills.\n• Master’s degree or equivalent experience.\n• Proven leadership skills.\n• Less than 2 years Publish internally supply response for customer demand, backlog, factory plan, material plan, die mix plan, and inventory replenishment strategy.\n• Ability to manage weekly deliverables and deadlines with precision.\n• Demonstrated leadership in cross-functional environments.",
-    "job_apply_link": "https://careers.micron.com",
-    "id": "micron-technology-supply-chain-planner-tlaquepaque"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "AI Engineer",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "4h",
-    "job_description": "• Bachelor’s or Master’s degree in Computer Science, Data Science, or related field, or equivalent experience.\n• Applied data science background (degree coursework, immersive bootcamp, or equivalent applied experience).\n• Proven ability to design and deliver applications, with experience making practical systems design tradeoffs.\n• Hands-on programming experience (Python required, plus one or more of Swift, Ruby, or JavaScript).\n• Experience building and integrating applications with LLMs.\n• Experience with vector databases, graph databases, or other structured retrieval approaches.\n• Strong communication skills to translate technical findings into clear guidance.\n• Experience designing and running LLM evaluation pipelines that combine quantitative and qualitative methods, balanceprecision–recall tradeoffs, and align metrics with user workflows.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161132798-ai-engineer",
-    "id": "ai-jobs-ai-engineer-austin"
+    "employer_name": "IBM",
+    "job_title": "AI Engineer – Entry Level Sales Program",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role AI Engineer – Entry Level Sales Program 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53107&source=WEB_Search_NA",
+    "id": "ibm-ai-engineer-entry-level-sales-program-"
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Governance and Infrastructure Data Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• BE/BS or MS in Computer Science/Engineering or equivalent experience 8+ years of overall experience Experience with data visualization and presentation, familiar with data analysis tools such as Tableau, Plotly, Posit, etc Knowledge of analytics, statistical modeling, and machine learning methodologies The successful candidate will have a demonstrated track record of large-scale computing operations and planning, with experience in high-performance computing a plus.\n• International and US Gov’t experience is a plus.\n• Partner and cross-collaborate with Finance, Service Owners, and Internal Infrastructure Providers to develop Infrastructure and Service Level critical metrics to match Customer satisfaction Lead multi-year budget-based compute resource planning with engineering Drive infrastructure resource efficiency initiatives with engineering and finance.\n• Build, develop, and maintain data models, reporting systems, data automation systems, dashboards, and performance metrics that support Nvidia Infrastructure Governance Programs.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161144510-governance-and-infrastructure-data-engineer",
-    "id": "ai-jobs-governance-and-infrastructure-data-engineer-us"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Graduate AI Engineer",
-    "job_city": "Columbia",
-    "job_state": "MD",
-    "job_posted_at": "8h",
-    "job_description": "• Make a real impact by developing innovative products and solutions to meet our global customers' evolving needs and help make people’s lives easier, safe and secure.\n• Bachelor’s with up to 2 years experience or a recent Master’s degree with no work experience in Electrical Engineering, Computer Science, or related field.\n• Experience with Python, MATLAB, or similar tools.\n• Experience with embedded development environments.\n• Strong communication and teamwork skills.\n• Launch and advance your career in technical and business roles across four Product Groups and various corporate functions.\n• You will have the opportunities to explore our hardware and software capabilities and try new things.\n• Maximize your performance and wellbeing in our flexible and inclusive work environment.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161132804-graduate-ai-engineer",
-    "id": "ai-jobs-graduate-ai-engineer-columbia"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Artificial Intelligence Engineer",
-    "job_city": "Plano",
-    "job_state": "TX",
-    "job_posted_at": "2h",
-    "job_description": "• Collaboration with Teams (20%)Collaborate with transformation teams and business stakeholders to understand requirements and tailor AI agents to specific domains.\n• Integration & Deployment (20%)Lead AI projects, demonstrating hands-on experience in code development and software engineering.\n• Supervision Required Moderate – Operates with general guidance from the Senior AI Solutions Manager, with regular updates for alignment and support.\n• Complexity of Role High – The role requires managing complex AI/ML projects, working with large datasets, and ensuring successful integration with existing systems while maintaining scalability.\n• Experience and working knowledge with Agentic AI frameworks (e.\n• Strong understanding and experience in designing AI agents and integrating advancements in AI/ML technologies.\n• Excellent analytical, problem-solving, and communication skills.\n• Collaboration Skills: Effective at working within cross-functional teams.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161132800-artificial-intelligence-engineer",
-    "id": "ai-jobs-artificial-intelligence-engineer-plano"
+    "job_title": "Junior AI Engineer",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "6d",
+    "job_description": "• 1+ years of experience in LLM evaluationStrong software engineering foundation with proficiency in Python.\n• Bachelor’s degree in Computer Science, AI, a related field, or equivalent work experience.\n• Strong cross-functional collaboration skills.\n• 2+ years of experience in AI deployment or applied Machine Learning.\n• Advanced degree in Computer Science or related field.\n• Experience integrating AI with healthcare data (EHRs, clinical databases).\n• Experience working in regulated industries with an understanding of security, compliance, and responsible AI.\n• Develop, test, and deploy LLM-powered extraction pipelines for clinical text at scale.",
+    "job_apply_link": "https://www.aijobs.com/jobs/159007581-junior-ai-engineer",
+    "id": "ai-jobs-junior-ai-engineer-"
   }
 ]
