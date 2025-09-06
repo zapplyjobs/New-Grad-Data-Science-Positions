@@ -1,12 +1,72 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Federal Consulting Intern:",
-    "job_city": "shipWASHINGTON",
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist I/II",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_posted_at": "14h",
+    "job_description": "• The minimum education, training, and experience include a bachelor’s degree with major course work in data science, computer science, management information systems, regional planning, geography, demography, economics, statistics, mathematics or a related field, and one to two years of professional experience in data analysis and programming.\n• Intermediate-advanced level programming experience in Python (and other object-oriented program languages) is critical.\n• Experience creating SQL queries, stored procedures, and data views.\n• Experience using geographic information system software such as ESRI ArcGIS or QGIS.\n• Experience using Business Intelligence/Information Sharing software (Power BI, Tableau, etc.\n• Experience updating and maintaining project databases, files, and records, including data documentation.\n• Knowledge of quality assurance and quality control practices used for validating data and ensuring data accuracy and integrity, including statistical analysis and sampling techniques, preferably for demographic and economic data.\n• Experience with data analysis and research methodologies.",
+    "job_apply_link": "https://www.aijobs.com/jobs/161261939-data-scientist-i-ii",
+    "id": "ai-jobs-data-scientist-i-ii-san-diego"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist II, Product, Geo Data Science",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "2d",
+    "job_description": "• Prioritize and communicate user needs, make recommendations and drive implementation for product or process changes.\n• Bachelor's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.\n• 2 years of work experience with analysis applications (e.\n• , extracting insights, performing statistical analysis, or solving business problems), and coding (Python, R, SQL) or work experience with a Master's degree.\n• Master's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.\n• 3 years of work experience with analysis applications (e.\n• Work with leadership teams to implement tracking and reporting of metrics across global programs.\n• Work with large data sets, automate data extraction, build monitoring/reporting dashboards and high-value, automated Business Intelligence solutions (e.",
+    "job_apply_link": "https://www.aijobs.com/jobs/160706437-data-scientist-ii-product-geo-data-science",
+    "id": "ai-jobs-data-scientist-ii-product-geo-data-science-mountain-view"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Junior Data Scientist",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "14h",
+    "job_description": "• Jobs Companies Recruiting Pricing Login Sign Up Post Jobs Jobs Companies Recruiting Pricing Login Sign Up Post Jobs.",
+    "job_apply_link": "https://www.aijobs.com/jobs/153418761-junior-data-scientist",
+    "id": "ai-jobs-junior-data-scientist-sunnyvale"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist (Remote - New York)",
+    "job_city": "",
     "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• 4+ years of professional experience in data science or related fields Expert-level proficiency in SQL and Python or R Strong understanding of statistical methods and machine learning techniques Experience with data transformation and orchestration tools Proven ability to communicate data insights effectively through storytelling and visualization Strong analytical mindset with the ability to manage multiple projects in a fast-paced environment Experience in financial technology, investment, or analytics environments is a plus Competitive base salary: $155,000-$210,000, plus discretionary bonus program and equity participation Flexible, unlimited paid time off Comprehensive medical, dental, and vision benefits for employees and families Life insurance and disability benefits 401(k) retirement savings plan (U.\n• Employees) Paid parental leave Access to proprietary tools and platforms to enhance professional growth Flexible remote work options combined with in-person collaboration opportunities.",
+    "job_apply_link": "https://www.aijobs.com/jobs/161261945-data-scientist-remote-new-york",
+    "id": "ai-jobs-data-scientist-remote-new-york-"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist",
+    "job_city": "Urbandale",
+    "job_state": "IA",
+    "job_posted_at": "16h",
+    "job_description": "• Experience with Visualization tools such as Tableau, Kepler.\n• Experience with Data Modeling techniques such as Normalization, data quality and coverage assessment, attribute analysis, performance management, etc.\n• Experience building machine learning models such as Regression, supervised learning, unsupervised learning, probabilistic inference, natural language modeling, etc.\n• Excellent communication skills.\n• What makes candidates stand out are skills such as:Experience with Geospatial data search and analysis, geo-indexing techniques, vector and raster data structures.\n• Experience with remote sensing, GIS tools, and satellite imagery analysis.\n• Experience with CVMLExperience with advanced AI techniques and tools.\n• Familiarity with Distributed DatasetsExperienced with a variety of data structures such as time-series, geo-tagged, text, structured, and unstructured.",
+    "job_apply_link": "https://www.aijobs.com/jobs/161261934-data-scientist",
+    "id": "ai-jobs-data-scientist-urbandale"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist I, US - Risk & Fraud",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "11h",
+    "job_description": "• Advanced degree in a quantitative field such as Statistics, Mathematics, Operations Research, Economics, or a related discipline Prior background in Risk or Fraud Data engineering/pipeline creation experience A natural problem-solver with a passion for critical thinking and a \"get things done\" mindset Good communication skills and the ability to articulate technical concepts to diverse stakeholders Comfortable with ambiguity and capable of thriving in a dynamic, self-directed environment Familiarity with statistical optimization under unsupervised learning, boosted trees, neural networks, or natural language processing architectures.\n• Perform statistical analysis to understand behaviours and contribute to detection features Build and maintain rules to address evolving fraudulent activities Extract insights from large datasets to develop fraud mitigation strategies Build deep understanding of data, reporting, and key metrics Conduct to and optimize mitigation solutions Collaborate with global cross-functional teams on prevention projects using the full variety of statistical learning solutions Effectively communicate findings to drive business decisions With guidance from manager, define and develop an area of expertise Minimum of 1 year of experience in a data-focused role, such as data science, analytics, management, or business intelligence Exceptional proficiency in and statistical analysis languages (SQL, R, or similar) Proven track record of leveraging advanced analytical techniques and statistical methods to solve complex, real-world problems Experience in hypothesis testing and statistical modeling Expertise in defining, measuring, and communicating performance metrics that drive business impact.",
+    "job_apply_link": "https://www.aijobs.com/jobs/161261940-data-scientist-i-us-risk-fraud",
+    "id": "ai-jobs-data-scientist-i-us-risk-fraud-san-francisco"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Intern Hardware Engineer",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role Federal Consulting Intern: 2026",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57098&source=WEB_Search_NA",
-    "id": "ibm-federal-consulting-intern-shipwashington"
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/raleigh/intern-hardware-engineer/33099/85831486368",
+    "id": "arm-intern-hardware-engineer-raleigh"
   }
 ]
