@@ -1,22 +1,12 @@
 [
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Scientist - TikTok Ads",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_posted_at": "2d",
-    "job_description": "• Jobs Companies Recruiting Pricing Login Sign Up Post Jobs Jobs Companies Recruiting Pricing Login Sign Up Post Jobs.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161441109-data-scientist-tiktok-ads",
-    "id": "ai-jobs-data-scientist-tiktok-ads-san-jose"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist and Analyst",
-    "job_city": "Dallas-Fort Worth Metroplex",
-    "job_state": "US",
-    "job_posted_at": "1w",
-    "job_description": "• Support automation of customer experience tasks through applied AI solutions.\n• Bachelor’s degree in Data Science, Statistics, Computer Science, Engineering, or a related field.\n• 1–3 years of experience in analytics, data science, or similar (internships welcome).\n• Strong data storytelling skills using PowerPoint, Canva or similar tools.\n• Must be able to lift 15 pounds at times.\n• Must be able to comprehend and follow written and oral instructions.\n• Must be able to complete tasks even with frequent interruptions.\n• Must be able to use discretion and independent judgment as needed.",
-    "job_apply_link": "https://www.aijobs.com/jobs/158701496-data-scientist-and-analyst",
-    "id": "ai-jobs-data-scientist-and-analyst-dallas-fort-worth-metroplex"
+    "job_title": "Data Scientist (3886)",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_posted_at": "1d",
+    "job_description": "• Strong understanding of B2B sales processes and customer evaluation methodologiesExperience translating technical findings into business value and ROI frameworksAbility to create compelling presentations for technical and non-technical audiencesKnowledge of financial modelling and value proposition storytelling Proficient experience in data science, analytics, or process automationProficiency in Python/R, SQL, and statistical libraries (e.\n• , pandas, scikit-learn)Experience with data visualization tools (Tableau, Power BI, QuickSight)Familiarity with cloud platforms (AWS, Azure, GCP) and modern data stack tools Self-starter with a proactive mindset and ownership mentalityEffective communicator across cross-functional teamsExperience in customer-facing roles (e.\n• , sales engineering, technical consulting)Ability to work independently while building scalable solutions for the broader team Own and optimize manual analysis processes currently managed by Sales EngineeringTranslate customer evaluation data into compelling insights and ROI narrativesDevelop standardized frameworks to quantify business impact across industriesCreate automated reporting for prospect presentations and internal visibility.",
+    "job_apply_link": "https://www.aijobs.com/jobs/161441111-data-scientist-3886",
+    "id": "ai-jobs-data-scientist-3886-atlanta"
   }
 ]
