@@ -1,32 +1,22 @@
 [
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Science Intern",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "3d",
-    "job_description": "• Currently enrolled in a Bachelor's program in Computer Science, Data Science, Statistics, Mathematics, or related quantitative fieldStrong academic performance from a top-tier college/university with ability to share academic transcriptsProficiency with dbt/dataform and experience designing modular, well-documented transformation layers in a modern data stackSQL skills with good understanding of data modeling best practicesWorking knowledge of Python for data analysis and automationStrong analytical and problem-solving abilitiesExcellent attention to detail and ability to work independently Previous internship or project experience in data science, analytics, or data engineeringHands-on experience with BI tools, preferably Looker, including explore and dashboard development and LookML configurationKnowledge of statistical modeling and data engineering principles.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161441108-data-science-intern",
-    "id": "ai-jobs-data-science-intern-new-york"
+    "job_title": "Data Scientist - TikTok Ads",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "2d",
+    "job_description": "• Jobs Companies Recruiting Pricing Login Sign Up Post Jobs Jobs Companies Recruiting Pricing Login Sign Up Post Jobs.",
+    "job_apply_link": "https://www.aijobs.com/jobs/161441109-data-scientist-tiktok-ads",
+    "id": "ai-jobs-data-scientist-tiktok-ads-san-jose"
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Scientist I, US - Risk & Fraud",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "22h",
-    "job_description": "• Advanced degree in a quantitative field such as Statistics, Mathematics, Operations Research, Economics, or a related discipline Prior background in Risk or Fraud Data engineering/pipeline creation experience A natural problem-solver with a passion for critical thinking and a \"get things done\" mindset Good communication skills and the ability to articulate technical concepts to diverse stakeholders Comfortable with ambiguity and capable of thriving in a dynamic, self-directed environment Familiarity with statistical optimization under unsupervised learning, boosted trees, neural networks, or natural language processing architectures.\n• Perform statistical analysis to understand behaviours and contribute to detection features Build and maintain rules to address evolving fraudulent activities Extract insights from large datasets to develop fraud mitigation strategies Build deep understanding of data, reporting, and key metrics Conduct to and optimize mitigation solutions Collaborate with global cross-functional teams on prevention projects using the full variety of statistical learning solutions Effectively communicate findings to drive business decisions With guidance from manager, define and develop an area of expertise Minimum of 1 year of experience in a data-focused role, such as data science, analytics, management, or business intelligence Exceptional proficiency in and statistical analysis languages (SQL, R, or similar) Proven track record of leveraging advanced analytical techniques and statistical methods to solve complex, real-world problems Experience in hypothesis testing and statistical modeling Expertise in defining, measuring, and communicating performance metrics that drive business impact.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161441112-data-scientist-i-us-risk-fraud",
-    "id": "ai-jobs-data-scientist-i-us-risk-fraud-sunnyvale"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "AI Research Scientist – GenAI",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "9min",
-    "job_description": "• In Computer Science or Engineering, or a related discipline or master’s degree with 3+ years industry experience (GenAI and/or foundation model related) after graduation.\n• 2+ years of research experience or equivalent graduate research experience on foundation models, including training, fine-tuning, and prompting.\n• In-depth experiences in deep learning, with work in at least two of the following areas: AI agent, RAG, multimodal transformers, multimodal language models, diffusion models, autonomous driving, time-series data analysis.\n• , Python, C++) and hands on experience with AI / NLP / CV libraries.\n• Strong background in math and statistics3+ years experiences in industrial researchHands-on experience in product development in the above-mentioned areas for consumer/enterprise markets.\n• Experience in leading R&D project & team dealing with international customers.\n• Leadership skills with excellent English communication & teamwork skills.\n• Proficiency in one or more programming languages commonly used in systems research (e.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161441110-ai-research-scientist-genai",
-    "id": "ai-jobs-ai-research-scientist-genai-sunnyvale"
+    "job_title": "Data Scientist and Analyst",
+    "job_city": "Dallas-Fort Worth Metroplex",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Support automation of customer experience tasks through applied AI solutions.\n• Bachelor’s degree in Data Science, Statistics, Computer Science, Engineering, or a related field.\n• 1–3 years of experience in analytics, data science, or similar (internships welcome).\n• Strong data storytelling skills using PowerPoint, Canva or similar tools.\n• Must be able to lift 15 pounds at times.\n• Must be able to comprehend and follow written and oral instructions.\n• Must be able to complete tasks even with frequent interruptions.\n• Must be able to use discretion and independent judgment as needed.",
+    "job_apply_link": "https://www.aijobs.com/jobs/158701496-data-scientist-and-analyst",
+    "id": "ai-jobs-data-scientist-and-analyst-dallas-fort-worth-metroplex"
   }
 ]
