@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "General Dynamics",
-    "job_title": "SharePoint Online (SPO) QA Test Analyst",
-    "job_city": "USA DC Washington",
+    "employer_name": "Verizon",
+    "job_title": "Secur Cslt III-Ntwk & Info Sec",
+    "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/SharePoint-Online--SPO--QA-Test-Analyst_RQ206883?q=data+science",
-    "id": "general-dynamics-sharepoint-online-spo-qa-test-analyst-usa-dc-washington"
+    "job_description": "• Secur Cslt III-Ntwk & Info Seclocations2 Locationstime typeFull timeposted onPosted TodayR-1070016Principal-Ntwk & Info Seclocations2 Locationstime typeFull timeposted onPosted TodayR-1070295Engineer Consultant - Systems AnalysislocationsAlpharetta, Georgiatime typeFull timeposted onPosted 3 Days AgoR-1084523Technical Project Senior Managerlocations2 Locationstime typeFull timeposted onPosted 4 Days AgoR-1080042System Performance EngineerlocationsTemple Terrace, Floridatime typeFull timeposted onPosted 4 Days AgoR-1082253Verizon Global Solutions Technology Summer 2026 Internshiplocations6 Locationstime typeFull timeposted onPosted 4 Days AgoR-1084407Distinguished Engineer - SRElocations5 Locationstime typeFull timeposted onPosted 4 Days AgoR-1071243Principal Engineer of Video Services DevelopmentlocationsIrving, Texastime typeFull timeposted onPosted 4 Days AgoR-1083797Engr III Specialist-Data Sciencelocations2 Locationstime typeFull timeposted onPosted 4 Days AgoR-1079738Senior Engineer Consultant-AI Sciencelocations3 Locationstime typeFull timeposted onPosted 4 Days AgoR-1080175Engineer III Consultant-AI SciencelocationsChennai, Indiatime typeFull timeposted onPosted 4 Days AgoR-1075053Senior Engineer Consultant-AI Sciencelocations2 Locationstime typeFull timeposted onPosted 4 Days AgoR-1047423Senior Engineer Consultant-Data Sciencelocations2 Locationstime typeFull timeposted onPosted 4 Days AgoR-1076649Principal Engr-Data Sciencelocations3 Locationstime typeFull timeposted onPosted 4 Days AgoR-1083311Engineer ConsultantlocationsTemple Terrace, Floridatime typeFull timeposted onPosted 5 Days AgoR-1084322Sr Manager-Sec Risk Mgtlocations2 Locationstime typeFull timeposted onPosted 5 Days AgoR-1081508Principal Engineer - Pega CDHlocationsHyderabad, Indiatime typeFull timeposted onPosted 5 Days AgoR-1072330Principal Solutions Architectlocations5 Locationstime typeFull timeposted onPosted 6 Days AgoR-1084146FullStack DeveloperlocationsTemple Terrace, Floridatime typeFull timeposted onPosted 6 Days AgoR-1078316Senior Product Manager, Connected Solutionslocations2 Locationstime typeFull timeposted onPosted 10 Days AgoR-1083155.",
+    "job_apply_link": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Hyderabad-India/Secur-Cslt-III-Ntwk---Info-Sec_R-1070016?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "verizon-secur-cslt-iii-ntwk-info-sec-2-locations"
   },
   {
     "employer_name": "Google",
-    "job_title": "Failure Analysis Engineer",
+    "job_title": "Data Scientist, Product Intern, MS, Summer",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role Failure Analysis Engineer",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/130357711324750534-failure-analysis-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=8",
-    "id": "google-failure-analysis-engineer-mountain-view"
+    "job_description": "data science job for the role Data Scientist, Product Intern, MS, Summer 2026",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/89208145057850054-data-scientist-product-intern-ms-summer-2026?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1",
+    "id": "google-data-scientist-product-intern-ms-summer-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Data Scientist, Research Intern, PhD, Summer",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Data Scientist, Research Intern, PhD, Summer 2026",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/116696760385970886-data-scientist-research-intern-phd-summer-2026?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1",
+    "id": "google-data-scientist-research-intern-phd-summer-mountain-view"
   }
 ]
