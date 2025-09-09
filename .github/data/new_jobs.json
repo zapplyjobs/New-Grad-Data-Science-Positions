@@ -1,32 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Financial Analyst Summer Intern",
-    "job_city": "shipArmonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Financial Analyst Summer Intern 2026",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57618&source=WEB_Search_NA",
-    "id": "ibm-financial-analyst-summer-intern-shiparmonk"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Human AI Collaborator",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "1h",
-    "job_description": "• Have experience with field studies, productivity research, or real-world experimentation.\n• Have a background in business, economics, or computer science, with a focus on productivity, HCI, or applied research.\n• Are comfortable navigating ambiguity to define the right problems to solve.\n• Blend qualitative insight with quantitative rigor in your work.\n• Are excited about frontier AI, but focused on practical, high-impact applications.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161734929-human-ai-collaborator",
-    "id": "ai-jobs-human-ai-collaborator-san-francisco"
-  },
-  {
     "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III, Java / Spring Boot, Wealth Management Digital Technology",
-    "job_city": "",
-    "job_state": "US",
+    "job_title": "Software Developer -Automation (Operations)",
+    "job_city": "Cebu",
+    "job_state": "Central Visayas",
     "job_posted_at": "Recently",
-    "job_description": "• 2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York Chicago, IL, United States and 4 more Data & AnalyticsSeasonal Employee Use your data analysis and coding skills to help a nonprofit organization further their mission.\n• Applied AIML Lead Bengaluru, Karnataka, India Data & AnalyticsPredictive Science Develop AI solutions for compliance and risk, enhancing skills in a dynamic data science team.\n• Associate New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Data Scientist Associate LONDON, LONDON, United Kingdom Data & AnalyticsPredictive Science Define and execute a global analytics strategy and roadmap to promote product innovation in Treasury Services.\n• Software Engineer III - AI LONDON, United Kingdom TechnologySoftware Engineering Tackling complex engineering challenges across AI/ML and driving intelligent decision-making in the firm's data ecosystem Senior Lead Software Engineer - Data Engineer Jersey City, NJ, United States TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Equipment Finance Operations Program and Platform Manager Columbus, OH, United States and 2 more OperationsProgram & Project Management Shape the future of Equipment Finance Operations by crafting solutions that enhance client and stakeholder experiences.\n• Data Scientist Director Brooklyn, NY, United States Data & AnalyticsPredictive Science Seeking a dynamic leader with a strong corporate finance and analytical background.\n• Data Scientist Associate - SQL, Python, Tableau Mumbai, Maharashtra, India and 1 more Data & AnalyticsPredictive Science Drive data-driven solutions to enhance technology efficiency and developer experience at Chase Bank.\n• Vice President Product Manager - Data & AI Platform Adoption Lead Jersey City, NJ, United States and 1 more ProductProduct Management Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Associate Data Domain Architect Mumbai, Maharashtra, India and 1 more Data & AnalyticsAnalytics Solutions & Delivery Join the team tasked with delivering Data pipeline automation and visualization to support the multiple Workforce Planning functions.\n• Sr Manager of Software Engineering - Data Engineering Expertise Wilmington, DE, United States TechnologyData Engineering Serve in a leadership role by providing data engineering advisory and anticipate the needs and dependencies of data users at the firm Site Reliability Engineer [Multiple Positions Available] Plano, TX, United States TechnologySoftware Engineering Develop tools and visualizations to gain insights into the customer experience and product interactions.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210664110/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-iii-java-spring-boot-wealth-management-digital-technology-"
+    "job_description": "• 2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York Chicago, IL, United States and 4 more Data & AnalyticsSeasonal Employee Use your data analysis and coding skills to help a nonprofit organization further their mission.\n• Applied AIML Lead Bengaluru, Karnataka, India Data & AnalyticsPredictive Science Develop AI solutions for compliance and risk, enhancing skills in a dynamic data science team.\n• Associate New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Data Scientist Associate LONDON, LONDON, United Kingdom Data & AnalyticsPredictive Science Define and execute a global analytics strategy and roadmap to promote product innovation in Treasury Services.\n• Senior Lead Software Engineer - Data Engineer Jersey City, NJ, United States TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Equipment Finance Operations Program and Platform Manager Columbus, OH, United States and 2 more OperationsProgram & Project Management Shape the future of Equipment Finance Operations by crafting solutions that enhance client and stakeholder experiences.\n• Data Scientist Director Brooklyn, NY, United States Data & AnalyticsPredictive Science Seeking a dynamic leader with a strong corporate finance and analytical background.\n• Data Scientist Associate - SQL, Python, Tableau Mumbai, Maharashtra, India and 1 more Data & AnalyticsPredictive Science Drive data-driven solutions to enhance technology efficiency and developer experience at Chase Bank.\n• Vice President Product Manager - Data & AI Platform Adoption Lead Jersey City, NJ, United States and 1 more ProductProduct Management Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Associate Data Domain Architect Mumbai, Maharashtra, India and 1 more Data & AnalyticsAnalytics Solutions & Delivery Join the team tasked with delivering Data pipeline automation and visualization to support the multiple Workforce Planning functions.\n• Sr Manager of Software Engineering - Data Engineering Expertise Wilmington, DE, United States TechnologyData Engineering Serve in a leadership role by providing data engineering advisory and anticipate the needs and dependencies of data users at the firm Site Reliability Engineer [Multiple Positions Available] Plano, TX, United States TechnologySoftware Engineering Develop tools and visualizations to gain insights into the customer experience and product interactions.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210665168/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-developer-automation-operations-cebu"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Ads Reporting Infrastructure",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Software Engineer, Ads Reporting Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/96764847957385926-software-engineer-ads-reporting-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3",
+    "id": "google-software-engineer-ads-reporting-infrastructure-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, YouTube Ads Client Infrastructure",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Software Engineer III, YouTube Ads Client Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/91922598748660422-software-engineer-iii-youtube-ads-client-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=10",
+    "id": "google-software-engineer-iii-youtube-ads-client-infrastructure-mountain-view"
   }
 ]
