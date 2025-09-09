@@ -1,142 +1,42 @@
 [
   {
-    "employer_name": "Magna International",
-    "job_title": "Student - Engineering Low Speed ADAS Features",
-    "job_city": "Auburn Hills",
-    "job_state": "Michigan",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Senior Data ScientistlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164194Operations Data AnalystlocationsMuncie, Indiana, USposted onPosted 30+ Days AgoR00201608Senior Full Stack Software Developerlocations2 Locationsposted onPosted 30+ Days AgoR00185812Maker, Tool & Die (Certified)locationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00167816Senior QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201689QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201549Tooling EngineerlocationsEthridge, Tennessee, USposted onPosted 20 Days AgoR00206379Student - Engineering Object FusionlocationsAuburn Hills, Michigan, USposted onPosted 13 Days AgoR00207379Student - Engineering OpticslocationsSouthfield, Michigan, USposted onPosted 26 Days AgoR00204849Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164195Software Engineer, Industrial IOTlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00190451Solutions Engineer, SoftwarelocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00177592IOT Architectlocations2 Locationsposted onPosted 30+ Days AgoR00197257Senior Health and Safety SpecialistlocationsBowling Green, Kentucky, USposted onPosted 30+ Days AgoR00200904Student - Engineering Low Speed ADAS FeatureslocationsAuburn Hills, Michigan, USposted onPosted TodayR00208807Principal Software Engineer - Image Signal ProcessinglocationsSouthfield, Michigan, USposted onPosted 12 Days AgoR00205993MES AnalystlocationsWarren, Michigan, USposted onPosted 7 Days AgoR00207708Senior Software EngineerlocationsLowell, Massachusetts, USposted onPosted 15 Days AgoR00199562IoT EngineerlocationsPiedmont, South Carolina, USposted onPosted 30+ Days AgoR00199540Technical Program ManagerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00201678.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Student---Engineering-Low-Speed-ADAS-Features_R00208807?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-student-engineering-low-speed-adas-features-auburn-hills"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "Rutgers University Security Engineering Summer 2026 Internship",
-    "job_city": "Basking Ridge",
-    "job_state": "New Jersey",
-    "job_posted_at": "Posted Today",
-    "job_description": "• 2026 Corporate Strategy Internshiplocations2 Locationstime typeFull timeposted onPosted TodayR-1084411Senior Engineer Consultant-Data SciencelocationsIrving, Texastime typeFull timeposted onPosted TodayR-10847452026 Finance Internship Programlocations2 Locationstime typeFull timeposted onPosted TodayR-1084402Verizon Global Solutions Technology Summer 2026 Internshiplocations6 Locationstime typeFull timeposted onPosted TodayR-1084407Principal Engineer Software DevelopmentlocationsAshburn, Virginiatime typeFull timeposted onPosted TodayR-1081230Rutgers University Security Engineering Summer 2026 InternshiplocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted TodayR-1084702Basking Ridge V Teamer for a Day: Security Engineering Summer Internship 2026locationsBasking Ridge, New Jerseytime typeFull timeposted onPosted TodayR-1084708Security Engineering Summer 2026 InternshiplocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted TodayR-1084678Senior Manager -Technology Strategy - Pega CDHlocationsHyderabad, Indiatime typeFull timeposted onPosted TodayR-1072493Senior Manager-Technical Process Managementlocations2 Locationstime typeFull timeposted onPosted TodayR-1081292Purdue University - 2026 Global Solutions Technology Summer Internshiplocations6 Locationstime typeFull timeposted onPosted YesterdayR-1084619Solutions Architectlocations4 Locationstime typeFull timeposted onPosted YesterdayR-1081237Basking Ridge V Teamer for a Day: Finance Summer Internship 2026locations2 Locationstime typeFull timeposted onPosted YesterdayR-1084424Engr IV-Security Engrglocations2 Locationstime typeFull timeposted onPosted TodayR-1081513Principal-Security Engrglocations2 Locationstime typeFull timeposted onPosted TodayR-1081510Engr III Cslt-Data Sciencelocations2 Locationstime typeFull timeposted onPosted TodayR-1084454Purdue Industrial Roundtable-Verizon Cyber Security Summer 2026 Internshiplocations4 Locationstime typeFull timeposted onPosted YesterdayR-1084641Verizon Cyber Security Summer 2026 Internshiplocations4 Locationstime typeFull timeposted onPosted YesterdayR-1084431Full-Stack Java DeveloperlocationsLisboa, Portugaltime typeFull timeposted onPosted YesterdayR-1083101Associate Director, Data Sciencelocations5 Locationstime typeFull timeposted onPosted YesterdayR-1074538.",
-    "job_apply_link": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Rutgers-University-Security-Engineering-Summer-2026-Internship_R-1084702?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "verizon-rutgers-university-security-engineering-summer-2026-internship-basking-ridge"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "Basking Ridge V Teamer for a Day: Security Engineering Summer Internship",
-    "job_city": "Basking Ridge",
-    "job_state": "New Jersey",
-    "job_posted_at": "Posted Today",
-    "job_description": "• 2026 Corporate Strategy Internshiplocations2 Locationstime typeFull timeposted onPosted TodayR-1084411Senior Engineer Consultant-Data SciencelocationsIrving, Texastime typeFull timeposted onPosted TodayR-10847452026 Finance Internship Programlocations2 Locationstime typeFull timeposted onPosted TodayR-1084402Verizon Global Solutions Technology Summer 2026 Internshiplocations6 Locationstime typeFull timeposted onPosted TodayR-1084407Principal Engineer Software DevelopmentlocationsAshburn, Virginiatime typeFull timeposted onPosted TodayR-1081230Rutgers University Security Engineering Summer 2026 InternshiplocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted TodayR-1084702Basking Ridge V Teamer for a Day: Security Engineering Summer Internship 2026locationsBasking Ridge, New Jerseytime typeFull timeposted onPosted TodayR-1084708Security Engineering Summer 2026 InternshiplocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted TodayR-1084678Senior Manager -Technology Strategy - Pega CDHlocationsHyderabad, Indiatime typeFull timeposted onPosted TodayR-1072493Senior Manager-Technical Process Managementlocations2 Locationstime typeFull timeposted onPosted TodayR-1081292Purdue University - 2026 Global Solutions Technology Summer Internshiplocations6 Locationstime typeFull timeposted onPosted YesterdayR-1084619Solutions Architectlocations4 Locationstime typeFull timeposted onPosted YesterdayR-1081237Basking Ridge V Teamer for a Day: Finance Summer Internship 2026locations2 Locationstime typeFull timeposted onPosted YesterdayR-1084424Engr IV-Security Engrglocations2 Locationstime typeFull timeposted onPosted TodayR-1081513Principal-Security Engrglocations2 Locationstime typeFull timeposted onPosted TodayR-1081510Engr III Cslt-Data Sciencelocations2 Locationstime typeFull timeposted onPosted TodayR-1084454Purdue Industrial Roundtable-Verizon Cyber Security Summer 2026 Internshiplocations4 Locationstime typeFull timeposted onPosted YesterdayR-1084641Verizon Cyber Security Summer 2026 Internshiplocations4 Locationstime typeFull timeposted onPosted YesterdayR-1084431Full-Stack Java DeveloperlocationsLisboa, Portugaltime typeFull timeposted onPosted YesterdayR-1083101Associate Director, Data Sciencelocations5 Locationstime typeFull timeposted onPosted YesterdayR-1074538.",
-    "job_apply_link": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge-V-Teamer-for-a-Day--Security-Engineering-Summer-Internship-2026_R-1084708?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "verizon-basking-ridge-v-teamer-for-a-day-security-engineering-summer-internship-basking-ridge"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "Security Engineering Summer 2026 Internship",
-    "job_city": "Basking Ridge",
-    "job_state": "New Jersey",
-    "job_posted_at": "Posted Today",
-    "job_description": "• 2026 Corporate Strategy Internshiplocations2 Locationstime typeFull timeposted onPosted TodayR-1084411Senior Engineer Consultant-Data SciencelocationsIrving, Texastime typeFull timeposted onPosted TodayR-10847452026 Finance Internship Programlocations2 Locationstime typeFull timeposted onPosted TodayR-1084402Verizon Global Solutions Technology Summer 2026 Internshiplocations6 Locationstime typeFull timeposted onPosted TodayR-1084407Principal Engineer Software DevelopmentlocationsAshburn, Virginiatime typeFull timeposted onPosted TodayR-1081230Rutgers University Security Engineering Summer 2026 InternshiplocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted TodayR-1084702Basking Ridge V Teamer for a Day: Security Engineering Summer Internship 2026locationsBasking Ridge, New Jerseytime typeFull timeposted onPosted TodayR-1084708Security Engineering Summer 2026 InternshiplocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted TodayR-1084678Senior Manager -Technology Strategy - Pega CDHlocationsHyderabad, Indiatime typeFull timeposted onPosted TodayR-1072493Senior Manager-Technical Process Managementlocations2 Locationstime typeFull timeposted onPosted TodayR-1081292Purdue University - 2026 Global Solutions Technology Summer Internshiplocations6 Locationstime typeFull timeposted onPosted YesterdayR-1084619Solutions Architectlocations4 Locationstime typeFull timeposted onPosted YesterdayR-1081237Basking Ridge V Teamer for a Day: Finance Summer Internship 2026locations2 Locationstime typeFull timeposted onPosted YesterdayR-1084424Engr IV-Security Engrglocations2 Locationstime typeFull timeposted onPosted TodayR-1081513Principal-Security Engrglocations2 Locationstime typeFull timeposted onPosted TodayR-1081510Engr III Cslt-Data Sciencelocations2 Locationstime typeFull timeposted onPosted TodayR-1084454Purdue Industrial Roundtable-Verizon Cyber Security Summer 2026 Internshiplocations4 Locationstime typeFull timeposted onPosted YesterdayR-1084641Verizon Cyber Security Summer 2026 Internshiplocations4 Locationstime typeFull timeposted onPosted YesterdayR-1084431Full-Stack Java DeveloperlocationsLisboa, Portugaltime typeFull timeposted onPosted YesterdayR-1083101Associate Director, Data Sciencelocations5 Locationstime typeFull timeposted onPosted YesterdayR-1074538.",
-    "job_apply_link": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Security-Engineering-Summer-2026-Internship_R-1084678?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "verizon-security-engineering-summer-2026-internship-basking-ridge"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Product Engineer – NPI Operations",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "• Experience with product test, product characterization or product engineering in major US semiconductor companiesWorking experience in ATE test program and test operation is a mustSolid understanding and extensive knowledge on performing statistical data analysisKnowledge and understanding of digital circuit and device reliability are requiredExcellent problem-solving and failure debug skills are a mustCapable of working with cross functional teams with good communication skills to efficiently resolve issues and identify corrective actions Design and timely execute early product evaluation and qualification to enable fast time to market Collect and analyze product qualification test data for any product related issues to identify root cause and provide corrective actions Define characterization plan for product performance and functionality window changes over time and implement proper screen as well as guard bands in production test Define device mask qualification plan and analyze ESD and latch up test results to drive product release schedule Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.\n• Our third party providers may collect and combine information collected through the Sites, emails, and newsletters with other information about your visits to other websites and apps over time, if those websites and apps also use the same providers.\n• Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/70584/login",
-    "id": "amd-product-engineer-npi-operations-us"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "AI/ML with Data Analytics , MLOps & Data Science",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "21h",
-    "job_description": "• Jobs Companies Recruiting Pricing Login Sign Up Post Jobs Jobs Companies Recruiting Pricing Login Sign Up Post Jobs.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161880214-ai-ml-with-data-analytics-mlops-data-science",
-    "id": "ai-jobs-ai-ml-with-data-analytics-mlops-data-science-austin"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Science Analyst",
-    "job_city": "Rochester",
-    "job_state": "MN",
-    "job_posted_at": "15h",
-    "job_description": "• Creates or modifies scripts or software applications to support data management, data extraction and data analysis as required.\n• Leverages communication and interpersonal skills and works with subject matter expertsPresents findings in easy to understand terms for the business or clinical practice.\n• Provides data insights for business problems that can be approached with analytics techniques to collect, explore, and extract insights from structured and unstructured data.\n• Has expertise in the data science methods used to analyze data, and knowledge of data types, topics, and scientific challenges and approaches.\n• Executes analytical procedures in the framework of a specific project work request.\n• Contributes to the interpretation of data analysis and to writing reports.\n• Helps customers understand the data set and provide training and suggestions for improvement on the data request.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161880215-data-science-analyst",
-    "id": "ai-jobs-data-science-analyst-rochester"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "Johns Creek",
-    "job_state": "GA",
-    "job_posted_at": "21h",
-    "job_description": "• Big Data Manipulation: Ability to work within a \"Big Data\" environment, including defining data needs, evaluating data quality, and extracting/manipulating batch or real-time streaming data.\n• Programming and Analytics: Strong coding skills with a focus on creating scalable, reusable code and models to address business challenges.\n• Collaboration and Communication: Effective collaboration with Senior and Lead Data Scientists, as well as Data and Solution Architecture teams, to align analytics with business needs and ensure smooth execution of projects.\n• Strong verbal and written communication skills to present complex data insights clearly to both technical and non-technical stakeholders.\n• Interpersonal Skills: Strong interpersonal skills for working across functions and at different levels within the organization, ensuring effective communication and collaboration.\n• Continuous Learning: Commitment to enhancing personal skills and capabilities through ongoing professional development.\n• , ML, AI, descriptive analytics) are tailored to specific use case requirements.\n• Define batch or real-time streaming data needs, assess data quality, and extract/manipulate data within a \"Big Data\" environment.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161880213-data-scientist",
-    "id": "ai-jobs-data-scientist-johns-creek"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Sports Scientist",
-    "job_city": "El Segundo",
-    "job_state": "CA",
-    "job_posted_at": "19h",
-    "job_description": "• Collaborate cross-functionally to align data insights with organizational Minimum: 3-5 years of applied experience in elite/professional sportsPreferred: 5-7+ years with demonstrated leadership in performance (e.\n• , designing and leading projects, integrating across medical/performance teams, managing staff) NSCA or equivalent Certified Strength & Conditioning Specialist (CSCS) recommendedNSCA or equivalent Certified Performance & Sport Scientist (CPSS) recommendedNASM or equivalent Performance Enhancement Specialist (PES) recommended Bachelor’s degree (required) in one of the following: Sports Science, Exercise Science, Exercise Physiology, Kinesiology, High/Human Performance, or other related fieldMaster’s degree preferredPhD preferred.\n• Build and deliver actionable reports from athlete load monitoring platforms, strength diagnostics, and performance testing to inform training, rehab, and recovery strategies.\n• Lead the analysis and interpretation of practice and game data to evaluate player readiness, workload, and performance outcomes.\n• Partner with coaching, medical, and performance staff to translate sports science insights into clear, practical recommendations that support preparation, availability, and competitive advantage.\n• Communicate effectively with athletes to foster trust and ensure understanding of performance, recovery, and return-to-play (RTP) recommendations.\n• Conduct applied research and integrate evidence-based methods to refine RTP processes and performance decision-making frameworks.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161880212-sports-scientist",
-    "id": "ai-jobs-sports-scientist-el-segundo"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Early Career, Data Scientist (2026)",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "19h",
-    "job_description": "• Collaborate with cross-functional teams including Product, Engineering, Research, Design, Sales, and Marketing to turn business objectives into data problemsEvaluate experiments to measure the impact of product changesDefine and surface metrics to guide decision makingCommunicate and document data logging and requirementsBuild models to understand user behavior and predict growthProvide thoughtful feedback to others on the team A strong baseline in statistics, Computer Science, Mathematics, Economics, or another quantitative fieldExperience with Python or a similar scripting languageFirm knowledge around statistical methods and modelsA self-starting approach along with strong communication and collaboration skills Experience working with business partners to translate ambiguous questions into structured data problemsPrevious internship or project experience applying data science in a product or business context.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161880207-early-career-data-scientist-2026",
-    "id": "ai-jobs-early-career-data-scientist-2026-new-york"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Growth Data Scientist",
-    "job_city": "Buffalo-Niagara Falls Area",
+    "employer_name": "IBM",
+    "job_title": "2026 AI Engineer Co-Op - Entry Level Sales Program",
+    "job_city": "ship",
     "job_state": "US",
-    "job_posted_at": "9h",
-    "job_description": "• You have at least 4+ years of full-time data science experience.\n• Hands-on experience with dbt and analytics engineering.\n• Experience working on productivity software or AI tooling.\n• You’ve been an early data scientist at a hyper-growth startup or research org.\n• You know how to be scrappy and ship insights across multiple product areas.\n• You’ve worked on Growth, especially product-led or pricing-related growth.\n• You’ve worked with subscription businesses, moving customers up tiers or optimizing revenue.\n• You’re fluent in SQL and Python, and can write pipelines to unblock yourself.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161880206-growth-data-scientist",
-    "id": "ai-jobs-growth-data-scientist-buffalo-niagara-falls-area"
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role 2026 AI Engineer Co-Op - Entry Level Sales Program",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57383&source=WEB_Search_NA",
+    "id": "ibm-2026-ai-engineer-co-op-entry-level-sales-program-ship"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer [Multiple Positions Available]",
-    "job_city": "Newark",
-    "job_state": "DE",
+    "employer_name": "IBM",
+    "job_title": "2026 Platform Engineer Co-Op - Entry Level Sales Program",
+    "job_city": "ship",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "• 2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York Chicago, IL, United States and 4 more Data & AnalyticsSeasonal Employee Use your data analysis and coding skills to help a nonprofit organization further their mission.\n• Applied AIML Lead Bengaluru, Karnataka, India Data & AnalyticsPredictive Science Develop AI solutions for compliance and risk, enhancing skills in a dynamic data science team.\n• Associate New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Data Scientist Lead - NLQ/LLM LONDON, United Kingdom and 1 more Data & AnalyticsPredictive Science Empower investment decisions by designing natural language solutions and deploying advanced machine learning models.\n• Senior Lead Software Engineer - Data Engineer Jersey City, NJ, United States TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Equipment Finance Operations Program and Platform Manager Columbus, OH, United States and 2 more OperationsProgram & Project Management Shape the future of Equipment Finance Operations by crafting solutions that enhance client and stakeholder experiences.\n• Data Scientist Director Brooklyn, NY, United States Data & AnalyticsPredictive Science Seeking a dynamic leader with a strong corporate finance and analytical background.\n• Data Scientist Associate - SQL, Python, Tableau Mumbai, Maharashtra, India Data & AnalyticsPredictive Science Drive data-driven solutions to enhance technology efficiency and developer experience at Chase Bank.\n• Salesforce Marketing Cloud Builder-Senior Associate Newark, DE, United States and 1 more Marketing & CommunicationsMarketing Delivery Design and execute omni-channel customer journeys to create engaging and personalized marketing experiences.\n• Vice President Product Manager - Data & AI Platform Adoption Lead Jersey City, NJ, United States and 1 more ProductProduct Management Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Associate Data Domain Architect Mumbai, Maharashtra, India and 1 more Data & AnalyticsAnalytics Solutions & Delivery Join the team tasked with delivering Data pipeline automation and visualization to support the multiple Workforce Planning functions.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210663762/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-multiple-positions-available-newark"
+    "job_description": "data science job for the role 2026 Platform Engineer Co-Op - Entry Level Sales Program",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57384&source=WEB_Search_NA",
+    "id": "ibm-2026-platform-engineer-co-op-entry-level-sales-program-ship"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Business Analyst- Portfolio Performance Analysis Group",
-    "job_city": "Brooklyn",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "• 2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York Chicago, IL, United States and 4 more Data & AnalyticsSeasonal Employee Use your data analysis and coding skills to help a nonprofit organization further their mission.\n• Applied AIML Lead Bengaluru, Karnataka, India Data & AnalyticsPredictive Science Develop AI solutions for compliance and risk, enhancing skills in a dynamic data science team.\n• Associate New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Data Scientist Lead - NLQ/LLM LONDON, United Kingdom and 1 more Data & AnalyticsPredictive Science Empower investment decisions by designing natural language solutions and deploying advanced machine learning models.\n• Senior Lead Software Engineer - Data Engineer Jersey City, NJ, United States TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Equipment Finance Operations Program and Platform Manager Columbus, OH, United States and 2 more OperationsProgram & Project Management Shape the future of Equipment Finance Operations by crafting solutions that enhance client and stakeholder experiences.\n• Data Scientist Director Brooklyn, NY, United States Data & AnalyticsPredictive Science Seeking a dynamic leader with a strong corporate finance and analytical background.\n• Data Scientist Associate - SQL, Python, Tableau Mumbai, Maharashtra, India Data & AnalyticsPredictive Science Drive data-driven solutions to enhance technology efficiency and developer experience at Chase Bank.\n• Salesforce Marketing Cloud Builder-Senior Associate Newark, DE, United States and 1 more Marketing & CommunicationsMarketing Delivery Design and execute omni-channel customer journeys to create engaging and personalized marketing experiences.\n• Vice President Product Manager - Data & AI Platform Adoption Lead Jersey City, NJ, United States and 1 more ProductProduct Management Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Associate Data Domain Architect Mumbai, Maharashtra, India and 1 more Data & AnalyticsAnalytics Solutions & Delivery Join the team tasked with delivering Data pipeline automation and visualization to support the multiple Workforce Planning functions.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210654346/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-business-analyst-portfolio-performance-analysis-group-brooklyn"
+    "employer_name": "General Dynamics",
+    "job_title": "Software & Data Scientist Clearance Sponsorship",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-McLean/Software---Development-Clearance-Sponsorship-Opportunity_RQ195768?q=data+science",
+    "id": "general-dynamics-software-data-scientist-clearance-sponsorship-2-locations"
   },
   {
     "employer_name": "Google",
-    "job_title": "Data Engineer, Google Customer Solutions",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_title": "Software Engineer, Google Store, Front End",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role Data Engineer, Google Customer Solutions",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/83535524051985094-data-engineer-google-customer-solutions?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2",
-    "id": "google-data-engineer-google-customer-solutions-new-york"
+    "job_description": "data science job for the role Software Engineer, Google Store, Front End",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/133233346548245190-software-engineer-google-store-front-end?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=9",
+    "id": "google-software-engineer-google-store-front-end-mountain-view"
   }
 ]
