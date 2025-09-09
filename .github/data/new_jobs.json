@@ -1,62 +1,42 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering LMTS (Data Engineering Overlap)",
-    "job_city": "Washington - Seattle",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr307809/software-engineering-lmts-data-engineering-overlap/",
-    "id": "salesforce-software-engineering-lmts-data-engineering-overlap-washington-seattle"
-  },
-  {
-    "employer_name": "Siemens",
-    "job_title": "Digital Service Internship",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Digital Service Internship",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-digital-service-internship-austin"
+    "employer_name": "Micron Technology",
+    "job_title": "Machine Learning Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "a day",
+    "job_description": "• Less than 2 years Advanced Modeling Principal EngineerBoise, Idaho, United States of AmericaPosted 2 months ago Senior Data ScientistBoise, Idaho, United States of AmericaPosted a month ago SMAI Senior Data ScientistSingapore, SingaporePosted 3 months ago.",
+    "job_apply_link": "https://careers.micron.com/careers/job/37816467",
+    "id": "micron-technology-machine-learning-engineer-boise"
   },
   {
     "employer_name": "BAE Systems",
-    "job_title": "Data Scientist",
-    "job_city": "Herndon",
+    "job_title": "Cybersecurity Analyst",
+    "job_city": "McLean",
     "job_state": "VA",
     "job_posted_at": "Posted Today",
-    "job_description": "• Data Science ExpertlocationsAlexandria, VAposted onPosted 5 Days AgoR0225538.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Herndon-VA/Data-Scientist_R0225823-1?q=data+science",
-    "id": "bae-systems-data-scientist-herndon"
+    "job_description": "• Requirements EngineerlocationsClearfield, UTposted onPosted 30+ Days AgoR0221679 Site Reliability Engineer Leadlocations6 Locationsposted onPosted TodayR0225454 Technical Site Deployment Specialistlocations2 Locationsposted onPosted 14 Days AgoR0224890 Chief Solutions ArchitectlocationsAnnapolis Junction, MDposted onPosted 25 Days AgoR0224383 Deployment Managerlocations2 Locationsposted onPosted 6 Days AgoR0222631.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cybersecurity-Analyst_R0225786?q=data+science",
+    "id": "bae-systems-cybersecurity-analyst-mclean"
   },
   {
-    "employer_name": "General Dynamics",
-    "job_title": "Cloud Solutions Engineer",
-    "job_city": "Any Location /",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Cloud-Solutions-Engineer---Remote_RQ206545-2?q=data+science",
-    "id": "general-dynamics-cloud-solutions-engineer-any-location"
-  },
-  {
-    "employer_name": "General Dynamics",
+    "employer_name": "BAE Systems",
     "job_title": "Counterintelligence Officer",
-    "job_city": "USA VA Springfield",
-    "job_state": "US",
+    "job_city": "Springfield",
+    "job_state": "VA",
     "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Springfield/Counterintelligence-Officer_RQ206527-2?q=data+science",
-    "id": "general-dynamics-counterintelligence-officer-usa-va-springfield"
+    "job_description": "• Requirements EngineerlocationsClearfield, UTposted onPosted 30+ Days AgoR0221679 Site Reliability Engineer Leadlocations6 Locationsposted onPosted TodayR0225454 Technical Site Deployment Specialistlocations2 Locationsposted onPosted 14 Days AgoR0224890 Chief Solutions ArchitectlocationsAnnapolis Junction, MDposted onPosted 25 Days AgoR0224383 Deployment Managerlocations2 Locationsposted onPosted 6 Days AgoR0222631.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Counterintelligence-Officer_R0223828?q=data+science",
+    "id": "bae-systems-counterintelligence-officer-springfield"
   },
   {
-    "employer_name": "Verizon",
-    "job_title": "Basking Ridge V Teamer for a Day: Finance Summer Internship",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Solutions Architectlocations4 Locationstime typeFull timeposted onPosted TodayR-1081237Basking Ridge V Teamer for a Day: Finance Summer Internship 2026locations2 Locationstime typeFull timeposted onPosted TodayR-1084424Engr IV-Security Engrglocations2 Locationstime typeFull timeposted onPosted TodayR-1081513Principal-Security Engrglocations2 Locationstime typeFull timeposted onPosted TodayR-1081510Purdue Industrial Roundtable-Verizon Cyber Security Summer 2026 Internshiplocations4 Locationstime typeFull timeposted onPosted TodayR-1084641Verizon Cyber Security Summer 2026 Internshiplocations4 Locationstime typeFull timeposted onPosted TodayR-1084431Full-Stack Java DeveloperlocationsLisboa, Portugaltime typeFull timeposted onPosted TodayR-1083101Associate Director, Data Sciencelocations5 Locationstime typeFull timeposted onPosted TodayR-1074538VTeamer for a Day 2025 Global Solutions Intern ProgramlocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted TodayR-1084554Principal Engineer of Software and Hardware Router DevelopmentlocationsIrving, Texastime typeFull timeposted onPosted TodayR-1083779Verizon Global Solutions Technology Summer 2026 Internshiplocations6 Locationstime typeFull timeposted onPosted TodayR-1084407New York University- 2026 Finance Leadership Development Internship Programlocations2 Locationstime typeFull timeposted onPosted TodayR-10845182026 Corporate Strategy Internshiplocations2 Locationstime typeFull timeposted onPosted TodayR-1084411New York University- 2026 Finance Internship Programlocations2 Locationstime typeFull timeposted onPosted TodayR-10845192026 Finance Internship Programlocations2 Locationstime typeFull timeposted onPosted TodayR-10844022026 Finance Leadership Development Program Internshiplocations2 Locationstime typeFull timeposted onPosted TodayR-1084394Sr Mgr-Software DevelopmentlocationsHyderabad, Indiatime typeFull timeposted onPosted TodayR-1081671Secur Cslt III-Ntwk & Info Seclocations2 Locationstime typeFull timeposted onPosted TodayR-1070016Principal-Ntwk & Info Seclocations2 Locationstime typeFull timeposted onPosted TodayR-1070295Engineer Consultant - Systems AnalysislocationsAlpharetta, Georgiatime typeFull timeposted onPosted 3 Days AgoR-1084523.",
-    "job_apply_link": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/VTeamer-for-a-Day-Finance-Program--Basking-Ridge_R-1084424?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "verizon-basking-ridge-v-teamer-for-a-day-finance-summer-internship-2-locations"
+    "employer_name": "AI Jobs",
+    "job_title": "Research Engineer, Scaling",
+    "job_city": "Palo Alto",
+    "job_state": "CA",
+    "job_posted_at": "23h",
+    "job_description": "• Degree in Computer Science or a related fieldHands-on experience with distributed training (TorchTitan/Accelerate/DeepSpeed, FSDP/ZeRO, NCCL), multi-node debugging, and experiment managementDepth in inference performance: TensorRT or similar graph compilers, batching/scheduling, and serving systemsReal familiarity with quantization (PTQ, QAT.\n• Libraries such as TensorRT ModelOpt, bitsandbytes, or equivalent)Experience writing or tuning CUDA/Triton kernels and leveraging vectorization, tensor cores, and memory hierarchy The team reviews your CV and statement of exceptional work15 minute phone conversation with our talent acquisition team45-minute virtual interview with a team member asking a coding question in the language of your choice.\n• On-site interview (in-person or virtual) consisting of 4 technical interviews (mix of coding, systems design, open-ended research interview)Background reference checksOffer You must be scaling-pilled, and believe that scale will enable humanoid robots to exist, and be excited about being on the team that will make that happen for the first time in human historyPython and/or C++ programming experienceAn intuitive understanding of training or inference scaling and what makes models run fast or slow.\n• Calibration strategies.",
+    "job_apply_link": "https://www.aijobs.com/jobs/161699312-research-engineer-scaling",
+    "id": "ai-jobs-research-engineer-scaling-palo-alto"
   }
 ]
