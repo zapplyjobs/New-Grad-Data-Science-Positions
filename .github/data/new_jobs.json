@@ -1,42 +1,62 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Machine Learning Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "a day",
-    "job_description": "• Less than 2 years Advanced Modeling Principal EngineerBoise, Idaho, United States of AmericaPosted 2 months ago Senior Data ScientistBoise, Idaho, United States of AmericaPosted a month ago SMAI Senior Data ScientistSingapore, SingaporePosted 3 months ago.",
-    "job_apply_link": "https://careers.micron.com/careers/job/37816467",
-    "id": "micron-technology-machine-learning-engineer-boise"
+    "employer_name": "Salesforce",
+    "job_title": "Capacity Planning Analyst",
+    "job_city": "Washington - Bellevue",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "• 3+ years of experience in operations, business intelligence, strategy, capacity planning, financial modeling, analytics, or a related field.\n• Strong analytical skills with experience consolidating complex datasets across various unconnected systems and platforms to tell a clear story.\n• Experience building statistical models.\n• Strong interpersonal and executive presentation skills for effective partnership and long-range planning, including excellent verbal and written communication skills.\n• Experience presenting data in a consistent and repeatable manner to various stakeholders.\n• Experience in capacity management, planning, forecasting, and scheduling is a plus.\n• A related technical degree required.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308770/capacity-planning-analyst/",
+    "id": "salesforce-capacity-planning-analyst-washington-bellevue"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Operations Analyst - Global Resource Management",
+    "job_city": "Illinois - Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Bench insights - Produce narrative on bench by resource / practiceUtilization reporting - Write trend narrative on utilizationCapacity reporting - Compose narrative on capacity plans, highlighting supply/demand or skills profile challengesOpportunity reporting - Provide reporting on open resource requestsCentralize and lead regional staffing meetings with Services management to review and align resources against resource requests for current opportunitiesAssign staff to projects, balancing the needs of the project with the skills, availability and development needs of staff membersHelp to drive the utilization of the team by developing creative solutions to staff projects when resource availability is constrained Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Reviewing pipeline/opportunities and projects - Comprehensive understanding of upcoming deal pipeline, closures, renewals and role requirements to ensure start dates align to available capacityAssignment planning/alignment - Named resources added and suggest resources where appropriateOpportunity closure data hygiene - Check resource requests to confirm status, date alignments and skills Resource capacity - Develop strong understanding of internal resource availability, skills and experienceIdentifying capacity shortfalls and evaluate/engage global alternatives and/or partner managementResource allocation - Managing, assigning and replacing resourcesForecast review - Schedule management / load balancing University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr306292/operations-analyst-global-resource-management/",
+    "id": "salesforce-operations-analyst-global-resource-management-illinois-chicago"
   },
   {
     "employer_name": "BAE Systems",
-    "job_title": "Cybersecurity Analyst",
-    "job_city": "McLean",
-    "job_state": "VA",
+    "job_title": "Data and Artificial Intelligence Strategist",
+    "job_city": "Honolulu",
+    "job_state": "HI",
     "job_posted_at": "Posted Today",
-    "job_description": "• Requirements EngineerlocationsClearfield, UTposted onPosted 30+ Days AgoR0221679 Site Reliability Engineer Leadlocations6 Locationsposted onPosted TodayR0225454 Technical Site Deployment Specialistlocations2 Locationsposted onPosted 14 Days AgoR0224890 Chief Solutions ArchitectlocationsAnnapolis Junction, MDposted onPosted 25 Days AgoR0224383 Deployment Managerlocations2 Locationsposted onPosted 6 Days AgoR0222631.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cybersecurity-Analyst_R0225786?q=data+science",
-    "id": "bae-systems-cybersecurity-analyst-mclean"
+    "job_description": "• Interoperability Data ScientistlocationsLorton, VAposted onPosted 30+ Days AgoR0223517 Science and Technical Intelligence Program ManagerlocationsHuntsville, ALposted onPosted 17 Days AgoR0222373 Data Scientist, SeniorlocationsJoint Base Pearl Harbor - Hickam, HIposted onPosted 19 Days AgoR0224782 Data Scientist, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0223023 Data Scientist, LeadlocationsMacDill AFB, FLposted onPosted 25 Days AgoR0223739 Data Scientist, LeadlocationsAlexandria, VAposted onPosted 21 Days AgoR0222218 Data Scientist, SeniorlocationsArlington, VAposted onPosted 3 Days AgoR0224560 Data Scientist, Seniorlocations2 Locationsposted onPosted 11 Days AgoR0225299 Data Scientist, SeniorlocationsVicenzaposted onPosted 30+ Days AgoR0222831 Data Scientist, LeadlocationsMcLean, VAposted onPosted 12 Days AgoR0225190.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-and-Artificial-Intelligence-Strategist_R0225822?q=data+science",
+    "id": "bae-systems-data-and-artificial-intelligence-strategist-honolulu"
   },
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Counterintelligence Officer",
-    "job_city": "Springfield",
-    "job_state": "VA",
+    "employer_name": "Verizon",
+    "job_title": "Purdue University - 2026 Global Solutions Technology Summer Internship",
+    "job_city": "6 Locations",
+    "job_state": "US",
     "job_posted_at": "Posted Today",
-    "job_description": "• Requirements EngineerlocationsClearfield, UTposted onPosted 30+ Days AgoR0221679 Site Reliability Engineer Leadlocations6 Locationsposted onPosted TodayR0225454 Technical Site Deployment Specialistlocations2 Locationsposted onPosted 14 Days AgoR0224890 Chief Solutions ArchitectlocationsAnnapolis Junction, MDposted onPosted 25 Days AgoR0224383 Deployment Managerlocations2 Locationsposted onPosted 6 Days AgoR0222631.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Counterintelligence-Officer_R0223828?q=data+science",
-    "id": "bae-systems-counterintelligence-officer-springfield"
+    "job_description": "• Purdue University - 2026 Global Solutions Technology Summer Internshiplocations6 Locationstime typeFull timeposted onPosted TodayR-1084619Solutions Architectlocations4 Locationstime typeFull timeposted onPosted TodayR-1081237Basking Ridge V Teamer for a Day: Finance Summer Internship 2026locations2 Locationstime typeFull timeposted onPosted TodayR-1084424Engr IV-Security Engrglocations2 Locationstime typeFull timeposted onPosted TodayR-1081513Principal-Security Engrglocations2 Locationstime typeFull timeposted onPosted TodayR-1081510Purdue Industrial Roundtable-Verizon Cyber Security Summer 2026 Internshiplocations4 Locationstime typeFull timeposted onPosted TodayR-1084641Verizon Cyber Security Summer 2026 Internshiplocations4 Locationstime typeFull timeposted onPosted TodayR-1084431Full-Stack Java DeveloperlocationsLisboa, Portugaltime typeFull timeposted onPosted TodayR-1083101Associate Director, Data Sciencelocations5 Locationstime typeFull timeposted onPosted TodayR-1074538VTeamer for a Day 2025 Global Solutions Intern ProgramlocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted TodayR-1084554Principal Engineer of Software and Hardware Router DevelopmentlocationsIrving, Texastime typeFull timeposted onPosted TodayR-1083779Verizon Global Solutions Technology Summer 2026 Internshiplocations6 Locationstime typeFull timeposted onPosted TodayR-1084407New York University- 2026 Finance Leadership Development Internship Programlocations2 Locationstime typeFull timeposted onPosted TodayR-10845182026 Corporate Strategy Internshiplocations2 Locationstime typeFull timeposted onPosted TodayR-1084411New York University- 2026 Finance Internship Programlocations2 Locationstime typeFull timeposted onPosted TodayR-10845192026 Finance Internship Programlocations2 Locationstime typeFull timeposted onPosted TodayR-10844022026 Finance Leadership Development Program Internshiplocations2 Locationstime typeFull timeposted onPosted TodayR-1084394Sr Mgr-Software DevelopmentlocationsHyderabad, Indiatime typeFull timeposted onPosted TodayR-1081671Secur Cslt III-Ntwk & Info Seclocations2 Locationstime typeFull timeposted onPosted TodayR-1070016Principal-Ntwk & Info Seclocations2 Locationstime typeFull timeposted onPosted TodayR-1070295.",
+    "job_apply_link": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Purdue-University---2026-Global-Solutions-Technology-Summer-Internship_R-1084619?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "verizon-purdue-university-2026-global-solutions-technology-summer-internship-6-locations"
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Research Engineer, Scaling",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
-    "job_posted_at": "23h",
-    "job_description": "• Degree in Computer Science or a related fieldHands-on experience with distributed training (TorchTitan/Accelerate/DeepSpeed, FSDP/ZeRO, NCCL), multi-node debugging, and experiment managementDepth in inference performance: TensorRT or similar graph compilers, batching/scheduling, and serving systemsReal familiarity with quantization (PTQ, QAT.\n• Libraries such as TensorRT ModelOpt, bitsandbytes, or equivalent)Experience writing or tuning CUDA/Triton kernels and leveraging vectorization, tensor cores, and memory hierarchy The team reviews your CV and statement of exceptional work15 minute phone conversation with our talent acquisition team45-minute virtual interview with a team member asking a coding question in the language of your choice.\n• On-site interview (in-person or virtual) consisting of 4 technical interviews (mix of coding, systems design, open-ended research interview)Background reference checksOffer You must be scaling-pilled, and believe that scale will enable humanoid robots to exist, and be excited about being on the team that will make that happen for the first time in human historyPython and/or C++ programming experienceAn intuitive understanding of training or inference scaling and what makes models run fast or slow.\n• Calibration strategies.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161699312-research-engineer-scaling",
-    "id": "ai-jobs-research-engineer-scaling-palo-alto"
+    "job_title": "Artificial Intelligence Engineer",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_posted_at": "6h",
+    "job_description": "• Master’s degree in Computer Science, AI, Machine Learning, or a related STEM disciplineStrong proficiency in Python and solid knowledge of SQLHands-on experience with machine learning frameworks (TensorFlow, PyTorch, Scikit-learn)Proven ability to design, train, and deploy ML/AI models in production environmentsStrong understanding of statistics, algorithms, and data structuresExcellent communication skills to explain technical concepts to business stakeholders Experience with cloud platforms (AWS, Azure, GCP)Familiarity with financial data and quantitative modelingExposure to NLP, LLMs, or reinforcement learningBackground in MLOps or experience deploying large-scale AI systems Competitive Salary: $120k - $170k (DOE)Career Growth: Pathways to senior and leadership roles in a rapidly evolving AI teamInnovation Focus: Opportunity to work with cutting-edge tools shaping the finance industryFlexibility: Hybrid or on-site working options in DallasCollaborative Culture: Join a team that values creativity, forward-thinking, and impact-driven solutions.\n• Design and deploy AI models: Develop and optimize machine learning and deep learning systems for financial applications.\n• Build intelligent solutions: Create algorithms that automate processes, enhance risk management, and unlock actionable insights.\n• Collaborate across teams: Work closely with data scientists, engineers, and finance experts to integrate AI into core business platforms.\n• Ensure scalability and performance: Deploy models into production environments with robust monitoring and reliability.\n• Stay ahead of the curve: Research and apply emerging AI trends, from natural language processing to generative models.",
+    "job_apply_link": "https://www.aijobs.com/jobs/161707855-artificial-intelligence-engineer",
+    "id": "ai-jobs-artificial-intelligence-engineer-dallas"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Artificial Intelligence Engineer",
+    "job_city": "Houston",
+    "job_state": "TX",
+    "job_posted_at": "6h",
+    "job_description": "• Master’s degree in Computer Science, AI, Machine Learning, or related STEM fieldStrong proficiency in Python and solid knowledge of SQLExperience with machine learning frameworks (TensorFlow, PyTorch, Scikit-learn)Proven ability to design, train, and deploy AI models in productionSolid understanding of statistics, algorithms, and data structuresStrong communication skills to share complex AI insights with both technical and non-technical stakeholders Competitive Salary: $100k - $140k (DOE)Career Growth: Clear pathways to senior and leadership positions as the AI team expandsImpactful Work: Shape the future of the energy industry with transformative technologyFlexibility: Hybrid or on-site options in Houston’s thriving energy hubCollaborative Culture: Join a team of innovators who are passionate about technology and sustainability Experience with cloud platforms (AWS, Azure, GCP)Background in the energy, utilities, or sustainability sectorFamiliarity with MLOps and deploying large-scale AI systemsExposure to NLP, computer vision, or reinforcement learning.\n• Design and implement AI solutions: Build and deploy machine learning and deep learning models to optimize energy operations and drive innovation.\n• Automate complex processes: Develop algorithms that improve efficiency, reduce costs, and enhance sustainability.\n• Collaborate with experts: Work closely with engineers, data scientists, and product teams to integrate AI into next-generation energy systems.\n• Scale intelligent systems: Ensure robust deployment of models in production environments with reliable performance and monitoring.\n• Innovate continuously: Stay ahead of emerging AI trends (NLP, computer vision, generative AI) and bring new ideas to the table.",
+    "job_apply_link": "https://www.aijobs.com/jobs/161707852-artificial-intelligence-engineer",
+    "id": "ai-jobs-artificial-intelligence-engineer-houston"
   }
 ]
