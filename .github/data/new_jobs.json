@@ -1,42 +1,62 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "SMTS AI/ML Engineer",
-    "job_city": "California - Palo Alto",
+    "employer_name": "IBM",
+    "job_title": "Software Engineering Intern",
+    "job_city": "ship",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Bachelor's, Master's, or Ph.\n• In Computer Science, Data Science, Machine Learning, or related fieldStrong backend data model and schema design experiencesStrong expertise in LLMs and ML techniquesHigh proficiency in Python programming languageExperience in developing complex agentic systems using LLMsExperience in REST-based API developmentExperience in frontend development for system demonstrationProficiency in Deep Learning frameworks (PyTorch, TensorFlow, Hugging Face Transformers, etc) University Overview Interns New Grads Advanced Degrees Associate Program Manager Develop agentic system infrastructure and components and dataDesign and implement robust APIs and API framework-related featuresCreate visualization interfaces for system demonstrationFinetune AI models for agentic use casesDevelop metrics and tools to evaluate model performanceCollaborate with researchers, product managers, engineers, and designers.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr309592/smts-aiml-engineer/",
-    "id": "salesforce-smts-ai-ml-engineer-california-palo-alto"
+    "job_description": "data science job for the role Software Engineering Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57950&source=WEB_Search_NA",
+    "id": "ibm-software-engineering-intern-ship"
   },
   {
-    "employer_name": "AI Jobs",
-    "job_title": "AI Engineer",
-    "job_city": "Edison",
-    "job_state": "NJ",
-    "job_posted_at": "16h",
-    "job_description": "• Bachelor’s or Master’s degree in Computer Science, Data Science, Engineering, or a related field.\n• Proven experience in fine-tuning large language models (LLMs), using GPT APIs, and Retrieval Augmented Generation (RAG).\n• Extensive hands-on experience with Generative AI (GenAI) use cases and the development of generative AI applications.\n• Experience with machine learning frameworks and libraries (e.\n• Strong analytical and problem-solving skills with the ability to work with large datasets and derive actionable insights.\n• Excellent communication and teamwork skills with the ability to collaborate effectively with cross-functional teams.\n• Design, develop, and deploy machine learning models and AI-driven solutions tailored to the needs of aging services and post-acute care.\n• Collaborate with cross-functional teams to understand business requirements and translate them into AI/ML solutions.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161987188-ai-engineer",
-    "id": "ai-jobs-ai-engineer-edison"
+    "employer_name": "IBM",
+    "job_title": "Entry Level Software Engineer",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Entry Level Software Engineer  2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57952&source=WEB_Search_NA",
+    "id": "ibm-entry-level-software-engineer-"
   },
   {
-    "employer_name": "AI Jobs",
-    "job_title": "AI Engineer",
-    "job_city": "Pleasanton",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Strong academic background with a good GPA (please include your GPA in your application).\n• Graduating in 2025 with a Master’s program in Computer Science, Computer Engineering, Data Science, Artificial Intelligence, or a related field.\n• Collaborate with senior engineers to design, develop, and maintain AI applications.\n• Work on projects related to AI/ML, Generative AI, RAG, and AI Agents.\n• Utilize Google Cloud Platform (GCP) for AI development and deployment.\n• Contribute to Open Source AI projects and tools.\n• Write clean, efficient, and well-documented code in Python.\n• Participate in code reviews, testing, and debugging processes.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161987190-ai-engineer",
-    "id": "ai-jobs-ai-engineer-pleasanton"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "AI Engineer",
-    "job_city": "San Francisco Bay Area",
+    "employer_name": "IBM",
+    "job_title": "Entry Level Printed Circuit Board Supplier Development Engineer",
+    "job_city": "ROCHESTER",
     "job_state": "US",
-    "job_posted_at": "9h",
-    "job_description": "• Competitive salary with equity compensation401(k) retirement savings planComprehensive health, dental, vision, and life insuranceShort-term and long-term disability coverageCommuter benefits to support daily travelMonthly wellness stipend for fitness, mental health, or personal well-beingFlexible, autonomous work environment focused on outcomesReimbursement for home office or in-office equipment setupGenerous flexible time off policy, plus paid holidaysQuarterly team gatherings to foster collaboration and connectionIn-office perks, including snacks and refreshments Relevant Education: Bachelor’s or Master’s in Machine Learning, AI, Computer Science, or related field.\n• Production-Level AI Experience: You’ve built and shipped complex AI/ML systems with real users.\n• Model Optimization Expertise: Skilled in tuning and advancing foundation models.\n• Analytical Mindset: Able to design meaningful metrics and frameworks for AI evaluation.\n• Creative Problem Solver: Comfortable combining tools and models to build robust, real-world applications.\n• Strong Product-Market Fit: Already trusted by 300+ law firms and experiencing rapid growth.\n• Backed by Leading Investors: Supported by premier venture capital firms with over $60M raised to date.\n• Top-Tier Talent: Built by a world-class team of engineers, designers, and operators from high-performing startups and major tech companies.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161987184-ai-engineer",
-    "id": "ai-jobs-ai-engineer-san-francisco-bay-area"
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Entry Level Printed Circuit Board Supplier Development Engineer 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57933&source=WEB_Search_NA",
+    "id": "ibm-entry-level-printed-circuit-board-supplier-development-engineer-rochester"
+  },
+  {
+    "employer_name": "Dell",
+    "job_title": "Dell CSG Hardware Engineering Intern",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Federal Technical Staff, Systems Development Engineering - DOEremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 13 Days AgoR273436General Business Undergraduate Internremote typeOnsitelocations2 Locationsposted onPosted 4 Days AgoR277347Dell CSG Hardware Engineering InternlocationsAustin, Texas, United Statesposted onPosted TodayR277496General Business Internship MBAremote typeHybridlocationsRound Rock, Texas, United Statesposted onPosted 2 Days AgoR277381Technical Staff-Network Architect remote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted 13 Days AgoR266477Technical Staff-Network Architect remote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted 21 Days AgoR271883Senior Principal Engineering TechnologistlocationsAustin, Texas, United Statesposted onPosted 11 Days AgoR276878.",
+    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Austin-Texas-United-States/Dell-CSG-Hardware-Engineering-Intern_R277496-1?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "dell-dell-csg-hardware-engineering-intern-austin"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Diffusion and Implant Shift Process Technician",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "a day",
+    "job_description": "• Ability to work 12-hour shifts (3 days on/4 days off and 4 days on/3 days off), progress between day and night shifts every 4 months, and adapt to different shifts and overtime as needed to support business operations.\n• Prior experience in semiconductor fabrication process areas, with direct hands-on involvement in operating and maintaining process-specific equipment and supporting systems.\n• Demonstrates effective time management, organizational skills, and the ability to prioritize tasks and communicate clearly across teams.\n• Apply skills in Microsoft Office applications (Outlook, Word, PowerPoint, OneNote, Excel) to efficiently complete tasks.\n• 2+ year’s experience working with data science and programming languages such as SQL, Python, or similar technologies.\n• Escalate when updates or corrections are needed.\n• Complete all required safety training and ensure adherence to safety protocols.\n• Associate or Bachelor’s degree in a STEM related field.",
+    "job_apply_link": "https://careers.micron.com/careers/job/31043411",
+    "id": "micron-technology-diffusion-and-implant-shift-process-technician-boise"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Machine Learning Research Scientist Intern",
+    "job_city": "San Mateo",
+    "job_state": "CA",
+    "job_posted_at": "4h",
+    "job_description": "• This role provides an opportunity to gain hands-on experience in optimizing deep learning architectures while contributing to cutting-edge ML solutions in AdTech.\n• We are also open to remote applicants Optimize ML models – Improve predictive accuracy, inference speed, and efficiency in AdTech applicationsExperiment & tune – Run hyperparameter tuning, explore new architectures, and fine-tune models to move the needle on key business metricsBuild strong datasets – Help construct and preprocess high-quality training data for ML pipelinesRun experiments – Conduct PyTorch experiments and evaluate results using clear, measurable metricsDeploy at scale – Collaborate with researchers and engineers to build scalable ML pipelines for smooth deployment and iterationStay ahead of the curve – Keep up with deep learning research and propose novel approaches for model improvementCommunicate findings – Present research and experimental outcomes in clear reports that influence decision-making Educational foundation – Pursuing or recently completed a Master’s or Ph.\n• In CS, Stats, EE, or a related fieldDeep learning fluent – Strong grasp of architectures like Transformers and hands-on with PyTorchExperimentation-driven – Skilled in hyperparameter tuning, loss function design, and optimizing training pipelines.\n• Python-first – Proficient in Python for data manipulation and ML experimentationBroad ML knowledge – Familiar with techniques like gradient boosting (XGBoost), PCA, and distributed trainingCloud & data aware – Comfortable with AWS/GCP and have some exposure to Spark, Hadoop, or SQLStrong communicator – Can explain technical results clearly and thrive in a collaborative, fast-paced environment LLM experience – Worked with large language models or fine-tuned transformer-based architecturesAdTech exposure – Familiarity with real-time bidding (RTB) or online advertising modelsPerformance optimizer – Experience with C++ for ML model performance tuning Festiv – We make work fun with cross-team games, events, and creative team bondingResponsiv – You’ll be close to clients and leadership, influencing real outcomesInclusiv – Diversity and individuality are celebrated across all levelsInventiv – We reward curiosity and embrace bold ideasTransformativ – We support your growth with training, mentorship, and flexibilityCollaborativ – We operate across coasts, connected by purpose and teamwork.\n• We are looking for a Machine Learning Research Intern to join our AdTech research team for 2025 Fall.\n• This internship is ideal for students or recent graduates passionate about deep learning, model optimization, and performance tuning in real-world applications.\n• You will work closely with our ML Research Scientists to enhance Deep Neural Network (DNN) models, focusing on improving key metrics in our real-time bidding (RTB) algorithms and Large Language Model (LLM) integrations.\n• You will participate in research discussions, implement and evaluate model improvements, and collaborate with ML engineers to refine training pipelines.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162017248-machine-learning-research-scientist-intern",
+    "id": "ai-jobs-machine-learning-research-scientist-intern-san-mateo"
   }
 ]
