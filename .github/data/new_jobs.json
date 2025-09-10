@@ -1,52 +1,172 @@
 [
   {
-    "employer_name": "Broadcom",
-    "job_title": "Software Engineer ESX CPU & Server Platform",
-    "job_city": "USA-CA - Promontory B",
+    "employer_name": "IBM",
+    "job_title": "Federal Data Engineer Intern:",
+    "job_city": "shipWASHINGTON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Federal Data Engineer Intern: 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57946&source=WEB_Search_NA",
+    "id": "ibm-federal-data-engineer-intern-shipwashington"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Performance Analyst",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Software Performance Analyst",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57550&source=WEB_Search_NA",
+    "id": "ibm-software-performance-analyst-poughkeepsie"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Product Quality Engineer",
+    "job_city": "Longmont",
+    "job_state": "Colorado",
+    "job_posted_at": "21 hours",
+    "job_description": "• Hands-on experience with electrical debugging tools such as oscilloscopes and protocol analyzers.\n• Collaborate with global multi-functional teams to define and refine product requirements.\n• Experience developing and executing qualification plans for high-performance hardware.\n• Background in system-level validation, test automation, and statistical data analysis.\n• Implement qualification tests and analyze results to ensure they meet specifications.\n• 4+ years of experience in embedded systems within academic or professional settings.\n• Bachelor’s or Master’s degree in Electrical, Electronics, or Computer Engineering.\n• Develop and improve test and debug tools to enhance the qualification process.",
+    "job_apply_link": "https://careers.micron.com/careers/job/28401403",
+    "id": "micron-technology-product-quality-engineer-longmont"
+  },
+  {
+    "employer_name": "Siemens",
+    "job_title": "Energy Engineering Internship",
+    "job_city": "Pittsburgh",
+    "job_state": "Pennsylvania",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Energy Engineering Internship",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-energy-engineering-internship-pittsburgh"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Data Processing Technician, Mid",
+    "job_city": "Australia",
     "job_state": "US",
     "job_posted_at": "Posted Today",
-    "job_description": "• Principal Engineer - vDefend FirewalllocationsUSA-CA - Promontory Etime typeFull timeposted onPosted 29 Days AgoR023415 Senior Technical Support Engineerlocations2 Locationstime typeFull timeposted onPosted YesterdayR023397 Senior R&D EngineerlocationsUSA-CA - Promontory Etime typeFull timeposted onPosted 30+ Days AgoR023486 Product Managerlocations11 Locationstime typeFull timeposted onPosted 30+ Days AgoR023514.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Software-Engineer-ESX-CPU---Server-Platform_R023679?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-software-engineer-esx-cpu-server-platform-usa-ca-promontory-b"
+    "job_description": "• Knowledge Manager and Operations Support OfficerlocationsStuttgart, Baden-Wurttembergposted onPosted 27 Days AgoR0224113 Defense Mission Professional and Integrated Logistics Support ManagerlocationsWarren, MIposted onPosted 27 Days AgoR0223114 Defense Mission Professional and Integrated Logistics Support ManagerlocationsWarren, MIposted onPosted 23 Days AgoR0224382 Defense Mission Professional & Equipment SpecialistlocationsWarren, MIposted onPosted 30+ Days AgoR0223113 Operations Research Analyst, SeniorlocationsTampa, FLposted onPosted 2 Days AgoR0225807 Data Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0222851 Data Governance Leadlocations6 Locationsposted onPosted 5 Days AgoR0225455.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Australia/Data-Processing-Technician--Mid_R0219778?q=data+science",
+    "id": "bae-systems-data-processing-technician-mid-australia"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Manufacturing Engineer",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Solid Rocket Motor Engineer, Seniorlocations2 Locationsposted onPosted YesterdayR0225843 Mechanical Engineer, SeniorlocationsPicatinny, NJposted onPosted 30+ Days AgoR0222700.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Clearfield-UT/Manufacturing-Engineer_R0225930?q=data+science",
+    "id": "bae-systems-manufacturing-engineer-2-locations"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Logistics Analyst",
+    "job_city": "ational",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/International/Logistics-Analyst_RQ207094-1?q=data+science",
+    "id": "general-dynamics-logistics-analyst-ational"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Systems Administrator (TS/SCI with Poly REQUIRED)",
+    "job_city": "USA VA Chantilly",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Systems-Administrator--TS-SCI-with-Poly-REQUIRED-_RQ207121?q=data+science",
+    "id": "general-dynamics-systems-administrator-ts-sci-with-poly-required-usa-va-chantilly"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Peripheral Testing Engineer – TS/SCI",
+    "job_city": "USA MD Annapolis Junction",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/Peripheral-Testing-Engineer---TS-SCI_RQ207079?q=data+science",
+    "id": "general-dynamics-peripheral-testing-engineer-ts-sci-usa-md-annapolis-junction"
   },
   {
     "employer_name": "Guidehouse",
-    "job_title": "Data Analyst",
-    "job_city": "US - (Any location)",
+    "job_title": "AWS Database Administrator (DBA)",
+    "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "Posted Today",
-    "job_description": "• Solutions Architect - Data Science & AIlocations2 Locationsposted onPosted 12 Days Ago28465Director - Life Sciences Advisory - Data SciencelocationsUS - Remote (Any location)posted onPosted Yesterday32193AI/ML Health Data Science Senior Consultantlocations4 Locationsposted onPosted 6 Days Ago31747Data Engineer – AI & Data Modernizationlocations3 Locationsposted onPosted Yesterday31777Data ScientistlocationsUS - VA, Springfieldposted onPosted 30+ Days Ago30703Data EngineerlocationsUS - VA, Arlingtonposted onPosted Today31267Data EngineerlocationsUS - VA, Arlingtonposted onPosted 30+ Days Ago31313Data EngineerlocationsUS - AL, Huntsvilleposted onPosted 2 Days Ago31694Data AnalystlocationsUS - Remote (Any location)posted onPosted Today32253Data ScientistlocationsUS - Remote (Any location)posted onPosted Today32254Data Warehouse Architect – AI & Data Modernizationlocations4 Locationsposted onPosted 19 Days Ago31739Senior Data Engineer – AI & Data Modernizationlocations3 Locationsposted onPosted Yesterday31753Senior Data AnalystlocationsUS - VA, Springfieldposted onPosted 2 Days Ago31752Senior Data Analytics ConsultantlocationsUS - AL, Huntsvilleposted onPosted 2 Days Ago30524AI/MLOps Data Scientistlocations2 Locationsposted onPosted 2 Days Ago32031Partner, AI & Data Health Leaderlocations2 Locationsposted onPosted 30+ Days Ago30842AI & Data Analytics Project ManagerlocationsUS - VA, Ashburnposted onPosted 2 Days Ago31011Associate Director, AI & Data, Energy Providerslocations6 Locationsposted onPosted 30+ Days Ago30435Associate Director, AI & Data, Federal Civilian Agencieslocations2 Locationsposted onPosted 30+ Days Ago30806Associate Director, AI & Data (State and Local Government)locations3 Locationsposted onPosted 8 Days Ago31844.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Data-Analyst_32253?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-data-analyst-us-any-location"
+    "job_description": "• Senior Consultant - Life Sciences Advisory - Commerciallocations5 Locationsposted onPosted 30+ Days Ago28006Technology Account Lead – Ecosystem Partner, Life Scienceslocations2 Locationsposted onPosted 30+ Days Ago31120Head Start Data Engineer Senior Consultantlocations2 Locationsposted onPosted 14 Days Ago31746Managing Consultant - Life Sciences Advisorylocations5 Locationsposted onPosted 21 Days Ago31690Managing Consultant/Senior Consultant - Life Sciences Advisorylocations5 Locationsposted onPosted 30+ Days Ago31254Associate Director - Life Sciences Advisory - Oncology Specialistlocations5 Locationsposted onPosted 30+ Days Ago30443Managing Consultant - Life Sciences Advisory - Oncology Specialistlocations5 Locationsposted onPosted 30+ Days Ago30441Managing Consultant/Associate Director - Life Sciences - LondonlocationsGB - Londonposted onPosted Today31728Director - Life Sciences Advisory - Patient Support Programs (Pharma)locations5 Locationsposted onPosted 28 Days Ago31556AWS Database Administrator (DBA)locations2 Locationsposted onPosted Today32103Associate Director - Life Sciences Advisory - Patient Support Programs (Pharma)locations5 Locationsposted onPosted 27 Days Ago30434Intern - Life Sciences Advisory, Health Segment - Campus 2026locations4 Locationsposted onPosted 2 Days Ago32179Lead, Business Operations (BizOps) & Data ManagementlocationsUS - MD, Fort Detrickposted onPosted 21 Days Ago31657Process/Program Management AnalystlocationsUS - TX, San Antonioposted onPosted 13 Days Ago31867Intern - Federal Civilian Agencies - Campus 2026locationsUS - VA, Arlingtonposted onPosted 5 Days Ago32127Scientific Program InitiativelocationsUS - NC, Durhamposted onPosted 30+ Days Ago30927Guidehouse Technology ConsultantlocationsUS - VA, McLeanposted onPosted 2 Days Ago31958Defense & Security Consultantlocations2 Locationsposted onPosted 2 Days Ago31936Defense & Security ConsultantlocationsUS - VA, McLeanposted onPosted Today31941Consultant - CEI Energy Providers - Campus 2026locations14 Locationsposted onPosted Today32283.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---TX-San-Antonio/AWS-Database-Administrator--DBA-_32103?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-aws-database-administrator-dba-2-locations"
   },
   {
     "employer_name": "Guidehouse",
-    "job_title": "Data Scientist",
+    "job_title": "Power Platform Developer",
     "job_city": "US - (Any location)",
     "job_state": "US",
     "job_posted_at": "Posted Today",
-    "job_description": "• Solutions Architect - Data Science & AIlocations2 Locationsposted onPosted 12 Days Ago28465Director - Life Sciences Advisory - Data SciencelocationsUS - Remote (Any location)posted onPosted Yesterday32193AI/ML Health Data Science Senior Consultantlocations4 Locationsposted onPosted 6 Days Ago31747Data Engineer – AI & Data Modernizationlocations3 Locationsposted onPosted Yesterday31777Data ScientistlocationsUS - VA, Springfieldposted onPosted 30+ Days Ago30703Data EngineerlocationsUS - VA, Arlingtonposted onPosted Today31267Data EngineerlocationsUS - VA, Arlingtonposted onPosted 30+ Days Ago31313Data EngineerlocationsUS - AL, Huntsvilleposted onPosted 2 Days Ago31694Data AnalystlocationsUS - Remote (Any location)posted onPosted Today32253Data ScientistlocationsUS - Remote (Any location)posted onPosted Today32254Data Warehouse Architect – AI & Data Modernizationlocations4 Locationsposted onPosted 19 Days Ago31739Senior Data Engineer – AI & Data Modernizationlocations3 Locationsposted onPosted Yesterday31753Senior Data AnalystlocationsUS - VA, Springfieldposted onPosted 2 Days Ago31752Senior Data Analytics ConsultantlocationsUS - AL, Huntsvilleposted onPosted 2 Days Ago30524AI/MLOps Data Scientistlocations2 Locationsposted onPosted 2 Days Ago32031Partner, AI & Data Health Leaderlocations2 Locationsposted onPosted 30+ Days Ago30842AI & Data Analytics Project ManagerlocationsUS - VA, Ashburnposted onPosted 2 Days Ago31011Associate Director, AI & Data, Energy Providerslocations6 Locationsposted onPosted 30+ Days Ago30435Associate Director, AI & Data, Federal Civilian Agencieslocations2 Locationsposted onPosted 30+ Days Ago30806Associate Director, AI & Data (State and Local Government)locations3 Locationsposted onPosted 8 Days Ago31844.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Data-Scientist_32254-1?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-data-scientist-us-any-location"
+    "job_description": "• Systems AnalystlocationsUS - MD, Fort Detrickposted onPosted 21 Days Ago31660Pentaho ETL developerlocationsIN - Trivandrumposted onPosted 7 Days Ago31682Business Integration Consultantlocations3 Locationsposted onPosted 30+ Days Ago31346Human Foods Program SME IIlocations2 Locationsposted onPosted 21 Days Ago31695Senior Power Platform DeveloperlocationsUS - Remote (Any location)posted onPosted Today32207Power Platform DeveloperlocationsUS - Remote (Any location)posted onPosted Today32206Senior Salesforce DeveloperlocationsIN - Chennaiposted onPosted 30+ Days Ago30979HRIS Technology LeadlocationsUS - Remote (Any location)posted onPosted 13 Days Ago31862Manual Tester EHR - Jr- midlocationsUS - Remote (Any location)posted onPosted 22 Days Ago31671Staff ScientistlocationsUS - MD, Rockvilleposted onPosted 6 Days Ago32014Business Solution Consultantlocations3 Locationsposted onPosted 30+ Days Ago31344Mathematical StatisticianlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago30575Intern – State and Local Government, North Market – Campus 2026locations3 Locationsposted onPosted 15 Days Ago31863Scientific Program AnalystlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago31185Lead Trainer_Surgerylocations2 Locationsposted onPosted 30+ Days Ago27909Salesforce Business AnalystlocationsUS - Remote (Any location)posted onPosted 6 Days Ago30492Microsoft Dynamics 365 ArchitectlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago30535Microsoft Dynamics 365 ArchitectlocationsUS - Remote (Any location)posted onPosted 6 Days Ago32064Charge Description Master (CDM) Senior Solution Tech Expertlocations2 Locationsposted onPosted 30+ Days Ago30579ScientistlocationsUS - MD, Bethesdaposted onPosted 8 Days Ago31962.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Power-Platform-Developer_32206?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-power-platform-developer-us-any-location"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Machine Learning Engineer",
-    "job_city": "New York",
-    "job_state": "NY",
+    "employer_name": "AMD",
+    "job_title": "Firmware Simulation Design Engineer",
+    "job_city": "US",
+    "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "• 2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York Chicago, IL, United States and 4 more Data & AnalyticsSeasonal Employee Use your data analysis and coding skills to help a nonprofit organization further their mission.\n• Applied AIML Lead Bengaluru, Karnataka, India Data & AnalyticsPredictive Science Develop AI solutions for compliance and risk, enhancing skills in a dynamic data science team.\n• Associate New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems WFP Lead Data Scientist - Vice President Plano, TX, United States and 2 more Data & AnalyticsPredictive Science Lead AI-driven solutions in Workforce Planning tackling complex challenges, enhance decision-making and drive strategic business impact Data Scientist Lead - NLQ/LLM LONDON, United Kingdom and 1 more Data & AnalyticsPredictive Science Empower investment decisions by designing natural language solutions and deploying advanced machine learning models.\n• Product Director - Platform and Experience New York, NY, United States ProductProduct Management Ignite product innovation by leading customer-focused development, inspiring solutions, and shaping Client 360’s future.\n• Software Engineer III - Kubernetes, Bigadata, CI/CD Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Equipment Finance Operations Program and Platform Manager Columbus, OH, United States and 2 more OperationsProgram & Project Management Shape the future of Equipment Finance Operations by crafting solutions that enhance client and stakeholder experiences.\n• Acquiring Data & Analytics Platform - Associate Plano, TX, United States ProductProduct Management Acquiring Data & Analytics Platform - Product Associate Software Engineer [Multiple Positions Available] New York, NY, United States TechnologySoftware Engineering Engage in all phases of the Software Development Lifecycle (SDLC), including requirement analysis, integrating architectural standards Control Manager- Vice President LONDON, United Kingdom Oversight & ControlControl Officers Join a high-profile team enhancing Front Office Risk Management with strategic projects, regulatory focus, and stakeholder engagement.\n• Data Scientist Associate - SQL, Python, Tableau Mumbai, Maharashtra, India Data & AnalyticsPredictive Science Drive data-driven solutions to enhance technology efficiency and developer experience at Chase Bank.\n• Salesforce Marketing Cloud Builder-Senior Associate Newark, DE, United States and 1 more Marketing & CommunicationsMarketing Delivery Design and execute omni-channel customer journeys to create engaging and personalized marketing experiences.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210665979/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-machine-learning-engineer-new-york"
+    "job_description": "• Experience with C++ development experience in hardware modeling or simulationProven expertise in SystemC/TLM or equivalent high-level modeling frameworksExperience with virtual platform tools (e.\n• , Synopsys Virtualizer, Cadence VSP, QEMU, gem5)Strong understanding of CPU architecture, memory hierarchy, buses, and peripheral IPsSkilled in simulation debugging and model integrationFamiliarity with RTL design (Verilog/SystemVerilog) and verification methodologies (UVM)Proficient in scripting languages like Python or Perl for automationExposure to firmware/software bring-up on virtual platformsDemonstrated leadership in validation and cross-functional collaborationComfortable working in fast-paced, pre-silicon environments Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.\n• Our third party providers may collect and combine information collected through the Sites, emails, and newsletters with other information about your visits to other websites and apps over time, if those websites and apps also use the same providers.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/68838/login",
+    "id": "amd-firmware-simulation-design-engineer-us"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Solutions Investigator - Cybersecurity Operations",
-    "job_city": "Jersey City",
-    "job_state": "NJ",
+    "employer_name": "Apple",
+    "job_title": "Data Engineer - Health Sensing",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "Today",
+    "job_description": "• Minimum QualificationsBS degree in Computer Science, Engineering, Data Science, or a related technical field.\n• Minimum of 3 years relevant industry experience building and maintaining data pipelines or distributed data systems.\n• Proficiency in Python and strong programming skills with a focus on writing clean, maintainable, and high-performance code.\n• Hands-on experience with distributed computing frameworks like Apache Spark.\n• Experience with ETL development, data modeling, and data transformation workflows.\n• Familiarity in SQL for querying, transforming, and analyzing structured data.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200619940-3543/data-engineer-health-sensing?team=HRDWR",
+    "id": "apple-data-engineer-health-sensing-san-diego"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Implementation Engineer - CPU",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "• 2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York Chicago, IL, United States and 4 more Data & AnalyticsSeasonal Employee Use your data analysis and coding skills to help a nonprofit organization further their mission.\n• Applied AIML Lead Bengaluru, Karnataka, India Data & AnalyticsPredictive Science Develop AI solutions for compliance and risk, enhancing skills in a dynamic data science team.\n• Associate New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems WFP Lead Data Scientist - Vice President Plano, TX, United States and 2 more Data & AnalyticsPredictive Science Lead AI-driven solutions in Workforce Planning tackling complex challenges, enhance decision-making and drive strategic business impact Data Scientist Lead - NLQ/LLM LONDON, United Kingdom and 1 more Data & AnalyticsPredictive Science Empower investment decisions by designing natural language solutions and deploying advanced machine learning models.\n• Product Director - Platform and Experience New York, NY, United States ProductProduct Management Ignite product innovation by leading customer-focused development, inspiring solutions, and shaping Client 360’s future.\n• Software Engineer III - Kubernetes, Bigadata, CI/CD Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Equipment Finance Operations Program and Platform Manager Columbus, OH, United States and 2 more OperationsProgram & Project Management Shape the future of Equipment Finance Operations by crafting solutions that enhance client and stakeholder experiences.\n• Acquiring Data & Analytics Platform - Associate Plano, TX, United States ProductProduct Management Acquiring Data & Analytics Platform - Product Associate Software Engineer [Multiple Positions Available] New York, NY, United States TechnologySoftware Engineering Engage in all phases of the Software Development Lifecycle (SDLC), including requirement analysis, integrating architectural standards Control Manager- Vice President LONDON, United Kingdom Oversight & ControlControl Officers Join a high-profile team enhancing Front Office Risk Management with strategic projects, regulatory focus, and stakeholder engagement.\n• Data Scientist Associate - SQL, Python, Tableau Mumbai, Maharashtra, India Data & AnalyticsPredictive Science Drive data-driven solutions to enhance technology efficiency and developer experience at Chase Bank.\n• Salesforce Marketing Cloud Builder-Senior Associate Newark, DE, United States and 1 more Marketing & CommunicationsMarketing Delivery Design and execute omni-channel customer journeys to create engaging and personalized marketing experiences.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210665897/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-solutions-investigator-cybersecurity-operations-jersey-city"
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-implementation-engineer-cpu/33099/85997350336",
+    "id": "arm-graduate-implementation-engineer-cpu-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Hardware Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-hardware-engineer/33099/85997348720",
+    "id": "arm-graduate-hardware-engineer-austin"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML, Platforms and Devices",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Software Engineer III, AI/ML, Platforms and Devices",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/111035263345402566-software-engineer-iii-aiml-platforms-and-devices?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=10",
+    "id": "google-software-engineer-iii-ai-ml-platforms-and-devices-mountain-view"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Business Analyst II, At Risk Clinical Programs",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "1 day",
+    "job_description": "data science job for the role Business Analyst II, At Risk Clinical Programs",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3078965/business-analyst-ii-at-risk-clinical-programs",
+    "id": "amazon-business-analyst-ii-at-risk-clinical-programs-san-francisco"
   }
 ]
