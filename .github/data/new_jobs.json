@@ -1,42 +1,52 @@
 [
   {
-    "employer_name": "AMD",
-    "job_title": "MTS Software Development Eng.",
-    "job_city": "US",
-    "job_state": "OR",
-    "job_posted_at": "Recently",
-    "job_description": "• 5+ years of professional software development experience.\n• Proficiency in assembly and experience with low-level programming and computer architectures.\n• Experience with concurrent and parallel programming.\n• Experience with software development processes and tools.\n• Effective communication skills.\n• Effective problem-solving skills and ability to write high quality code with a keen attention to detail.\n• Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.\n• Design and develop new AMD software technologies.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/71227/login",
-    "id": "amd-mts-software-development-eng-us"
+    "employer_name": "AI Jobs",
+    "job_title": "Remote AI/ML Scientist (Healthcare)",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "17h",
+    "job_description": "• Translate business and clinical requirements into machine learning use cases focused on automation, decision support, and risk prediction in the utilization management domain.\n• , precision, recall, F1, ROI), ensuring alignment with product goals and customer needs.\n• Experience with MLOps tools and practices (e.\n• Background in building AI features in healthcare SaaS or digital health products.\n• , model interpretability requirements).\n• At least 3 years of experience in applied Machine Learning (ML) or data science.\n• 1 year of experience integrating ML into software products.\n• Experience working with real-world healthcare data, claims, Electronic Health Record (EHR), and clinical text.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162071443-remote-ai-ml-scientist-healthcare",
+    "id": "ai-jobs-remote-ai-ml-scientist-healthcare-"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist - Advertising",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "11h",
+    "job_description": "• Partner with product, engineering, and marketing teams to solve complex challenges with data-driven solutionsAnalyze large datasets to generate insights that guide product, platform, and business decisionsDefine data requirements and support implementation for new product launchesBuild scalable solutions to surface key metrics, dashboards, and reporting toolsDesign and run experiments to improve user and advertiser outcomesWrite efficient code (SQL, Python, R) for data extraction, analysis, and modelingCommunicate insights clearly to both technical and non-technical partnersMentor peers while driving projects from scoping to delivery You have 4+ years of data science experience and a degree in a quantitative fieldYou are skilled in SQL, Python or R, and comfortable working with large, complex datasetsYou have experience with data visualization tools (Tableau, Looker, matplotlib)You bring strong knowledge of statistical analysis, machine learning, and advanced analyticsYou can translate complex ideas for diverse stakeholdersYou are a creative problem-solver who thrives in ambiguity and takes ownership from idea to impactYou are curious, collaborative, and excited to help shape the future of Spotify Advertising.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162071444-data-scientist-advertising",
+    "id": "ai-jobs-data-scientist-advertising-new-york"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist",
+    "job_city": "Greater Colorado Springs Area",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Experience with data wrangling, analytics, visualization software and programming languages, analytics methods for big data, machine learning, natural language processing, statistical analysis, and data mining techniques.\n• Experience or strong interest in wrangling transactional grants datasets - including data cleaning, schema harmonization, entity resolution, and basic geospatial joins.\n• Bachelor's degree with 2+ years of related experienceWorks on assignments requiring judgment and initiative under supervision.\n• Highly competitive salaryFully covered healthcare, dental, and vision coverage401(k) and company matchTake as you need PTO + 11 paid holidaysEducation & training benefitsGenerous Referral BonusesAnd More.\n• Advanced degrees in data science, statistics, or related fields.\n• Experience with big data platforms and tools.\n• Hybrid role can be located in Colorado Springs, CO, San Antonio, TX, Mclean, VA, Boston, MA or Tampa, FLMay require up to 10% travel Ability to obtain and maintain Public Trust.\n• Ability to translate analyses into decisions for a diverse set of stakeholders (program leads, analysts, and community partners) through clear writing, compelling visuals, and live briefings.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162071445-data-scientist",
+    "id": "ai-jobs-data-scientist-greater-colorado-springs-area"
   },
   {
     "employer_name": "Google",
-    "job_title": "Data Scientist III, Research, Privacy Sandbox",
-    "job_city": "Kirkland",
-    "job_state": "WA",
+    "job_title": "Data Center Quality Engineer",
+    "job_city": "Pryor Creek",
+    "job_state": "OK 74361",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role Data Scientist III, Research, Privacy Sandbox",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/120027825351598790-data-scientist-iii-research-privacy-sandbox?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1",
-    "id": "google-data-scientist-iii-research-privacy-sandbox-kirkland"
+    "job_description": "data science job for the role Data Center Quality Engineer",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/140407548250333894-data-center-quality-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3",
+    "id": "google-data-center-quality-engineer-pryor-creek"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Research Data Scientist, Ads Safety and Spam",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Research Data Scientist, Ads Safety and Spam",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/128164151267599046-research-data-scientist-ads-safety-and-spam?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1",
-    "id": "google-research-data-scientist-ads-safety-and-spam-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Ads Reporting Infrastructure",
-    "job_city": "Kirkland",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Software Engineer, Ads Reporting Infrastructure",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/96764847957385926-software-engineer-ads-reporting-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=4",
-    "id": "google-software-engineer-ads-reporting-infrastructure-kirkland"
+    "employer_name": "Amazon",
+    "job_title": "Data Scientist, People Experience and Technology Central Science",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_posted_at": "4 months",
+    "job_description": "data science job for the role Data Scientist, People Experience and Technology Central Science",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/2981030/data-scientist-people-experience-and-technology-central-science",
+    "id": "amazon-data-scientist-people-experience-and-technology-central-science-arlington"
   }
 ]
