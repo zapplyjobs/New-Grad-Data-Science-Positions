@@ -1,62 +1,42 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "CAD Engineer, Memory",
-    "job_city": "Richardson",
-    "job_state": "Texas",
-    "job_posted_at": "16 days",
-    "job_description": "Description content not available",
-    "job_apply_link": "https://careers.micron.com/careers/job/28862569",
-    "id": "micron-technology-cad-engineer-memory-richardson"
-  },
-  {
-    "employer_name": "Siemens",
-    "job_title": "Component Engineer-Rolling Stock",
-    "job_city": "Sacramento",
-    "job_state": "California",
+    "employer_name": "Salesforce",
+    "job_title": "SMTS AI/ML Engineer",
+    "job_city": "California - Palo Alto",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role Component Engineer-Rolling Stock",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-component-engineer-rolling-stock-sacramento"
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Bachelor's, Master's, or Ph.\n• In Computer Science, Data Science, Machine Learning, or related fieldStrong backend data model and schema design experiencesStrong expertise in LLMs and ML techniquesHigh proficiency in Python programming languageExperience in developing complex agentic systems using LLMsExperience in REST-based API developmentExperience in frontend development for system demonstrationProficiency in Deep Learning frameworks (PyTorch, TensorFlow, Hugging Face Transformers, etc) University Overview Interns New Grads Advanced Degrees Associate Program Manager Develop agentic system infrastructure and components and dataDesign and implement robust APIs and API framework-related featuresCreate visualization interfaces for system demonstrationFinetune AI models for agentic use casesDevelop metrics and tools to evaluate model performanceCollaborate with researchers, product managers, engineers, and designers.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr309592/smts-aiml-engineer/",
+    "id": "salesforce-smts-ai-ml-engineer-california-palo-alto"
   },
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Materials Scientist",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Information Systems Security ManagerlocationsAlexandria, VAposted onPosted 13 Days AgoR0225171 SIGINT Technical ExpertlocationsFort Meade, MDposted onPosted 30+ Days AgoR0208588 Software Architect, Leadlocations3 Locationsposted onPosted 20 Days AgoR0224420 Mechanical Engineer, JuniorlocationsOdon, INposted onPosted 5 Days AgoR0225666 Computer Vision ExpertlocationsBethesda, MDposted onPosted 5 Days AgoR0225632 Statistician, SeniorlocationsDahlgren, VAposted onPosted TodayR0224439.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Materials-Scientist_R0225905?q=data+science",
-    "id": "bae-systems-materials-scientist-arlington"
+    "employer_name": "AI Jobs",
+    "job_title": "AI Engineer",
+    "job_city": "Edison",
+    "job_state": "NJ",
+    "job_posted_at": "16h",
+    "job_description": "• Bachelor’s or Master’s degree in Computer Science, Data Science, Engineering, or a related field.\n• Proven experience in fine-tuning large language models (LLMs), using GPT APIs, and Retrieval Augmented Generation (RAG).\n• Extensive hands-on experience with Generative AI (GenAI) use cases and the development of generative AI applications.\n• Experience with machine learning frameworks and libraries (e.\n• Strong analytical and problem-solving skills with the ability to work with large datasets and derive actionable insights.\n• Excellent communication and teamwork skills with the ability to collaborate effectively with cross-functional teams.\n• Design, develop, and deploy machine learning models and AI-driven solutions tailored to the needs of aging services and post-acute care.\n• Collaborate with cross-functional teams to understand business requirements and translate them into AI/ML solutions.",
+    "job_apply_link": "https://www.aijobs.com/jobs/161987188-ai-engineer",
+    "id": "ai-jobs-ai-engineer-edison"
   },
   {
-    "employer_name": "Honeywell",
-    "job_title": "Software Engineer II - DDAS Systems",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_posted_at": "1 day",
-    "job_description": "• Information Systems, IT, Cyber Engineer & Data Science - Summer 2026 Intern Locations United States Posting Dates08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• #Futureshaper Information Systems, IT, Cyber Engineer & Data Science (Recent Grad/Full Time) Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Information Systems, IT, Cyber Engineer & Data Science - Summer 2026 Intern (US Person Required) Locations United States Posting Dates08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• #Futureshaper Information Systems, IT, Cyber Engineer & Data Science - Recent Grad/Full Time (US Person Required) Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Future IT Leaders - Summer 2026 Intern Locations United States Posting Dates08/27/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/111406/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-software-engineer-ii-ddas-systems-phoenix"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Business and Marketing Data Scientist, Behavioral Economics",
-    "job_city": "Mountain View",
+    "employer_name": "AI Jobs",
+    "job_title": "AI Engineer",
+    "job_city": "Pleasanton",
     "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Business and Marketing Data Scientist, Behavioral Economics",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/129424492240741062-business-and-marketing-data-scientist-behavioral-economics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1",
-    "id": "google-business-and-marketing-data-scientist-behavioral-economics-mountain-view"
+    "job_posted_at": "1d",
+    "job_description": "• Strong academic background with a good GPA (please include your GPA in your application).\n• Graduating in 2025 with a Master’s program in Computer Science, Computer Engineering, Data Science, Artificial Intelligence, or a related field.\n• Collaborate with senior engineers to design, develop, and maintain AI applications.\n• Work on projects related to AI/ML, Generative AI, RAG, and AI Agents.\n• Utilize Google Cloud Platform (GCP) for AI development and deployment.\n• Contribute to Open Source AI projects and tools.\n• Write clean, efficient, and well-documented code in Python.\n• Participate in code reviews, testing, and debugging processes.",
+    "job_apply_link": "https://www.aijobs.com/jobs/161987190-ai-engineer",
+    "id": "ai-jobs-ai-engineer-pleasanton"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Data Scientist, Generative AI Innovation Center",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_posted_at": "1 day",
-    "job_description": "data science job for the role Data Scientist, Generative AI Innovation Center",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3079128/data-scientist-generative-ai-innovation-center",
-    "id": "amazon-data-scientist-generative-ai-innovation-center-arlington"
+    "employer_name": "AI Jobs",
+    "job_title": "AI Engineer",
+    "job_city": "San Francisco Bay Area",
+    "job_state": "US",
+    "job_posted_at": "9h",
+    "job_description": "• Competitive salary with equity compensation401(k) retirement savings planComprehensive health, dental, vision, and life insuranceShort-term and long-term disability coverageCommuter benefits to support daily travelMonthly wellness stipend for fitness, mental health, or personal well-beingFlexible, autonomous work environment focused on outcomesReimbursement for home office or in-office equipment setupGenerous flexible time off policy, plus paid holidaysQuarterly team gatherings to foster collaboration and connectionIn-office perks, including snacks and refreshments Relevant Education: Bachelor’s or Master’s in Machine Learning, AI, Computer Science, or related field.\n• Production-Level AI Experience: You’ve built and shipped complex AI/ML systems with real users.\n• Model Optimization Expertise: Skilled in tuning and advancing foundation models.\n• Analytical Mindset: Able to design meaningful metrics and frameworks for AI evaluation.\n• Creative Problem Solver: Comfortable combining tools and models to build robust, real-world applications.\n• Strong Product-Market Fit: Already trusted by 300+ law firms and experiencing rapid growth.\n• Backed by Leading Investors: Supported by premier venture capital firms with over $60M raised to date.\n• Top-Tier Talent: Built by a world-class team of engineers, designers, and operators from high-performing startups and major tech companies.",
+    "job_apply_link": "https://www.aijobs.com/jobs/161987184-ai-engineer",
+    "id": "ai-jobs-ai-engineer-san-francisco-bay-area"
   }
 ]
