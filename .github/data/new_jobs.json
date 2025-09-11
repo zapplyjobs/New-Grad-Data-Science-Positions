@@ -1,62 +1,22 @@
 [
   {
-    "employer_name": "General Dynamics",
-    "job_title": "Product Owner Liaison SME",
-    "job_city": "Any Location /",
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineering AMTS",
+    "job_city": "California - San Francisco",
     "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Product-Owner-Liaison_RQ206902-1?q=data+science",
-    "id": "general-dynamics-product-owner-liaison-sme-any-location"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Machine Learning Engineer, Computer Vision",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "2h",
-    "job_description": "• Architect Scalable Distributed Systems: Leverage deep software engineering skills to design, develop, and implement reliable, performant, and inherently scalable distributed systems within a dynamic cloud environment.\n• 2-5 years of direct, hands-on experience in relevant industry and/or academic settings, showcasing your ability to deliver tangible results.\n• Demonstrable expertise in Machine Learning at scale, with practical experience in Large Language Models, Self-Supervised/Contrastive/Representation Learning for Computer Vision applications, and multi-modal data integration.\n• Prior experience with bioinformatics data processing and analysis, showcasing a relevant domain understanding.\n• Practical experience with cloud computing platforms and containerization technologies, enabling scalable deployments.\n• Pioneer Model Development & Optimization: The Machine Learning Engineer will be at the forefront, meticulously evaluating and re-engineering state-of-the-art AI models across the entire spectrum of imaging.\n• This includes developing solutions for de novo protein design, structure identification, and dynamics in single-particle CryoEM, as well as integrating light microscopy and multi-omics data for cross-domain mapping of in situ and in vivo collected data.\n• Your deep technical acumen will transform complex algorithms into practical, high-impact tools.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162255808-machine-learning-engineer-computer-vision",
-    "id": "ai-jobs-machine-learning-engineer-computer-vision-san-francisco"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Analyst, Platform Journey Analytics and Measurement for Support",
-    "job_city": "Boulder",
-    "job_state": "CO",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role Analyst, Platform Journey Analytics and Measurement for Support",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/82748660273554118-analyst-platform-journey-analytics-and-measurement-for-support?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2",
-    "id": "google-analyst-platform-journey-analytics-and-measurement-for-support-boulder"
+    "job_description": "• Collaborate closely with other teams to understand developer pain points and requirements, ensuring the creation of tools that simplify workflows and enhance the developer experience.\n• Explore and implement strategies for creating resources seamlessly across multiple cloud providers (AWS, GCP, Azure, AliCloud, etc) to offer a unified developer experience.\n• Collaborate with teams operating in different time zones, demonstrating excellent communication and cross-functional teamwork skills.\n• Bachelor's or Master's degree in Computer Science, Engineering, or related field (or equivalent practical experience)3+ years of experience in DevOps or a similar role.\n• Proficiency in Golang and Terraform, with hands-on experience in designing and deploying cloud resources using AWS, Kubernetes, and related technologies.\n• Prior technical leadership and mentorship experience.\n• Experience with cloud providers such as AWS, GCP, Azure, or AliCloud.\n• Excellent problem-solving skills and the ability to drive complex technical initiatives.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr293440/software-engineering-amts/",
+    "id": "salesforce-software-engineering-amts-california-san-francisco"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Pixel Watch Apps",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Software Engineer, Pixel Watch Apps",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/91819218885845702-software-engineer-pixel-watch-apps?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=4",
-    "id": "google-software-engineer-pixel-watch-apps-san-diego"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Front End, Gmail Ads",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Software Engineer III, Front End, Gmail Ads",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/101827248599769798-software-engineer-iii-front-end-gmail-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=6",
-    "id": "google-software-engineer-iii-front-end-gmail-ads-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, AI/ML GenAI, Google Cloud Platforms",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Software Engineer III, AI/ML GenAI, Google Cloud Platforms",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/80822416833422022-software-engineer-iii-aiml-genai-google-cloud-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=10",
-    "id": "google-software-engineer-iii-ai-ml-genai-google-cloud-platforms-mountain-view"
+    "employer_name": "Guidehouse",
+    "job_title": "AWS Security Engineer",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "• RCMI Senior Solution Technical Expert - PathNetlocations2 Locationsposted onPosted 30+ Days Ago30584Revenue Cycle Senior Solution Technical ExpertlocationsUS - TX, San Antonioposted onPosted 30+ Days Ago30589RCMI Senior Solution Technical Expert – Traininglocations2 Locationsposted onPosted 30+ Days Ago30577RCMI Senior Solution Technical Expert – Patient Accesslocations2 Locationsposted onPosted 30+ Days Ago30583RCMI Senior Solution Technical Expert – Patient Accountinglocations2 Locationsposted onPosted 30+ Days Ago30580RCMI Senior Solution Technical Expert - Order Alertslocations2 Locationsposted onPosted 30+ Days Ago30586Consultant-Energy Transition (Power Market Modeling)-Campus 2026locations13 Locationsposted onPosted 2 Days Ago32240Senior Developer – Microsoft Dynamics 365locationsIN - Chennaiposted onPosted 17 Days Ago31229Laboratory Technologist (MPC)locationsUS - MD, Bethesdaposted onPosted 20 Days Ago31711Catheter Development EngineerlocationsUS - MD, Bethesdaposted onPosted 20 Days Ago31709Cardiovascular Catheter Development EngineerlocationsUS - MD, Bethesdaposted onPosted 6 Days Ago32132Consultant - CEI Customer Programs - Campus 2026locations7 Locationsposted onPosted Yesterday32257Program Manager - SAP OperationslocationsUS - MD, Patuxent Riverposted onPosted 30+ Days Ago28862AWS Infrastructure Architectlocations2 Locationsposted onPosted Yesterday32096Microsoft Dynamics 365 DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago30536Microsoft Dynamics DeveloperlocationsUS - Remote (Any location)posted onPosted 7 Days Ago32092Quality Assurance SpecialistlocationsUS - MD, Bethesdaposted onPosted 20 Days Ago31748Appian Solution ArchitectlocationsUS - VA, McLeanposted onPosted 13 Days Ago31943AWS Security Engineerlocations2 Locationsposted onPosted Yesterday32102Quality Assurance Manager, Sterility TestinglocationsUS - MD, Bethesdaposted onPosted 28 Days Ago31549.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---TX-San-Antonio/AWS-Security-Engineer_32102?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-aws-security-engineer-2-locations"
   }
 ]
