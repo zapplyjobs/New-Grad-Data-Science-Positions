@@ -1,72 +1,62 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Engineer, Shift Process",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "2 days",
-    "job_description": "• Applies SPC, FDC, and 8D methodology to process optimization, testing, creating, and modifying process related procedures, and disposition of lots to increase the tool availability and turns through systematic problem solving Bachelor’s or Master’s degree in Chemical Engineering, Electrical Engineering, Material Science, or Physics.\n• However, other engineering or related fields may be considered Must be flexible to work any shift and rotate shifts as needed (allowing for flexibility around school schedule where applicable) Proficient in one or more scripting, programming and visualization tools: Python, Java, Tableau, Matlab, Microsoft Suite Completes all required safety training and conducts all work in accordance with safety policies and regulations Analyzes data using various application and engineering knowledge to make critical process decisions Hands-on experience in the field of data analytics, preferably with experience querying databases Leads in expertise of executing area operations to ensure throughput needs are accomplished Experience or knowledge of data collection, warehousing systems, and data cleansing In-depth understanding and working knowledge of SPC and Design of Experiments.",
-    "job_apply_link": "https://careers.micron.com/careers/job/30425012",
-    "id": "micron-technology-engineer-shift-process-boise"
+    "employer_name": "General Dynamics",
+    "job_title": "Product Owner Liaison SME",
+    "job_city": "Any Location /",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Product-Owner-Liaison_RQ206902-1?q=data+science",
+    "id": "general-dynamics-product-owner-liaison-sme-any-location"
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Software Engineer, Data Acquisition",
+    "job_title": "Machine Learning Engineer, Computer Vision",
     "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "1h",
-    "job_description": "• 5+ years of industry experience in software development.\n• Experience with large web crawlers a plusStrong expertise in large stateful distributed systems and data processing.\n• Strong communication skills, both written and verbal.\n• Own and lead engineering projects in the area of data acquisition including web crawling, data ingestion, and search.\n• Collaborate with other sub-teams, such as Data Processing, Architecture, and Scaling, to ensure smooth data flow and system operability.\n• Work closely with the legal team to handle any compliance or data privacy-related matters.\n• Develop and deploy highly scalable distributed systems capable of handling petabytes of data.\n• Architect and implement algorithms for data indexing and search capabilities.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162231155-software-engineer-data-acquisition",
-    "id": "ai-jobs-software-engineer-data-acquisition-san-francisco"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Analytics Data Engineer, Applied Engineering",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "1h",
-    "job_description": "• Work collaboratively with various teams, including, Infrastructure, Data Science, Product, Marketing, Finance, and Research to understand their data needs and provide solutions.\n• Participate in data architecture and engineering decisions, bringing your strong experience and knowledge to bear.\n• Have 3+ years of experience as a data engineer and 8+ years of any software engineering experience(including data engineering).\n• Experience with distributed processing technologies and frameworks, such as Hadoop, Flink and distributed storage systems (e.\n• Design, build and manage our data pipelines, ensuring all user event data is seamlessly integrated into our data warehouse.\n• Develop canonical datasets to track key product metrics including user growth, engagement, and revenue.\n• Implement robust and fault-tolerant systems for data ingestion and processing.\n• Ensure the security, integrity, and compliance of data according to industry and company standards.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162231166-analytics-data-engineer-applied-engineering",
-    "id": "ai-jobs-analytics-data-engineer-applied-engineering-san-francisco"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Machine Learning Engineer, Integrity",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "1h",
-    "job_description": "• Contribute to projects that require cutting-edge technology and innovative approaches.\n• Master's/ PhD degree in Computer Science, Machine Learning, Data Science, or a related field.\n• Demonstrated experience in deep learning and transformers modelsProficiency in frameworks like PyTorch or TensorflowStrong foundation in data structures, algorithms, and software engineering principles.\n• Experience with search relevance, ads ranking or LLMs is a plus.\n• Are familiar with methods of training and fine-tuning large language models, such as distillation, supervised fine-tuning, and policy optimizationExcellent problem-solving and analytical skills, with a proactive approach to challenges.\n• Innovate and Deploy: Design and deploy advanced machine learning models that solve real-world problems.\n• Bring OpenAI's research from concept to implementation, creating AI-driven applications with a direct impact.\n• Collaborate with the Best: Work closely with researchers, software engineers, and product managers to understand complex business challenges and deliver AI-powered solutions.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162231179-machine-learning-engineer-integrity",
-    "id": "ai-jobs-machine-learning-engineer-integrity-san-francisco"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Systems Software Engineer, AV Infrastructure - Tooling, Coverage, and Analysis",
-    "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Communicate proactively with stakeholders, ensuring no issues are left unattended and infra evolves alongside developer needs.\n• BS/MS in Computer Science, Computer Engineering, or relevant field (or equivalent experience).\n• 5+ years of professional experience in infrastructure, distributed systems, or platform engineering.\n• Strong background in Linux systems, distributed systems, and infrastructure engineering.\n• Hands-on experience with Bazel build system and its integration into CI/CD pipelines.\n• Experience with PostgreSQL and data handling at scale.\n• Prior experience with coverage frameworks (lcov, gcov, VectorCAST) and delivering quality metrics in compliance-heavy environments.\n• Hands-on experience with static analysis tooling like Coverity, and embedding it into developer workflows.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162220527-systems-software-engineer-av-infrastructure-tooling-coverage-and-analysis",
-    "id": "ai-jobs-systems-software-engineer-av-infrastructure-tooling-coverage-and-analysis-us"
+    "job_posted_at": "2h",
+    "job_description": "• Architect Scalable Distributed Systems: Leverage deep software engineering skills to design, develop, and implement reliable, performant, and inherently scalable distributed systems within a dynamic cloud environment.\n• 2-5 years of direct, hands-on experience in relevant industry and/or academic settings, showcasing your ability to deliver tangible results.\n• Demonstrable expertise in Machine Learning at scale, with practical experience in Large Language Models, Self-Supervised/Contrastive/Representation Learning for Computer Vision applications, and multi-modal data integration.\n• Prior experience with bioinformatics data processing and analysis, showcasing a relevant domain understanding.\n• Practical experience with cloud computing platforms and containerization technologies, enabling scalable deployments.\n• Pioneer Model Development & Optimization: The Machine Learning Engineer will be at the forefront, meticulously evaluating and re-engineering state-of-the-art AI models across the entire spectrum of imaging.\n• This includes developing solutions for de novo protein design, structure identification, and dynamics in single-particle CryoEM, as well as integrating light microscopy and multi-omics data for cross-domain mapping of in situ and in vivo collected data.\n• Your deep technical acumen will transform complex algorithms into practical, high-impact tools.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162255808-machine-learning-engineer-computer-vision",
+    "id": "ai-jobs-machine-learning-engineer-computer-vision-san-francisco"
   },
   {
-    "employer_name": "AI Jobs",
-    "job_title": "Growth Paid Marketing Platform Engineer",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "1d",
-    "job_description": "• Are highly analytical and have experience designing and implementing A/B tests, with a scientific approach to data-based experiments.\n• Have a voracious and intrinsic desire to learn and fill in missing skills.\n• Are comfortable with ambiguity and rapidly changing conditions.\n• You view changes as an opportunity to add structure and order when necessary.\n• Have shipped systems that power marketing or growth use cases, such as attribution pipelines, campaign management tools, or integrations with major ad platforms.\n• You know exactly what and how to track business metrics and KPIs.\n• An equally strong talent for sharing that information clearly and concisely with others.\n• Are comfortable with ambiguity and rapidly changing conditions.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162231174-growth-paid-marketing-platform-engineer",
-    "id": "ai-jobs-growth-paid-marketing-platform-engineer-san-francisco"
+    "employer_name": "Google",
+    "job_title": "Analyst, Platform Journey Analytics and Measurement for Support",
+    "job_city": "Boulder",
+    "job_state": "CO",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Analyst, Platform Journey Analytics and Measurement for Support",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/82748660273554118-analyst-platform-journey-analytics-and-measurement-for-support?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2",
+    "id": "google-analyst-platform-journey-analytics-and-measurement-for-support-boulder"
   },
   {
-    "employer_name": "AI Jobs",
-    "job_title": "Observability Engineer",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "1h",
-    "job_description": "• This involves working closely with other engineering teams to understand their needs and challenges and providing insights and solutions for better system performance.\n• Bachelor's degree in Computer Science, Information Technology, or a related field (or equivalent work experience).\n• Strong background in software engineering, with expertise in relevant programming languages (like Python, Java, Go) and cloud platforms (like AWS, GCP, Azure).\n• Experience with containerization and orchestration technologies (e.\n• Excellent communication skills are crucial for this role, as it involves interfacing with various stakeholders, presenting findings and plans, and documenting systems and processes.\n• Experience with microservices architecture and service mesh technologies.\n• Excellent problem-solving skills and ability to work in a fast-paced environment.\n• Are experienced in collaborating with cross-functional teams to ensure that reliability and scalability are considered in the design and development of new features and services.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162231169-observability-engineer",
-    "id": "ai-jobs-observability-engineer-san-francisco"
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Pixel Watch Apps",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Software Engineer, Pixel Watch Apps",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/91819218885845702-software-engineer-pixel-watch-apps?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=4",
+    "id": "google-software-engineer-pixel-watch-apps-san-diego"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Front End, Gmail Ads",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Software Engineer III, Front End, Gmail Ads",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/101827248599769798-software-engineer-iii-front-end-gmail-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=6",
+    "id": "google-software-engineer-iii-front-end-gmail-ads-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML GenAI, Google Cloud Platforms",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Software Engineer III, AI/ML GenAI, Google Cloud Platforms",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/80822416833422022-software-engineer-iii-aiml-genai-google-cloud-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=10",
+    "id": "google-software-engineer-iii-ai-ml-genai-google-cloud-platforms-mountain-view"
   }
 ]
