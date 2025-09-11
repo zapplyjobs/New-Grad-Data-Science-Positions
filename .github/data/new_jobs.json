@@ -1,92 +1,12 @@
 [
   {
-    "employer_name": "Infineon Technologies",
-    "job_title": "Internship - Electrical Engineer",
-    "job_city": "Leominster",
+    "employer_name": "Guidehouse",
+    "job_title": "AWS Data Engineer",
+    "job_city": "2 Locations",
     "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Internship - Electrical Engineer",
-    "job_apply_link": "https://jobs.infineon.com/careers",
-    "id": "infineon-technologies-internship-electrical-engineer-leominster"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "Greater Chicago Area",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Bachelor’s degree + 5 years of experience in analytics, or Master’s + 3 years, or PhD in a quantitative discipline (Math, Stats, Computer Science, Economics, Engineering, etc.\n• Strong skills in Python, SQL, and machine learning methods (3+ years).\n• At least 1 year of experience working with cloud platforms (AWS preferred).\n• Experience productionizing ML models at scale.\n• Strong background in statistical analysis, experimental design, and model interpretability.\n• A track record of solving complex, data-driven problems in real-world settings.\n• Master’s or PhD in a STEM field.\n• Work with product managers, engineers, and fellow data scientists to design and deploy customer-first data products.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162315123-data-scientist",
-    "id": "ai-jobs-data-scientist-greater-chicago-area"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist - People Analytics",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "12h",
-    "job_description": "• Bachelor’s degree or equivalent in a STEM field (e.\n• Statistics, mathematics, physics, econometrics, or computer science)2+ Years of Experience in Data Science or related fieldsProficiency in SQL or another data manipulation programming language (e.\n• , Tableau, Power BI, Looker, Streamlit, Databricks, Hex)Knowledge of statistics concepts and modeling, and how to apply them to practical questionsStrong written communication skills, verbal communication skills, and cross-functional collaboration skillsExperience with applying analytics skills to projects, which have had impact on business strategy and performanceProven ability to translate data into compelling and easy-to-understand insights, stories, and narratives that resonate with technical and non-technical audiences Understand the people insights needed to drive decision making at Atlassian, and design products and insights in a way that inspires actionScale actionable insights from people data by helping to enhance the data infrastructure, and innovating automated processes, reporting, and/or productsEvaluate the success of people programs and products by choosing appropriate analytical approaches, conducting rigorous analyses, and supporting measurement frameworks across key metrics and trendsCollaborate with business stakeholders, other data scientists, business partners, behavioral scientists, data engineers, and product and program managersInfluence business decisions, roadmaps, and execution through insights and recommendations 4+ Years of Experience in Data Science or related fields OR 2+ Years of experience in Data Science along with a post-graduate degree or equivalent in a related fieldExperience with establishing metrics frameworksExperience with data quality assessment, and the development of data infrastructure and downstream data solutionsExperience with work automation or AI implementation, report generation, and basic API interaction to solve business problemsAbility to use Git to collaborate with others and contribute to dynamic codebasesExperience working with people data (e.\n• Python, R)Familiarity with at least one visualization tool (e.\n• , HR data, survey data, human behavior data) in an applied setting.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162315118-data-scientist-people-analytics",
-    "id": "ai-jobs-data-scientist-people-analytics-"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist Graduate (TikTok-Product-Data Science)-2026 Start (BS/MS)",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "• Final year BS/MS or recent BS/MS graduates in Mathematics, Statistics, Economics, Computer Science, Data Science or relevant technical field, or equivalent practical experience Proficient in data querying languages and at least one scripting language (e.\n• Python, SQL, R) Experience in one or more of the following methods: forecasting, statistical and causal inference, classification methods.\n• Strong product sense and structured thinking, and be able to convert the analysis results into business decisions very well Define success metrics to measure product growth and identify problems through monitoring or forecasting Apply technical expertise with quantitative analysis, experimentation, data mining to develop strategies for product optimizations Quantify the impact of strategies through causal inference and generate actionable insights through deep dive analysis Partner with Product, Engineering and cross-functional teams to influence and execute product strategy Internship experience in data science Research experience in data science Experience working with cross functional teams Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues.\n• Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems.\n• And Exercising sound judgment.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162315120-data-scientist-graduate-tiktok-product-data-science-2026-start-bs-ms",
-    "id": "ai-jobs-data-scientist-graduate-tiktok-product-data-science-2026-start-bs-ms-san-jose"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Junior Data Scientist",
-    "job_city": "Palm Beach Gardens",
-    "job_state": "FL",
-    "job_posted_at": "14h",
-    "job_description": "• Background in Mathematics or Science Basic Python experience Basic SQL experience Good communication skills Troubleshooting Abilities Exposure to Data Analysis Fossil or nuclear power plant operational knowledge.",
-    "job_apply_link": "https://www.aijobs.com/jobs/154070770-junior-data-scientist",
-    "id": "ai-jobs-junior-data-scientist-palm-beach-gardens"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist - Personalization",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "1d",
-    "job_description": "• You have experience as a data scientist or analytics professional working on consumer-facing products.\n• You are proficient in SQL and Python and skilled at developing analytics workflows using tools like BigQuery and dbt.\n• Build tools and pipelines that combine user behavior data, in-app feedback, surveys, and qualitative research to evaluate product experiences across Spotify surfaces.\n• You think analytically and can structure ambiguous problems using mixed-methods evidence, including knowledge of survey design and statistics.\n• You’ve worked with both behavioral data (e.\n• Impressions, clicks) and qualitative inputs (e.\n• Survey free-text) to drive actionable insights.\n• You’re an excellent communicator who synthesizes insights across disciplines to guide product development.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162315117-data-scientist-personalization",
-    "id": "ai-jobs-data-scientist-personalization-new-york"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Machine Learning Research Scientist Intern (Fall 2025)",
-    "job_city": "San Mateo",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• This role provides an opportunity to gain hands-on experience in optimizing deep learning architectures while contributing to cutting-edge ML solutions in AdTech.\n• We are also open to remote applicants Optimize ML models – Improve predictive accuracy, inference speed, and efficiency in AdTech applicationsExperiment & tune – Run hyperparameter tuning, explore new architectures, and fine-tune models to move the needle on key business metricsBuild strong datasets – Help construct and preprocess high-quality training data for ML pipelinesRun experiments – Conduct PyTorch experiments and evaluate results using clear, measurable metricsDeploy at scale – Collaborate with researchers and engineers to build scalable ML pipelines for smooth deployment and iterationStay ahead of the curve – Keep up with deep learning research and propose novel approaches for model improvementCommunicate findings – Present research and experimental outcomes in clear reports that influence decision-making Educational foundation – Pursuing or recently completed a Master’s or Ph.\n• In CS, Stats, EE, or a related fieldDeep learning fluent – Strong grasp of architectures like Transformers and hands-on with PyTorchExperimentation-driven – Skilled in hyperparameter tuning, loss function design, and optimizing training pipelines.\n• Python-first – Proficient in Python for data manipulation and ML experimentationBroad ML knowledge – Familiar with techniques like gradient boosting (XGBoost), PCA, and distributed trainingCloud & data aware – Comfortable with AWS/GCP and have some exposure to Spark, Hadoop, or SQLStrong communicator – Can explain technical results clearly and thrive in a collaborative, fast-paced environment LLM experience – Worked with large language models or fine-tuned transformer-based architecturesAdTech exposure – Familiarity with real-time bidding (RTB) or online advertising modelsPerformance optimizer – Experience with C++ for ML model performance tuning Festiv – We make work fun with cross-team games, events, and creative team bondingResponsiv – You’ll be close to clients and leadership, influencing real outcomesInclusiv – Diversity and individuality are celebrated across all levelsInventiv – We reward curiosity and embrace bold ideasTransformativ – We support your growth with training, mentorship, and flexibilityCollaborativ – We operate across coasts, connected by purpose and teamwork.\n• We are looking for a Machine Learning Research Intern to join our AdTech research team for 2025 Fall.\n• This internship is ideal for students or recent graduates passionate about deep learning, model optimization, and performance tuning in real-world applications.\n• You will work closely with our ML Research Scientists to enhance Deep Neural Network (DNN) models, focusing on improving key metrics in our real-time bidding (RTB) algorithms and Large Language Model (LLM) integrations.\n• You will participate in research discussions, implement and evaluate model improvements, and collaborate with ML engineers to refine training pipelines.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162315115-machine-learning-research-scientist-intern-fall-2025",
-    "id": "ai-jobs-machine-learning-research-scientist-intern-fall-2025-san-mateo"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Machine Learning Engineer",
-    "job_city": "Jersey City",
-    "job_state": "NJ",
-    "job_posted_at": "Recently",
-    "job_description": "• 2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York Chicago, IL, United States and 4 more Data & AnalyticsSeasonal Employee Use your data analysis and coding skills to help a nonprofit organization further their mission.\n• Applied AIML Lead Bengaluru, Karnataka, India Data & AnalyticsPredictive Science Develop AI solutions for compliance and risk, enhancing skills in a dynamic data science team.\n• Associate New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems WFP Lead Data Scientist - Vice President Plano, TX, United States and 2 more Data & AnalyticsPredictive Science Lead AI-driven solutions in Workforce Planning tackling complex challenges, enhance decision-making and drive strategic business impact Data Scientist Lead - NLQ/LLM LONDON, United Kingdom and 1 more Data & AnalyticsPredictive Science Empower investment decisions by designing natural language solutions and deploying advanced machine learning models.\n• Quant Analytics Manager New York, NY, United States and 1 more Data & AnalyticsQuant Analytics Lead partnership with stakeholders and leverage analytics & insights to help improve customer’s experience.\n• Product Director - Platform and Experience New York, NY, United States ProductProduct Management Ignite product innovation by leading customer-focused development, inspiring solutions, and shaping Client 360’s future.\n• Senior Experience Researcher, Associate NY, United States ProductUser Experience Design Lead the user experience research, translating insights into impactful design recommendations.\n• Senior Lead Software Engineer - Data Engineer Jersey City, NJ, United States TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Software Engineer III - Kubernetes, Bigadata, CI/CD Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Manager of Software Engineering - Java with Data Plano, TX, United States TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Equipment Finance Operations Program and Platform Manager Columbus, OH, United States and 2 more OperationsProgram & Project Management Shape the future of Equipment Finance Operations by crafting solutions that enhance client and stakeholder experiences.\n• Associate - Python/BigData Buenos Aires, Argentina TechnologySoftware Engineering Big Data Software Engineer with skills and experience implementing large-scale, cloud platform processing internal a and third-party data Risk Program Senior Associate - Card Merchant Wilmington, DE, United States Program Analysts & AssociateAssociates Card Risk Modeling (Applied AI ML) team is searching for talents in machine learning, big data and distributed computing with applications in credit card business.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210663977/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-machine-learning-engineer-jersey-city"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Data Engineer II, GME Fintech",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "Today",
-    "job_description": "data science job for the role Data Engineer II, GME Fintech",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3080377/data-engineer-ii-gme-fintech",
-    "id": "amazon-data-engineer-ii-gme-fintech-seattle"
+    "job_posted_at": "Posted Today",
+    "job_description": "• Palantir Foundry Architectlocations5 Locationsposted onPosted 30+ Days Ago28487AI Engineerlocations5 Locationsposted onPosted 24 Days Ago31632Workforce Planning Reporting and Technical Associatelocations2 Locationsposted onPosted 16 Days Ago31679AI/ML Engineer - Supply Chain & LogisticslocationsUS - AL, Huntsvilleposted onPosted 15 Days Ago31825RPA DeveloperlocationsUS - Remote (Any location)posted onPosted 3 Days Ago31999Regulatory Data AnalystlocationsUS - Remote (Any location)posted onPosted 8 Days Ago31897Assistant Manager - Data Engineeringlocations2 Locationsposted onPosted 30+ Days Ago31233Assistant Manager - Data Engineeringlocations2 Locationsposted onPosted 16 Days Ago31179AI Technical Leadlocations2 Locationsposted onPosted 30+ Days Ago30212Consultant - Life Sciences Advisory, Health Segment - Campus 2026locations4 Locationsposted onPosted 3 Days Ago32181Senior Consultant - Life Sciences Advisory, Health Segment - Campus 2026locations4 Locationsposted onPosted 3 Days Ago32182Data Engineer ArchitectlocationsUS - AL, Huntsvilleposted onPosted 22 Days Ago31270Lead Data Analystlocations2 Locationsposted onPosted 3 Days Ago31932Assistant Manager Data Analystlocations2 Locationsposted onPosted 3 Days Ago31933Data Platform AnalystlocationsUS - VA, McLeanposted onPosted 2 Days Ago30009AWS Data EngineerlocationsUS - Remote (Any location)posted onPosted 13 Days Ago31815AWS Data Engineerlocations2 Locationsposted onPosted Today32104Senior Workday Data ConversionlocationsIN - Chennaiposted onPosted 17 Days Ago31232Consultant - Life Sciences - LondonlocationsGB - Londonposted onPosted 3 Days Ago30459Senior Consultant - Life Sciences - LondonlocationsGB - Londonposted onPosted 8 Days Ago30460.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---TX-San-Antonio/AWS-Data-Engineer_32104?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-aws-data-engineer-2-locations"
   }
 ]
