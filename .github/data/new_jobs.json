@@ -1,52 +1,62 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Logic Design Engineer",
-    "job_city": "Austin",
+    "employer_name": "BAE Systems",
+    "job_title": "Transnational Organized Crime Analyst",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Information Systems Security ManagerlocationsAlexandria, VAposted onPosted 15 Days AgoR0225171 Information Systems Security ManagerlocationsAlexandria, VAposted onPosted TodayR0226109 Materials Scientist, SeniorlocationsArlington, VAposted onPosted 2 Days AgoR0225222 SIGINT Technical ExpertlocationsFort Meade, MDposted onPosted 30+ Days AgoR0208588 Software Architect, Leadlocations3 Locationsposted onPosted 22 Days AgoR0224420 Computer Vision ExpertlocationsBethesda, MDposted onPosted 7 Days AgoR0225632.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Transnational-Organized-Crime-Analyst_R0223451?q=data+science",
+    "id": "bae-systems-transnational-organized-crime-analyst-chantilly"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Information Systems Security Officer",
+    "job_city": "Alexandria",
+    "job_state": "VA",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Information Systems Security ManagerlocationsAlexandria, VAposted onPosted 15 Days AgoR0225171 Information Systems Security ManagerlocationsAlexandria, VAposted onPosted TodayR0226109 Materials Scientist, SeniorlocationsArlington, VAposted onPosted 2 Days AgoR0225222 SIGINT Technical ExpertlocationsFort Meade, MDposted onPosted 30+ Days AgoR0208588 Software Architect, Leadlocations3 Locationsposted onPosted 22 Days AgoR0224420 Computer Vision ExpertlocationsBethesda, MDposted onPosted 7 Days AgoR0225632.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Information-Systems-Security-Officer_R0226108?q=data+science",
+    "id": "bae-systems-information-systems-security-officer-alexandria"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Chemical Engineer",
+    "job_city": "Yuma",
+    "job_state": "AZ",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Information Systems Security ManagerlocationsAlexandria, VAposted onPosted 15 Days AgoR0225171 Information Systems Security ManagerlocationsAlexandria, VAposted onPosted TodayR0226109 Materials Scientist, SeniorlocationsArlington, VAposted onPosted 2 Days AgoR0225222 SIGINT Technical ExpertlocationsFort Meade, MDposted onPosted 30+ Days AgoR0208588 Software Architect, Leadlocations3 Locationsposted onPosted 22 Days AgoR0224420 Computer Vision ExpertlocationsBethesda, MDposted onPosted 7 Days AgoR0225632.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Yuma-AZ/Chemical-Engineer_R0226047?q=data+science",
+    "id": "bae-systems-chemical-engineer-yuma"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Data Center Product Design Engineer",
+    "job_city": "",
     "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Logic Design Engineer",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57387&source=WEB_Search_NA",
-    "id": "ibm-logic-design-engineer-austin"
+    "job_posted_at": "Today",
+    "job_description": "• Minimum QualificationsBS in Mechanical Engineering or equivalent5+ years Mechanical Engineering experience in the design of server, storage, and Hyperscale data center productsStrong engineering fundamentals: solid mechanics, material science, heat transfer, mechanism design, manufacturingExperience with the server mechanical development cycle from prototyping to high volume manufacturingExperience working with JDM vendors to create components and assemblies for prototypingExcellent written and verbal communication skills: ability to clearly convey design ideas and requirements within the team and to cross-functional partners and vendorsA strong sense of ownership and drive for excellenceAbility to travel up to 20% in North America and Asia to support factory builds.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200620201-0240/data-center-product-design-engineer?team=HRDWR",
+    "id": "apple-data-center-product-design-engineer-"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "2026 Intern – IBM Marketing (Austin, TX)",
-    "job_city": "shipAustin",
+    "employer_name": "Apple",
+    "job_title": "Data Engineer - Camera Hardware",
+    "job_city": "Cupertino",
     "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role 2026 Intern – IBM Marketing (Austin, TX)",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58136&source=WEB_Search_NA",
-    "id": "ibm-2026-intern-ibm-marketing-austin-tx-shipaustin"
+    "job_posted_at": "Today",
+    "job_description": "• Minimum QualificationsBS or higher in Computer Science, Data Engineering, Data Science, Math, or related fieldsHands-on Experience using cloud data analytics platforms (i.\n• Snowflake, Redshift, BigQuery)Experience building data transformation pipelines using frameworks such as Data Built Tool (dbt) or SparkExperience in data modeling and data governance techniques (i.\n• Row Access Policies, role-based access control (RBAC).",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200620247-0836/data-engineer-camera-hardware?team=HRDWR",
+    "id": "apple-data-engineer-camera-hardware-cupertino"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "2026 Intern – Motion Designer",
-    "job_city": "shipAustin",
-    "job_state": "US",
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Infrastructure, Payments",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role 2026 Intern – Motion Designer",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58139&source=WEB_Search_NA",
-    "id": "ibm-2026-intern-motion-designer-shipaustin"
-  },
-  {
-    "employer_name": "Siemens",
-    "job_title": "Production Planner - Manufacturing",
-    "job_city": "Grand Prairie",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Production Planner - Manufacturing",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-production-planner-manufacturing-grand-prairie"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "ML/AI Engineer Intern",
-    "job_city": "Zeeland",
-    "job_state": "MI",
-    "job_posted_at": "11h",
-    "job_description": "• Strong Python skills and experience with ML concepts and frameworks such as Scikit-learn, XGBoost, time series forecasting, PyTorch or TensorFlow, and Transformers.\n• Strong analytical and problem-solving skills with a proactive mindset.\n• Excellent communication skills.\n• Strong collaboration skills—able to contribute in a highly interdisciplinary and agile setting.\n• Currently pursuing a degree in Computer Science, Data Science, Engineering, or a related field.\n• You must have a GPA of at least 3.\n• Mentorship from experienced professionalsExposure to impactful projects and business challengesOpportunity to develop technical and analytical skillsCollaborative and inclusive work culture Must be authorized to work in the US and will not require sponsorship now or in the future.\n• Must be able to perform all essential functions of the position with or without accommodations.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162431694-ml-ai-engineer-intern",
-    "id": "ai-jobs-ml-ai-engineer-intern-zeeland"
+    "job_description": "data science job for the role Software Engineer III, Infrastructure, Payments",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/122609978480435910-software-engineer-iii-infrastructure-payments?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=6",
+    "id": "google-software-engineer-iii-infrastructure-payments-mountain-view"
   }
 ]
