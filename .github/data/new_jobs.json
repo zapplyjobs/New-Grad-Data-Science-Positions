@@ -1,22 +1,12 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Data Scientist, Research, YouTube Shorts",
-    "job_city": "San Bruno",
-    "job_state": "CA",
+    "job_title": "Mobility Network Engineer",
+    "job_city": "Austin",
+    "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role Data Scientist, Research, YouTube Shorts",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/87958457214214854-data-scientist-research-youtube-shorts?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1",
-    "id": "google-data-scientist-research-youtube-shorts-san-bruno"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Customer Engineer II, AI/ML, Google Cloud",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Customer Engineer II, AI/ML, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/105840706559320774-customer-engineer-ii-aiml-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=10",
-    "id": "google-customer-engineer-ii-ai-ml-google-cloud-sunnyvale"
+    "job_description": "data science job for the role Mobility Network Engineer",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/104442369897571014-mobility-network-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=8",
+    "id": "google-mobility-network-engineer-austin"
   }
 ]
