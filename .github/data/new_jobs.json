@@ -1,52 +1,22 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Biomedical Aging Advisor",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "• Counterintelligence Requirements OfficerlocationsSpringfield, VAposted onPosted 30+ Days AgoR0221537 Counterintelligence Requirements OfficerlocationsSt.\n• Louis, MOposted onPosted 30+ Days AgoR0221477 Ocean Systems Engineer, Senior ManagerlocationsPort Hueneme, CAposted onPosted 30+ Days AgoR0223274 Software Defined Network Engineer, LeadlocationsSan Diego, CAposted onPosted 15 Days AgoR0225275 MS&A SaaS Tool Cyber Operations LeadlocationsEglin AFB, FLposted onPosted 25 Days AgoR0224460 Technical Site Deployment Specialistlocations2 Locationsposted onPosted 18 Days AgoR0224890.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Biomedical-Aging-Advisor_R0226004?q=data+science",
-    "id": "bae-systems-biomedical-aging-advisor-washington"
-  },
-  {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Mobile Threat Analysis Platform, AI/ML",
-    "job_city": "Atlanta",
-    "job_state": "GA",
+    "job_title": "Data Scientist, Research, YouTube Shorts",
+    "job_city": "San Bruno",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role Software Engineer, Mobile Threat Analysis Platform, AI/ML",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/139102446738645702-software-engineer-mobile-threat-analysis-platform-aiml?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2",
-    "id": "google-software-engineer-mobile-threat-analysis-platform-ai-ml-atlanta"
+    "job_description": "data science job for the role Data Scientist, Research, YouTube Shorts",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/87958457214214854-data-scientist-research-youtube-shorts?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1",
+    "id": "google-data-scientist-research-youtube-shorts-san-bruno"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Google Beam, Networking",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Software Engineer III, Google Beam, Networking",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/137396004692337350-software-engineer-iii-google-beam-networking?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=4",
-    "id": "google-software-engineer-iii-google-beam-networking-seattle"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Full Stack, Core",
+    "job_title": "Customer Engineer II, AI/ML, Google Cloud",
     "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role Software Engineer III, Full Stack, Core",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/108320403780182726-software-engineer-iii-full-stack-core?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=4",
-    "id": "google-software-engineer-iii-full-stack-core-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Fitbit, Engineering Productivity",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Software Engineer III, Fitbit, Engineering Productivity",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/115588772103365318-software-engineer-iii-fitbit-engineering-productivity?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=7",
-    "id": "google-software-engineer-iii-fitbit-engineering-productivity-mountain-view"
+    "job_description": "data science job for the role Customer Engineer II, AI/ML, Google Cloud",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/105840706559320774-customer-engineer-ii-aiml-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=10",
+    "id": "google-customer-engineer-ii-ai-ml-google-cloud-sunnyvale"
   }
 ]
