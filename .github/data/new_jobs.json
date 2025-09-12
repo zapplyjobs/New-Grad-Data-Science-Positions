@@ -1,62 +1,52 @@
 [
   {
     "employer_name": "BAE Systems",
-    "job_title": "Transnational Organized Crime Analyst",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Information Systems Security ManagerlocationsAlexandria, VAposted onPosted 15 Days AgoR0225171 Information Systems Security ManagerlocationsAlexandria, VAposted onPosted TodayR0226109 Materials Scientist, SeniorlocationsArlington, VAposted onPosted 2 Days AgoR0225222 SIGINT Technical ExpertlocationsFort Meade, MDposted onPosted 30+ Days AgoR0208588 Software Architect, Leadlocations3 Locationsposted onPosted 22 Days AgoR0224420 Computer Vision ExpertlocationsBethesda, MDposted onPosted 7 Days AgoR0225632.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Transnational-Organized-Crime-Analyst_R0223451?q=data+science",
-    "id": "bae-systems-transnational-organized-crime-analyst-chantilly"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Information Systems Security Officer",
-    "job_city": "Alexandria",
-    "job_state": "VA",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Information Systems Security ManagerlocationsAlexandria, VAposted onPosted 15 Days AgoR0225171 Information Systems Security ManagerlocationsAlexandria, VAposted onPosted TodayR0226109 Materials Scientist, SeniorlocationsArlington, VAposted onPosted 2 Days AgoR0225222 SIGINT Technical ExpertlocationsFort Meade, MDposted onPosted 30+ Days AgoR0208588 Software Architect, Leadlocations3 Locationsposted onPosted 22 Days AgoR0224420 Computer Vision ExpertlocationsBethesda, MDposted onPosted 7 Days AgoR0225632.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Information-Systems-Security-Officer_R0226108?q=data+science",
-    "id": "bae-systems-information-systems-security-officer-alexandria"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Chemical Engineer",
-    "job_city": "Yuma",
-    "job_state": "AZ",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Information Systems Security ManagerlocationsAlexandria, VAposted onPosted 15 Days AgoR0225171 Information Systems Security ManagerlocationsAlexandria, VAposted onPosted TodayR0226109 Materials Scientist, SeniorlocationsArlington, VAposted onPosted 2 Days AgoR0225222 SIGINT Technical ExpertlocationsFort Meade, MDposted onPosted 30+ Days AgoR0208588 Software Architect, Leadlocations3 Locationsposted onPosted 22 Days AgoR0224420 Computer Vision ExpertlocationsBethesda, MDposted onPosted 7 Days AgoR0225632.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Yuma-AZ/Chemical-Engineer_R0226047?q=data+science",
-    "id": "bae-systems-chemical-engineer-yuma"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Data Center Product Design Engineer",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "Today",
-    "job_description": "• Minimum QualificationsBS in Mechanical Engineering or equivalent5+ years Mechanical Engineering experience in the design of server, storage, and Hyperscale data center productsStrong engineering fundamentals: solid mechanics, material science, heat transfer, mechanism design, manufacturingExperience with the server mechanical development cycle from prototyping to high volume manufacturingExperience working with JDM vendors to create components and assemblies for prototypingExcellent written and verbal communication skills: ability to clearly convey design ideas and requirements within the team and to cross-functional partners and vendorsA strong sense of ownership and drive for excellenceAbility to travel up to 20% in North America and Asia to support factory builds.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200620201-0240/data-center-product-design-engineer?team=HRDWR",
-    "id": "apple-data-center-product-design-engineer-"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Data Engineer - Camera Hardware",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "Today",
-    "job_description": "• Minimum QualificationsBS or higher in Computer Science, Data Engineering, Data Science, Math, or related fieldsHands-on Experience using cloud data analytics platforms (i.\n• Snowflake, Redshift, BigQuery)Experience building data transformation pipelines using frameworks such as Data Built Tool (dbt) or SparkExperience in data modeling and data governance techniques (i.\n• Row Access Policies, role-based access control (RBAC).",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200620247-0836/data-engineer-camera-hardware?team=HRDWR",
-    "id": "apple-data-engineer-camera-hardware-cupertino"
+    "job_title": "Biomedical Aging Advisor",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "• Counterintelligence Requirements OfficerlocationsSpringfield, VAposted onPosted 30+ Days AgoR0221537 Counterintelligence Requirements OfficerlocationsSt.\n• Louis, MOposted onPosted 30+ Days AgoR0221477 Ocean Systems Engineer, Senior ManagerlocationsPort Hueneme, CAposted onPosted 30+ Days AgoR0223274 Software Defined Network Engineer, LeadlocationsSan Diego, CAposted onPosted 15 Days AgoR0225275 MS&A SaaS Tool Cyber Operations LeadlocationsEglin AFB, FLposted onPosted 25 Days AgoR0224460 Technical Site Deployment Specialistlocations2 Locationsposted onPosted 18 Days AgoR0224890.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Biomedical-Aging-Advisor_R0226004?q=data+science",
+    "id": "bae-systems-biomedical-aging-advisor-washington"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, Payments",
+    "job_title": "Software Engineer, Mobile Threat Analysis Platform, AI/ML",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Software Engineer, Mobile Threat Analysis Platform, AI/ML",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/139102446738645702-software-engineer-mobile-threat-analysis-platform-aiml?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2",
+    "id": "google-software-engineer-mobile-threat-analysis-platform-ai-ml-atlanta"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Google Beam, Networking",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Software Engineer III, Google Beam, Networking",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/137396004692337350-software-engineer-iii-google-beam-networking?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=4",
+    "id": "google-software-engineer-iii-google-beam-networking-seattle"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Full Stack, Core",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Software Engineer III, Full Stack, Core",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/108320403780182726-software-engineer-iii-full-stack-core?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=4",
+    "id": "google-software-engineer-iii-full-stack-core-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Fitbit, Engineering Productivity",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role Software Engineer III, Infrastructure, Payments",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/122609978480435910-software-engineer-iii-infrastructure-payments?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=6",
-    "id": "google-software-engineer-iii-infrastructure-payments-mountain-view"
+    "job_description": "data science job for the role Software Engineer III, Fitbit, Engineering Productivity",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/115588772103365318-software-engineer-iii-fitbit-engineering-productivity?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=7",
+    "id": "google-software-engineer-iii-fitbit-engineering-productivity-mountain-view"
   }
 ]
