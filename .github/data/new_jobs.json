@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Illumina",
-    "job_title": "Process Development Engineer",
-    "job_city": "US - California - San Diego",
+    "employer_name": "Apple",
+    "job_title": "Data Engineer - Camera Hardware",
+    "job_city": "San Diego",
     "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Staff Product ManagerlocationsUS - California - San Diegoposted onPosted 20 Days Ago41197-JOBCybersecurity Program Manager, Assoc Principallocations2 Locationsposted onPosted 7 Days Ago40897-JOBProcess Development EngineerlocationsUS - California - San Diegoposted onPosted Today41272-JOB41139-JOBSenior Manager, IT - SAP FinancelocationsUS - California - San Diego - HQposted onPosted 8 Days Ago40615-JOBAssociate Director, Sales Territory Design and OptimizationlocationsUS - California - San Diegoposted onPosted 7 Days Ago41215-JOBSr.\n• Product Manager, High Throughput NGS SystemslocationsUS - California - San Diegoposted onPosted 30+ Days Ago40624-JOBVice President of Global QualitylocationsUS - California - San Diegoposted onPosted 30+ Days Ago41123-JOBManager, Business Development (San Diego/Hybrid)locationsUS - California - San Diegoposted onPosted Yesterday41234-JOBField Marketing Lead - US West & Centrallocations8 Locationsposted onPosted 30+ Days Ago40480-JOBVP, Product and Segment MarketinglocationsUS - California - San Diegoposted onPosted 30+ Days Ago40454-JOBProduction Maintenance Technician 3 - 3rd ShiftlocationsUS - California - San Diegoposted onPosted 3 Days Ago41162-JOBAssociate Director, Product Management – NGS ApplicationslocationsUS - California - San Diegoposted onPosted Today41318-JOBMaterial Coordinator 2locationsUS - California - San Diegoposted onPosted Today41107-JOBSr Manager, Design and Construction (Lab Facilities)locationsUS - California - San Diegoposted onPosted 2 Days Ago40705-JOBMaterial Coordinator 3locationsUS - California - San Diegoposted onPosted Today41049-JOBAssoc.\n• Director, Business Development (San Diego/Hybrid)locationsUS - California - San Diegoposted onPosted Yesterday41232-JOB.",
-    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Process-Development-Engineer_41272-JOB-1?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "illumina-process-development-engineer-us-california-san-diego"
+    "job_posted_at": "Today",
+    "job_description": "• Minimum QualificationsBS or higher in Computer Science, Data Engineering, Data Science, Math, or related fieldsHands-on Experience using cloud data analytics platforms (i.\n• Snowflake, Redshift, BigQuery)Experience building data transformation pipelines using frameworks such as Data Built Tool (dbt) or SparkExperience in data modeling and data governance techniques (i.\n• Row Access Policies, role-based access control (RBAC).",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200620247-3543/data-engineer-camera-hardware?team=HRDWR",
+    "id": "apple-data-engineer-camera-hardware-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Site Reliability Engineer, IS&T Ai & Data Platforms",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "Today",
+    "job_description": "• Minimum QualificationsProven experience in creating, managing, and operating Kubernetes clusters at scale.\n• Experience in GitOps-based deployment tools such as Spinnaker, Flux, and ArgoCD.\n• Proficiency in Helm or Kustomize for managing Kubernetes applications and configurations.\n• Knowledgeable in infrastructure templating tools like CloudFormation and Terraform.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200620055-3956/site-reliability-engineer-is-t-ai-data-platforms?team=SFTWR",
+    "id": "apple-site-reliability-engineer-is-t-ai-data-platforms-sunnyvale"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Applied Scientist, Amazon Connect",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "Today",
+    "job_description": "data science job for the role Applied Scientist, Amazon Connect",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3081539/applied-scientist-amazon-connect",
+    "id": "amazon-applied-scientist-amazon-connect-seattle"
   }
 ]
