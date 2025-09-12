@@ -1,32 +1,52 @@
 [
   {
-    "employer_name": "Apple",
-    "job_title": "Data Engineer - Camera Hardware",
-    "job_city": "San Diego",
+    "employer_name": "IBM",
+    "job_title": "Logic Design Engineer",
+    "job_city": "Austin",
     "job_state": "US",
-    "job_posted_at": "Today",
-    "job_description": "• Minimum QualificationsBS or higher in Computer Science, Data Engineering, Data Science, Math, or related fieldsHands-on Experience using cloud data analytics platforms (i.\n• Snowflake, Redshift, BigQuery)Experience building data transformation pipelines using frameworks such as Data Built Tool (dbt) or SparkExperience in data modeling and data governance techniques (i.\n• Row Access Policies, role-based access control (RBAC).",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200620247-3543/data-engineer-camera-hardware?team=HRDWR",
-    "id": "apple-data-engineer-camera-hardware-san-diego"
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Logic Design Engineer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57387&source=WEB_Search_NA",
+    "id": "ibm-logic-design-engineer-austin"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Site Reliability Engineer, IS&T Ai & Data Platforms",
-    "job_city": "Sunnyvale",
+    "employer_name": "IBM",
+    "job_title": "2026 Intern – IBM Marketing (Austin, TX)",
+    "job_city": "shipAustin",
     "job_state": "US",
-    "job_posted_at": "Today",
-    "job_description": "• Minimum QualificationsProven experience in creating, managing, and operating Kubernetes clusters at scale.\n• Experience in GitOps-based deployment tools such as Spinnaker, Flux, and ArgoCD.\n• Proficiency in Helm or Kustomize for managing Kubernetes applications and configurations.\n• Knowledgeable in infrastructure templating tools like CloudFormation and Terraform.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200620055-3956/site-reliability-engineer-is-t-ai-data-platforms?team=SFTWR",
-    "id": "apple-site-reliability-engineer-is-t-ai-data-platforms-sunnyvale"
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role 2026 Intern – IBM Marketing (Austin, TX)",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58136&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-ibm-marketing-austin-tx-shipaustin"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Applied Scientist, Amazon Connect",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "Today",
-    "job_description": "data science job for the role Applied Scientist, Amazon Connect",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3081539/applied-scientist-amazon-connect",
-    "id": "amazon-applied-scientist-amazon-connect-seattle"
+    "employer_name": "IBM",
+    "job_title": "2026 Intern – Motion Designer",
+    "job_city": "shipAustin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role 2026 Intern – Motion Designer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58139&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-motion-designer-shipaustin"
+  },
+  {
+    "employer_name": "Siemens",
+    "job_title": "Production Planner - Manufacturing",
+    "job_city": "Grand Prairie",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Production Planner - Manufacturing",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-production-planner-manufacturing-grand-prairie"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "ML/AI Engineer Intern",
+    "job_city": "Zeeland",
+    "job_state": "MI",
+    "job_posted_at": "11h",
+    "job_description": "• Strong Python skills and experience with ML concepts and frameworks such as Scikit-learn, XGBoost, time series forecasting, PyTorch or TensorFlow, and Transformers.\n• Strong analytical and problem-solving skills with a proactive mindset.\n• Excellent communication skills.\n• Strong collaboration skills—able to contribute in a highly interdisciplinary and agile setting.\n• Currently pursuing a degree in Computer Science, Data Science, Engineering, or a related field.\n• You must have a GPA of at least 3.\n• Mentorship from experienced professionalsExposure to impactful projects and business challengesOpportunity to develop technical and analytical skillsCollaborative and inclusive work culture Must be authorized to work in the US and will not require sponsorship now or in the future.\n• Must be able to perform all essential functions of the position with or without accommodations.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162431694-ml-ai-engineer-intern",
+    "id": "ai-jobs-ml-ai-engineer-intern-zeeland"
   }
 ]
