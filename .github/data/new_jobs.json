@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Modeling and Simulation Technician",
-    "job_city": "Fayetteville",
-    "job_state": "NC",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Knowledge Management ManagerlocationsArlington, VAposted onPosted 29 Days AgoR0224156 AI and ML Engineer, LeadlocationsAnnapolis Junction, MDposted onPosted YesterdayR0226090 AI and ML Engineer, LeadlocationsFort Meade, MDposted onPosted 22 Days AgoR0224878 Software Engineer, SeniorlocationsHerndon, VAposted onPosted 30+ Days AgoR0223921 AI Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0222690 Palantir Chief Engineerlocations3 Locationsposted onPosted YesterdayR0226093 AI Engineer, Seniorlocations2 Locationsposted onPosted YesterdayR0225510.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Modeling-and-Simulation-Technician_R0226211-1?q=data+science",
-    "id": "bae-systems-modeling-and-simulation-technician-fayetteville"
+    "employer_name": "AI Jobs",
+    "job_title": "Research Scientist, Porous Materials",
+    "job_city": "Cambridge",
+    "job_state": "MA",
+    "job_posted_at": "7h",
+    "job_description": "• ≥ 5 years of hands-on experience in zeolitic material synthesis.\n• Deep expertise in porous material characterizationExperience in integrating analytical instruments into automated or modular experimentation platforms.\n• Experience in high throughput synthesis and characterization techniques.\n• Excellent troubleshooting, communication, and interdisciplinary collaboration skills.\n• Experience in powder x-ray diffraction technique and data analysis (indexing, and refinement) Proficiency in Python or other scripting languages for data analysis.\n• Experience with self-driving lab platforms or closed-loop optimization systems.\n• Experience contributing to scientific software tools or open-source automation frameworks.\n• In Chemistry, Chemical Engineering, Material Science or a related field.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162645888-research-scientist-porous-materials",
+    "id": "ai-jobs-research-scientist-porous-materials-cambridge"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Research Scientist, Automated Synthesis",
+    "job_city": "Cambridge",
+    "job_state": "MA",
+    "job_posted_at": "17h",
+    "job_description": "• ≥ 5 years of experience in synthesis and characterization of porous materials (e.\n• Experience with commercial automation platforms (e.\n• In Chemistry, Chemical Engineering, Materials Science, or related field.\n• , MOFs, zeolites, oxides etc).\n• Strong track record with robotic synthesis platforms, high-throughput experimentation, or automated materials discovery.\n• Proficiency in Python for instrument scripting, workflow development, and data handling.\n• Deep knowledge of synthetic methodologies and solid-state or solution-phase chemistry.\n• , Chemspeed, Hamilton, Tecan) or custom-built robotic systems.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162645889-research-scientist-automated-synthesis",
+    "id": "ai-jobs-research-scientist-automated-synthesis-cambridge"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Embedded Actuation Engineer",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "2h",
+    "job_description": "• 5+ years of hands-on experience developing robust C++ and Python code for embedded systems for high-performance motion control.\n• Multidisciplinary knowledge spanning controls engineering, mechanical dynamics and data processing Exceptional communication and planning skills, with an ability to document and present findings to technical teams effectively.\n• Demonstrated experience in the integration and deployment of new, custom mechatronic systems for real-world applications.\n• Passionate about delivering a rock-solid actuation system MS degree in science or engineering Architect signal routing and processing of actuator data in our real-time stack Manage actuator parameter storage, loading, and retrieval Implement high performance actuation algorithms, in particular for closed loop torque control Implement signal injection algorithms for system identification purposes Implement failure fallback strategies Implement real-time observers to enhance diagnostics and serve as alternative feedback for fallback strategies.\n• Prior experience working in robotics Prior experience working with humanoids Numerical modeling expertise.\n• Proven expertise in designing control architectures, control synthesis and tuning, system identification, and feedback linearization.\n• Resilient and effective in fast-paced, challenging environments.\n• Competency in hands-on work within a lab setting, alongside strong engineering analysis capabilities.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162634636-embedded-actuation-engineer",
+    "id": "ai-jobs-embedded-actuation-engineer-san-jose"
   }
 ]
