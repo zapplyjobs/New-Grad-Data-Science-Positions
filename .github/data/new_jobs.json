@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Salesforce",
+    "job_title": "LATAM Internship Program | Sales Enablement Intern | [Brazil]",
+    "job_city": "Brazil - Sao Paulo",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Bachelor’s degree with graduation date between December/2026 and June/2027.\n• Analytical skill set to drive insights from data (advanced database/spreadsheet formulas and queries are a plus).\n• Strong communication skills (both verbal and written).\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager The opportunity to learn from industry leaders and grow your career in a Fortune 500 company.\n• This is a 1-year Internship program.\n• Master Google Docs/Sheets/Slides or Microsoft Office.\n• Video and image editing tools are a plus.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr307746/latam-internship-program-sales-enablement-intern-brazil/",
+    "id": "salesforce-latam-internship-program-sales-enablement-intern-brazil-brazil-sao-paulo"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Full-Stack SWE, Data Acquisition (Foundations)",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "3h",
+    "job_description": "• Enhance user experience by developing intuitive web-based interfaces for managing and monitoring data pipelines.\n• 4+ years of industry experience in full-stack development.\n• Experience building data-intensive applications that handle large-scale datasets.\n• Prior experience with web crawling and large-scale data processing is a plus.\n• Strong problem-solving skills and ability to balance multiple tasks in a fast-moving environment.\n• Excellent communication and collaboration skills.\n• Develop and maintain full-stack applications that support data acquisition, including internal tools and dashboards.\n• Collaborate closely with cross-functional teams, including Data Processing, Architecture, and Scaling, to ensure seamless data ingestion and workflow management.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162810454-full-stack-swe-data-acquisition-foundations",
+    "id": "ai-jobs-full-stack-swe-data-acquisition-foundations-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Software Engineer, Safeguards Research",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "4h",
+    "job_description": "• Have strong software engineering experience, particularly with Python Are excited about learning foundational ML knowledge to make researchers more effective (deep ML knowledge is not required) Are experienced with prompting and working with language models Excel at building practical, scalable data pipelines and tooling Prefer implementing simple solutions that work reliably over complex ones Have experience optimizing code for performance and resource efficiency Are comfortable working in a fast-paced, collaborative research environment Care deeply about the impacts of AI Have experience building systems that integrate with large language models Have worked on distributed computing systems or parallel processing Have implemented data processing pipelines at scale Have contributed to open-source machine learning or AI safety tools Have experience with cloud infrastructure and containerization.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162804489-software-engineer-safeguards-research",
+    "id": "ai-jobs-software-engineer-safeguards-research-san-francisco"
+  }
+]
