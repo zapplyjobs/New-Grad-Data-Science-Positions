@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Data Scientist III, Product, Google Cloud Business Platform",
-    "job_city": "Sunnyvale",
+    "job_title": "Data Scientist III, Research, Brand Advertising, YouTube Ads",
+    "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role Data Scientist III, Product, Google Cloud Business Platform",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/133335052984427206-data-scientist-iii-product-google-cloud-business-platform?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1",
-    "id": "google-data-scientist-iii-product-google-cloud-business-platform-sunnyvale"
+    "job_description": "data science job for the role Data Scientist III, Research, Brand Advertising, YouTube Ads",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/111892652097446598-data-scientist-iii-research-brand-advertising-youtube-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1",
+    "id": "google-data-scientist-iii-research-brand-advertising-youtube-ads-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, App Ads",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Software Engineer III, App Ads",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/114892669573833414-software-engineer-iii-app-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3",
+    "id": "google-software-engineer-iii-app-ads-mountain-view"
   }
 ]
