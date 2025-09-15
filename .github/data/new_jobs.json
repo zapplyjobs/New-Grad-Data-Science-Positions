@@ -1,42 +1,32 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "DRAM Design Engineer - Node Development",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "22 days",
-    "job_description": "• Working with Marketing, Probe, Assembly, Test, Process Integration, and Product Engineering groups to ensure accurate manufacturability of product Parasitic modeling and assisting in design validation, reticle experiments and required tape-out revisions Less than 2 years Principal Design Engineer, TSV PackagingBoise, Idaho, United States of AmericaPosted a month ago Principal Circuit Design Engineer, DRAMBoise, Idaho, United States of AmericaPosted 20 days ago Principal Engineer - HIG HBM - PE Design ValidationSingapore, SingaporePosted 2 months ago Intern - DRAM Design EngineerBoise, Idaho, United States of AmericaPosted 19 days ago Principal Engineer, IO DesignBoise, Idaho, United States of AmericaPosted 12 days ago.",
-    "job_apply_link": "https://careers.micron.com",
-    "id": "micron-technology-dram-design-engineer-node-development-boise"
+    "employer_name": "Salesforce",
+    "job_title": "Software Performance Engineer",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr310289/software-performance-engineer/",
+    "id": "salesforce-software-performance-engineer-california-san-francisco"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Data Scientist II - AMZ9085098",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_posted_at": "1 month",
-    "job_description": "data science job for the role Data Scientist II - AMZ9085098",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3041987/data-scientist-ii-amz9085098",
-    "id": "amazon-data-scientist-ii-amz9085098-san-diego"
+    "employer_name": "Siemens",
+    "job_title": "Fire Alarm Systems Technician",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Fire Alarm Systems Technician",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-fire-alarm-systems-technician-austin"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer II, Advertising Products and Tech",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "8 months",
-    "job_description": "data science job for the role Software Development Engineer II, Advertising Products and Tech",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/2871344/software-development-engineer-ii-advertising-products-and-tech",
-    "id": "amazon-software-development-engineer-ii-advertising-products-and-tech-seattle"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Data Scientist II - AMZ8839670",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "1 month",
-    "job_description": "data science job for the role Data Scientist II - AMZ8839670",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3042654/data-scientist-ii-amz8839670",
-    "id": "amazon-data-scientist-ii-amz8839670-new-york"
+    "employer_name": "Arm",
+    "job_title": "Graduate Operations Analyst",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "• With a mid-year, and year-end review you'll have two windows each year to progress recognizing the pace at which you could grow.\n• Join our Graduate Committee and home in on your planning, networking and co-ordination skills.\n• The Solutions Engineering Operations team is looking for an Operations Analyst Recent Graduate who is eager to apply technical and analytical skills in the semiconductor industry.\n• A yearly occurrence exclusive for Graduates allowing you to hear from executive members, inspiring speakers and make connections for life.\n• A Bachelor’s degree in Computer Engineering, Computer Science, Data Science, Electrical Engineering, or a related field.\n• Basic programming or scripting skills (Python, Bash, or similar) to support automation.\n• Experience working with databases or data pipelines.\n• Attend our \"Grad-teach-Grads\" workshops, guest speaker series and various social events to expand your knowledge.",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-operations-analyst/33099/86183641008",
+    "id": "arm-graduate-operations-analyst-austin"
   }
 ]
