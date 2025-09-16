@@ -1,52 +1,52 @@
 [
   {
+    "employer_name": "Micron Technology",
+    "job_title": "DRAM Product Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "a month",
+    "job_description": "• Identify product-specific testing requirements and build specialized testing for newly identified fail modes to maintain exceptionally high standards.\n• Engineer - NAND Cell ReliabilitySingapore, Singapore + 1 morePosted 4 months ago Bachelor's or Master's Degree in Electrical or Computer Engineering.\n• Prior experience in a related engineering role.\n• Ensure product quality and reliability by partnering with Quality Assurance to confirm that products meet strict industry standards.\n• Outstanding collaboration and teamwork values and ability help to grow a team across different roles.\n• Familiarity with VLSI and semiconductor device physics.",
+    "job_apply_link": "https://careers.micron.com/careers/job/30826027",
+    "id": "micron-technology-dram-product-engineer-manassas"
+  },
+  {
     "employer_name": "BAE Systems",
-    "job_title": "Acquisition Cost Analyst",
-    "job_city": "Arlington",
+    "job_title": "Enterprise Cybersecurity Data Loss Prevention Administrator",
+    "job_city": "McLean",
     "job_state": "VA",
     "job_posted_at": "Posted Today",
-    "job_description": "• Information Systems Security ManagerlocationsAlexandria, VAposted onPosted TodayR0226109 Software Engineer, SeniorlocationsHerndon, VAposted onPosted 30+ Days AgoR0223921 Software Architect, Leadlocations3 Locationsposted onPosted 26 Days AgoR0224420 AI Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0222690 Palantir Chief Engineerlocations3 Locationsposted onPosted 4 Days AgoR0226093 AI Engineer, Seniorlocations2 Locationsposted onPosted 4 Days AgoR0225510.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Acquisition-Cost-Analyst_R0226221?q=data+science",
-    "id": "bae-systems-acquisition-cost-analyst-arlington"
+    "job_description": "• Knowledge Management ManagerlocationsArlington, VAposted onPosted 30+ Days AgoR0224156 Defense Mission Professional and Integrated Logistics Support ManagerlocationsWarren, MIposted onPosted 30+ Days AgoR0223114 Defense Mission Professional and Integrated Logistics Support ManagerlocationsWarren, MIposted onPosted 28 Days AgoR0224382 Defense Mission Professional & Equipment SpecialistlocationsWarren, MIposted onPosted 30+ Days AgoR0223113 AI and ML Engineer, LeadlocationsAnnapolis Junction, MDposted onPosted 4 Days AgoR0226090 Senior Technical Product ManagerlocationsMcLean, VAposted onPosted 25 Days AgoR0224811 AI and ML Engineer, LeadlocationsFort Meade, MDposted onPosted 25 Days AgoR0224878.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Administrator_R0226134-1?q=data+science",
+    "id": "bae-systems-enterprise-cybersecurity-data-loss-prevention-administrator-mclean"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Cloud Security Software Engineer, GeForce NOW",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Senior Test Development Engineer – Datacenter GPU Systemslocations3 Locationsposted onPosted 7 Days AgoJR2003780Senior Software Program Manager - Datacenter Compute ServerlocationsUS, CA, Santa Claraposted onPosted YesterdayJR1996363Developer Technology Engineer, High-Performance Databases – New College Grad 2025locationsUS, CA, Santa Claraposted onPosted 11 Days AgoJR2003577Technical Program Manager - Rapidslocations6 Locationsposted onPosted 17 Days AgoJR2002701Senior Solutions Architect, HPC and AIlocations3 Locationsposted onPosted 17 Days AgoJR2003042Senior Customer Success Operations Manager, BI and InsightslocationsUS, CA, Santa Claraposted onPosted 17 Days AgoJR1997912Solutions Architect, AI and MLlocations3 Locationsposted onPosted 26 Days AgoJR2000691Senior Security Architect - AI and MLlocations6 Locationsposted onPosted 30+ Days AgoJR2000953Senior Account Manager - Financial Serviceslocations3 Locationsposted onPosted 30+ Days AgoJR2002069Senior Software Engineer, Streaming Performance and Analyticslocations2 Locationsposted onPosted 30+ Days AgoJR2001314Senior Product ManagerlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1999966Cloud Security Software Engineer, GeForce NOWlocationsUS, CA, Santa Claraposted onPosted TodayJR2002415Senior Developer Technology Engineer, Public Sectorlocations3 Locationsposted onPosted 30+ Days AgoJR1999904Senior Solutions Architect, RetaillocationsUS, AR, Remoteposted onPosted 30+ Days AgoJR1991523Solutions Architect, Agentic AIlocations2 Locationsposted onPosted 12 Days AgoJR2002855Senior Product Business AnalystlocationsUS, CA, Santa Claraposted onPosted 19 Days AgoJR1997279Senior System Software Engineerlocations3 Locationsposted onPosted 25 Days AgoJR2001353Senior Deep Learning Software Engineer, cuDNNlocations4 Locationsposted onPosted 30+ Days AgoJR2001339Senior Product Marketing Manager, GPUslocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1988020Senior Solutions Architect, Global Partner TeamlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1998420.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cloud-Security-Software-Engineer--GeForce-NOW_JR2002415?q=data+science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-cloud-security-software-engineer-geforce-now-us"
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Artificial Intelligence Engineer",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "7h",
-    "job_description": "• Strong experience with Python, TensorFlow, PyTorch, and LangChain or similar frameworks.\n• Hands-on experience with NLP, document classification, email parsing, and retrieval-augmented generation (RAG).\n• Experience with vector databases, prompt engineering, and LLM fine-tuning.\n• Bachelor's or Master’s in Computer Science, AI, Machine Learning, or related field.\n• Familiarity with agent frameworks (e.\n• , AutoGPT, CrewAI, ReAct).",
-    "job_apply_link": "https://www.aijobs.com/jobs/163121336-artificial-intelligence-engineer",
-    "id": "ai-jobs-artificial-intelligence-engineer-"
+    "job_title": "Embedded Software Intern (Winter 2025)",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "• Graduate student or recent graduate in Computer Science or related field Minimum 10 weeks internship, 1 to 2 terms preferred Ability to showcase extra-academic activities working on hardware/software projects Fluent with C++ and Python Deep understanding of Linux Good knowledge of computer architecture, communication buses and protocols like Ethernet, Ethercat, Serial, CAN or USB Comfortable using lab instruments (Oscilloscopes, logic analyzers…) and debugging tools (Lauterbach…) Experience with the Bazel build system Experience with Docker containers Experience with Rust.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163128056-embedded-software-intern-winter-2025",
+    "id": "ai-jobs-embedded-software-intern-winter-2025-san-jose"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Data Engineer - Cloud Infrastructure",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "1 day",
-    "job_description": "• Minimum QualificationsBS or higher in Computer Science in Data Engineering, Data Science, or related fields.\n• Experience managing cloud-native applications leveraging AWS including EKS, Kubernetes and S3Observability and telemetry tools such as CloudWatch, Splunk, Prometheus, OpenTelemetryExperience with tools such as Helm, Flux, ArgoCD.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200620169-0836/data-engineer-cloud-infrastructure?team=HRDWR",
-    "id": "apple-data-engineer-cloud-infrastructure-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Data Engineer - Cloud Infrastructure",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "1 day",
-    "job_description": "• Minimum QualificationsBS or higher in Computer Science in Data Engineering, Data Science, or related fields.\n• Experience managing cloud-native applications leveraging AWS including EKS, Kubernetes and S3Observability and telemetry tools such as CloudWatch, Splunk, Prometheus, OpenTelemetryExperience with tools such as Helm, Flux, ArgoCD.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200620169-3543/data-engineer-cloud-infrastructure?team=HRDWR",
-    "id": "apple-data-engineer-cloud-infrastructure-san-diego"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Data Scientist II - AMZ9084921",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "1 month",
-    "job_description": "data science job for the role Data Scientist II - AMZ9084921",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3041563/data-scientist-ii-amz9084921",
-    "id": "amazon-data-scientist-ii-amz9084921-seattle"
+    "employer_name": "RIVIAN",
+    "job_title": "ML Compiler Engineer",
+    "job_city": "Palo Alto",
+    "job_state": "California US",
+    "job_posted_at": "Recently",
+    "job_description": "• Partner with perception, systems, and autonomy teams to align model optimization efforts with hardware roadmap and real-world autonomy requirements.\n• Hands-on experience with quantized model deployment, ML compilation stacks, and code generation for embedded or heterogeneous compute systems.\n• Prior experience working with hardware-software co-design, especially for autonomous or robotics platforms.\n• Solid programming skills in C++, Python Lead the development of optimizations for mapping quantized perception models (e.\n• Deep knowledge of numerical precision trade-offs, quantization-aware training (QAT), and dynamic/static quantization flows.\n• Familiarity with embedded real-time constraints and hardware profiling/debugging tools.\n• Familiarity with rearchitecting models to best suit hardware capabilities.\n• , CNNs, Transformers, LLMs) to embedded and heterogeneous hardware platforms.",
+    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/26319/login",
+    "id": "rivian-ml-compiler-engineer-palo-alto"
   }
 ]
