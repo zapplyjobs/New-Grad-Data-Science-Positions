@@ -1,42 +1,62 @@
 [
   {
-    "employer_name": "General Dynamics",
-    "job_title": "AWS Cloud Engineer",
-    "job_city": "Any Location /",
+    "employer_name": "IBM",
+    "job_title": "Wells Fargo Data Center Technician",
+    "job_city": "Minneapolis",
     "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/AWS-Cloud-Engineer_RQ207092-1?q=data+science",
-    "id": "general-dynamics-aws-cloud-engineer-any-location"
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Wells Fargo Data Center Technician",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58526&source=WEB_Search_NA",
+    "id": "ibm-wells-fargo-data-center-technician-minneapolis"
   },
   {
-    "employer_name": "General Dynamics",
-    "job_title": "SAP ERP Analyst",
-    "job_city": "USA IN Indianapolis",
+    "employer_name": "Salesforce",
+    "job_title": "Summer 2026 Intern - Finance Operations Associate",
+    "job_city": "Georgia - Atlanta",
     "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-IN-Indianapolis/SAP-ERP-Analyst_RQ207370?q=data+science",
-    "id": "general-dynamics-sap-erp-analyst-usa-in-indianapolis"
+    "job_posted_at": "Recently",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback University Overview Interns New Grads Advanced Degrees Associate Program Manager General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr311172/summer-2026-intern-finance-operations-associate/",
+    "id": "salesforce-summer-2026-intern-finance-operations-associate-georgia-atlanta"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Summer 2026 Intern - Finance Operations Associate",
+    "job_city": "Indiana - Indianapolis",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr311169/summer-2026-intern-finance-operations-associate/",
+    "id": "salesforce-summer-2026-intern-finance-operations-associate-indiana-indianapolis"
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "AI/ML Developer",
-    "job_city": "Columbus",
-    "job_state": "OH",
-    "job_posted_at": "11h",
-    "job_description": "• Bachelor’s degree in Computer Science, Engineering or similar field.\n• A Master’s degree will be preferred.\n• Proven experience as an AI Engineer or similar role in software development.\n• Experience in Data Science and building and deploying AI models.\n• Strong programming skills in Python, Java, or other programming languages.\n• Experience with machine learning frameworks (like Keras or PyTorch).\n• Experience in utilizing and deploying AI solutions in cloud environments (AWS, GCP, Azure).\n• Analyze and understand AI/Machine Learning application requirements.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163262447-ai-ml-developer",
-    "id": "ai-jobs-ai-ml-developer-columbus"
+    "job_title": "Associate Scientist - Clinical Research",
+    "job_city": "Melville",
+    "job_state": "NY",
+    "job_posted_at": "6h",
+    "job_description": "• BS Degree in science field1+ years of relevant experience in a life science research environment (university, research institute or industry lab), the cosmetic/ healthcare industry, clinical testing, or related fields.\n• Strong technical, analytical and organization skills - Ability to manage multiple projects in a fast paced setting while maintaining attention to details and precision in testing techniques - acute attention to details is a must.\n• Excellent written and verbal communication skills.\n• Undergraduate degree in biology, material science, biomechanical, biochemistry, bioinformatics, or computer science& statistics& mathematics or related disciplines.\n• Independent problem solver.\n• Basic knowledge of clinical measurements and methodologies, Good clinical practice, and statistics are a plus.\n• Proven effective use of AI and programming tools.\n• Contribute to scientific projects, study execution and reports within set timelines.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163285595-associate-scientist-clinical-research",
+    "id": "ai-jobs-associate-scientist-clinical-research-melville"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Data Scientist Associate",
-    "job_city": "Cebu",
-    "job_state": "Central Visayas",
-    "job_posted_at": "Recently",
-    "job_description": "• 2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York Chicago, IL, United States and 4 more Data & AnalyticsSeasonal Employee Use your data analysis and coding skills to help a nonprofit organization further their mission.\n• Quantitative Research - Custody & Fund Services - Associate/Vice President Mumbai, Maharashtra, India RiskRisk Analytics/Modeling Join the team that is helping to transform business practices through data science/other quantitative methods Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Machine Learning Data Scientist-Vice President Columbus, OH, United States and 2 more Data & AnalyticsPredictive Science Join our Sales Science Data and Analytics team and help us optimize client engagement through our CCB Field employees and tools 2026 Focused Analytics Solutions Team (FAST) Summer Associate - Analytics Solutions Plano, TX, United States and 3 more Data & AnalyticsData & Analytics Rotation FAST offers Data Science and Analytics Solutions, staffed by experts from both tracks.\n• Technical Project Manager III - AI/ML Senior Associate LONDON, LONDON, United Kingdom TechnologyTechnical Program Delivery Lead transformative tech projects, leveraging analytical skills and technical knowledge for high-impact results.\n• Big Data Software Engineer - Python Ciudad Autónoma de Buenos Aires, Argentina and 1 more TechnologySoftware Engineering Big Data Software Engineer with skills and experience implementing large-scale, cloud platform processing internal a and third-party da Risk Management - Wholesale Credit Risk Reporting Analyst Newark, DE, United States RiskRisk Reporting Create reports and analysis to manage risk and meet regulatory requirements in dynamic market conditions.\n• Senior Associate Researcher Columbus, OH, United States and 1 more ProductUser Experience Design Drive impactful user experience research for Chase’s Core Deposit Platform, delivering actionable insights and recommendations.\n• Product Manager, Vice President - Skills Chicago, IL, United States and 3 more ProductProduct Management Lead innovation and reimagine skills as a data product to transform and modernize the talent practices across JPMorganChase Data Scientist Associate Cebu, Central Visayas, Philippines Data & AnalyticsPredictive Science Drive strategic business decisions through comprehensive data analysis and collaboration with cross-functional teams.\n• Software Engineer III - Java/Spark/AWS Jersey City, NJ, United States and 1 more TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Senior Lead Software Engineer- AI Platform engineer Seattle, WA, United States TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Senior Lead Software Engineer- AI Platform engineer Jersey City, NJ, United States TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Product Director NY, United States ProductProduct Management We are seeking a dynamic and experienced Product Manager to lead our Cobrand Card modernization efforts.\n• Technical Program Manager- Transformative AI Project Lead GLASGOW, LANARKSHIRE, United Kingdom TechnologyTechnical Program Delivery Manage complex tech programs at a leading firm, driving innovation and success with expert skills Applied AI ML Lead Chicago, IL, United States and 1 more Data & AnalyticsPredictive Science As an Applied AI/ML Lead, you will be responsible for developing and implementing AI/ML solutions to solve complex business problem.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210654156/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-data-scientist-associate-cebu"
+    "employer_name": "AI Jobs",
+    "job_title": "Software Engineer, Applied Emerging Talent (2026)",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Bachelor's or Master’s degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience0-1 years of experience in software engineering or a relevant fieldProficiency with JavaScript, React, and some backend languages (we use Python)Some experience with relational databases like Postgres/MySQLInterest in AI/ML (direct experience not required)Ability to move fast in an environment where things are sometimes loosely defined and may have competing priorities or deadlines Own the development of new customer-facing ChatGPT and OpenAI API features and product experiences end-to-endTalk to users to understand their problems and design solutions to address themCollaborate with a cross-functional team of engineers, researchers, product managers, designers, and operations folks to create cutting-edge productsOptimize applications for speed and scaleCreate a diverse and inclusive culture that makes all feel welcome.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163275216-software-engineer-applied-emerging-talent-2026",
+    "id": "ai-jobs-software-engineer-applied-emerging-talent-2026-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Software Engineer Internship / Co-op, Applied Emerging Talent (Summer 2026)",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Currently pursuing a Bachelor's or Master’s degree in Computer Science, Computer Engineering, or relevant technical fieldMust have at least one semester of schooling left after the completion of your internshipProficiency with JavaScript, React, and some backend languages (we use Python)Some experience with relational databases like Postgres/MySQLInterest in AI/ML (direct experience not required)Ability to move fast in an environment where things are sometimes loosely defined and may have competing priorities or deadlines Build new customer-facing ChatGPT and OpenAI API features and product experiences end-to-end Collaborate with a cross-functional team of engineers, researchers, product managers, designers, and operations folks to create cutting-edge products.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163275217-software-engineer-internship-co-op-applied-emerging-talent-summer-2026",
+    "id": "ai-jobs-software-engineer-internship-co-op-applied-emerging-talent-summer-2026-san-francisco"
   }
 ]
