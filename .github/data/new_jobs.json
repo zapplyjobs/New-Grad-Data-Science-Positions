@@ -1,52 +1,92 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Supply Chain Management Professional Intern",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Supply Chain Management Professional Intern 2026",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59388&source=WEB_Search_NA",
-    "id": "ibm-supply-chain-management-professional-intern-ship"
-  },
-  {
     "employer_name": "Salesforce",
-    "job_title": "Fall 2025 Intern - Employee Success",
-    "job_city": "California - San Francisco",
+    "job_title": "Software Engineering MTS - Commerce Cloud",
+    "job_city": "Massachusetts - Burlington",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Agentic System Support: Collaborate with Employee Success and Salesforce teams to implement and test Agentforce agents that provide personalized, AI-driven support to employees 24/7.\n• Data-Driven Insights: Bring a data driven agentic view to Human ResourcesInnovation Projects: Partner with cross-functional teams to prototype next-gen tools and workflows that enhance employee experience using AI and automation.\n• Employee Experience Design: Support initiatives that deliver scalable, proactive, and intelligent employee support, using Agentforce to reduce friction and empower self-service.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Currently pursuing a Bachelor’s or Master’s degree in Human Resources, Organizational Psychology, Business Analytics, Data Science, or related field.\n• Creative, adaptable, and excited to co-create the next generation of employee experience solutions.\n• Practical experience in data analysis, process automation, and intelligent agent design.\n• Collaboration with leaders across Employee Success: Workforce Innovation, ESBPs, and Data ScienceMentorship in shaping the future of employee experience using cutting-edge tools.\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr311136/fall-2025-intern-employee-success/",
-    "id": "salesforce-fall-2025-intern-employee-success-california-san-francisco"
+    "job_description": "• Lead feature development throughout the software lifecycle: gather requirements, design, build, test, and deployHelp scale our services which need to support low latency and high throughputHave experience with reliably delivering high-quality, distributed, testable, and scalable softwarePresent your own designs to internal/external groups and review designs of othersDevelop test strategies, design automation frameworks, write unit/functional tests to drive up code coverage and automation metrics as well as CI/CD tools and its usageParticipate in the team’s on-call rotation to address complex problems in real-time and keep services operational and highly availableDesign and develop features on public clouds like AWS, GCP.\n• Build tools for internal use to support software engineering best practices Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows 3+ years of professional experienceSolid object oriented programming experience using JavaExperience using Git / GitHubExperience in automated testing including unit and functional testing using Java, JUnit, JSUnit, SeleniumDeveloping and debugging code to identify and fix performance issuesPrevious experience with SaaS development and enterprise web application developmentUnderstanding of Agile/Scrum methodologiesExperience building and deploying microservices on public clouds such as Amazon Web Services or Google Cloud Platform, using tools like Terraform, Terragrunt and KubernetesExperience building Caching and Search services using Redis/AWS ElastiCache/Memcached and AWS OpenSearch technologies Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr309764/software-engineering-mts-commerce-cloud/",
+    "id": "salesforce-software-engineering-mts-commerce-cloud-massachusetts-burlington"
   },
   {
-    "employer_name": "Intel",
-    "job_title": "AI Compiler Engineer",
-    "job_city": "2 Locations",
+    "employer_name": "Infineon Technologies",
+    "job_title": "Internship - Modeling Engineer - Summer",
+    "job_city": "Lexington",
     "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Internship - Modeling Engineer - Summer 2026",
+    "job_apply_link": "https://jobs.infineon.com/careers",
+    "id": "infineon-technologies-internship-modeling-engineer-summer-lexington"
+  },
+  {
+    "employer_name": "Infineon Technologies",
+    "job_title": "Internship - Modeling Engineer - Spring",
+    "job_city": "Lexington",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Internship - Modeling Engineer - Spring 2026",
+    "job_apply_link": "https://jobs.infineon.com/careers",
+    "id": "infineon-technologies-internship-modeling-engineer-spring-lexington"
+  },
+  {
+    "employer_name": "Infineon Technologies",
+    "job_title": "Internship - Process Design Kit Engineer - Spring",
+    "job_city": "Lexington",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Internship - Process Design Kit Engineer - Spring 2026",
+    "job_apply_link": "https://jobs.infineon.com/careers",
+    "id": "infineon-technologies-internship-process-design-kit-engineer-spring-lexington"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Dry Mechanical Design Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "2 days",
+    "job_description": "• Review and validate third-party development work, such as piping and instrumentation diagrams (P&IDs), equipment specifications, and system layouts, ensuring compliance with project requirements and standards.\n• Collaborate with external engineering teams, contractors, vendors, and internal partners to align dry mechanical system compositions with facility requirements and project timelines.\n• Experienced in dry mechanical engineering for 3-5+ years, including 2 years coordinating third-party designs for clean room HVAC systems, HVAC hydronic, or process exhaust systems.\n• Bachelor’s degree or equivalent experience in mechanical engineering, environmental engineering, or a related field.\n• Experience coordinating third-party designs for semiconductor, pharmaceutical, or data center facilities with stringent wet mechanical system requirements.\n• Knowledge of industry norms and guidelines, including AHRI (Air-conditioning, Heating and Refrigeration Institute), SMACNA (Sheet Metal and Air Conditioning Contractors National Association), IMC (International Mechanical Code), and ASHRAE standards.\n• Perform quality assurance and risk assessments on third-party compositions, identifying and resolving issues related to constructability, efficiency, or compliance with building codes and laws.\n• Advanced certifications (e.",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-dry-mechanical-design-engineer-boise"
+  },
+  {
+    "employer_name": "Siemens",
+    "job_title": "Energy Engineering Internship",
+    "job_city": "Syracuse",
+    "job_state": "New York",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Energy Engineering Internship",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-energy-engineering-internship-syracuse"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Cyber Data Analyst",
+    "job_city": "Alexandria",
+    "job_state": "VA",
     "job_posted_at": "Posted Today",
-    "job_description": "• Data Architectlocations4 Locationsposted onPosted 6 Days AgoJR0277228Data Scientist - Economicslocations3 Locationsposted onPosted 20 Days AgoJR0277007Global Technical Leader, Data Center Architecture and Customer Engagementlocations4 Locationsposted onPosted 25 Days AgoJR0276881Government Information Security Engineerlocations4 Locationsposted onPosted 6 Days AgoJR0276257Information Security System Officer (ISSO)locationsUS, Arizona, Phoenixposted onPosted YesterdayJR0276662Information Security System Officer (ISSO)locationsUS, Virginia, Fairfaxposted onPosted 6 Days AgoJR0277075Technical Sales - Intern, Graduatelocations4 Locationsposted onPosted 11 Days AgoJR0277153Technical Sales - Intern, Bachelorslocations4 Locationsposted onPosted 11 Days AgoJR0277165Platform Hardware and Systems Engineering - Intern, Graduatelocations5 Locationsposted onPosted 26 Days AgoJR0276770Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted 26 Days AgoJR0276771Platform Hardware and Systems Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 26 Days AgoJR0276776Manufacturing and Process Development - College Graduate, Graduate Degreelocations3 Locationsposted onPosted 4 Days AgoJR0276878Manufacturing and Process Development - College Graduate, Bachelorslocations3 Locationsposted onPosted 4 Days AgoJR0276877Senior Director, Module Development Engineeringlocations2 Locationsposted onPosted 8 Days AgoJR0276800Epitaxial Silicon Growth EngineerlocationsUS, Oregon, Hillsboroposted onPosted 12 Days AgoJR0276179FVCTO - Formal Verification Senior Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276239Triton Compiler Engineerlocations3 Locationsposted onPosted 6 Days AgoJR0277157AI Compiler Engineerlocations2 Locationsposted onPosted TodayJR0277310Senior SOC Performance Architectlocations3 Locationsposted onPosted TodayJR0277337Senior SOC Performance Architectlocations3 Locationsposted onPosted TodayJR0277396.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Compiler-Engineer_JR0277310?q=data+science&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-ai-compiler-engineer-2-locations"
+    "job_description": "• University, 2026 Summer Games Data Scientist Internlocations11 Locationsposted onPosted 5 Days AgoR0225534 Interoperability Data ScientistlocationsLorton, VAposted onPosted 30+ Days AgoR0223517 Data Scientist, SeniorlocationsJoint Base Pearl Harbor - Hickam, HIposted onPosted 27 Days AgoR0224782 Data Visualization Specialistlocations2 Locationsposted onPosted 6 Days AgoR0225981 Data Scientist, SeniorlocationsFalls Church, VAposted onPosted 4 Days AgoR0226167 Data Scientist, SeniorlocationsWashington, DCposted onPosted 4 Days AgoR0226164 Data Scientist, LeadlocationsAlexandria, VAposted onPosted 29 Days AgoR0222218 Data Scientist, SeniorlocationsAlexandria, VAposted onPosted YesterdayR0224912 Data Scientist, Seniorlocations2 Locationsposted onPosted 19 Days AgoR0225299 Data Scientist, SeniorlocationsTampa, FLposted onPosted 8 Days AgoR0225830.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Cyber-Data-Analyst_R0226386?q=data+science",
+    "id": "bae-systems-cyber-data-analyst-alexandria"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Drive the Future Program Internship - Performance & Data (Part Time)",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "• 2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York Chicago, IL, United States and 4 more Data & AnalyticsSeasonal Employee Use your data analysis and coding skills to help a nonprofit organization further their mission.\n• Quantitative Research - Custody & Fund Services - Associate/Vice President Mumbai, Maharashtra, India RiskRisk Analytics/Modeling Join the team that is helping to transform business practices through data science/other quantitative methods Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Machine Learning Data Scientist-Vice President Columbus, OH, United States and 2 more Data & AnalyticsPredictive Science Join our Sales Science Data and Analytics team and help us optimize client engagement through our CCB Field employees and tools 2026 Focused Analytics Solutions Team (FAST) Summer Associate - Analytics Solutions Plano, TX, United States and 3 more Data & AnalyticsData & Analytics Rotation FAST offers Data Science and Analytics Solutions, staffed by experts from both tracks.\n• Technical Project Manager III - AI/ML Senior Associate LONDON, LONDON, United Kingdom TechnologyTechnical Program Delivery Lead transformative tech projects, leveraging analytical skills and technical knowledge for high-impact results.\n• Big Data Software Engineer - Python Ciudad Autónoma de Buenos Aires, Argentina and 1 more TechnologySoftware Engineering Big Data Software Engineer with skills and experience implementing large-scale, cloud platform processing internal a and third-party da Risk Management - Wholesale Credit Risk Reporting Analyst Newark, DE, United States RiskRisk Reporting Create reports and analysis to manage risk and meet regulatory requirements in dynamic market conditions.\n• Senior Associate Researcher Columbus, OH, United States and 1 more ProductUser Experience Design Drive impactful user experience research for Chase’s Core Deposit Platform, delivering actionable insights and recommendations.\n• Product Manager, Vice President - Skills Chicago, IL, United States and 3 more ProductProduct Management Lead innovation and reimagine skills as a data product to transform and modernize the talent practices across JPMorganChase Software Engineer III - Java/Spark/AWS Jersey City, NJ, United States and 1 more TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Senior Lead Software Engineer- AI Platform engineer Seattle, WA, United States TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Senior Lead Software Engineer- AI Platform engineer Jersey City, NJ, United States TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Product Director NY, United States ProductProduct Management We are seeking a dynamic and experienced Product Manager to lead our Cobrand Card modernization efforts.\n• Technical Program Manager- Transformative AI Project Lead GLASGOW, LANARKSHIRE, United Kingdom TechnologyTechnical Program Delivery Manage complex tech programs at a leading firm, driving innovation and success with expert skills Applied AI/ML Senior Associate Chicago, IL, United States and 1 more Data & AnalyticsPredictive Science Develop and implement artificial intelligence and machine learning solutions to solve complex business problems as a Senior Associate.\n• Channel Delivery Execution Lead Newark, DE, United States and 2 more Marketing & CommunicationsMarketing Delivery Design and execute omni-channel customer journeys to create engaging and personalized marketing experiences.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210660439/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-drive-the-future-program-internship-performance-data-part-time-"
+    "employer_name": "BAE Systems",
+    "job_title": "Mechanical Engineer",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 30+ Days AgoR0224192 Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 30+ Days AgoR0224190 Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 30+ Days AgoR0224187 Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 30+ Days AgoR0224188 Modeling and Simulation Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 30+ Days AgoR0224189 Cyber Automation Engineer, LeadlocationsEgg Harbor Township, NJposted onPosted 4 Days AgoR0224019 Defense Technical Delivery DirectorlocationsPanama City, FLposted onPosted 13 Days AgoR0225681 Structural Engineer, SeniorlocationsTinker AFB, OKposted onPosted 27 Days AgoR0223626 Mechanical Engineer, SeniorlocationsPicatinny, NJposted onPosted 30+ Days AgoR0222700.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Mechanical-Engineer_R0225022?q=data+science",
+    "id": "bae-systems-mechanical-engineer-huntsville"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, AI/ML, Google Cloud",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Software Engineer III, AI/ML, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/79296496020660934-software-engineer-iii-aiml-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=10",
-    "id": "google-software-engineer-iii-ai-ml-google-cloud-sunnyvale"
+    "employer_name": "AI Jobs",
+    "job_title": "Artificial Intelligence Engineer",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "23h",
+    "job_description": "• Collaborate with product and design teams to deliver intuitive, AI-powered user experiences.\n• 3+ years of hands-on software engineering experience.\n• Strong programming skills in Python and at least one of Java, Go, or TypeScript.\n• Experience building applications with large language models (OpenAI, Anthropic, Llama, Mistral, etc.\n• Experience deploying and maintaining systems in cloud-native environments (AWS, GCP, or Azure).\n• Strong collaboration and communication skills, with experience working cross-functionally.\n• Bachelor’s degree in computer science, engineering, or equivalent practical experience.\n• Experience shipping AI-powered products into production.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163262446-artificial-intelligence-engineer",
+    "id": "ai-jobs-artificial-intelligence-engineer-seattle"
   }
 ]
