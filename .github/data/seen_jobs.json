@@ -1,6 +1,4 @@
 [
-  "abb-front-end-developer-location-not-location-specific",
-  "abb-front-end-developer-multiple",
   "abb-front-end-full-stack-developer-location-not-location-specific",
   "abb-front-end-full-stack-developer-not-specific",
   "abb-full-stack-developer-location-not-location-specific",
@@ -5491,6 +5489,7 @@
   "guidehouse-salesforce-business-analyst-us-any-location",
   "guidehouse-scientific-program-analyst-us-md",
   "guidehouse-scientist-us-md",
+  "guidehouse-systems-administrator-us-md",
   "guidehouse-systems-analyst-us-md",
   "guidehouse-trainer_surgery-2-locations",
   "guidehouse-workforce-planning-reporting-and-technical-associate-2-locations",
@@ -9555,6 +9554,7 @@
   "verizon-ai-solutions-engineer-lead-washington",
   "verizon-ai-solutions-engineer-washington",
   "verizon-analysis-and-advanced-data-scientist-langley-afb",
+  "verizon-analyst-operations-support-basking-ridge",
   "verizon-analytic-methodologist-springfield",
   "verizon-applications-and-agents-corporate-software-engineer-mclean",
   "verizon-archt-ii-solutions-archt-2-locations",
