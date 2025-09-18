@@ -1,5 +1,55 @@
 [
   {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer Intern- Entry Level Sales Program",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Software Engineer Intern- Entry Level Sales Program 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58481&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-intern-entry-level-sales-program-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "P-TECH at IBM University Co-op",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role P-TECH at IBM University Co-op",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46399&source=WEB_Search_NA",
+    "id": "ibm-p-tech-at-ibm-university-co-op-"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Intern - HBM Software Engineer",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "a day",
+    "job_description": "• Collaborate with business analysts and product managers to clarify requirements.\n• Experience with Python, JavaScript, Node.\n• Knowledge of web fundamentals (HTML5, CSS3), responsive layouts, accessibility, and performance optimization (e.\n• Familiarity with the software development lifecycle, coding standards, source control, and build pipelines.\n• Ability to solve straightforward problems with guidance and work independently on assigned tasks.\n• Familiarity with Docker, cloud platforms (AWS/Azure/GCP), and observability tools.\n• NET) in team projects.\n• For front-end focused candidates: proficiency in TypeScript and React.",
+    "job_apply_link": "https://careers.micron.com/careers/job/38038147",
+    "id": "micron-technology-intern-hbm-software-engineer-richardson"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Design Readiness Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "a day",
+    "job_description": "• Senior / Engineer, HIG-HBM Product Engineering (Media Health Reliability)Singapore, SingaporePosted 15 days ago Currently pursuing a degree in Electrical Engineering, Computer Engineering, or a related field.\n• Ensure DRAM silicon performance meets manufacturing and design requirements.\n• Analytical approach with attention to detail and problem-solving skills.\n• Experience with DRAM architecture or semiconductor validation workflows.\n• Prior internship or project experience in memory design or validation.\n• Excellent communication and documentation skills.\n• Familiarity with characterization techniques and HMV trim solutions.\n• Ability to work collaboratively across engineering fields.",
+    "job_apply_link": "https://careers.micron.com/careers/job/38035889",
+    "id": "micron-technology-design-readiness-engineer-boise"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "F-35 Air Systems Information Assurance Security Engineer | Active TS/SCI clearance",
+    "job_city": "USA VA Arlington",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/F-35-Air-Systems-Information-Assurance-Security-Engineer---Active-TS-SCI-clearance_RQ207410-1?q=data+science",
+    "id": "general-dynamics-f-35-air-systems-information-assurance-security-engineer-active-ts-sci-clearance-usa-va-arlington"
+  },
+  {
     "employer_name": "10x Genomics",
     "job_title": "Production Technician- Kitting (TEMP)",
     "job_city": "Pleasanton",
@@ -45,19 +95,9 @@
     "job_city": "Texas",
     "job_state": "USA ()",
     "job_posted_at": "13 days",
-    "job_description": "• Technical Support ScientistCalifornia, USA (Remote)SupportPosted 13 days agoAccount Executive, HoustonTexas, USA (Remote)SalesPosted a month agoProcess ScientistSingapore OfficeOperationsPosted 13 days agoRegional Marketing ManagerCalifornia, USA (Remote)MarketingPosted 6 months agoHead of Integrated Marketing CommunicationsPleasanton, California, USA HQMarketingPosted 6 months agoAccount Executive, New England AcademicMassachusetts, USA (Remote)SalesPosted a month agoDirector of Commercial OperationsPleasanton, California, USA HQSalesPosted 23 days ago Director of Product Management, Single Cell PlatformsPleasanton, California, USA HQMarketingPosted 6 months agoSenior Service Operations EngineerPleasanton, California, USA HQSupportPosted 14 days agoProduction Technician- Kitting (TEMP) Pleasanton, California, USA HQOperationsPosted 10 days ago.",
+    "job_description": "• Technical Support ScientistCalifornia, USA (Remote)SupportPosted 13 days agoAccount Executive, HoustonTexas, USA (Remote)SalesPosted a month agoProcess ScientistSingapore OfficeOperationsPosted 13 days agoRegional Marketing ManagerCalifornia, USA (Remote)MarketingPosted 6 months agoHead of Integrated Marketing CommunicationsPleasanton, California, USA HQMarketingPosted 6 months agoAccount Executive, New England AcademicMassachusetts, USA (Remote)SalesPosted a month agoDirector of Commercial OperationsPleasanton, California, USA HQSalesPosted 23 days ago Director of Product Management, Single Cell PlatformsPleasanton, California, USA HQMarketingPosted 6 months agoSenior Service Operations EngineerPleasanton, California, USA HQSupportPosted 15 days agoProduction Technician- Kitting (TEMP) Pleasanton, California, USA HQOperationsPosted 10 days ago.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171836508328",
     "id": "10x-genomics-spatial-field-application-scientist-texas"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "PnP AI software engineer - tools development",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Senior SOC Performance Architectlocations3 Locationsposted onPosted YesterdayJR0277396SOC Performance Architectlocations3 Locationsposted onPosted YesterdayJR0277334PnP AI software engineer - tools developmentlocations2 Locationsposted onPosted TodayJR0277318FVCTO - Formal Verification Architectlocations4 Locationsposted onPosted 30+ Days AgoJR0276238SoC Design Verification Engineerlocations3 Locationsposted onPosted YesterdayJR0277100Sales and Marketing Rotation Program (Technical) - College Graduatelocations4 Locationsposted onPosted 12 Days AgoJR0277151Senior IP Design Verification Engineerlocations3 Locationsposted onPosted YesterdayJR0277349Software QA EngineerlocationsUS, California, Santa Claraposted onPosted TodayJR0276920Network Security Engineer (DevSecOps)locations2 Locationsposted onPosted 30+ Days AgoJR0275922Facilities Mechanical EngineerlocationsUS, Oregon, Hillsboroposted onPosted 15 Days AgoJR0277029Middleware Engineerlocations2 Locationsposted onPosted YesterdayJR0277311Network Security Engineer (DevSecOps)locations3 Locationsposted onPosted 30+ Days AgoJR0276099Systems and Solutions Architect / Intel Foundrylocations4 Locationsposted onPosted 15 Days AgoJR0276102DFT Design Engineerlocations3 Locationsposted onPosted YesterdayJR0277348Senior Foundry Applications Engineer (ASIC Physical Design)locations3 Locationsposted onPosted YesterdayJR0277398Business Development Manager - Intel Foundry (Aerospace Defense and Government Business Group)locations2 Locationsposted onPosted 30+ Days AgoJR0276103Network Security Analystlocations3 Locationsposted onPosted YesterdayJR0276785Identity Security Analystlocations3 Locationsposted onPosted 2 Days AgoJR0277301Identity Security Analystlocations3 Locationsposted onPosted 2 Days AgoJR0277299Director-Commercial Workstation Segmentlocations4 Locationsposted onPosted 19 Days AgoJR0277012.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/PnP-AI-software-engineer---tools-development_JR0277318?q=data+science&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-pnp-ai-software-engineer-tools-development-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -70,13 +110,23 @@
     "id": "abb-business-functional-analyst-location-mebane"
   },
   {
-    "employer_name": "AI Jobs",
-    "job_title": "CAD Flow Development Engineer",
-    "job_city": "US",
+    "employer_name": "Synopsys",
+    "job_title": "Signal Integrity/ Power Integrity Engineer",
+    "job_city": "Hillsboro",
+    "job_state": "Oregon",
+    "job_posted_at": "Today",
+    "job_description": "• Boosting technology performance and reliabilityDriving next-gen silicon chip developmentEnsuring smooth SI/PI integrationPromoting innovation in SI/PI methodsSupporting strategic goalsFostering collaboration Strong SI/PI analysis experienceProficiency in SI/PI simulation toolsKnowledge of UCIe PHY standardsTechnical documentation skillsCollaboration experience Analog Design Engineer - Analog IC Design Architect Signal Integrity/ Power Integrity Engineer Hillsboro, Oregon Executive Director, OPC and Mask Technical Product Management Hillsboro, Oregon Formal Verification Application Engineer Analyzing 64GT UCIe PHY SI and Power Delivery for top performanceCreating and updating SI/PI Databooks and specificationsConnecting package, SI/PI, and PHY R&D teamsCollaborating to solve SI/PI challengesRunning simulations and modelingGuiding junior engineers.",
+    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/hillsboro/signal-integrity-power-integrity-engineer/44408/77257867232",
+    "id": "synopsys-signal-integrity-power-integrity-engineer-hillsboro"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer",
+    "job_city": "Mountain View",
     "job_state": "CA",
-    "job_posted_at": "17min",
-    "job_description": "• BS in Computer Science or Electrical or Computer Engineering (or equivalent experience) with 2+ years of CAD or software development experience.\n• MS preferredSoftware engineering experience with software design, algorithms, data structures, testingFamiliarity with Verilog and ASIC implementation flow and toolsExperience developing flows and/or tools for chip designProficiency in at least one of Python, C/C++, Tcl, Perl Knowledge or experience with logic synthesis, physical design, formal equivalence checking.\n• Experience in other ASIC methodologies such as RTL Lint, CDC, DFT or STA.\n• Familiarity with Machine Learning/Deep Learning You will architect highly automated and customizable design software incorporating logic/physical synthesis, design planning, and equivalence checking for industry-leading chip designsApply software engineering practices to streamline development and automate testing and deployment of our software.\n• Be responsible for design, implementation and testing of in-house CAD softwareWork with chip design teams and leading EDA vendors to evaluate the industry's most powerful design implementation and analysis toolsProvide support for ASIC tools and flows.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163423162-cad-flow-development-engineer",
-    "id": "ai-jobs-cad-flow-development-engineer-us"
+    "job_posted_at": "1 day",
+    "job_description": "data science job for the role Software Development Engineer",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3086499/software-development-engineer",
+    "id": "amazon-software-development-engineer-mountain-view"
   }
 ]
