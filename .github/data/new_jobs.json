@@ -1,63 +1,13 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Intern 2026: Software Engineer - Semiconductor",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Intern 2026: Software Engineer - Semiconductor",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59691&source=WEB_Search_NA",
-    "id": "ibm-intern-2026-software-engineer-semiconductor-ship"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern 2026: Hardware Engineer - Semiconductor",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Intern 2026: Hardware Engineer - Semiconductor",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58770&source=WEB_Search_NA",
-    "id": "ibm-intern-2026-hardware-engineer-semiconductor-ship"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern 2026: Research Scientist - Semiconductor",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Intern 2026: Research Scientist - Semiconductor",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59978&source=WEB_Search_NA",
-    "id": "ibm-intern-2026-research-scientist-semiconductor-ship"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intellectual Property Intern",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Intellectual Property Intern",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59674&source=WEB_Search_NA",
-    "id": "ibm-intellectual-property-intern-ship"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "AI Research Partnerships Internship",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role AI Research Partnerships Internship",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59639&source=WEB_Search_NA",
-    "id": "ibm-ai-research-partnerships-internship-ship"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "AWS Cloud Engineer (TS/SCI with Poly REQUIRED)",
-    "job_city": "2 Locations",
-    "job_state": "US",
+    "employer_name": "BAE Systems",
+    "job_title": "AI and ML Software Developer",
+    "job_city": "Warner Robins",
+    "job_state": "GA",
     "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/AWS-Cloud-Engineer--TS-SCI-with-Poly-REQUIRED-_RQ207559?q=data+science",
-    "id": "general-dynamics-aws-cloud-engineer-ts-sci-with-poly-required-2-locations"
+    "job_description": "• Information Systems Security ManagerlocationsAlexandria, VAposted onPosted 22 Days AgoR0225171 Information Systems Security ManagerlocationsAlexandria, VAposted onPosted 3 Days AgoR0226109 Materials Scientist, SeniorlocationsArlington, VAposted onPosted 9 Days AgoR0225222 Software Architect, Leadlocations3 Locationsposted onPosted 29 Days AgoR0224420 Computer Vision ExpertlocationsBethesda, MDposted onPosted 14 Days AgoR0225632.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warner-Robins-GA/AI-and-ML-Software-Developer_R0226559?q=data+science",
+    "id": "bae-systems-ai-and-ml-software-developer-warner-robins"
   },
   {
     "employer_name": "10x Genomics",
@@ -105,19 +55,19 @@
     "job_city": "Texas",
     "job_state": "USA ()",
     "job_posted_at": "14 days",
-    "job_description": "• Technical Support ScientistCalifornia, USA (Remote)SupportPosted 14 days agoAccount Executive, HoustonTexas, USA (Remote)SalesPosted a month agoProcess ScientistSingapore OfficeOperationsPosted 14 days agoRegional Marketing ManagerCalifornia, USA (Remote)MarketingPosted 6 months agoHead of Integrated Marketing CommunicationsPleasanton, California, USA HQMarketingPosted 6 months agoAccount Executive, New England AcademicMassachusetts, USA (Remote)SalesPosted a month agoDirector of Commercial OperationsPleasanton, California, USA HQSalesPosted 24 days ago Director of Product Management, Single Cell PlatformsPleasanton, California, USA HQMarketingPosted 6 months agoSenior Service Operations EngineerPleasanton, California, USA HQSupportPosted 15 days agoProduction Technician- Kitting (TEMP) Pleasanton, California, USA HQOperationsPosted 11 days ago.",
+    "job_description": "• Technical Support ScientistCalifornia, USA (Remote)SupportPosted 14 days agoAccount Executive, HoustonTexas, USA (Remote)SalesPosted a month agoProcess ScientistSingapore OfficeOperationsPosted 14 days agoRegional Marketing ManagerCalifornia, USA (Remote)MarketingPosted 6 months agoHead of Integrated Marketing CommunicationsPleasanton, California, USA HQMarketingPosted 6 months agoAccount Executive, New England AcademicMassachusetts, USA (Remote)SalesPosted a month agoDirector of Commercial OperationsPleasanton, California, USA HQSalesPosted 24 days ago Director of Product Management, Single Cell PlatformsPleasanton, California, USA HQMarketingPosted 6 months agoSenior Service Operations EngineerPleasanton, California, USA HQSupportPosted 16 days agoProduction Technician- Kitting (TEMP) Pleasanton, California, USA HQOperationsPosted 11 days ago.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171836508328",
     "id": "10x-genomics-spatial-field-application-scientist-texas"
   },
   {
-    "employer_name": "Marvel Technology",
-    "job_title": "Distinguish Engineer Design",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Distinguish Engineer DesignlocationsSanta Clara, CAposted onPosted Today2500812Regional Compensation Leaderlocations2 Locationsposted onPosted Yesterday2501755Senior Principal Switch ArchitectlocationsSanta Clara, CAposted onPosted Yesterday2500457Principal Engineer, Design For TestlocationsWestborough, MAposted onPosted Today2501513Senior Staff ASIC Product EngineerlocationsSanta Clara, CAposted onPosted Today2501566Senior Principal Applications Engineering - Network ValidationlocationsSanta Clara, CAposted onPosted Today2500444Staff Applications Engineering - Network ValidationlocationsSanta Clara, CAposted onPosted Today2402288Hardware & Silicon Validation Senior Staff EnigneerlocationsWestborough, MAposted onPosted Today2501492Principal Engineer - Silicon Validation EngineerlocationsSanta Clara, CAposted onPosted Today2501012Principal Hardware Design EngineerlocationsSanta Clara, CAposted onPosted Today2502089Senior Principal Engineer - Design For Test (DFT)locationsMorrisville, NCposted onPosted Today2500638Principal Engineer - Design For Test (DFT)locations3 Locationsposted onPosted Today2501669Senior Staff Post-Silicon Validation EngineerlocationsSanta Clara, CAposted onPosted Today2500906Senior Staff Application EngineerlocationsSanta Clara, CAposted onPosted Today2501552Director Customer Support - US Customer Solutions GrouplocationsSanta Clara, CAposted onPosted Today2501136Principal Optical EngineerlocationsSanta Clara, CAposted onPosted Today2501175Design Verification EngineerlocationsWestborough, MAposted onPosted Today2502573Senior Principal Design EngineerlocationsMorrisville, NCposted onPosted Today2502842Principal Professional – Oracle EBS / Oracle Cloud Supply Chain (Technical, AI, and High-Tech Industry Expertise)locationsSanta Clara, CAposted onPosted Today2501700Hardware & Silicon Validation Senior Staff EngineerlocationsSanta Clara, CAposted onPosted Today2501515.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Distinguish-Engineer-Design_2500812-1?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-distinguish-engineer-design-santa-clara"
+    "employer_name": "AMD",
+    "job_title": "2026 Undergraduate Machine Learning / Artificial Intelligence Engineering Co-Op/Intern",
+    "job_city": "Multiple",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "• We will help you learn innovative new technologies in Machine Learning | AI | High Performance ComputeWe will train you to analyze and implement changes to algorithms to improve AI performance and user experiencesWe may assign you to one or more of the following project work -Work on machine learning techniques to build applications for source code analysis and Image Corruption DetectionResearch, development, and deployment in machine learning-based and computer vision products on AMD’s current and future productsFixing and addressing problems with deployed AI to improve user experienceSupport AI software teams with roadmap planning, collateral development, and customer engagements Location: Austin, TX.\n• Or Longmont, CO (summer)Onsite/Hybrid: This role requires the student to work full time (40 hours a week), in either a hybrid or onsite work structure throughout the duration of the co-op/intern termDuration: Spring/Summer Co-op: January 26, 2026 - August 7, 2026 or January 26, 2026 - September 11, 2026Summer/Spring Co-op: May 18, 2026 - December 11, 2026 or June 22, 2026 - December 11, 2026Spring Internship: January 26, 2026 – May 1, 2026Summer Internship: May 18, 2026 - August 7, 2026 or June 22, 2026 – September 11, 2026Fall Internship: September 14, 2026 – December 11, 2026 You are currently enrolled in a US based University into a bachelor's degree program majoring in computer science, computer engineering, data science / analytics, or a related fieldIf you have knowledge / experience with any of the following technical skills (or related areas) and are enthusiastic about this role, we strongly encourage you to apply –Machine learning, data science, computer vision, statistics, and mathematicsProgramming in Python, C/C++Relational (SQL) and no-SQL databasesMachine learning algorithms and frameworksDeep learning / AI framework like Pytorch, Tensorflow, Caffe.\n• , AWS, GCP, Azure) Research, development, and deployment in machine learning-based and computer vision products on AMD’s current and future productsFixing and addressing problems with deployed AI to improve user experienceSupport AI software teams with roadmap planning, collateral development, and customer engagements Machine learning, data science, computer vision, statistics, and mathematicsProgramming in Python, C/C++Relational (SQL) and no-SQL databasesMachine learning algorithms and frameworksDeep learning / AI framework like Pytorch, Tensorflow, Caffe.\n• Fort Collins, CO (summer).\n• Familiarity with cloud (e.\n• Familiarity with cloud (e.\n• , AWS, GCP, Azure) AMD Partner Hub Authorized Distributors AMD University Program Spring/Summer Co-op: January 26, 2026 - August 7, 2026 or January 26, 2026 - September 11, 2026Summer/Spring Co-op: May 18, 2026 - December 11, 2026 or June 22, 2026 - December 11, 2026Spring Internship: January 26, 2026 – May 1, 2026Summer Internship: May 18, 2026 - August 7, 2026 or June 22, 2026 – September 11, 2026Fall Internship: September 14, 2026 – December 11, 2026 Austin, Texas.\n• Boxborough, Massachusetts.",
+    "job_apply_link": "https://campus-amd.icims.com/jobs/71674/login",
+    "id": "amd-2026-undergraduate-machine-learning-artificial-intelligence-engineering-co-op-intern-multiple"
   },
   {
     "employer_name": "ABB",
@@ -141,62 +91,32 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Growth - AI Workflows, Martech, Creative Systems",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Serve as a bridge between marketing, product, growth and technical teams, translating growth objectives into system requirements and scalable solutions.\n• 8+ years of growth or marketing technology experience spanning both consumer (B2C) and business (B2B) products, with a track record of designing and scaling AI-driven growth systems.\n• Deep knowledge of martech ecosystems and experience working with APIs, event streams, and cloud data warehouses.\n• Strong analytical skills with the ability to model funnels, run incrementality studies, and translate data into actionable growth strategies.\n• Experience applying AI/ML techniques (e.\n• Design and launch AI-powered creative systems (dynamic content generation, automated asset production, experimentation tooling) that enable rapid, personalized campaigns across multiple channels.\n• Build and scale a modern martech stack (data pipelines, automation platforms, experimentation frameworks) that supports sophisticated targeting, measurement, and real-time optimization.\n• Be scrappy and build MVPs, then partner with engineering to architect 0→1 infrastructure—including APIs, event triggers, and growth tools—that accelerates testing velocity and supports global rollout.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163527148-growth-ai-workflows-martech-creative-systems",
-    "id": "ai-jobs-growth-ai-workflows-martech-creative-systems-"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Growth - AI Workflows, Martech, Creative Systems",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "1d",
-    "job_description": "• Serve as a bridge between marketing, product, growth and technical teams, translating growth objectives into system requirements and scalable solutions.\n• 8+ years of growth or marketing technology experience spanning both consumer (B2C) and business (B2B) products, with a track record of designing and scaling AI-driven growth systems.\n• Deep knowledge of martech ecosystems and experience working with APIs, event streams, and cloud data warehouses.\n• Strong analytical skills with the ability to model funnels, run incrementality studies, and translate data into actionable growth strategies.\n• Experience applying AI/ML techniques (e.\n• Design and launch AI-powered creative systems (dynamic content generation, automated asset production, experimentation tooling) that enable rapid, personalized campaigns across multiple channels.\n• Build and scale a modern martech stack (data pipelines, automation platforms, experimentation frameworks) that supports sophisticated targeting, measurement, and real-time optimization.\n• Be scrappy and build MVPs, then partner with engineering to architect 0→1 infrastructure—including APIs, event triggers, and growth tools—that accelerates testing velocity and supports global rollout.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163527149-growth-ai-workflows-martech-creative-systems",
-    "id": "ai-jobs-growth-ai-workflows-martech-creative-systems-san-francisco"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Growth - B2B / B2C Funnel Optimizations",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• 8+ years in growth roles, ideally with experience scaling both consumer and enterprise offerings.\n• Deep analytical skills: comfortable with funnel modeling, segmentation, cohort analysis, and experimentation design.\n• Experience working with data / experimentation platforms (e.\n• Hands-on experience instrumenting growth stacks (tracking, events, CRM/lifecycle systems) to enable granular measurement across B2B and B2C funnels.\n• Proven track record running and scaling full-funnel growth programs with strong ROI and impact.\n• A/B testing, attribution systems).\n• Strong cross-functional collaboration with product, engineering, design, and analytics teams.\n• Ability to context-switch between strategic modeling (market sizing, marginal ROI) and tactical execution (channel-level ops, creative/value prop testing, funnel QA).",
-    "job_apply_link": "https://www.aijobs.com/jobs/163527140-growth-b2b-b2c-funnel-optimizations",
-    "id": "ai-jobs-growth-b2b-b2c-funnel-optimizations-"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Growth - B2B / B2C Funnel Optimizations",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "1d",
-    "job_description": "• 8+ years in growth roles, ideally with experience scaling both consumer and enterprise offerings.\n• Deep analytical skills: comfortable with funnel modeling, segmentation, cohort analysis, and experimentation design.\n• Experience working with data / experimentation platforms (e.\n• Hands-on experience instrumenting growth stacks (tracking, events, CRM/lifecycle systems) to enable granular measurement across B2B and B2C funnels.\n• Proven track record running and scaling full-funnel growth programs with strong ROI and impact.\n• A/B testing, attribution systems).\n• Strong cross-functional collaboration with product, engineering, design, and analytics teams.\n• Ability to context-switch between strategic modeling (market sizing, marginal ROI) and tactical execution (channel-level ops, creative/value prop testing, funnel QA).",
-    "job_apply_link": "https://www.aijobs.com/jobs/163527147-growth-b2b-b2c-funnel-optimizations",
-    "id": "ai-jobs-growth-b2b-b2c-funnel-optimizations-san-francisco"
-  },
-  {
-    "employer_name": "AI Jobs",
     "job_title": "Growth - Emails, Notifications and Lifecycle",
-    "job_city": "San Francisco",
-    "job_state": "California",
+    "job_city": "",
+    "job_state": "US",
     "job_posted_at": "1d",
     "job_description": "• 8+ years of growth experience spanning both consumer (B2C) and business (B2B) products, with a track record of scaling email, push, and in-app messaging platforms and growth initiatives driving activation, engagement, and paid conversion.\n• Hands-on experience with automation, email, and messaging platforms (e.\n• Strong analytical skills with the ability to model consumer funnels and lead-to-customer pipelines, leveraging data to identify growth opportunities and measure impact.\n• Deep expertise in audience segmentation, targeting, and multi-channel orchestration (email, push, in-app, SMS) across self-serve consumer funnels and multi-stakeholder B2B purchase journeys.\n• , SendGrid, Braze, Iterable, Customer.\n• Io, Marketo) and comfort working with APIs, event triggers, and CRM data.\n• Proven ability to design and interpret experimentation and measurement frameworks—A/B tests, multivariate testing, and incrementality studies—to optimize lifecycle touchpoints across different customer types.\n• Demonstrated success collaborating cross-functionally with product, engineering, design, sales, and analytics teams to build scalable lifecycle programs and nurture both individual users and enterprise accounts.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163527146-growth-emails-notifications-and-lifecycle",
-    "id": "ai-jobs-growth-emails-notifications-and-lifecycle-san-francisco"
+    "job_apply_link": "https://www.aijobs.com/jobs/163527145-growth-emails-notifications-and-lifecycle",
+    "id": "ai-jobs-growth-emails-notifications-and-lifecycle-"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, Search Modalities",
-    "job_city": "Mountain View",
+    "employer_name": "AI Jobs",
+    "job_title": "Backend Software Engineer (Evals) – Support Automation Engineering",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "6h",
+    "job_description": "• Collaborate closely with data, research, and engineering teams to integrate OpenAI models into high-leverage workflowsOwn the full development lifecycle of new backend systems and internal platform capabilitiesBuild with scale and maintainability in mind, while rapidly iterating on new ideas 4+ years of backend engineering experience at product-driven companies (excluding internships)Proficiency in backend technologies.\n• Our tech stack includes Python, FastAPI, and PostgresExperience designing and scaling distributed systems, APIs, or data processing pipelinesHave experience building AI agents or applications, including designing evals and improving performance through prompting or scaffoldingAre familiar with evaluation methods for LLMs and have worked with patterns like multi-agent workflows, tool use, or long context.\n• Experience creating production evals and/or measuring performance of ML/LLM models at scaleA pragmatic mindset.\n• Design eval pipelines that are reliable, reproducible, and extendableBuild the infrastructure for continuous eval monitoring frameworks (regression/drift monitoring, building robust golden datasets) along with feedback loops that ultimately strengthen support automationDesign, build, and maintain backend services and APIs to support intelligent automation and knowledge systemsIntegrate and structure data across internal platforms, transforming it into formats optimized for use by downstream systems and AI workflows.\n• You’re comfortable shipping iteratively while building toward a long-term vision.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527133-backend-software-engineer-evals-support-automation-engineering",
+    "id": "ai-jobs-backend-software-engineer-evals-support-automation-engineering-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Software Engineer - Computer Vision",
+    "job_city": "San Mateo",
     "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Software Engineer III, Infrastructure, Search Modalities",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/129857525339038406-software-engineer-iii-infrastructure-search-modalities?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=7",
-    "id": "google-software-engineer-iii-infrastructure-search-modalities-mountain-view"
+    "job_posted_at": "1h",
+    "job_description": "• Bachelor's Degree in Computer Science, preferably with research experience 2+ years of industry software engineering experience1+ years of work or research experience with current neural net frameworksMastery of at least one practical programming languageExperience working in a agile team software development environment.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163529321-software-engineer-computer-vision",
+    "id": "ai-jobs-software-engineer-computer-vision-san-mateo"
   }
 ]
