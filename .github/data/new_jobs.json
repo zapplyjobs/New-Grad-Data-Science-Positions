@@ -1,163 +1,103 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Intern 2026: AI Platform Research Scientist",
+    "job_title": "SWE: Toward Autonomous Data Management with AI Intern",
     "job_city": "ship",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role Intern 2026: AI Platform Research Scientist",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58818&source=WEB_Search_NA",
-    "id": "ibm-intern-2026-ai-platform-research-scientist-ship"
+    "job_description": "data science job for the role SWE: Toward Autonomous Data Management with AI Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58829&source=WEB_Search_NA",
+    "id": "ibm-swe-toward-autonomous-data-management-with-ai-intern-ship"
   },
   {
     "employer_name": "IBM",
-    "job_title": "AI Foundations - Software Engineer - Research Internship:",
+    "job_title": "RS: Toward Autonomous Data Management with FMs and AI Agents Intern",
     "job_city": "ship",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role AI Foundations - Software Engineer - Research Internship: 2026",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58806&source=WEB_Search_NA",
-    "id": "ibm-ai-foundations-software-engineer-research-internship-ship"
+    "job_description": "data science job for the role RS: Toward Autonomous Data Management with FMs and AI Agents Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58728&source=WEB_Search_NA",
+    "id": "ibm-rs-toward-autonomous-data-management-with-fms-and-ai-agents-intern-ship"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Intern 2026: AI and Agentic Security Intern",
+    "job_title": "Intern 2026: AI Hybrid Cloud Platform Research Scientist",
     "job_city": "ship",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role Intern 2026: AI and Agentic Security Intern",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58831&source=WEB_Search_NA",
-    "id": "ibm-intern-2026-ai-and-agentic-security-intern-ship"
+    "job_description": "data science job for the role Intern 2026: AI Hybrid Cloud Platform Research Scientist",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58804&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-hybrid-cloud-platform-research-scientist-ship"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Research AI Engineer, Intern:",
+    "job_title": "AI Foundations - Research Scientist - Research Internship:",
     "job_city": "ship",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role Research AI Engineer, Intern: 2026",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58803&source=WEB_Search_NA",
-    "id": "ibm-research-ai-engineer-intern-ship"
+    "job_description": "data science job for the role AI Foundations - Research Scientist - Research Internship: 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58805&source=WEB_Search_NA",
+    "id": "ibm-ai-foundations-research-scientist-research-internship-ship"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Intern 2026: IBM Research AI Systems",
+    "job_title": "Intern 2026:  AI Hybrid Cloud Platforms Research Developer",
     "job_city": "ship",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role Intern 2026: IBM Research AI Systems",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58828&source=WEB_Search_NA",
-    "id": "ibm-intern-2026-ibm-research-ai-systems-ship"
+    "job_description": "data science job for the role Intern 2026:  AI Hybrid Cloud Platforms Research Developer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58807&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-hybrid-cloud-platforms-research-developer-ship"
   },
   {
     "employer_name": "IBM",
-    "job_title": "2026 Intern: Software Engineer – AI-powered Automation",
+    "job_title": "2026 Intern – Marketing Analytics",
+    "job_city": "shipNew York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role 2026 Intern – Marketing Analytics",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59377&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-marketing-analytics-shipnew-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern:  Research Scientist – AI-powered Automation",
     "job_city": "ship",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role 2026 Intern: Software Engineer – AI-powered Automation",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59704&source=WEB_Search_NA",
-    "id": "ibm-2026-intern-software-engineer-ai-powered-automation-ship"
+    "job_description": "data science job for the role 2026 Intern:  Research Scientist – AI-powered Automation",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59705&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-research-scientist-ai-powered-automation-ship"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Client Management Trainee",
-    "job_city": "RESEARCH TRIANGLE PARK",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Client Management Trainee",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59381&source=WEB_Search_NA",
-    "id": "ibm-client-management-trainee-research-triangle-park"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Marketing Development Representative",
-    "job_city": "DURHAM",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Marketing Development Representative",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58082&source=WEB_Search_NA",
-    "id": "ibm-marketing-development-representative-durham"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "System Services Representative - San Antonio TX",
+    "job_title": "System Services Representative Austin, Texas",
     "job_city": "Austin",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role System Services Representative - San Antonio TX",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59669&source=WEB_Search_NA",
-    "id": "ibm-system-services-representative-san-antonio-tx-austin"
+    "job_description": "data science job for the role System Services Representative Austin, Texas",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59666&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-austin-texas-austin"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "2026 Intern – Analyst Relations",
-    "job_city": "shipAustin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role 2026 Intern – Analyst Relations",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59661&source=WEB_Search_NA",
-    "id": "ibm-2026-intern-analyst-relations-shipaustin"
+    "employer_name": "Micron Technology",
+    "job_title": "Associate Technician-Reticle Mfg",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "4 days",
+    "job_description": "• Proven ability to accurately read and interpret verbal and written instructions to improve area efficiency Demonstrates expertise in executing area routine operations to ensure throughput needs are accomplished Proven ability to troubleshoot basic problems and identify and resolve root causes Proven ability to follow basic procedures and work with minimal supervision Proven ability to recognize performance gaps and identify steps to improve Performs required machine checks, buddy checks and product inspections Proven ability to effectively communicate both in writing and verbally Proven ability in multi-tasking and driving basic projects Demonstrated time management and prioritization skills Performs area assessments and certifications on time.",
+    "job_apply_link": "https://careers.micron.com/careers/job/37881400",
+    "id": "micron-technology-associate-technician-reticle-mfg-boise"
   },
   {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering SMTS, LMTS, PMTS - Applied AI/ML Team",
-    "job_city": "Texas - Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences 25 Productivity Tools that Power Salesforce Engineering Teams Unlocking Real-Time Insights: Engineering the Hyperforce Experience for All How is India’s Brilliant Big Data Processing Team Engineering Salesforce Data Cloud.\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr309961/software-engineering-smts-lmts-pmts-applied-aiml-team/",
-    "id": "salesforce-software-engineering-smts-lmts-pmts-applied-ai-ml-team-texas-dallas"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "REWS, Product Owner",
-    "job_city": "Illinois - Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager Technology & Product Mission Impossible: Inside the Unprecedented Integration of 100 Products Within Salesforce’s New Marketing Cloud Growth Edition Empowering Young Professionals: Life as a Salesforce Product Manager Sophie de Reus.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr309998/rews-product-owner/",
-    "id": "salesforce-rews-product-owner-illinois-chicago"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Performance Engineer - MTS/SMTS",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows From Intern to Senior Engineer Go with the Flow: Behind the Scenes with Salesforce Solution Engineers Meet 5 Salesforce Engineers Who Are Innovating the Future The Future of AI Testing: Salesforce’s Next Gen Framework for AI Model Performance How Salesforce Supercharges AI: The Secret to Ensuring Model Reliability and Performance Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr310039/performance-engineer-mtssmts/",
-    "id": "salesforce-performance-engineer-mts-smts-california-san-francisco"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "IT Ops Platform Integration SME",
-    "job_city": "USA VA Falls Church",
-    "job_state": "US",
+    "employer_name": "BAE Systems",
+    "job_title": "Artificial Intelligence & Machine Learning Engineer",
+    "job_city": "McLean",
+    "job_state": "VA",
     "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/IT-Ops-Platform-Integration-SME_RQ207458-1?q=data+science",
-    "id": "general-dynamics-it-ops-platform-integration-sme-usa-va-falls-church"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Python Developer with AWS",
-    "job_city": "Any Location /",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Python-Developer-with-AWS_RQ205827-1?q=data+science",
-    "id": "general-dynamics-python-developer-with-aws-any-location"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "SAP HCM Configurer",
-    "job_city": "Any Location /",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/SAP-HCM-Configurer_RQ207389-1?q=data+science",
-    "id": "general-dynamics-sap-hcm-configurer-any-location"
+    "job_description": "• Knowledge Management ManagerlocationsArlington, VAposted onPosted 30+ Days AgoR0224156 Defense Mission Professional and Integrated Logistics Support ManagerlocationsWarren, MIposted onPosted 30+ Days AgoR0223114 Defense Mission Professional and Integrated Logistics Support ManagerlocationsWarren, MIposted onPosted 30+ Days AgoR0224382 Defense Mission Professional & Equipment SpecialistlocationsWarren, MIposted onPosted 30+ Days AgoR0223113 AI and ML Engineer, LeadlocationsAnnapolis Junction, MDposted onPosted 7 Days AgoR0226090 Senior Technical Product ManagerlocationsMcLean, VAposted onPosted 28 Days AgoR0224811 AI and ML Engineer, LeadlocationsFort Meade, MDposted onPosted 28 Days AgoR0224878.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Artificial-Intelligence---Machine-Learning-Engineer_R0225820?q=data+science",
+    "id": "bae-systems-artificial-intelligence-machine-learning-engineer-mclean"
   },
   {
     "employer_name": "10x Genomics",
@@ -205,29 +145,9 @@
     "job_city": "Texas",
     "job_state": "USA ()",
     "job_posted_at": "14 days",
-    "job_description": "• Why 10x Jobs Join talent network.",
+    "job_description": "• Technical Support ScientistCalifornia, USA (Remote)SupportPosted 14 days agoAccount Executive, HoustonTexas, USA (Remote)SalesPosted a month agoProcess ScientistSingapore OfficeOperationsPosted 14 days agoRegional Marketing ManagerCalifornia, USA (Remote)MarketingPosted 6 months agoHead of Integrated Marketing CommunicationsPleasanton, California, USA HQMarketingPosted 6 months agoAccount Executive, New England AcademicMassachusetts, USA (Remote)SalesPosted a month agoDirector of Commercial OperationsPleasanton, California, USA HQSalesPosted 24 days ago Director of Product Management, Single Cell PlatformsPleasanton, California, USA HQMarketingPosted 6 months agoSenior Service Operations EngineerPleasanton, California, USA HQSupportPosted 15 days agoProduction Technician- Kitting (TEMP) Pleasanton, California, USA HQOperationsPosted 11 days ago.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171836508328",
     "id": "10x-genomics-spatial-field-application-scientist-texas"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "Middleware Development Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Data Architectlocations4 Locationsposted onPosted 8 Days AgoJR0277228Data Scientist - Economicslocations3 Locationsposted onPosted 22 Days AgoJR0277007Global Technical Leader, Data Center Architecture and Customer Engagementlocations4 Locationsposted onPosted 27 Days AgoJR0276881Government Information Security Engineerlocations4 Locationsposted onPosted 8 Days AgoJR0276257Information Security System Officer (ISSO)locationsUS, Arizona, Phoenixposted onPosted 3 Days AgoJR0276662Information Security System Officer (ISSO)locationsUS, Virginia, Fairfaxposted onPosted 8 Days AgoJR0277075Technical Sales - Intern, Graduatelocations4 Locationsposted onPosted 13 Days AgoJR0277153Technical Sales - Intern, Bachelorslocations4 Locationsposted onPosted 13 Days AgoJR0277165Platform Hardware and Systems Engineering - Intern, Graduatelocations5 Locationsposted onPosted 28 Days AgoJR0276770Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted 28 Days AgoJR0276771Platform Hardware and Systems Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 28 Days AgoJR0276776Mechanical and Process Development Packaging Engineerlocations2 Locationsposted onPosted YesterdayJR0277406Manufacturing and Process Development - College Graduate, Graduate Degreelocations3 Locationsposted onPosted 6 Days AgoJR0276878Manufacturing and Process Development - College Graduate, Bachelorslocations3 Locationsposted onPosted 6 Days AgoJR0276877Senior Director, Module Development Engineeringlocations2 Locationsposted onPosted 10 Days AgoJR0276800FVCTO - Formal Verification Senior Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276239Triton Compiler Engineerlocations3 Locationsposted onPosted 8 Days AgoJR0277157Middleware Development Engineerlocations2 Locationsposted onPosted TodayJR0277312AI Compiler Engineerlocations2 Locationsposted onPosted 2 Days AgoJR0277310Senior SOC Performance Architectlocations3 Locationsposted onPosted 2 Days AgoJR0277337.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Middleware-Development-Engineer_JR0277312?q=data+science&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-middleware-development-engineer-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Functional Analyst",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "Recently",
-    "job_description": "• Products Products Control Room Solutions Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Mechanical Power Transmission Medium Voltage Products Metallurgy Products Motors and Generators PLC Automation Power Converters and Inverters Robotics See all products and systems Systems Control Systems Operations Management Software Power Electronics Safety Turbocharging UPS and Power Conditioning See all products and systems Industries Industries Aluminium Automotive Buildings and Infrastructure Cement Channel Partners Chemical Data Centers Food and Beverage Process Automation Life Sciences Marine and Ports Metals Mining Oil and Gas Ports Power Generation Printing Pulp and Paper Railway Smart Cities Solar Power Water Wind Power See all industries and utilities Services Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems About Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress News & Media Careers Investors Contact Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems Careers Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Careers Explore ABB Life at ABB Diversity & Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Customer events News & media Who we are Innovation Careers Sustainability Our values Supplying EEO and Affirmative Action Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB.",
-    "job_apply_link": "https://careers.abb/global/en/job/96937752/Business-Functional-Analyst",
-    "id": "abb-business-functional-analyst-location-mebane"
   },
   {
     "employer_name": "ABB",
@@ -240,33 +160,13 @@
     "id": "abb-digital-operations-logistics-intern-summer-location-senatobia"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, AI/ML GenAI, Google Ads",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
+    "employer_name": "ABB",
+    "job_title": "Business Functional Analyst",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role Software Engineer III, AI/ML GenAI, Google Ads",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/102697397699650246-software-engineer-iii-aiml-genai-google-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=10",
-    "id": "google-software-engineer-iii-ai-ml-genai-google-ads-los-angeles"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Applied Scientist II, Special Projects",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "1 month",
-    "job_description": "data science job for the role Applied Scientist II, Special Projects",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3056666/applied-scientist-ii-special-projects",
-    "id": "amazon-applied-scientist-ii-special-projects-seattle"
-  },
-  {
-    "employer_name": "Meta",
-    "job_title": "Research Scientist Intern, Feed Recommendations (PhD)",
-    "job_city": "Menlo Park",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Research Scientist Intern, Feed Recommendations (PhD)",
-    "job_apply_link": "https://www.metacareers.com",
-    "id": "meta-research-scientist-intern-feed-recommendations-phd-menlo-park"
+    "job_description": "• Products Products Control Room Solutions Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Mechanical Power Transmission Medium Voltage Products Metallurgy Products Motors and Generators PLC Automation Power Converters and Inverters Robotics See all products and systems Systems Control Systems Operations Management Software Power Electronics Safety Turbocharging UPS and Power Conditioning See all products and systems Industries Industries Aluminium Automotive Buildings and Infrastructure Cement Channel Partners Chemical Data Centers Food and Beverage Process Automation Life Sciences Marine and Ports Metals Mining Oil and Gas Ports Power Generation Printing Pulp and Paper Railway Smart Cities Solar Power Water Wind Power See all industries and utilities Services Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems About Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress News & Media Careers Investors Contact Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems Careers Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Careers Explore ABB Life at ABB Diversity & Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Customer events News & media Who we are Innovation Careers Sustainability Our values Supplying EEO and Affirmative Action Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB.",
+    "job_apply_link": "https://careers.abb/global/en/job/96937752/Business-Functional-Analyst",
+    "id": "abb-business-functional-analyst-location-mebane"
   }
 ]
