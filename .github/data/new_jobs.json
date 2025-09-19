@@ -1,23 +1,63 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "2026 Summer Intern - Heroku Business Operations",
-    "job_city": "New York - New York",
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Software Engineer - Semiconductor",
+    "job_city": "ship",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "• Cross-Functional Collaboration: Working with various teams across the organization, including Finance, Marketing, Product & Sales, to support business needs.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Strong Analytical and Problem-Solving Skills: The ability to structure complex problems, ask insightful questions, and use data to develop actionable recommendations.\n• Cross-Functional Collaboration: Experience working on cross-functional projects and collaborating with diverse teams.\n• Advanced Excel Skills: High proficiency in Excel, including complex formulas, PivotTables, and other functions for analyzing large datasets.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Business Performance Analysis: Evaluating business performance against growth targets and supporting daily operations.\n• Strategic Projects: Contributing to high-impact projects such as an Attrition Deep Dive to understand and address customer churn, and a Go-To-Market (GTM) analysis to optimize sales and marketing strategies.\n• You may also be involved with initiatives focused on financial and operational automation, pricing transformation, and AI integration.",
-    "job_apply_link": "https://careers.salesforce.com/en/salesforce-be-part-of-whats-next/jr311391/2026-summer-intern-heroku-business-operations/",
-    "id": "salesforce-2026-summer-intern-heroku-business-operations-new-york-new-york"
+    "job_description": "data science job for the role Intern 2026: Software Engineer - Semiconductor",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59691&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-software-engineer-semiconductor-ship"
   },
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Information Systems Security Engineer",
-    "job_city": "Warner Robins",
-    "job_state": "GA",
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Hardware Engineer - Semiconductor",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Intern 2026: Hardware Engineer - Semiconductor",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58770&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-hardware-engineer-semiconductor-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Research Scientist - Semiconductor",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Intern 2026: Research Scientist - Semiconductor",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59978&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-research-scientist-semiconductor-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intellectual Property Intern",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Intellectual Property Intern",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59674&source=WEB_Search_NA",
+    "id": "ibm-intellectual-property-intern-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI Research Partnerships Internship",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role AI Research Partnerships Internship",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59639&source=WEB_Search_NA",
+    "id": "ibm-ai-research-partnerships-internship-ship"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "AWS Cloud Engineer (TS/SCI with Poly REQUIRED)",
+    "job_city": "2 Locations",
+    "job_state": "US",
     "job_posted_at": "Posted Today",
-    "job_description": "• Counterintelligence Requirements OfficerlocationsSpringfield, VAposted onPosted 30+ Days AgoR0221537 Counterintelligence Requirements OfficerlocationsSt.\n• Louis, MOposted onPosted 30+ Days AgoR0221477 Ocean Systems Engineer, Senior ManagerlocationsPort Hueneme, CAposted onPosted 30+ Days AgoR0223274 Software Defined Network Engineer, LeadlocationsSan Diego, CAposted onPosted 21 Days AgoR0225275 MS&A SaaS Tool Cyber Operations LeadlocationsEglin AFB, FLposted onPosted 30+ Days AgoR0224460 Technical Site Deployment Specialistlocations2 Locationsposted onPosted 24 Days AgoR0224890.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warner-Robins-GA/Information-Systems-Security-Engineer_R0226511?q=data+science",
-    "id": "bae-systems-information-systems-security-engineer-warner-robins"
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/AWS-Cloud-Engineer--TS-SCI-with-Poly-REQUIRED-_RQ207559?q=data+science",
+    "id": "general-dynamics-aws-cloud-engineer-ts-sci-with-poly-required-2-locations"
   },
   {
     "employer_name": "10x Genomics",
@@ -70,6 +110,16 @@
     "id": "10x-genomics-spatial-field-application-scientist-texas"
   },
   {
+    "employer_name": "Marvel Technology",
+    "job_title": "Distinguish Engineer Design",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Distinguish Engineer DesignlocationsSanta Clara, CAposted onPosted Today2500812Regional Compensation Leaderlocations2 Locationsposted onPosted Yesterday2501755Senior Principal Switch ArchitectlocationsSanta Clara, CAposted onPosted Yesterday2500457Principal Engineer, Design For TestlocationsWestborough, MAposted onPosted Today2501513Senior Staff ASIC Product EngineerlocationsSanta Clara, CAposted onPosted Today2501566Senior Principal Applications Engineering - Network ValidationlocationsSanta Clara, CAposted onPosted Today2500444Staff Applications Engineering - Network ValidationlocationsSanta Clara, CAposted onPosted Today2402288Hardware & Silicon Validation Senior Staff EnigneerlocationsWestborough, MAposted onPosted Today2501492Principal Engineer - Silicon Validation EngineerlocationsSanta Clara, CAposted onPosted Today2501012Principal Hardware Design EngineerlocationsSanta Clara, CAposted onPosted Today2502089Senior Principal Engineer - Design For Test (DFT)locationsMorrisville, NCposted onPosted Today2500638Principal Engineer - Design For Test (DFT)locations3 Locationsposted onPosted Today2501669Senior Staff Post-Silicon Validation EngineerlocationsSanta Clara, CAposted onPosted Today2500906Senior Staff Application EngineerlocationsSanta Clara, CAposted onPosted Today2501552Director Customer Support - US Customer Solutions GrouplocationsSanta Clara, CAposted onPosted Today2501136Principal Optical EngineerlocationsSanta Clara, CAposted onPosted Today2501175Design Verification EngineerlocationsWestborough, MAposted onPosted Today2502573Senior Principal Design EngineerlocationsMorrisville, NCposted onPosted Today2502842Principal Professional – Oracle EBS / Oracle Cloud Supply Chain (Technical, AI, and High-Tech Industry Expertise)locationsSanta Clara, CAposted onPosted Today2501700Hardware & Silicon Validation Senior Staff EngineerlocationsSanta Clara, CAposted onPosted Today2501515.",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Distinguish-Engineer-Design_2500812-1?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvel-technology-distinguish-engineer-design-santa-clara"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Digital Operations & Logistics Intern- Summer",
     "job_city": "Location Senatobia",
@@ -88,5 +138,65 @@
     "job_description": "• Products Products Control Room Solutions Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Mechanical Power Transmission Medium Voltage Products Metallurgy Products Motors and Generators PLC Automation Power Converters and Inverters Robotics See all products and systems Systems Control Systems Operations Management Software Power Electronics Safety Turbocharging UPS and Power Conditioning See all products and systems Industries Industries Aluminium Automotive Buildings and Infrastructure Cement Channel Partners Chemical Data Centers Food and Beverage Process Automation Life Sciences Marine and Ports Metals Mining Oil and Gas Ports Power Generation Printing Pulp and Paper Railway Smart Cities Solar Power Water Wind Power See all industries and utilities Services Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems About Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress News & Media Careers Investors Contact Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems Careers Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Careers Explore ABB Life at ABB Diversity & Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Customer events News & media Who we are Innovation Careers Sustainability Our values Supplying EEO and Affirmative Action Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB.",
     "job_apply_link": "https://careers.abb/global/en/job/96937752/Business-Functional-Analyst",
     "id": "abb-business-functional-analyst-location-mebane"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Growth - AI Workflows, Martech, Creative Systems",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Serve as a bridge between marketing, product, growth and technical teams, translating growth objectives into system requirements and scalable solutions.\n• 8+ years of growth or marketing technology experience spanning both consumer (B2C) and business (B2B) products, with a track record of designing and scaling AI-driven growth systems.\n• Deep knowledge of martech ecosystems and experience working with APIs, event streams, and cloud data warehouses.\n• Strong analytical skills with the ability to model funnels, run incrementality studies, and translate data into actionable growth strategies.\n• Experience applying AI/ML techniques (e.\n• Design and launch AI-powered creative systems (dynamic content generation, automated asset production, experimentation tooling) that enable rapid, personalized campaigns across multiple channels.\n• Build and scale a modern martech stack (data pipelines, automation platforms, experimentation frameworks) that supports sophisticated targeting, measurement, and real-time optimization.\n• Be scrappy and build MVPs, then partner with engineering to architect 0→1 infrastructure—including APIs, event triggers, and growth tools—that accelerates testing velocity and supports global rollout.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527148-growth-ai-workflows-martech-creative-systems",
+    "id": "ai-jobs-growth-ai-workflows-martech-creative-systems-"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Growth - AI Workflows, Martech, Creative Systems",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Serve as a bridge between marketing, product, growth and technical teams, translating growth objectives into system requirements and scalable solutions.\n• 8+ years of growth or marketing technology experience spanning both consumer (B2C) and business (B2B) products, with a track record of designing and scaling AI-driven growth systems.\n• Deep knowledge of martech ecosystems and experience working with APIs, event streams, and cloud data warehouses.\n• Strong analytical skills with the ability to model funnels, run incrementality studies, and translate data into actionable growth strategies.\n• Experience applying AI/ML techniques (e.\n• Design and launch AI-powered creative systems (dynamic content generation, automated asset production, experimentation tooling) that enable rapid, personalized campaigns across multiple channels.\n• Build and scale a modern martech stack (data pipelines, automation platforms, experimentation frameworks) that supports sophisticated targeting, measurement, and real-time optimization.\n• Be scrappy and build MVPs, then partner with engineering to architect 0→1 infrastructure—including APIs, event triggers, and growth tools—that accelerates testing velocity and supports global rollout.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527149-growth-ai-workflows-martech-creative-systems",
+    "id": "ai-jobs-growth-ai-workflows-martech-creative-systems-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Growth - B2B / B2C Funnel Optimizations",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• 8+ years in growth roles, ideally with experience scaling both consumer and enterprise offerings.\n• Deep analytical skills: comfortable with funnel modeling, segmentation, cohort analysis, and experimentation design.\n• Experience working with data / experimentation platforms (e.\n• Hands-on experience instrumenting growth stacks (tracking, events, CRM/lifecycle systems) to enable granular measurement across B2B and B2C funnels.\n• Proven track record running and scaling full-funnel growth programs with strong ROI and impact.\n• A/B testing, attribution systems).\n• Strong cross-functional collaboration with product, engineering, design, and analytics teams.\n• Ability to context-switch between strategic modeling (market sizing, marginal ROI) and tactical execution (channel-level ops, creative/value prop testing, funnel QA).",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527140-growth-b2b-b2c-funnel-optimizations",
+    "id": "ai-jobs-growth-b2b-b2c-funnel-optimizations-"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Growth - B2B / B2C Funnel Optimizations",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• 8+ years in growth roles, ideally with experience scaling both consumer and enterprise offerings.\n• Deep analytical skills: comfortable with funnel modeling, segmentation, cohort analysis, and experimentation design.\n• Experience working with data / experimentation platforms (e.\n• Hands-on experience instrumenting growth stacks (tracking, events, CRM/lifecycle systems) to enable granular measurement across B2B and B2C funnels.\n• Proven track record running and scaling full-funnel growth programs with strong ROI and impact.\n• A/B testing, attribution systems).\n• Strong cross-functional collaboration with product, engineering, design, and analytics teams.\n• Ability to context-switch between strategic modeling (market sizing, marginal ROI) and tactical execution (channel-level ops, creative/value prop testing, funnel QA).",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527147-growth-b2b-b2c-funnel-optimizations",
+    "id": "ai-jobs-growth-b2b-b2c-funnel-optimizations-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Growth - Emails, Notifications and Lifecycle",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• 8+ years of growth experience spanning both consumer (B2C) and business (B2B) products, with a track record of scaling email, push, and in-app messaging platforms and growth initiatives driving activation, engagement, and paid conversion.\n• Hands-on experience with automation, email, and messaging platforms (e.\n• Strong analytical skills with the ability to model consumer funnels and lead-to-customer pipelines, leveraging data to identify growth opportunities and measure impact.\n• Deep expertise in audience segmentation, targeting, and multi-channel orchestration (email, push, in-app, SMS) across self-serve consumer funnels and multi-stakeholder B2B purchase journeys.\n• , SendGrid, Braze, Iterable, Customer.\n• Io, Marketo) and comfort working with APIs, event triggers, and CRM data.\n• Proven ability to design and interpret experimentation and measurement frameworks—A/B tests, multivariate testing, and incrementality studies—to optimize lifecycle touchpoints across different customer types.\n• Demonstrated success collaborating cross-functionally with product, engineering, design, sales, and analytics teams to build scalable lifecycle programs and nurture both individual users and enterprise accounts.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527146-growth-emails-notifications-and-lifecycle",
+    "id": "ai-jobs-growth-emails-notifications-and-lifecycle-san-francisco"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Infrastructure, Search Modalities",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Software Engineer III, Infrastructure, Search Modalities",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/129857525339038406-software-engineer-iii-infrastructure-search-modalities?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=7",
+    "id": "google-software-engineer-iii-infrastructure-search-modalities-mountain-view"
   }
 ]
