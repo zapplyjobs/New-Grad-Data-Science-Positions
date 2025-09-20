@@ -1,15 +1,5 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Missionforce - Associate Forward Deployed Engineer (FDE), Public Sector",
-    "job_city": "Virginia - Herndon",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "• Become a Trusted Partner and Collaborate Directly with End-Users in classified and unclassified environments to deeply understand mission needs, operational challenges, and strategic goals and translate them into technical implementations using Salesforce’s multi-cloud portfolio.\n• You'll directly push its capabilities to the limit, developing bespoke intelligent agents, automating intricate business processes, and crafting intuitive user experiences that deliver tangible value.\n• Prototype and Iterate Rapidly to develop proofs-of-concept and minimum viable products, coding alongside client teams to demonstrate capabilities and gather feedback for iterative refinement.\n• 3-7 years of experience in software engineering, solutions architecture, or systems integration.\n• Strong background in Computer Science or a related engineering discipline.\n• Hands-on experience building solutions with AI/LLM technologies, including integrating LLMs, applying AI orchestration frameworks, and prompt engineering techniques.\n• Experience with data integration, API design, ETL, and AI/ML model deployment.\n• Experience working in or adjacent to secure environments.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr309444/missionforce-associate-forward-deployed-engineer-fde-public-sector/",
-    "id": "salesforce-missionforce-associate-forward-deployed-engineer-fde-public-sector-virginia-herndon"
-  },
-  {
     "employer_name": "10x Genomics",
     "job_title": "Software Engineer III, Frontend",
     "job_city": "Pleasanton",
@@ -48,16 +38,6 @@
     "job_description": "• Technical Support ScientistCalifornia, USA (Remote)SupportPosted 15 days agoAccount Executive, HoustonTexas, USA (Remote)SalesPosted a month agoProcess ScientistSingapore OfficeOperationsPosted 15 days agoRegional Marketing ManagerCalifornia, USA (Remote)MarketingPosted 6 months agoHead of Integrated Marketing CommunicationsPleasanton, California, USA HQMarketingPosted 6 months agoAccount Executive, New England AcademicMassachusetts, USA (Remote)SalesPosted a month agoDirector of Commercial OperationsPleasanton, California, USA HQSalesPosted 25 days ago Director of Product Management, Single Cell PlatformsPleasanton, California, USA HQMarketingPosted 6 months agoSenior Service Operations EngineerPleasanton, California, USA HQSupportPosted 16 days agoDocument Control Manager Pleasanton, California, USA HQOperationsPosted 3 months ago.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171836508328",
     "id": "10x-genomics-spatial-field-application-scientist-texas"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "MCP Emulation Verification Engineer",
-    "job_city": "5 Locations",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Director-Commercial Workstation Segmentlocations4 Locationsposted onPosted 21 Days AgoJR0277012MCP Emulation Verification Engineerlocations5 Locationsposted onPosted TodayJR0277364Manufacturing and Process Development - Intern, Graduatelocations3 Locationsposted onPosted 29 Days AgoJR0276775Software Engineering - Intern, Graduatelocations5 Locationsposted onPosted 29 Days AgoJR0276778Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted 29 Days AgoJR0276774IP Enablement Application Engineerlocations3 Locationsposted onPosted 10 Days AgoJR0273988Senior Pre-Silicon Design Verification Engineerlocations4 Locationsposted onPosted 3 Days AgoJR0277344Manufacturing and Process Development - Intern, Bachelorslocations3 Locationsposted onPosted 29 Days AgoJR0276779Software Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 29 Days AgoJR0276773Silicon Hardware Engineering - Intern, Bachelorslocations5 Locationsposted onPosted 29 Days AgoJR0276780Sr.\n• Infrastructure Engineer – Windows OSlocationsUS, Arizona, Phoenixposted onPosted TodayJR0277459Sr.\n• Infrastructure Engineer – Linux OSlocationsUS, Arizona, Phoenixposted onPosted TodayJR0277458Software Application Development EngineerlocationsUS, California, Santa Claraposted onPosted TodayJR0277472Physical Verification Application Engineerlocations3 Locationsposted onPosted 17 Days AgoJR0272754Software Application Development EngineerlocationsUS, California, Santa Claraposted onPosted 2 Days AgoJR0276922.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/MCP-Emulation-Verification-Engineer_JR0277364?q=data+science&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-mcp-emulation-verification-engineer-5-locations"
   },
   {
     "employer_name": "ABB",
@@ -110,33 +90,13 @@
     "id": "abb-business-functional-analyst-location-mebane"
   },
   {
-    "employer_name": "AI Jobs",
-    "job_title": "Junior AI Engineer",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_posted_at": "9h",
-    "job_description": "• Conducted in depth data analysis to uncover trends patterns and anomalies that informed strategic decisions across product marketing and operations teamsDesigned and implemented scalable data pipelines and automated data workflows using Python and SQLDeveloped and maintained analytical models and dashboards to track key business metrics and performance indicatorsApplied statistical methods and machine learning techniques to solve real world business problems such as forecasting segmentation and performance optimizationCollaborated with stakeholders to gather requirements translate business questions into analytical approaches and communicate findings with clarityExplored the use of LLMs eg OpenAI GPT for enhancing internal workflows and accelerating data driven tasks such as querying summarization and content generation Programming Tools Python Pandas NumPy Matplotlib Seaborn Scikitlearn SQL complex queries joins CTEs window functions GitData Analysis Visualization Exploratory Data Analysis EDA trend and correlation analysis hypothesis testing dashboards Power BITableau storytelling with dataDatabases Data Handling SQL Server MySQL basic knowledge of Spark Big Query Hive is a plusStatistics ML Foundational Descriptive and inferential statistics regression classification clustering KMeans model evaluation metrics accuracy precision recall AUC overfitting underfitting cross validationLLMAI ExposureFamiliarity with prompt engineering OpenAI APIs basic usage of GPT models for data text automation awareness of LLM limitations and applications in analytics Mandatory skill Python Data ScienceResults driven Data Scientist with hands on experience in data analysis data wrangling and business insights generation using Python and SQL Adept at translating complex datasets into actionable recommendations Possesses a solid foundation in statistics and machine learning with emerging exposure to large language models LLMs and OpenAI technologies Strong problem solving ability attention to detail stakeholder communication ability to translate business problems into data solutions.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163660241-junior-ai-engineer",
-    "id": "ai-jobs-junior-ai-engineer-bellevue"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Machine Learning Engineer",
-    "job_city": "Boise",
-    "job_state": "ID",
-    "job_posted_at": "18h",
-    "job_description": "• Programming skills in Python or Java.\n• Building and executing end-to-end Machine Learning (ML) systems automating training, testing, and deploying ML models in cloud platforms.\n• Working with ML frameworks, including TensorFlow, PyTorch, scikit-learn.\n• Prediction (regression) and classification algorithms and deep learning, reinforcement learning and generative Artificial Intelligence (AI).\n• Developing ML or AI solutions with either Python, AWS, AZURE, or GCP.\n• Using Docker, Kubernetes and containerization.\n• Using ETL to develop pipelines (Airflow/Kubeflow/Dataflow).\n• Writing and understanding SQL.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163660238-machine-learning-engineer",
-    "id": "ai-jobs-machine-learning-engineer-boise"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Artificial Intelligence Engineer",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_posted_at": "4h",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163660240-artificial-intelligence-engineer",
-    "id": "ai-jobs-artificial-intelligence-engineer-atlanta"
+    "employer_name": "ABB",
+    "job_title": "Stack Developer",
+    "job_city": "Location Richmond",
+    "job_state": "Virginia",
+    "job_posted_at": "Recently",
+    "job_description": "• Products Products Control Room Solutions Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Mechanical Power Transmission Medium Voltage Products Metallurgy Products Motors and Generators PLC Automation Power Converters and Inverters Robotics See all products and systems Systems Control Systems Operations Management Software Power Electronics Safety Turbocharging UPS and Power Conditioning See all products and systems Industries Industries Aluminium Automotive Buildings and Infrastructure Cement Channel Partners Chemical Data Centers Food and Beverage Process Automation Life Sciences Marine and Ports Metals Mining Oil and Gas Ports Power Generation Printing Pulp and Paper Railway Smart Cities Solar Power Water Wind Power See all industries and utilities Services Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems About Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress News & Media Careers Investors Contact Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems Careers Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Careers Explore ABB Life at ABB Diversity & Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Customer events News & media Who we are Innovation Careers Sustainability Our values Supplying EEO and Affirmative Action Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00008875/Stack-Developer",
+    "id": "abb-stack-developer-location-richmond"
   }
 ]
