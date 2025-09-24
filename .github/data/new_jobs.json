@@ -1,5 +1,15 @@
 [
   {
+    "employer_name": "General Dynamics",
+    "job_title": "Data Engineer",
+    "job_city": "USA VA Herndon",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/Data-Engineer---REMOTE_RQ207769?q=data+science",
+    "id": "general-dynamics-data-engineer-usa-va-herndon"
+  },
+  {
     "employer_name": "10x Genomics",
     "job_title": "Software Engineer III, Frontend",
     "job_city": "Pleasanton",
@@ -110,13 +120,53 @@
     "id": "abb-stack-developer-location-richmond"
   },
   {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist",
+    "job_city": "Cary",
+    "job_state": "NC",
+    "job_posted_at": "20h",
+    "job_description": "• , to communicate findingsAutomation & Optimization: Develop scripts and tools to automate data processing and model deploymentCollaboration: Work cross-functionally with product, engineering, and business teams to align data initiatives with strategic goalsResearch & Innovation: Stay current with emerging technologies and methodologies in data science and apply them to business challenges Years of experience: 5+ years (regardless of level of degree) - will accept internships as job experienceDegree requirement: Bachelors and/or Masters are required Proficiency in Python, SQL, and data science libraries (e.\n• , Azure, AWS, Snowflake) and data modelingExcellent communication skills to explain technical concepts to non-technical stakeholders A Data Scientist is responsible for analyzing large volumes of structured and unstructured data to extract actionable insights, build predictive models, and support data-driven decision-making.\n• This role blends statistical expertise, programming skills, and business acumen to solve complex problems and drive innovation.\n• Data Collection & Preparation: Gather, clean, and validate data from various sources to ensure quality and usabilityExploratory Data Analysis: Identify trends, anomalies, and patterns in large datasetsModel Development: Design and implement machine learning models (e.\n• , regression, classification, clustering, NLP) to support forecasting and decision-makingData Visualization: Create dashboards and reports using tools like Power BI, etc.\n• , Pandas, Scikit-learn, TensorFlow)Strong foundation in statistics, probability, and machine learningFamiliarity with cloud platforms (e.\n• Choppy tenureAny project done outside of work (Data Science work) is also welcome.\n• If candidate isn’t local at this time, we are not interested in in reviewing those resumes at this time.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164634620-data-scientist",
+    "id": "ai-jobs-data-scientist-cary"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist",
+    "job_city": "Palo Alto",
+    "job_state": "CA",
+    "job_posted_at": "15h",
+    "job_description": "• Focus on user experience and maintainability for all developed dashboards.\n• Cross-Functional Collaboration: Partner effectively with manufacturing engineers, production managers, quality control specialists, supply chain analysts, and other business stakeholders to understand their challenges, define analytical requirements, and deliver relevant data solutions.\n• Practical LLM Application:Hands-on experience with Prompt Engineering: The ability to craft effective and nuanced prompts to guide LLMs towards desired outputs for specific tasks.\n• Experience utilizing LLMs via APIs: Working with commercial LLM APIs (e.\n• LLM Frameworks/Libraries (Practical Use):Familiarity with and practical experience using libraries like Hugging Face Transformers for accessing and working with pre-trained models.\n• Experience with LangChain or LlamaIndex for building more complex LLM applications (e.\n• Some practical experience (even if limited) with fine-tuning techniques or using specialized tools for model adaptation.\n• Education:Required: Master's degree in a quantitative field such as Computer Science, Statistics, Mathematics, Data Science, Engineering, or a related discipline.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164634627-data-scientist",
+    "id": "ai-jobs-data-scientist-palo-alto"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientists - All Levels",
+    "job_city": "Boca Raton",
+    "job_state": "FL",
+    "job_posted_at": "14h",
+    "job_description": "• After one year of employment with ModMed, 100% of any matching contribution you receive is yours to keep.\n• Hands-on experience in data science or machine learning in a product or platform-focused environment preferably in healthcare or similar data-rich domain.\n• Experience with MLOps tools and cloud-based ML environments such as AWS.\n• Experience working with healthcare data formats (HL7, FHIR) and privacy standards (HIPAA) is a plus.\n• Comprehensive medical, dental, and vision benefits, including a company Health Savings Account contribution,401(k): ModMed provides a matching contribution each payday of 50% of your contribution deferred on up to 6% of your compensation.\n• Generous Paid Time Off and Paid Parental Leave programs,Company paid Life and Disability benefits, Flexible Spending Account, and Employee Assistance Programs,Company-sponsored Business Resource & Special Interest Groups that provide engaged and supportive communities within ModMed,Professional development opportunities, including tuition reimbursement programs and unlimited access to LinkedIn Learning,Global presence and in-person collaboration opportunities.\n• Dog-friendly HQ (US), Hybrid office-based roles and remote availability for some roles,Weekly catered breakfast and lunch, treadmill workstations, Zen, and wellness rooms within our BRIC headquarters.\n• PhD in Computer Science, Data Science, Electrical Engineering, Mathematics, Physics, or a related quantitative field.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164634622-data-scientists-all-levels",
+    "id": "ai-jobs-data-scientists-all-levels-boca-raton"
+  },
+  {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Pricing Direct Evaluator - Associate",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "Recently",
+    "job_description": "• Data Science Senior Associate - Connected Commerce Columbus, OH, United States Data & AnalyticsPredictive Science Drive advanced analytics projects to deliver actionable insights and enhance customer experience across Connected Commerce.\n• AI Analytics Solutions Manager Jersey City, NJ, United States TechnologyAI Research We are seeking a highly skilled and experienced, AI Developer Vice president to contribute to our AI development efforts.\n• The ideal candidate will have a strong background in (AI) artificial intelligence, (ML) machine learning, and data science, with a proven track record of leveraging popular AI products and services to deliver impactful solutions.\n• This role requires a strategic thinker with the ability to drive AI initiatives that are innovative and align to our Technology Risk and Resiliency Goals.\n• Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems 2026 Focused Analytics Solutions Team (FAST) Summer Associate - Analytics Solutions Plano, TX, United States and 3 more Data & AnalyticsData & Analytics Rotation FAST offers Data Science and Analytics Solutions, staffed by experts from both tracks.\n• Senior Lead Infrastructure Engineer, Database Singapore, Singapore TechnologyInfrastructure Engineering Drive significant business impact and tackle infrastructure engineering challenges that span multiple technology domains Vice President Product Manager Data Product Strategy Lead Jersey City, NJ, United States Data & AnalyticsData & Analytics Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Quant Marketing Analytics Vice President - CIB Jersey City, NJ, United States and 3 more Data & AnalyticsQuant Analytics Drive end-to-end analytics for global marketing campaigns, optimizing performance and impact across all channels.\n• Lead Security Engineer Plano, TX, United States and 2 more TechnologySecurity Engineering Engineer / deploy AI specific technology controls in-line with requirements (e.\n• Vice President - Data Strategy Enablement New York, NY, United States and 1 more Data & AnalyticsData Management Firmwide Data Strategy - Data Publishing is seeking an experienced Vice President - Data Strategy Enablement to join our team.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210669344/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-pricing-direct-evaluator-associate-new-york"
+  },
+  {
     "employer_name": "Google",
-    "job_title": "Data Scientist III, Product, Pricing and Retention, Google Fi",
+    "job_title": "Software Engineer III, Search Quality",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role Data Scientist III, Product, Pricing and Retention, Google Fi",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/118925680371999430-data-scientist-iii-product-pricing-and-retention-google-fi?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1",
-    "id": "google-data-scientist-iii-product-pricing-and-retention-google-fi-mountain-view"
+    "job_description": "data science job for the role Software Engineer III, Search Quality",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/140683709815628486-software-engineer-iii-search-quality?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=5",
+    "id": "google-software-engineer-iii-search-quality-mountain-view"
   }
 ]
