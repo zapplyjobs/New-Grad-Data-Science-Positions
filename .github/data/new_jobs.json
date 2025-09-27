@@ -1,75 +1,5 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Intern 2026: Quantum Data Center Engineering",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Intern 2026: Quantum Data Center Engineering",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60902&source=WEB_Search_NA",
-    "id": "ibm-intern-2026-quantum-data-center-engineering-ship"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Supply Chain Professional - Planning, Scheduling & Inventory",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Supply Chain Professional - Planning, Scheduling & Inventory",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60280&source=WEB_Search_NA",
-    "id": "ibm-supply-chain-professional-planning-scheduling-inventory-"
-  },
-  {
-    "employer_name": "Analog Devices",
-    "job_title": "Process Sustaining Engineer, 2nd Shift",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Failure Analysis Engineering Internlocations3 Locationsposted onPosted 2 Days AgoR256321Equipment Engineer Internlocations2 Locationsposted onPosted 30 Days AgoR255011Senior Engineer, Software Development EngineeringlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR252032Manufacturing EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR252696SERDES Digital Design EngineerlocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR243200Senior Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 14 Days AgoR252542Manufacturing InternlocationsUS, MA, Chelmsford, Elizabethposted onPosted 28 Days AgoR254975Staff - Principal Packaging EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR250721Staff Robotic Software EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR253643Senior Engineer, Product Engineering (Prod Dev)locationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR253905Designer, CAD EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR251647Supply Chain Management Process/Systems Directorlocations2 Locationsposted onPosted 30+ Days AgoR252941Senior Engineer, Yield Enhancement and Defect ReductionlocationsUS, WA, Camasposted onPosted 16 Days AgoR254981Senior Manager, Robotics Software EngineeringlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR253617Process Sustaining Engineer, 2nd ShiftlocationsUS, MA, Chelmsford, Alphaposted onPosted TodayR242025Senior Engineer, Audit (Software Systems)locationsUS, MA, Wilmingtonposted onPosted 9 Days AgoR253505Quality Engineer InternlocationsUS, MA, Chelmsford, Alphaposted onPosted 30 Days AgoR255008Product Applications Internlocations5 Locationsposted onPosted 2 Days AgoR255003B2B Delivery Lead / Sr.\n• ManagerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR252214Sr.\n• Manager - Site Reliability Engineering (SRE)locationsUS, MA, Wilmingtonposted onPosted 23 Days AgoR251663.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Alpha/Engineer--Process-Sustaining-Engineering_R242025?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-process-sustaining-engineer-2nd-shift-us"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Systems Integrator",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Counterintelligence Requirements OfficerlocationsSpringfield, VAposted onPosted 30+ Days AgoR0221537 Ocean Systems Engineer, Senior ManagerlocationsPort Hueneme, CAposted onPosted 30+ Days AgoR0223274 Software Defined Network Engineer, LeadlocationsSan Diego, CAposted onPosted 29 Days AgoR0225275 MS&A SaaS Tool Cyber Operations LeadlocationsEglin AFB, FLposted onPosted 30+ Days AgoR0224460 Solid Rocket Motor Engineer, Seniorlocations2 Locationsposted onPosted 17 Days AgoR0225843.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Systems-Integrator_R0227153?q=data+science",
-    "id": "bae-systems-systems-integrator-chantilly"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Data Engineer (TS/SCI with Polygraph REQUIRED)",
-    "job_city": "USA VA Chantilly",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Data-Engineer--TS-SCI-with-Polygraph-REQUIRED-_RQ208014?q=data+science",
-    "id": "general-dynamics-data-engineer-ts-sci-with-polygraph-required-usa-va-chantilly"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Software Engineer (TS/SCI with Polygraph REQUIRED)",
-    "job_city": "USA VA McLean",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-McLean/Software-Engineer--TS-SCI-with-Polygraph-REQUIRED-_RQ208025?q=data+science",
-    "id": "general-dynamics-software-engineer-ts-sci-with-polygraph-required-usa-va-mclean"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Software Engineer (TS/SCI with Polygraph REQUIRED)",
-    "job_city": "USA VA Chantilly",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Software-Engineer--TS-SCI-with-Polygraph-REQUIRED-_RQ208024?q=data+science",
-    "id": "general-dynamics-software-engineer-ts-sci-with-polygraph-required-usa-va-chantilly"
-  },
-  {
     "employer_name": "10x Genomics",
     "job_title": "Software Engineer III, Frontend",
     "job_city": "Pleasanton",
@@ -85,19 +15,19 @@
     "job_city": "Texas",
     "job_state": "USA ()",
     "job_posted_at": "22 days",
-    "job_description": "• Research Associate IIPleasanton, California, USA HQPosted a day agoProcess ScientistSingapore OfficeOperationsPosted 22 days agoRegional Marketing ManagerCalifornia, USA (Remote)MarketingPosted 6 months agoHead of Integrated Marketing CommunicationsPleasanton, California, USA HQMarketingPosted 6 months agoAccount Executive, East Los Angeles/ San DiegoCalifornia, USA (Remote)SalesPosted 4 days agoAccount Executive, New England AcademicMassachusetts, USA (Remote)SalesPosted a month agoDirector of Commercial OperationsPleasanton, California, USA HQSalesPosted a month ago Director of Product Management, Single Cell PlatformsPleasanton, California, USA HQMarketingPosted 6 months agoSenior Service Operations EngineerPleasanton, California, USA HQSupportPosted 23 days agoBuyer- Indirect (TEMP) Pleasanton, California, USA HQOperationsPosted 5 hours ago.",
+    "job_description": "• Research Associate IIPleasanton, California, USA HQPosted a day agoProcess ScientistSingapore OfficeOperationsPosted 22 days agoRegional Marketing ManagerCalifornia, USA (Remote)MarketingPosted 6 months agoHead of Integrated Marketing CommunicationsPleasanton, California, USA HQMarketingPosted 6 months agoAccount Executive, East Los Angeles/ San DiegoCalifornia, USA (Remote)SalesPosted 4 days agoAccount Executive, New England AcademicMassachusetts, USA (Remote)SalesPosted a month agoDirector of Commercial OperationsPleasanton, California, USA HQSalesPosted a month ago Director of Product Management, Single Cell PlatformsPleasanton, California, USA HQMarketingPosted 6 months agoSenior Service Operations EngineerPleasanton, California, USA HQSupportPosted 23 days agoBuyer (P-4810)Singapore OfficeOperationsPosted a day ago.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171836508328",
     "id": "10x-genomics-spatial-field-application-scientist-texas"
   },
   {
-    "employer_name": "10x Genomics",
-    "job_title": "Buyer- Indirect (TEMP)",
-    "job_city": "Pleasanton",
-    "job_state": "California",
-    "job_posted_at": "5 hours",
-    "job_description": "• Buyer (P-4810)Singapore OfficeOperationsPosted a day agoQuality Systems Manager Pleasanton, California, USA HQOperationsPosted 3 months agoDirector of Commercial OperationsPleasanton, California, USA HQSalesPosted a month ago Director of Product Management, Single Cell PlatformsPleasanton, California, USA HQMarketingPosted 6 months agoAccounts Payable SpecialistSingapore OfficeFinancePosted a month agoSr.\n• Research Associate IIPleasanton, California, USA HQPosted a day agoHead of Integrated Marketing CommunicationsPleasanton, California, USA HQMarketingPosted 6 months agoSenior Manufacturing Engineer (Contractor) (P-4757)Pleasanton, California, USA HQScientificPosted a month agoSenior Service Operations EngineerPleasanton, California, USA HQSupportPosted 23 days agoSenior Software Engineer, Infrastructure EngineeringPleasanton, California, USA HQIT & Productivity EngineeringPosted 7 months ago.",
-    "job_apply_link": "https://careers.10xgenomics.com/careers/job/171836974038",
-    "id": "10x-genomics-buyer-indirect-temp-pleasanton"
+    "employer_name": "NVIDIA",
+    "job_title": "AI Operations Engineer – Finance",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Director, Developer Relations - Data Processing and Data SciencelocationsUS, CA, Santa Claraposted onPosted 4 Days AgoJR2004268Senior Developer Relations Manager - Life Science Data Platformslocations5 Locationsposted onPosted 3 Days AgoJR2004231AI Operations Engineer – FinancelocationsUS, CA, Santa Claraposted onPosted TodayJR2003659Senior Data Platform Admin - FinancelocationsUS, CA, Santa Claraposted onPosted 17 Days AgoJR2002395Senior Performance Engineer - AI for Sciencelocations3 Locationsposted onPosted YesterdayJR2004844Senior Applications Engineer, GenAI for Sciencelocations2 Locationsposted onPosted 10 Days AgoJR2003798Technical Product Marketing Manager - Healthcare and Life ScienceslocationsUS, CA, Santa Claraposted onPosted 2 Days AgoJR2002885Senior Data Processing Platform Engineerlocations5 Locationsposted onPosted 30+ Days AgoJR1999148Principal Data Platform ArchitectlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1998942Senior Software Engineer - AV Infrastructure Data Ingestionlocations2 Locationsposted onPosted 16 Days AgoJR2003870Senior Architect, Data Center Modelinglocations4 Locationsposted onPosted 30+ Days AgoJR1997202Governance and Infrastructure Data EngineerlocationsUS, CA, Santa Claraposted onPosted 21 Days AgoJR2003029Data Center Firmware Test ArchitectlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2000186Senior Technical Training Developer - AI and Data Center Platformlocations5 Locationsposted onPosted 8 Days AgoJR2003342Senior Systems Software Engineer, Data Centerlocations2 Locationsposted onPosted 30+ Days AgoJR1999792Senior Software Architect - Data Center Systemslocations6 Locationsposted onPosted 6 Days AgoJR1973150Deep Learning Scientist, LLM Training Datasetslocations2 Locationsposted onPosted TodayJR2003826Senior Datacenter System Software Architect - DGX Cloudlocations2 Locationsposted onPosted 3 Days AgoJR2002330Technical Marketing Manager - Data Center Infrastructurelocations2 Locationsposted onPosted 30+ Days AgoJR1996301Senior Software Manager - Data Center Performancelocations6 Locationsposted onPosted YesterdayJR2000291.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Engineer---Finance_JR2003659?q=data+science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-ai-operations-engineer-finance-us"
   },
   {
     "employer_name": "ABB",
@@ -211,16 +141,6 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "Cary",
-    "job_state": "NC",
-    "job_posted_at": "3d",
-    "job_description": "• , to communicate findingsAutomation & Optimization: Develop scripts and tools to automate data processing and model deploymentCollaboration: Work cross-functionally with product, engineering, and business teams to align data initiatives with strategic goalsResearch & Innovation: Stay current with emerging technologies and methodologies in data science and apply them to business challenges Years of experience: 5+ years (regardless of level of degree) - will accept internships as job experienceDegree requirement: Bachelors and/or Masters are required Proficiency in Python, SQL, and data science libraries (e.\n• , Azure, AWS, Snowflake) and data modelingExcellent communication skills to explain technical concepts to non-technical stakeholders A Data Scientist is responsible for analyzing large volumes of structured and unstructured data to extract actionable insights, build predictive models, and support data-driven decision-making.\n• This role blends statistical expertise, programming skills, and business acumen to solve complex problems and drive innovation.\n• Data Collection & Preparation: Gather, clean, and validate data from various sources to ensure quality and usabilityExploratory Data Analysis: Identify trends, anomalies, and patterns in large datasetsModel Development: Design and implement machine learning models (e.\n• , regression, classification, clustering, NLP) to support forecasting and decision-makingData Visualization: Create dashboards and reports using tools like Power BI, etc.\n• , Pandas, Scikit-learn, TensorFlow)Strong foundation in statistics, probability, and machine learningFamiliarity with cloud platforms (e.\n• Choppy tenureAny project done outside of work (Data Science work) is also welcome.\n• If candidate isn’t local at this time, we are not interested in in reviewing those resumes at this time.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164634620-data-scientist",
-    "id": "ai-jobs-data-scientist-cary"
-  },
-  {
-    "employer_name": "AI Jobs",
     "job_title": "AI/ML Engineer",
     "job_city": "Scott AFB",
     "job_state": "IL",
@@ -244,17 +164,27 @@
     "job_title": "Applied Data & AI Engineer",
     "job_city": "Austin",
     "job_state": "TX",
-    "job_posted_at": "2d",
+    "job_posted_at": "3d",
     "job_description": "• Experience in data engineering, data science, or machine learning roles.\n• Hands-on experience in deploying and maintaining machine learning models in production environments.\n• Experience in distributed computing frameworks (PySpark, Hadoop)Experience with advanced AI technologies such as transformers, LLMs, and GANs.\n• Experience in semiconductor manufacturing and/or high-volume manufacturing Design, develop, and optimize scalable ETL pipelines to process large-scale structured and unstructured datasets.\n• Create and manage efficient data architectures that support analytics and machine learning needs.\n• Employ advanced AI methodologies, including transformers, LLMs, and GANs, to address business requirements.\n• Adapt to project requirements by serving as a Data Engineer, Data Scientist, or ML Engineer, leveraging expertise across disciplines.\n• Team player and self-starter Bachelor’s and/or Master’s with multiple years of directly relevant experience in Electrical Engineering, Computer Engineering, Computer Science, or a closely related field.",
     "job_apply_link": "https://www.aijobs.com/jobs/164573936-applied-data-ai-engineer",
     "id": "ai-jobs-applied-data-ai-engineer-austin"
   },
   {
     "employer_name": "AI Jobs",
+    "job_title": "Data Scientist - Computer Vision",
+    "job_city": "Irving",
+    "job_state": "TX",
+    "job_posted_at": "1w",
+    "job_description": "• 1 – 3 years’ experience in data science.\n• Experience working in Linux environments and using version control tools such as Git.\n• Practical experience with machine learning and deep learning frameworks (e.\n• Hands-on experience with tasks such as classification, segmentation, and object detection.\n• Strong written and verbal communication skills.\n• Experience working with medical imaging data, particularly histopathology images from whole slide scanners.\n• Background in cancer research or oncology-focused AI applications.\n• Experience with cloud computing environments (e.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163675236-data-scientist-computer-vision",
+    "id": "ai-jobs-data-scientist-computer-vision-irving"
+  },
+  {
+    "employer_name": "AI Jobs",
     "job_title": "Data Scientist (Business Analysis & Decision Support)",
     "job_city": "New York City Metropolitan Area",
     "job_state": "US",
-    "job_posted_at": "17h",
+    "job_posted_at": "19h",
     "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
     "job_apply_link": "https://www.aijobs.com/jobs/164899790-data-scientist-business-analysis-decision-support",
     "id": "ai-jobs-data-scientist-business-analysis-decision-support-new-york-city-metropolitan-area"
@@ -271,20 +201,20 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Computer Vision Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "2d",
-    "job_description": "• Demonstrated experience with a modern deep learning framework such as PyTorch or TensorFlow.\n• Excellent communication skills and a proven ability to work effectively in a collaborative, fast-paced R&D environment.\n• In Computer Science, Electrical Engineering, or a related field with 3+ years of relevant experience, or an M.\n• With equivalent project experience.\n• Work in close partnership with hardware/software engineers to define requirements, develop solutions, and integrate them into our broader systems.\n• Prior experience with body-part segmentation, keypoint detection, and 3D pose reconstruction.\n• Prior project experience in biomedical engineering, physiology, or medical device development.\n• Deep expertise in deep learning for computer vision, specifically in human pose estimation and tracking.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163135306-computer-vision-engineer",
-    "id": "ai-jobs-computer-vision-engineer-santa-clara"
+    "job_title": "Computer Vision/Deep Learning Scientist",
+    "job_city": "Norfolk",
+    "job_state": "VA",
+    "job_posted_at": "4d",
+    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164485033-computer-vision-deep-learning-scientist",
+    "id": "ai-jobs-computer-vision-deep-learning-scientist-norfolk"
   },
   {
     "employer_name": "AI Jobs",
     "job_title": "Applied Data Scientist, Analytics & Insights, Americas",
     "job_city": "Boston",
     "job_state": "MA",
-    "job_posted_at": "2d",
+    "job_posted_at": "3d",
     "job_description": "• Proven experience in an analytics or data science role.\n• Rigorous and structured analytical problem solving skills with deep understanding of how to use data to measure and drive business operations.\n• Exceptional communication skills, with the ability to tell data-driven stories and influence key collaborators across senior levels of the organization.\n• Bachelor’s degree in Engineering, Math, Physics or other related field or equivalent work experience Experience in consulting, or with top-tier consumer or tech brands would be an advantage.\n• Strong commercial competence with the ability to translate data into business impact and drive commercial decisions.\n• Proficient with analytics tools and techniques (e.\n• , SQL, Python, AI, and data visualization platforms like Power BI, Looker or Tableau).\n• Ability to work collaboratively and cross-functionally to embed analytics in the decision-making process across multiple departments.",
     "job_apply_link": "https://www.aijobs.com/jobs/164634623-applied-data-scientist-analytics-insights-americas",
     "id": "ai-jobs-applied-data-scientist-analytics-insights-americas-boston"
@@ -321,16 +251,6 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Artificial Intelligence Engineer",
-    "job_city": "Denver",
-    "job_state": "CO",
-    "job_posted_at": "1w",
-    "job_description": "• Ability to design and implement AI tools in Go (nice to have)Experience in at least one ML framework, such as TensorFlow, Keras, PyTorch, etc.\n• Experience building solutions involving algorithms, optimization, reinforcement learning, artificial neural networks, discrete event simulation and case based reasoningAbility to execute with little oversight and to solve problems quicklyExperience with function/path optimization and some of the more common algorithms – linear programming, BOBYQA, A* Search, simulated annealingAdvanced degree in a quantitative field Solve problems using mechanistic, bottom-up thinking and statistical, top-down approachesDevelop novel mechanisms by which to optimize supply chainBuild and improve the intelligence behind our logistics simulations and market optimization algorithmsImplement and ship models to predict the demand for commodities at nodes in a logistics network, the availability of supply, estimated arrival times, delays and more Competitive compensation packageHealth, Dental and Vision Insurance401k with matchingCompany paid life and short-term disability insuranceCompany paid parking or transit passRelocation offered when applicableModern office space in downtown DenverDaily coffee, tea, drinks & snacksTeam happy hours.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163410267-artificial-intelligence-engineer",
-    "id": "ai-jobs-artificial-intelligence-engineer-denver"
-  },
-  {
-    "employer_name": "AI Jobs",
     "job_title": "Computer Vision Engineer",
     "job_city": "Tremont",
     "job_state": "IL",
@@ -340,13 +260,13 @@
     "id": "ai-jobs-computer-vision-engineer-tremont"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III - Java / Springboot",
-    "job_city": "Jersey City",
-    "job_state": "NJ",
-    "job_posted_at": "Recently",
-    "job_description": "• Data Science Senior Associate - Connected Commerce Columbus, OH, United States Data & AnalyticsPredictive Science Drive advanced analytics projects to deliver actionable insights and enhance customer experience across Connected Commerce.\n• Applied AIML Data Scientist Lead - Vice President Plano, TX, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Lead who applies quantitative, data science and analytical skills to complex problems.\n• Data Scientist Director - AI, ML Brooklyn, NY, United States Data & AnalyticsPredictive Science Seeking a dynamic leader with a strong corporate finance and analytical background.\n• Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Asset Management - Data Scientist Lead - Executive Director NY, United States Data & AnalyticsPredictive Science JPMorgan Asset Management Investment Platform is hiring an Asset Management - Data Scientist - Executive Director in New York, NY.\n• Data Product Strategy Lead LONDON, LONDON, United Kingdom ProductProduct Management Define the product roadmap, inspire a high-performing team, and monitor market trends to shape product innovations Senior Lead Infrastructure Engineer, Database Singapore, Singapore TechnologyInfrastructure Engineering Drive significant business impact and tackle infrastructure engineering challenges that span multiple technology domains Vice President Product Manager Data Product Strategy Lead Jersey City, NJ, United States Data & AnalyticsData & Analytics Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Quant Marketing Analytics Vice President - CIB Jersey City, NJ, United States and 2 more Data & AnalyticsQuant Analytics Drive end-to-end analytics for global marketing campaigns, optimizing performance and impact across all channels.\n• Lead Security Engineer Plano, TX, United States and 2 more TechnologySecurity Engineering Engineer / deploy AI specific technology controls in-line with requirements (e.\n• Senior Product associate- Chief Data Office Bengaluru, Karnataka, India ProductAssociates Hone product management skills by building strategic data solutions for Wealth Management applications.\n• Experience Research Senior Associate - Global Client Experience Chicago, IL, United States ProductUser Experience Design Lead the user experience research, translating insights into impactful design recommendations.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210669998/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-iii-java-springboot-jersey-city"
+    "employer_name": "Apple",
+    "job_title": "Data Analyst - Storage Technologies",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "1 day",
+    "job_description": "• Minimum QualificationsBS in Computer Engineering, Computer Science, Physics, Mathematics, or equivalent experience/skillsAbility to lead data investigations and analysis projects with ambiguous requirementsAdvanced knowledge of statistics and modelingExperience visualizing and presenting analyses using tools such as Jupyter and TableauProfessional programming experience with PythonExperience working with relational databases and SQLExcellent written, verbal, and data communication skills.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200623126-0836/data-analyst-storage-technologies?team=SFTWR",
+    "id": "apple-data-analyst-storage-technologies-cupertino"
   }
 ]
