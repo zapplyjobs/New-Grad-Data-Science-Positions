@@ -131,13 +131,13 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "Denver",
-    "job_state": "CO",
+    "job_title": "Data Science Internship",
+    "job_city": "Raleigh",
+    "job_state": "NC",
     "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163599995-data-scientist",
-    "id": "ai-jobs-data-scientist-denver"
+    "job_description": "• Be a currently enrolled student pursuing a degree in data science, computer science, statistics, mathematics, or a related field of study.\n• Have excellent problem-solving and critical-thinking skills.\n• Be proficient in programming languages such as Python, R, or SQL.\n• Demonstrate a deep understanding of machine learning algorithms and proficiency in using data visualization tools.\n• Be detail-oriented with an exceptional ability to work independently and in a team.\n• Possess a passion for leveraging data to drive business insights and decision-making.\n• Display a passion for learning and staying updated with industry trends.",
+    "job_apply_link": "https://www.aijobs.com/jobs/161607087-data-science-internship",
+    "id": "ai-jobs-data-science-internship-raleigh"
   },
   {
     "employer_name": "AI Jobs",
@@ -181,6 +181,16 @@
   },
   {
     "employer_name": "AI Jobs",
+    "job_title": "Applied Data & AI Engineer",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "4d",
+    "job_description": "• Experience in data engineering, data science, or machine learning roles.\n• Hands-on experience in deploying and maintaining machine learning models in production environments.\n• Experience in distributed computing frameworks (PySpark, Hadoop)Experience with advanced AI technologies such as transformers, LLMs, and GANs.\n• Experience in semiconductor manufacturing and/or high-volume manufacturing Design, develop, and optimize scalable ETL pipelines to process large-scale structured and unstructured datasets.\n• Create and manage efficient data architectures that support analytics and machine learning needs.\n• Employ advanced AI methodologies, including transformers, LLMs, and GANs, to address business requirements.\n• Adapt to project requirements by serving as a Data Engineer, Data Scientist, or ML Engineer, leveraging expertise across disciplines.\n• Team player and self-starter Bachelor’s and/or Master’s with multiple years of directly relevant experience in Electrical Engineering, Computer Engineering, Computer Science, or a closely related field.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164573936-applied-data-ai-engineer",
+    "id": "ai-jobs-applied-data-ai-engineer-austin"
+  },
+  {
+    "employer_name": "AI Jobs",
     "job_title": "Data Scientist - Computer Vision",
     "job_city": "Irving",
     "job_state": "TX",
@@ -201,16 +211,6 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "3d",
-    "job_description": "• Bachelor's degree (MS preferred) in Mathematics, Computer Science, or a highly quantitative STEM field.\n• 2+ years experience in Data science and ML roles.\n• Solid foundation in statistics, machine learning, and causal inference with experience applying these methods to business problems.\n• Proficiency in Python/R, SQL, and experience with data platforms and statistical modeling libraries.\n• Experience with (or enthusiasm about) working in a small, fast-paced company, and desire to drive the implementation of projects start-to-finish.\n• Collaborate with engineering and product teams to translate customer needs into technical requirements.\n• Any experience in marketing attribution, MMM, experimentation, or related measurement challenges.\n• Experience developing and validating production models that drive real business decisions.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164766904-data-scientist",
-    "id": "ai-jobs-data-scientist-"
-  },
-  {
-    "employer_name": "AI Jobs",
     "job_title": "Data Scientist, Fleet Health",
     "job_city": "San Francisco",
     "job_state": "CA",
@@ -221,13 +221,13 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Scientist (Business Analysis & Decision Support)",
-    "job_city": "New York City Metropolitan Area",
+    "job_title": "Data Scientist",
+    "job_city": "",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164899790-data-scientist-business-analysis-decision-support",
-    "id": "ai-jobs-data-scientist-business-analysis-decision-support-new-york-city-metropolitan-area"
+    "job_description": "• Degree in Data Science, Computer Science, Applied Mathematics, or equivalent experience.\n• Azure Cognitive Search – schema/index design, enrichment pipelines, vector + hybrid retrieval, reranking, filters, relevance tuning, evaluation.\n• Azure OpenAI – embeddings workflows, grounding RAG with enterprise data, function/prompt/tool patterns, safety filters.\n• NLP & Semantic Search – text/PDF ingestion, chunking/sectioning, metadata design, multilingual handling.\n• Programming – Python, Azure SDKs, lightweight services/APIs (FastAPI).\n• Delivery Track Record – Shipped production-grade Azure RAG systems with documentation and measurable results.\n• Vector Stores & Pipelines – Azure native vectors, Redis, Pinecone, Milvus, OCR, parsing, PII handling.\n• Microsoft Certified: Azure AI Fundamentals (AI-900).",
+    "job_apply_link": "https://www.aijobs.com/jobs/164984403-data-scientist",
+    "id": "ai-jobs-data-scientist-"
   },
   {
     "employer_name": "AI Jobs",
@@ -244,10 +244,30 @@
     "job_title": "Data Scientist, Data & Analytics – Customer, Loyalty & Marketing",
     "job_city": "Charlotte",
     "job_state": "NC",
-    "job_posted_at": "13h",
+    "job_posted_at": "15h",
     "job_description": "• Bachelor’s or Master’s degree in a quantitative field (e.\n• 3+ years’ experience in MMM, econometrics, or media effectiveness analysis.\n• Strong background in statistics/econometrics (e.\n• Proficiency in query processing languages such as SQL and PySpark, along with hands-on experience on cloud-based platforms (e.\n• Excellent communication skills with the ability to clearly articulate technical information to all levels of the organization and collaborate effectively with cross-functional teams.\n• Strong stakeholder management skills, with experience engaging diverse teams and senior leaders across geographies.\n• Adaptable to new and evolving technologies and business needs.\n• , Statistics, Data Science, Economics, Applied Mathematics, Computer Science).",
     "job_apply_link": "https://www.aijobs.com/jobs/158456723-data-scientist-data-analytics-customer-loyalty-marketing",
     "id": "ai-jobs-data-scientist-data-analytics-customer-loyalty-marketing-charlotte"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist - Analytics, Trust & Safety",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164984413-data-scientist-analytics-trust-safety",
+    "id": "ai-jobs-data-scientist-analytics-trust-safety-san-jose"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Computer Vision Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "3d",
+    "job_description": "• Demonstrated experience with a modern deep learning framework such as PyTorch or TensorFlow.\n• Excellent communication skills and a proven ability to work effectively in a collaborative, fast-paced R&D environment.\n• In Computer Science, Electrical Engineering, or a related field with 3+ years of relevant experience, or an M.\n• With equivalent project experience.\n• Work in close partnership with hardware/software engineers to define requirements, develop solutions, and integrate them into our broader systems.\n• Prior experience with body-part segmentation, keypoint detection, and 3D pose reconstruction.\n• Prior project experience in biomedical engineering, physiology, or medical device development.\n• Deep expertise in deep learning for computer vision, specifically in human pose estimation and tracking.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163135306-computer-vision-engineer",
+    "id": "ai-jobs-computer-vision-engineer-santa-clara"
   },
   {
     "employer_name": "AI Jobs",
@@ -291,13 +311,13 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "Chicago",
-    "job_state": "IL",
+    "job_title": "AI Engineer",
+    "job_city": "",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com/jobs/159982531-data-scientist-1",
-    "id": "ai-jobs-data-scientist-chicago"
+    "job_description": "• Education:Bachelor's or Master's degree in Computer Science, Machine Learning, Data Science, Engineering, or a related fieldRelevant certifications or coursework in MLOps or AI model development is a plusExperience:Experience in MLOps, AI/ML model development, or a related roleHands-on experience with computer vision applications in real-world environmentsExperience in data curation and vision model training and finetuning Experience working with manufacturing or industrial systems is a plusTechnical Skills:Proficiency in Linux, Python, Docker, Git, and Nvidia-based environments (CUDA, TensorRT) is a mustFamiliarity with cloud platforms (AWS, Azure, GCP) for compute, storage, and AI servicesExperience with CI/CD pipelines for ML modelsExperience with MLOps toolsExperience with ARM devices such as Jetson or Raspberry Pi is a plusHands on experience training neural networks.\n• Familiar with at least one of the following ML libraries: PyTorch, Tensorflow, Keras, SKlearnKnowledge of monitoring tools for deployed models and managing their lifecycleSoft Skills:Strong problem-solving abilities and a proactive approach to challengesExcellent project planning, communication and collaboration skillsExperience in front-facing engagement with customers is a plusAbility to travel and hold a valid driver's license is a plus Develop and train vision-based AI applications for manufacturing, including classification, object detection, and segmentation tasksBuild and manage pipelines for deploying AI/ML models in production environmentsSet up and integrate new tools to streamline and support MLOps workflowsMonitor and optimize the performance of deployed models, ensuring they meet operational requirementsDebug, troubleshoot, and update AI models as needed to maintain high reliability and performanceCollaborate with cross-functional teams to align AI applications with manufacturing requirementsLeverage cloud platforms (AWS, Azure, GCP) for scalable training compute and deployment solutionsMaintain and document processes to ensure reproducibility and operational excellenceMay occasionally require to travel to customer sites to support integration and deployment efforts Drive operational excellence in a fast-growing AI company transforming manufacturing through cutting-edge vision systems Shape the future of project delivery by building scalable processes for AI system deployments Work with world-class engineering talent while optimizing team performance and customer success Gain exposure to cutting-edge Vision AI & IoT solutions across diverse manufacturing environments Lead strategic initiatives that directly impact company growth and customer satisfaction Build expertise in the rapidly expanding field of industrial AI and autonomous manufacturing Proficiency in Linux, Python, Docker, Git, and Nvidia-based environments (CUDA, TensorRT) is a mustFamiliarity with cloud platforms (AWS, Azure, GCP) for compute, storage, and AI servicesExperience with CI/CD pipelines for ML modelsExperience with MLOps toolsExperience with ARM devices such as Jetson or Raspberry Pi is a plusHands on experience training neural networks.\n• Familiar with at least one of the following ML libraries: PyTorch, Tensorflow, Keras, SKlearnKnowledge of monitoring tools for deployed models and managing their lifecycle Experience in MLOps, AI/ML model development, or a related roleHands-on experience with computer vision applications in real-world environmentsExperience in data curation and vision model training and finetuning Experience working with manufacturing or industrial systems is a plus Strong problem-solving abilities and a proactive approach to challengesExcellent project planning, communication and collaboration skillsExperience in front-facing engagement with customers is a plusAbility to travel and hold a valid driver's license is a plus Competitive salary commensurate with experienceEquity participation in a high-growth AI startupComprehensive health, dental, and vision coverageFlexible PTO and professional development opportunitiesRemote-first culture with modern collaboration tools Bachelor's or Master's degree in Computer Science, Machine Learning, Data Science, Engineering, or a related fieldRelevant certifications or coursework in MLOps or AI model development is a plus.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162217136-ai-engineer",
+    "id": "ai-jobs-ai-engineer-"
   },
   {
     "employer_name": "AI Jobs",
@@ -311,6 +331,16 @@
   },
   {
     "employer_name": "AI Jobs",
+    "job_title": "Data Scientist",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_posted_at": "2d",
+    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
+    "job_apply_link": "https://www.aijobs.com/jobs/159982531-data-scientist-1",
+    "id": "ai-jobs-data-scientist-chicago"
+  },
+  {
+    "employer_name": "AI Jobs",
     "job_title": "Computer Vision Engineer",
     "job_city": "Charlotte",
     "job_state": "NC",
@@ -318,15 +348,5 @@
     "job_description": "• Bachelor’s or Master’s degree in Computer Science, Electrical Engineering, or related field.\n• 2+ years of hands-on experience in computer vision or related domains.\n• Experience with libraries such as OpenCV, TensorFlow, PyTorch, or similar.\n• Experience with multi-view geometry and structure-from-motion.\n• Strong proficiency in Python and/or C++.\n• Solid understanding of image processing, 3D geometry, and camera calibration.\n• Familiarity with real-time systems and performance optimization techniques.\n• Knowledge of SLAM, AR/VR technologies, or video analytics.",
     "job_apply_link": "https://www.aijobs.com/jobs/163675234-computer-vision-engineer",
     "id": "ai-jobs-computer-vision-engineer-charlotte"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "CAD Flow Development Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1w",
-    "job_description": "• BS in Computer Science or Electrical or Computer Engineering (or equivalent experience) with 2+ years of CAD or software development experience.\n• MS preferredSoftware engineering experience with software design, algorithms, data structures, testingFamiliarity with Verilog and ASIC implementation flow and toolsExperience developing flows and/or tools for chip designProficiency in at least one of Python, C/C++, Tcl, Perl Knowledge or experience with logic synthesis, physical design, formal equivalence checking.\n• Experience in other ASIC methodologies such as RTL Lint, CDC, DFT or STA.\n• Familiarity with Machine Learning/Deep Learning You will architect highly automated and customizable design software incorporating logic/physical synthesis, design planning, and equivalence checking for industry-leading chip designsApply software engineering practices to streamline development and automate testing and deployment of our software.\n• Be responsible for design, implementation and testing of in-house CAD softwareWork with chip design teams and leading EDA vendors to evaluate the industry's most powerful design implementation and analysis toolsProvide support for ASIC tools and flows.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163423162-cad-flow-development-engineer",
-    "id": "ai-jobs-cad-flow-development-engineer-us"
   }
 ]
