@@ -1,5 +1,35 @@
 [
   {
+    "employer_name": "IBM",
+    "job_title": "QA Test Developer Intern",
+    "job_city": "shipPOUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role QA Test Developer Intern",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58490&source=WEB_Search_NA",
+    "id": "ibm-qa-test-developer-intern-shippoughkeepsie"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "PMTS Software Engineer, Service Mesh - Slack",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr297544/pmts-software-engineer-service-mesh-slack/",
+    "id": "salesforce-pmts-software-engineer-service-mesh-slack-california-san-francisco"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Network Engineer (TS/SCI with Poly Required)",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-McLean/Network-Engineer--TS-SCI-with-Poly-Required-_RQ208188?q=data+science",
+    "id": "general-dynamics-network-engineer-ts-sci-with-poly-required-2-locations"
+  },
+  {
     "employer_name": "10x Genomics",
     "job_title": "Software Engineer III, Frontend",
     "job_city": "Pleasanton",
@@ -20,24 +50,44 @@
     "id": "10x-genomics-spatial-field-application-scientist-texas"
   },
   {
+    "employer_name": "Intel",
+    "job_title": "MES Equipment and WIP Modeler",
+    "job_city": "US",
+    "job_state": "Arizona",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Senior Pre-Silicon Design Verification Engineerlocations4 Locationsposted onPosted 14 Days AgoJR0277344Manufacturing and Process Development - Intern, Bachelorslocations3 Locationsposted onPosted 30+ Days AgoJR0276779Software Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 30+ Days AgoJR0276773Silicon Hardware Engineering - Intern, Bachelorslocations5 Locationsposted onPosted 30+ Days AgoJR0276780Sr.\n• Infrastructure Engineer – Windows OSlocationsUS, Arizona, Phoenixposted onPosted 8 Days AgoJR0277459Sr.\n• Infrastructure Engineer – Linux OSlocationsUS, Arizona, Phoenixposted onPosted 8 Days AgoJR0277458Enterprise Provisioning and Power Efficiency Engineerlocations2 Locationsposted onPosted 7 Days AgoJR0277465Software Application Development EngineerlocationsUS, Arizona, Phoenixposted onPosted TodayJR0277575Physical Verification Application Engineerlocations3 Locationsposted onPosted 28 Days AgoJR0272754Software Application Development EngineerlocationsUS, California, Santa Claraposted onPosted 8 Days AgoJR0276922Client SoC Architectlocations3 Locationsposted onPosted YesterdayJR0277099MES Equipment and WIP ModelerlocationsUS, Arizona, Phoenixposted onPosted TodayJR0277565.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/MES-Equipment-and-WIP-Modeler_JR0277565?q=data+science&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-mes-equipment-and-wip-modeler-us"
+  },
+  {
     "employer_name": "ABB",
-    "job_title": "R&D Electrical Engineer",
+    "job_title": "Software Engineer - Process automation & reporting",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "Recently",
+    "job_description": "• Products Products Control Room Solutions Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Mechanical Power Transmission Medium Voltage Products Metallurgy Products Motors and Generators PLC Automation Power Converters and Inverters Robotics See all products and systems Systems Control Systems Operations Management Software Power Electronics Safety Turbocharging UPS and Power Conditioning See all products and systems Industries Industries Aluminium Automotive Buildings and Infrastructure Cement Channel Partners Chemical Data Centers Food and Beverage Process Automation Life Sciences Marine and Ports Metals Mining Oil and Gas Ports Power Generation Printing Pulp and Paper Railway Smart Cities Solar Power Water Wind Power See all industries and utilities Services Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems About Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress News & Media Careers Investors Contact Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems Careers Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Careers Explore ABB Life at ABB Diversity & Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Customer events News & media Who we are Innovation Careers Sustainability Our values Supplying EEO and Affirmative Action Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006952/Software-Engineer-Process-automation-reporting",
+    "id": "abb-software-engineer-process-automation-reporting-location-senatobia"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Operations & Logistics Intern- Summer",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "Recently",
+    "job_description": "• Products Products Control Room Solutions Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Mechanical Power Transmission Medium Voltage Products Metallurgy Products Motors and Generators PLC Automation Power Converters and Inverters Robotics See all products and systems Systems Control Systems Operations Management Software Power Electronics Safety Turbocharging UPS and Power Conditioning See all products and systems Industries Industries Aluminium Automotive Buildings and Infrastructure Cement Channel Partners Chemical Data Centers Food and Beverage Process Automation Life Sciences Marine and Ports Metals Mining Oil and Gas Ports Power Generation Printing Pulp and Paper Railway Smart Cities Solar Power Water Wind Power See all industries and utilities Services Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems About Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress News & Media Careers Investors Contact Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems Careers Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Careers Explore ABB Life at ABB Diversity & Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Customer events News & media Who we are Innovation Careers Sustainability Our values Supplying EEO and Affirmative Action Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00009947/Digital-Operations-Logistics-Intern-Summer-2026",
+    "id": "abb-digital-operations-logistics-intern-summer-location-senatobia"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "QCS Systems Engineer",
     "job_city": "Available in one of 2 locations",
     "job_state": "US",
     "job_posted_at": "Recently",
     "job_description": "• Products Products Control Room Solutions Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Mechanical Power Transmission Medium Voltage Products Metallurgy Products Motors and Generators PLC Automation Power Converters and Inverters Robotics See all products and systems Systems Control Systems Operations Management Software Power Electronics Safety Turbocharging UPS and Power Conditioning See all products and systems Industries Industries Aluminium Automotive Buildings and Infrastructure Cement Channel Partners Chemical Data Centers Food and Beverage Process Automation Life Sciences Marine and Ports Metals Mining Oil and Gas Ports Power Generation Printing Pulp and Paper Railway Smart Cities Solar Power Water Wind Power See all industries and utilities Services Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems About Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress News & Media Careers Investors Contact Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems Careers Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Careers Explore ABB Life at ABB Diversity & Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Customer events News & media Who we are Innovation Careers Sustainability Our values Supplying EEO and Affirmative Action Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00008005/R-D-Electrical-Engineer",
-    "id": "abb-r-d-electrical-engineer-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Functional Analyst",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "Recently",
-    "job_description": "• Products Products Control Room Solutions Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Mechanical Power Transmission Medium Voltage Products Metallurgy Products Motors and Generators PLC Automation Power Converters and Inverters Robotics See all products and systems Systems Control Systems Operations Management Software Power Electronics Safety Turbocharging UPS and Power Conditioning See all products and systems Industries Industries Aluminium Automotive Buildings and Infrastructure Cement Channel Partners Chemical Data Centers Food and Beverage Process Automation Life Sciences Marine and Ports Metals Mining Oil and Gas Ports Power Generation Printing Pulp and Paper Railway Smart Cities Solar Power Water Wind Power See all industries and utilities Services Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems About Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress News & Media Careers Investors Contact Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems Careers Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Careers Explore ABB Life at ABB Diversity & Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Customer events News & media Who we are Innovation Careers Sustainability Our values Supplying EEO and Affirmative Action Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB.",
-    "job_apply_link": "https://careers.abb/global/en/job/96937752/Business-Functional-Analyst",
-    "id": "abb-business-functional-analyst-location-mebane"
+    "job_apply_link": "https://careers.abb/global/en/job/96186349/QCS-Systems-Engineer",
+    "id": "abb-qcs-systems-engineer-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -61,6 +111,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "R&D Electrical Engineer",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "• Products Products Control Room Solutions Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Mechanical Power Transmission Medium Voltage Products Metallurgy Products Motors and Generators PLC Automation Power Converters and Inverters Robotics See all products and systems Systems Control Systems Operations Management Software Power Electronics Safety Turbocharging UPS and Power Conditioning See all products and systems Industries Industries Aluminium Automotive Buildings and Infrastructure Cement Channel Partners Chemical Data Centers Food and Beverage Process Automation Life Sciences Marine and Ports Metals Mining Oil and Gas Ports Power Generation Printing Pulp and Paper Railway Smart Cities Solar Power Water Wind Power See all industries and utilities Services Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems About Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress News & Media Careers Investors Contact Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems Careers Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Careers Explore ABB Life at ABB Diversity & Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Customer events News & media Who we are Innovation Careers Sustainability Our values Supplying EEO and Affirmative Action Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00008005/R-D-Electrical-Engineer",
+    "id": "abb-r-d-electrical-engineer-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Functional Analyst",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "• Products Products Control Room Solutions Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Mechanical Power Transmission Medium Voltage Products Metallurgy Products Motors and Generators PLC Automation Power Converters and Inverters Robotics See all products and systems Systems Control Systems Operations Management Software Power Electronics Safety Turbocharging UPS and Power Conditioning See all products and systems Industries Industries Aluminium Automotive Buildings and Infrastructure Cement Channel Partners Chemical Data Centers Food and Beverage Process Automation Life Sciences Marine and Ports Metals Mining Oil and Gas Ports Power Generation Printing Pulp and Paper Railway Smart Cities Solar Power Water Wind Power See all industries and utilities Services Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems About Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress News & Media Careers Investors Contact Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems Careers Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Careers Explore ABB Life at ABB Diversity & Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Customer events News & media Who we are Innovation Careers Sustainability Our values Supplying EEO and Affirmative Action Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB.",
+    "job_apply_link": "https://careers.abb/global/en/job/96937752/Business-Functional-Analyst",
+    "id": "abb-business-functional-analyst-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Stack Developer",
     "job_city": "Location Richmond",
     "job_state": "Virginia",
@@ -68,36 +138,6 @@
     "job_description": "• Products Products Control Room Solutions Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Mechanical Power Transmission Medium Voltage Products Metallurgy Products Motors and Generators PLC Automation Power Converters and Inverters Robotics See all products and systems Systems Control Systems Operations Management Software Power Electronics Safety Turbocharging UPS and Power Conditioning See all products and systems Industries Industries Aluminium Automotive Buildings and Infrastructure Cement Channel Partners Chemical Data Centers Food and Beverage Process Automation Life Sciences Marine and Ports Metals Mining Oil and Gas Ports Power Generation Printing Pulp and Paper Railway Smart Cities Solar Power Water Wind Power See all industries and utilities Services Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems About Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress News & Media Careers Investors Contact Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems Careers Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Careers Explore ABB Life at ABB Diversity & Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Customer events News & media Who we are Innovation Careers Sustainability Our values Supplying EEO and Affirmative Action Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00008875/Stack-Developer",
     "id": "abb-stack-developer-location-richmond"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "QCS Systems Engineer",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "• Products Products Control Room Solutions Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Mechanical Power Transmission Medium Voltage Products Metallurgy Products Motors and Generators PLC Automation Power Converters and Inverters Robotics See all products and systems Systems Control Systems Operations Management Software Power Electronics Safety Turbocharging UPS and Power Conditioning See all products and systems Industries Industries Aluminium Automotive Buildings and Infrastructure Cement Channel Partners Chemical Data Centers Food and Beverage Process Automation Life Sciences Marine and Ports Metals Mining Oil and Gas Ports Power Generation Printing Pulp and Paper Railway Smart Cities Solar Power Water Wind Power See all industries and utilities Services Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems About Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress News & Media Careers Investors Contact Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems Careers Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Careers Explore ABB Life at ABB Diversity & Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Customer events News & media Who we are Innovation Careers Sustainability Our values Supplying EEO and Affirmative Action Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB.",
-    "job_apply_link": "https://careers.abb/global/en/job/96186349/QCS-Systems-Engineer",
-    "id": "abb-qcs-systems-engineer-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Software Engineer - Process automation & reporting",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "Recently",
-    "job_description": "• Products Products Control Room Solutions Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Mechanical Power Transmission Medium Voltage Products Metallurgy Products Motors and Generators PLC Automation Power Converters and Inverters Robotics See all products and systems Systems Control Systems Operations Management Software Power Electronics Safety Turbocharging UPS and Power Conditioning See all products and systems Industries Industries Aluminium Automotive Buildings and Infrastructure Cement Channel Partners Chemical Data Centers Food and Beverage Process Automation Life Sciences Marine and Ports Metals Mining Oil and Gas Ports Power Generation Printing Pulp and Paper Railway Smart Cities Solar Power Water Wind Power See all industries and utilities Services Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems About Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress News & Media Careers Investors Contact Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems Careers Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Careers Explore ABB Life at ABB Diversity & Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Customer events News & media Who we are Innovation Careers Sustainability Our values Supplying EEO and Affirmative Action Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006952/Software-Engineer-Process-automation-reporting",
-    "id": "abb-software-engineer-process-automation-reporting-location-senatobia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Digital Operations & Logistics Intern- Summer",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "Recently",
-    "job_description": "• Products Products Control Room Solutions Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Mechanical Power Transmission Medium Voltage Products Metallurgy Products Motors and Generators PLC Automation Power Converters and Inverters Robotics See all products and systems Systems Control Systems Operations Management Software Power Electronics Safety Turbocharging UPS and Power Conditioning See all products and systems Industries Industries Aluminium Automotive Buildings and Infrastructure Cement Channel Partners Chemical Data Centers Food and Beverage Process Automation Life Sciences Marine and Ports Metals Mining Oil and Gas Ports Power Generation Printing Pulp and Paper Railway Smart Cities Solar Power Water Wind Power See all industries and utilities Services Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems About Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress News & Media Careers Investors Contact Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems Careers Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Careers Explore ABB Life at ABB Diversity & Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Customer events News & media Who we are Innovation Careers Sustainability Our values Supplying EEO and Affirmative Action Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00009947/Digital-Operations-Logistics-Intern-Summer-2026",
-    "id": "abb-digital-operations-logistics-intern-summer-location-senatobia"
   },
   {
     "employer_name": "AI Jobs",
@@ -151,13 +191,43 @@
   },
   {
     "employer_name": "AI Jobs",
+    "job_title": "Data Scientist (Entry-Level)",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165190844-data-scientist-entry-level",
+    "id": "ai-jobs-data-scientist-entry-level-"
+  },
+  {
+    "employer_name": "AI Jobs",
     "job_title": "Data Scientist",
-    "job_city": "Scottsdale",
-    "job_state": "AZ",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "9h",
+    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165271194-data-scientist",
+    "id": "ai-jobs-data-scientist-new-york"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "1w",
+    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163708912-data-scientist",
+    "id": "ai-jobs-data-scientist-san-jose"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist",
+    "job_city": "Dallas",
+    "job_state": "TX",
     "job_posted_at": "5d",
-    "job_description": "• Bachelor’s degree in a quantitative field (e.\n• 2+ years of relevant experience as a Data Scientist, Analytics or similar role, using SQL and Python (pandas, numpy, scipy, sk-learn).\n• Strong SQL and Python skills with ability to handle large, messy, multi-source data to deliver quick and ad hoc analyses.\n• Experience collaborating cross-functionally with marketing, sales, revenue and data platform teams to conduct deep-dives and provide strategic recommendations.\n• Excellent written and verbal communication skills with the ability to translate complex analyses into clear, business-focused recommendations.\n• Self-motivated individual with a strong growth mindset, time management, and organizational skills.\n• Partner with marketing stakeholders to translate questions and business needs into data science and analytics problems and provide timely and actionable insights Work on interesting marketing projects such as Prospect Modeling, Cross sell and Upsell modeling, Attribution problems, Audience segmentation and optimize advertising budgets to maximize ROI.\n• 5% company matchTuition Reimbursement program for degreed and non-degreed programs1:1 personalized Financial Planning SessionsStudent Debt Retirement Savings Match programFree snacks and refreshments in each office location Master's or Ph.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164766899-data-scientist",
-    "id": "ai-jobs-data-scientist-scottsdale"
+    "job_description": "• 5 years in Data Science2–3 years in AI/MLHands-on coding (Python, SQL)Strong AWS experience (Azure/GCP not acceptable)Familiarity with Cloud LlamaNice to have: TensorFlow, PyTorch, Jupyter Notebooks, SageMakerGit, CI/CD pipeline.",
+    "job_apply_link": "https://www.aijobs.com/jobs/161261950-data-scientist",
+    "id": "ai-jobs-data-scientist-dallas"
   },
   {
     "employer_name": "AI Jobs",
@@ -171,13 +241,13 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Scientist Associate",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_posted_at": "5d",
-    "job_description": "• Create and maintain code and processes that enable the operationalization of data-driven solutions, seamlessly aligning with the daily operational needs of the business.\n• Collaborate with the IT development team to strategize, design, and establish processes for data collection, ingestion, and delivery, along with developing optimal data models to fulfill analytical requirements.\n• Provide analytical insights to support business solution development and implementation, influencing solution design and driving improved customer experiences.\n• Assist Data Science team members in addressing complex problems, conducting data analysis, and developing cutting-edge analytics solutions tailored to business needs.\n• Translate business processes and requirements into actionable solutions by thoroughly understanding analytics drivers and data to be modeled, applying the most suitable quantitative techniques to solve challenges effectively.\n• Bachelors’ Degree, from an accredited institution in Data Science, Statistics, Applied Mathematics, Physics, or other quantitative fields (master’s degree preferred).\n• Minimum of 1 - 3 years of solid experience in statistics, quantitative methods (e.\n• ) and AI/ML/Data science experience in Life Sciences, Pharma, Biotech, technology companies or relevant regulated industries.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164899795-data-scientist-associate",
-    "id": "ai-jobs-data-scientist-associate-boston"
+    "job_title": "Data Scientist",
+    "job_city": "Milpitas",
+    "job_state": "CA",
+    "job_posted_at": "4d",
+    "job_description": "• Bachelor's or higher in Electrical Engineering with Data Science, Statistics, Mathematics, Computer Science, Information Systems, Physics or Computer EngineeringFundamental understanding of Electrical Engineering Principles3+ years of professional-post graduate Data Science experience in an Engineering Environment3+ years of Data Analytics experience3+ years of programming experience with C, Python, R, and/or MATLABExperience optimizing complex SQL queries for large datasetsStrong background in Postgres, MongoDB or MySQLExperience with data visualization tools such as Matplotlib, R, MATLAB, Tableau, Microsoft Power BI, or Grafana Excellent verbal and written communication skills, including the ability to interact clearly and concisely with all departments and levels of managementExcellent organizational skills with attention-to-detailAbility to meet multiple deadlines in a fast-paced environmentAbility to effectively manage time and prioritize tasksAbility to act with integrity, professionalism, and confidentialityProficiency with Microsoft OfficeFamiliarity with NetSuiteStrong problem-solving skills, especially under time constraintsAbility to identify and seek needed information Build metrics collection pipelines from distributed infrastructure systemsIntegrate and clean large datasets from disparate sourcesWork with system owners to establish Service Level Objectives for their systemsWork with Operations and Reliability Engineers to develop dashboards and alertsWork with Systems Engineers to analyze large datasets of real-world system performance data to inform design decisions and optimize network performanceMeasure the accuracy of simulation models compared to operational data at scale Master's or higher in Electrical Engineering with Data Science, Statistics, Mathematics, Computer Science, Information Systems, Physics or Computer EngineeringExperience with data analysis for cellular telecommunication performance dataUnderstanding of Beam forming and MIMO wireless systemFamiliarity with AWS data pipeline tools (S3, Kinesis, Kinesis Analytics, etc.\n• )Should be able to understand datasets for wireless communication systems Work/Life Balance: Paid Time Off, Paid HolidaysFinancial Benefits: 401(k) Plan with Company Match, Employee Stock Purchase Program, Voluntary and Company Paid Group Life Insurance, Short- and Long-Term Disability Insurance, Medical FSA, Dependent Care, Competitive SalariesHealth & Wellness: Health Insurance, Dental Insurance, Vision Insurance, Employee Assistance Program, Comprehensive and Interactive Wellness Program.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164899802-data-scientist",
+    "id": "ai-jobs-data-scientist-milpitas"
   },
   {
     "employer_name": "AI Jobs",
@@ -191,10 +261,20 @@
   },
   {
     "employer_name": "AI Jobs",
+    "job_title": "Data Scientist – Level",
+    "job_city": "Mason",
+    "job_state": "OH",
+    "job_posted_at": "5d",
+    "job_description": "• Engage with Business Analysts and Functional Analysts in understanding Machine Learning (ML) and Artificial Intelligence (AI) use cases and collect detailed requirements.\n• Bachelor’s degree in Statistics, Mathematics, Data Science, Engineering, or related quantitative fieldMinimum 3 years of analytics, data science, related IT experience, including:3 years of experience where proficiency with programming in R or Python was demonstrated3 years of in-depth hands-on relational database and reporting experience including the ability to write SQL2 years of experience working with large databases to perform complex analysis2 years of experience working in statistics and multivariate analytical techniques including multivariate regression, logistic regression, cluster analysis, design of experiments, machine learning, and decision treesExperience with Google Cloud Platform – Big Query, Vertex AI Master’s degree in Statistics, Mathematics, Data Science, Engineering, or related quantitative fieldMinimum 1 year of analytics, data science, related IT experience, including:1 year of experience where proficiency with programming in R or Python was demonstrated1 year of in-depth hands-on relational database and reporting experience including the ability to write SQL1 year of experience working with large databases to perform complex analysis.\n• 1 year of experience working in statistics and multivariate analytical techniques including multivariate regression, logistic regression, cluster analysis, design of experiments, machine learning, and decision trees.\n• Some experience with Google Cloud Platform – Big Query, Vertex AI 1 year of experience where proficiency with programming in R or Python was demonstrated1 year of in-depth hands-on relational database and reporting experience including the ability to write SQL1 year of experience working with large databases to perform complex analysis.\n• 1 year of experience working in statistics and multivariate analytical techniques including multivariate regression, logistic regression, cluster analysis, design of experiments, machine learning, and decision trees.\n• Some experience with Google Cloud Platform – Big Query, Vertex AI 3 years of experience where proficiency with programming in R or Python was demonstrated3 years of in-depth hands-on relational database and reporting experience including the ability to write SQL2 years of experience working with large databases to perform complex analysis2 years of experience working in statistics and multivariate analytical techniques including multivariate regression, logistic regression, cluster analysis, design of experiments, machine learning, and decision treesExperience with Google Cloud Platform – Big Query, Vertex AI Some experience with commercial analytic techniques including pricing, customer lifetime value, and churn modeling preferred.\n• Design, develop and test AI neutral network models using Tensorflow, PyTorch, HuggingFace, Keras, Scikit-learn and any Python based libraries like Panda, Numpy, Scipy, etc.\n• Review data acquisition strategies and develop programs to acquire data into Data Lake / Data Warehouse from transactional SAP ERP systems like ECC, CRM, EWM, EM, BW, Hybris using various tools like HANA SDI & SDA adaptors.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164766900-data-scientist-level-2",
+    "id": "ai-jobs-data-scientist-level-mason"
+  },
+  {
+    "employer_name": "AI Jobs",
     "job_title": "Data Scientist",
     "job_city": "Washington DC-Baltimore Area",
     "job_state": "US",
-    "job_posted_at": "3d",
+    "job_posted_at": "4d",
     "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
     "job_apply_link": "https://www.aijobs.com/jobs/164984416-data-scientist",
     "id": "ai-jobs-data-scientist-washington-dc-baltimore-area"
@@ -222,12 +302,32 @@
   {
     "employer_name": "AI Jobs",
     "job_title": "Data Scientist",
-    "job_city": "Cary",
-    "job_state": "NC",
+    "job_city": "Salt Lake City Metropolitan Area",
+    "job_state": "US",
     "job_posted_at": "5d",
-    "job_description": "• Experience with predictive analytics and machine learning frameworks is a strong plus.\n• SQL – writing queries and creating views.\n• Snowflake – data warehousing and analytics.\n• Power BI – dashboarding and reporting.\n• Python – for data science and machine learning.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164984406-data-scientist",
-    "id": "ai-jobs-data-scientist-cary"
+    "job_description": "• Required Experience & Skills:Bachelor’s or advanced degree in Data Science, Statistics, Mathematics, Computer Science, Economics, or related field.\n• 5+ years’ experience programming in Python (NumPy, Pandas, Scikit-learn, XGBoost).\n• 2+ years’ experience with SQL (Snowflake experience a plus).\n• Proven experience in credit risk analytics, underwriting, or portfolio management.\n• Strong problem-solving, independent work skills, and ability to balance growth, risk, and profitability.\n• Nice to Have Experience:Experience with credit bureau data (Equifax, Experian, TransUnion).\n• Master’s degree or higher in a quantitative discipline.\n• Duties & Responsibilities:Develop, validate, and deploy credit risk models and strategies (underwriting, scorecards, loss forecasting).",
+    "job_apply_link": "https://www.aijobs.com/jobs/164984400-data-scientist",
+    "id": "ai-jobs-data-scientist-salt-lake-city-metropolitan-area"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist",
+    "job_city": "Newark",
+    "job_state": "NJ",
+    "job_posted_at": "20h",
+    "job_description": "• Graduate-level training in one of the above mentioned fields Experience working on a cross functional team, including product managers, marketers, and software/data engineers Fluency in mathematical foundations of statistics, machine learning, and economics Experience using empirical methods to inform pricing, investment decisions, experimentation science, and/or product optimizations in the digital media space Familiarity with financial/accounting metrics/methods Intellectual curiosity for what drives the business and strong desire to continue to learn new tools and empirical methods Ability to tackle very loosely defined problems and consistently deliver elegant, modular, and scalable solutions in a timely manner Undergraduate degree in: Statistics, Economics, Computer Science, Engineering, Applied Math, or a similar/related quantitative field 1+ year hands-on work experience in an applied/industry setting using SQL and Python, or similar, to work efficiently at scale with large data sets, constructing empirical analysis, modeling, and compelling data visualizations Experience formulating and solving challenging optimization and/or measurement problems.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165271190-data-scientist",
+    "id": "ai-jobs-data-scientist-newark"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist (Remote)",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• In Data Science, Computer Science, Electrical Engineering, Robotics, or a related field3-4 years of professional work experience in a similar role Proven experience in 3D technology integration Strong proficiency in computer vision, including feature detection, tracking, and 3D reconstructionProficient in programming languages such as C++, Python, and relevant libraries (OpenCV, PCL)Experience with 3D data processing, point cloud manipulation, and object recognitionExperience working with CT Scan (DICOM file format) and/or experience working in the medical device space is a plusKnowledge of machine learning and deep learning for computer vision tasks is a plusFamiliarity with hardware design and sensor integration is advantageousStrong problem-solving skills and the ability to work independently and in a teamExcellent communication and collaboration skills.\n• JsAPI Testing: Postman, InsomniaBrowser DevTools: Familiarity with browser developer tools for inspecting web elements, network traffic, and debuggingDatabase Testing: Basic knowledge of SQL for writing queries to validate data integrityBrowser and Device Compatibility: Knowledge of different browsers and devices to ensure cross-platform compatibilityPerformance Testing: Tools like JMeter or Gatling for load and performance testing Collaborate with cross-functional teams to define project requirements and objectivesDesign and implement 3D technology using Python (and C++) to create software that interfaces with 3D camera systems or computer vision/ ML models.\n• Develop and optimize computer vision algorithms for real-time data processingCreate software components for data acquisition, analysis, and visualizationWork on 3D point cloud processing, object recognition, and spatial mappingConduct performance testing, debugging, and optimization of the systemStay up-to-date with the latest advancements in 3D technology and computer vision C++ working experience Startup experience.\n• Bachelor's, Master's, or Ph.\n• Version Control: GitBug Tracking and Project Management: JIRA, ConfluenceDeployment (CI/CD): Jenkins, Travis CI, CircleCITest Management: RTMProgramming Languages: C++, Python, Swift, Node.",
+    "job_apply_link": "https://www.aijobs.com/jobs/148949068-data-scientist-remote",
+    "id": "ai-jobs-data-scientist-remote-"
   },
   {
     "employer_name": "AI Jobs",
@@ -238,6 +338,16 @@
     "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
     "job_apply_link": "https://www.aijobs.com/jobs/163599995-data-scientist",
     "id": "ai-jobs-data-scientist-denver"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist Intern",
+    "job_city": "Pleasanton",
+    "job_state": "CA",
+    "job_posted_at": "1w",
+    "job_description": "• Practical experience with Python and key libraries: NumPy, pandas, scikit-learn.\n• Familiarity with deep-learning frameworks (TensorFlow/Keras or PyTorch) and experience implementing RNN/LSTM models.\n• Experience with data visualization and exploratory analysis (Matplotlib, Seaborn, Plotly).\n• Good communication skills and ability to explain technical work to non-technical stakeholders.\n• Currently pursuing (or recently completed) BS/MS in Data Science, Computer Science, Statistics, Applied Math, or related field.\n• Strong fundamentals in statistics, probability, and predictive modeling.\n• Hands-on with time-series modeling concepts (stationarity, differencing, seasonality, autocorrelation).",
+    "job_apply_link": "https://www.aijobs.com/jobs/163807556-data-scientist-intern",
+    "id": "ai-jobs-data-scientist-intern-pleasanton"
   },
   {
     "employer_name": "AI Jobs",
@@ -252,41 +362,21 @@
   {
     "employer_name": "AI Jobs",
     "job_title": "Data Scientist",
-    "job_city": "Fishers",
-    "job_state": "IN",
-    "job_posted_at": "4d",
-    "job_description": "• Must have CAC ClearanceStrong background in statistics and mathematical modelingExperience building predictive modelsExperience building computer vision ML modelsFamiliarity with DockerExperience with modern data science toolkits such as Project JupyterExperience with PyTorch and TensorflowIntermediate (or better) Python development experienceProficient with SQL & NoSQL database designBA/BS degree in Computer Science, IT, ML, Statistics or related technical field or equivalent practical experience.\n• Master’s Degree is a plusDesire and ability to learn new skills while improving current skills Analyze and Organize large volumes of raw dataPerform exploratory data analysis and report on resultsDevelop and maintain datasetsIdentify optimal modeling workflows for a given problemTrain and retrain machine learning modelsInterpret trends and patternsCombine data from multiple sourcesCollaborate with engineers, full-stack and back-end developers, and the other product team members on several projectsInteract with clients to understand project needs Experience with Google Cloud Platform and/or Amazon Web ServicesExperience with data visualization tools such as Google Data Studio, Tableau, PowerBI, etc.\n• Data Science, Machine Learning or Cloud certifications are a plus (e.\n• Google Cloud Platform Certified Professional Machine Learning Engineer).",
-    "job_apply_link": "https://www.aijobs.com/jobs/164984415-data-scientist-i",
-    "id": "ai-jobs-data-scientist-fishers"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist Intern",
-    "job_city": "Pleasanton",
-    "job_state": "CA",
+    "job_city": "Cary",
+    "job_state": "NC",
     "job_posted_at": "1w",
-    "job_description": "• Practical experience with Python and key libraries: NumPy, pandas, scikit-learn.\n• Familiarity with deep-learning frameworks (TensorFlow/Keras or PyTorch) and experience implementing RNN/LSTM models.\n• Experience with data visualization and exploratory analysis (Matplotlib, Seaborn, Plotly).\n• Good communication skills and ability to explain technical work to non-technical stakeholders.\n• Currently pursuing (or recently completed) BS/MS in Data Science, Computer Science, Statistics, Applied Math, or related field.\n• Strong fundamentals in statistics, probability, and predictive modeling.\n• Hands-on with time-series modeling concepts (stationarity, differencing, seasonality, autocorrelation).",
-    "job_apply_link": "https://www.aijobs.com/jobs/163807556-data-scientist-intern",
-    "id": "ai-jobs-data-scientist-intern-pleasanton"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Science & AI: Data Scientist",
-    "job_city": "Norfolk",
-    "job_state": "VA",
-    "job_posted_at": "1d",
-    "job_description": "• Evaluate operational requirements and objectives, recommending appropriate engineering solutions for integrating LLMs into NATO workflows and systems.\n• Provide technical training and mentoring to NATO staff, supporting educational efforts in AI engineering, data pipeline design, API development, and digital literacy.\n• Perform additional tasks as required by the Contracting Officer’s Technical Representative (COTR) related to the LABOR category.\n• Minimum 4 years of proven work experience as a Data Scientist, Machine Learning Engineer, Data Engineer, or Software Engineer, with a strong emphasis on distributed systems, cloud-based architectures, developing operational AI/ML solutions, and designing API-based infrastructures, microservices architectures, and containerized applications (e.\n• Demonstrated experience working with GenAI, in particular LLMs, including preprocessing data, fine-tuning, and deployment in secure and scalable environments to include AI/ML frameworks such as TensorFlow, PyTorch, or scikit-learn.\n• Proven expertise in programming languages such as Python, Java, or Scala, with demonstrated experience in software engineering practices (e.\n• Experience building and optimizing data pipelines, ETL processes, and real-time streaming solutions using tools like Apache Airflow, Kafka, Spark, or equivalent.\n• Experience building visually impactful reports, dashboards, and analytics using tools such as Tableau, MS Power BI, or Kibana, supporting informed decision-making for high-level stakeholders.",
-    "job_apply_link": "https://www.aijobs.com/jobs/165271191-data-science-ai-data-scientist",
-    "id": "ai-jobs-data-science-ai-data-scientist-norfolk"
+    "job_description": "• , to communicate findingsAutomation & Optimization: Develop scripts and tools to automate data processing and model deploymentCollaboration: Work cross-functionally with product, engineering, and business teams to align data initiatives with strategic goalsResearch & Innovation: Stay current with emerging technologies and methodologies in data science and apply them to business challenges Years of experience: 5+ years (regardless of level of degree) - will accept internships as job experienceDegree requirement: Bachelors and/or Masters are required Proficiency in Python, SQL, and data science libraries (e.\n• , Azure, AWS, Snowflake) and data modelingExcellent communication skills to explain technical concepts to non-technical stakeholders A Data Scientist is responsible for analyzing large volumes of structured and unstructured data to extract actionable insights, build predictive models, and support data-driven decision-making.\n• This role blends statistical expertise, programming skills, and business acumen to solve complex problems and drive innovation.\n• Data Collection & Preparation: Gather, clean, and validate data from various sources to ensure quality and usabilityExploratory Data Analysis: Identify trends, anomalies, and patterns in large datasetsModel Development: Design and implement machine learning models (e.\n• , regression, classification, clustering, NLP) to support forecasting and decision-makingData Visualization: Create dashboards and reports using tools like Power BI, etc.\n• , Pandas, Scikit-learn, TensorFlow)Strong foundation in statistics, probability, and machine learningFamiliarity with cloud platforms (e.\n• Choppy tenureAny project done outside of work (Data Science work) is also welcome.\n• If candidate isn’t local at this time, we are not interested in in reviewing those resumes at this time.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164634620-data-scientist",
+    "id": "ai-jobs-data-scientist-cary"
   },
   {
     "employer_name": "AI Jobs",
     "job_title": "Data Scientist, User Growth",
     "job_city": "Pittsburgh",
     "job_state": "PA",
-    "job_posted_at": "4d",
+    "job_posted_at": "5d",
     "job_description": "• Bachelor’s degree in a relevant field (e.\n• , Data Science, Economics, Business Analytics, Information Systems)Relevant experience in data science, advanced data analytics, business intelligence, or a related fieldAdvanced SQL skills to build datasets that enable ad-hoc analyses and efficient visualizationExpertise in data visualization tools such as Sigma, Tableau, Hex, or Looker for full-stack data analysis, insight synthesis, and presentationProfessional or academic experience with experimentation, A/B testing, and/or causal inferenceExperience in programming (e.\n• , Python, R) to extract, transform, clean, and analyze large amounts of dataExperience training machine learning models and deploying them in productionOutstanding problem-solving abilities and the capacity to distill complex data into concise explanations and actionable insightsExcellent verbal and written communication skills that facilitate collaboration with both technical and non-technical partnersAbility to relocate to and work in our Pittsburgh office Derive insights from data to influence product roadmaps and drive business resultsEmbed in teams with product managers and engineers to design, run, and analyze experiments to improve user experiencesApply advanced analytical methods to model user behavior and estimate the impact of potential new features.\n• , Sigma, Tableau, Plotly) to analyze trends, make recommendations, and help preserve our culture of fact-based decision making as we scaleCollaborate with other data scientists to level up our company's scientific capabilities and data footprintEnsure the quality of our tracking and data collection is high (and improving) Master's degree in data science, economics, statistics, or an equivalent quantitative fieldFamiliarity with AI tools such as Cursor, a knack for prompt engineering, and a desire to continue to innovate and learn in AIExperience at a high-growth company that has undertaken an IPOAn impressive Duolingo XP or streak.\n• Partner with product and engineering teams to develop and implement solutionsBuild dashboards, reports, and/or forecasts (e.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164899794-data-scientist-user-growth",
+    "job_apply_link": "https://www.aijobs.com/jobs/164899798-data-scientist-user-growth",
     "id": "ai-jobs-data-scientist-user-growth-pittsburgh"
   },
   {
@@ -301,36 +391,6 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "New York",
-    "job_state": "United States",
-    "job_posted_at": "1w",
-    "job_description": "• Proven experience as a Data Scientist with a strong ML background.\n• Strong understanding of AI/ML frameworks Experience in experimentation, A/B testing, and AI-driven product development.\n• Must be available for Work From Office in the specified locations.\n• Ability to explain complex findings in a clear and actionable manner.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163449896-data-scientist",
-    "id": "ai-jobs-data-scientist-new-york"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "Plano",
-    "job_state": "TX",
-    "job_posted_at": "3d",
-    "job_description": "• Develop AI/ML models: design, develop, and optimize machine learning (ML) and deep learning (DL) models for allocation, planning, forecasting, and inventory management Data processing: extract, clean, and preprocess large datasets from multiple supply chain systems for model training and evaluation Feature engineering: create and select meaningful features that improve model performance based on supply chain domain knowledge Model deployment: build scalable pipelines to deploy models into production, ensuring smooth integration with existing systems Performance monitoring: continuously monitor and tune models to maintain accuracy and adapt to changing business needs Collaboration: partner with cross-functional teams (inventory, planning, merchandising, and engineering) to turn business requirements into technical solutions Automation: develop automated workflows for data ingestion, model retraining, and reporting Documentation: maintain clear documentation of models, data sources, assumptions, and workflows Innovation: stay current with emerging AI/ML techniques and evaluate their application to supply chain challenges Problem solving: identify inefficiencies in supply chain processes and propose AI-driven improvements 5+ years of data science or advanced analytics experience Strong programming in Python (pandas, NumPy, scikit-learn, TensorFlow, PyTorch) SQL and data manipulation expertise Familiarity with BI tools (Power BI, Tableau, or similar) Experience with time series forecasting and demand planning algorithms Knowledge of supply chain concepts (inventory management, allocation, lead times) Experience with cloud platforms (AWS, Azure, or GCP) and MLOps practices Strong analytical and communication skills Comfort working as a solo contributor, building solutions where no playbook yet exists.",
-    "job_apply_link": "https://www.aijobs.com/jobs/165190849-data-scientist",
-    "id": "ai-jobs-data-scientist-plano"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "AI/ML Engineer",
-    "job_city": "Omaha",
-    "job_state": "NE",
-    "job_posted_at": "1w",
-    "job_description": "• Normalization and denormalization Knowledge of data extraction, transformation, and loading using tools Design and implementation of scalable data warehouses and data lakes Ability to design efficient data solutions based on business needs Excellent communication and leadership skills, with the ability to engage with both technical and non-technical stakeholders Active DoD Secret Clearance Bachelor's degree in computer science, data science, information systems, or a related field Automate metadata extraction using ML Validate AI/ML pipelines and produce readiness reports Ensure explainability, drift detection, and compliance in testbeds Support data-driven innovation for clinical and operational analytics Experience supporting the DoD or other federal agencies in a data-centric role A Master’s degree is preferred but not required Expertise in NLP, OCR, and DoD AI guidelines Familiarity with Advana’s analytics tools.\n• Understanding of conceptual, logical, and physical data models.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164520414-ai-ml-engineer",
-    "id": "ai-jobs-ai-ml-engineer-omaha"
-  },
-  {
-    "employer_name": "AI Jobs",
     "job_title": "AI/ML Engineer",
     "job_city": "Scott AFB",
     "job_state": "IL",
@@ -338,6 +398,16 @@
     "job_description": "• Normalization and denormalization Knowledge of data extraction, transformation, and loading using tools Design and implementation of scalable data warehouses and data lakes Ability to design efficient data solutions based on business needs Excellent communication and leadership skills, with the ability to engage with both technical and non-technical stakeholders Active DoD Secret Clearance Bachelor's degree in computer science, data science, information systems, or a related field Automate metadata extraction using ML Validate AI/ML pipelines and produce readiness reports Ensure explainability, drift detection, and compliance in testbeds Support data-driven innovation for clinical and operational analytics Experience supporting the DoD or other federal agencies in a data-centric role A Master’s degree is preferred but not required Expertise in NLP, OCR, and DoD AI guidelines Familiarity with Advana’s analytics tools.\n• Understanding of conceptual, logical, and physical data models.",
     "job_apply_link": "https://www.aijobs.com/jobs/163599994-ai-ml-engineer",
     "id": "ai-jobs-ai-ml-engineer-scott-afb"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist",
+    "job_city": "Plano",
+    "job_state": "TX",
+    "job_posted_at": "4d",
+    "job_description": "• Develop AI/ML models: design, develop, and optimize machine learning (ML) and deep learning (DL) models for allocation, planning, forecasting, and inventory management Data processing: extract, clean, and preprocess large datasets from multiple supply chain systems for model training and evaluation Feature engineering: create and select meaningful features that improve model performance based on supply chain domain knowledge Model deployment: build scalable pipelines to deploy models into production, ensuring smooth integration with existing systems Performance monitoring: continuously monitor and tune models to maintain accuracy and adapt to changing business needs Collaboration: partner with cross-functional teams (inventory, planning, merchandising, and engineering) to turn business requirements into technical solutions Automation: develop automated workflows for data ingestion, model retraining, and reporting Documentation: maintain clear documentation of models, data sources, assumptions, and workflows Innovation: stay current with emerging AI/ML techniques and evaluate their application to supply chain challenges Problem solving: identify inefficiencies in supply chain processes and propose AI-driven improvements 5+ years of data science or advanced analytics experience Strong programming in Python (pandas, NumPy, scikit-learn, TensorFlow, PyTorch) SQL and data manipulation expertise Familiarity with BI tools (Power BI, Tableau, or similar) Experience with time series forecasting and demand planning algorithms Knowledge of supply chain concepts (inventory management, allocation, lead times) Experience with cloud platforms (AWS, Azure, or GCP) and MLOps practices Strong analytical and communication skills Comfort working as a solo contributor, building solutions where no playbook yet exists.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165190849-data-scientist",
+    "id": "ai-jobs-data-scientist-plano"
   },
   {
     "employer_name": "AI Jobs",
@@ -351,73 +421,33 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Scientist - Computer Vision",
-    "job_city": "Irving",
-    "job_state": "TX",
-    "job_posted_at": "1w",
-    "job_description": "• 1 – 3 years’ experience in data science.\n• Experience working in Linux environments and using version control tools such as Git.\n• Practical experience with machine learning and deep learning frameworks (e.\n• Hands-on experience with tasks such as classification, segmentation, and object detection.\n• Strong written and verbal communication skills.\n• Experience working with medical imaging data, particularly histopathology images from whole slide scanners.\n• Background in cancer research or oncology-focused AI applications.\n• Experience with cloud computing environments (e.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163675236-data-scientist-computer-vision",
-    "id": "ai-jobs-data-scientist-computer-vision-irving"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist, Fleet Health",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "5d",
-    "job_description": "• Expertise in forecasting, anomaly detection, and predictive modeling, with experience handling time-series, sensor, or geospatial datasets.\n• 3+ years of applied experience in data science with large-scale, real-world systems (IoT, clean tech, connectivity, or related domains).\n• Bachelor’s or Master’s degree in Engineering, Statistics, Data Science, or a related quantitative field.\n• Experience forecasting solar generation, connectivity performance, or energy resource availability.\n• Background in working with power-constrained, communication-constrained, or solar-powered devices.\n• Experience scaling predictive systems across large and growing hardware fleets.\n• Develop predictive and forecasting models to anticipate device health issues, solar availability, and connectivity performance, driving proactive interventions and deployment planning.\n• Proficiency in Python with scientific and ML libraries (NumPy, Pandas, SciPy, scikit-learn, Keras, PyTorch) and familiarity with data platforms (SQL, Spark, etc.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164899805-data-scientist-fleet-health",
-    "id": "ai-jobs-data-scientist-fleet-health-san-francisco"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_posted_at": "3d",
-    "job_description": "• Bachelor’s degree in computer science, statistics, physics, or related field.\n• 3–5+ years of direct experience as a Data Scientist.\n• Experience with Python, R, or another scripting language.\n• Experience with data visualization tools such as Tableau or Power BI.\n• Strong business insight with excellent communication and collaboration skills.\n• Master’s degree preferred.\n• Experience with Adobe Analytics or Amplitude is a plus.\n• Deep understanding of statistics and expertise building, productizing, maintaining, and improving predictive models.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164520409-data-scientist",
-    "id": "ai-jobs-data-scientist-san-jose"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist, Product",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "1w",
-    "job_description": "• You can draw on that experience to identify where data can have the most impact and clearly communicate to your partner teams what that impact is.\n• You have experience building predictive models, and you know how to evaluate their effectiveness.\n• You are comfortable transforming raw data to build your own data sets if the measure you need doesn't exist yet.\n• You have experience making tradeoffs between speed and accuracy.\n• You will apply your expertise in statistical inference, data analysis, and the presentation of data to see beyond the numbers and understand how our users interact with NotionYou will dive into ambiguous areas, define problems and opportunities for the team to work on the next influential projectYou'll design the right set of experiments or analyses to evaluate the success of new featuresYou'll partner closely with a product, engineering, and marketing pillar at every step of the development process, driving forward data science and analytics work in that area.\n• You'll work with your teams to determine both north star and operational metrics, and build and maintain the dashboards that those teams rely on for monitoring progress and making key decisions.\n• You'll influence your product roadmap by communicating your findings with the rest of the company, and driving and verifying change in our product and business.\n• Impact is even better.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163708907-data-scientist-product",
-    "id": "ai-jobs-data-scientist-product-san-francisco"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "Santa Monica",
-    "job_state": "CA",
-    "job_posted_at": "3d",
-    "job_description": "• Partner with talent representatives and internal divisions to identify the methodology to answer business questions and fulfill the subsequent data needs, evaluating multiple sources, for meetings, pitches, and presentations.\n• Bachelor’s or Master’s degree in Data Science, Statistics, Computer Science, Business Analytics, or a related quantitative field.\n• 3+ years of experience in data analysis, business intelligence, or a quantitative analytics role.\n• Experience in entertainment, sports, or marketing preferred.\n• Demonstrated experience managing third-party data providers and vendor relationships.\n• Strong organizational and project management skills with the ability to prioritize and manage multiple projects under tight deadlines.\n• Exceptional communication skills, with the ability to distill complex data into actionable insights for both technical and non-technical audiences.\n• Experience with predictive modeling, statistical analysis, and designing analytical frameworks to inform business strategy is a plus.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164984409-data-scientist",
-    "id": "ai-jobs-data-scientist-santa-monica"
-  },
-  {
-    "employer_name": "AI Jobs",
     "job_title": "Data Scientist",
     "job_city": "Palo Alto",
     "job_state": "CA",
-    "job_posted_at": "6d",
+    "job_posted_at": "1w",
     "job_description": "• Focus on user experience and maintainability for all developed dashboards.\n• Cross-Functional Collaboration: Partner effectively with manufacturing engineers, production managers, quality control specialists, supply chain analysts, and other business stakeholders to understand their challenges, define analytical requirements, and deliver relevant data solutions.\n• Practical LLM Application:Hands-on experience with Prompt Engineering: The ability to craft effective and nuanced prompts to guide LLMs towards desired outputs for specific tasks.\n• Experience utilizing LLMs via APIs: Working with commercial LLM APIs (e.\n• LLM Frameworks/Libraries (Practical Use):Familiarity with and practical experience using libraries like Hugging Face Transformers for accessing and working with pre-trained models.\n• Experience with LangChain or LlamaIndex for building more complex LLM applications (e.\n• Some practical experience (even if limited) with fine-tuning techniques or using specialized tools for model adaptation.\n• Education:Required: Master's degree in a quantitative field such as Computer Science, Statistics, Mathematics, Data Science, Engineering, or a related discipline.",
     "job_apply_link": "https://www.aijobs.com/jobs/164634627-data-scientist",
     "id": "ai-jobs-data-scientist-palo-alto"
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Scientist (Business Analysis & Decision Support)",
-    "job_city": "New York City Metropolitan Area",
-    "job_state": "US",
+    "job_title": "Artificial Intelligence Engineer",
+    "job_city": "Troy",
+    "job_state": "MI",
     "job_posted_at": "4d",
+    "job_description": "• Bachelor’s degree in Artificial Intelligence, Data Science, Computer Science (with AI/ML concentration), or a closely related field.\n• Strong foundation in artificial intelligence and machine learning concepts, including model development, training, and evaluation required.\n• Proficiency in Python and experience using AI/ML frameworks such as TensorFlow or PyTorch.\n• Strong analytical and problem-solving skills, with attention to detail.\n• Develop and implement AI tools that improve workflows and operational efficiency.\n• Analyze complex data sets to identify trends, generate insights, and support business decisions.\n• Collaborate with cross-functional teams to design and deliver AI-driven solutions.\n• Build, train, and refine machine learning models for accuracy, scalability, and reliability.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165162289-artificial-intelligence-engineer",
+    "id": "ai-jobs-artificial-intelligence-engineer-troy"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Artificial Intelligence Engineer",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_posted_at": "1w",
     "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164899790-data-scientist-business-analysis-decision-support",
-    "id": "ai-jobs-data-scientist-business-analysis-decision-support-new-york-city-metropolitan-area"
+    "job_apply_link": "https://www.aijobs.com/jobs/163660240-artificial-intelligence-engineer",
+    "id": "ai-jobs-artificial-intelligence-engineer-atlanta"
   },
   {
     "employer_name": "AI Jobs",
@@ -441,23 +471,13 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Scientists - All Levels",
-    "job_city": "Boca Raton",
+    "job_title": "Data Scientist",
+    "job_city": "Jacksonville",
     "job_state": "FL",
-    "job_posted_at": "6d",
-    "job_description": "• After one year of employment with ModMed, 100% of any matching contribution you receive is yours to keep.\n• Hands-on experience in data science or machine learning in a product or platform-focused environment preferably in healthcare or similar data-rich domain.\n• Experience with MLOps tools and cloud-based ML environments such as AWS.\n• Experience working with healthcare data formats (HL7, FHIR) and privacy standards (HIPAA) is a plus.\n• Comprehensive medical, dental, and vision benefits, including a company Health Savings Account contribution,401(k): ModMed provides a matching contribution each payday of 50% of your contribution deferred on up to 6% of your compensation.\n• Generous Paid Time Off and Paid Parental Leave programs,Company paid Life and Disability benefits, Flexible Spending Account, and Employee Assistance Programs,Company-sponsored Business Resource & Special Interest Groups that provide engaged and supportive communities within ModMed,Professional development opportunities, including tuition reimbursement programs and unlimited access to LinkedIn Learning,Global presence and in-person collaboration opportunities.\n• Dog-friendly HQ (US), Hybrid office-based roles and remote availability for some roles,Weekly catered breakfast and lunch, treadmill workstations, Zen, and wellness rooms within our BRIC headquarters.\n• PhD in Computer Science, Data Science, Electrical Engineering, Mathematics, Physics, or a related quantitative field.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164634622-data-scientists-all-levels",
-    "id": "ai-jobs-data-scientists-all-levels-boca-raton"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist, RWE",
-    "job_city": "Philadelphia",
-    "job_state": "PA",
-    "job_posted_at": "4d",
-    "job_description": "• Bachelor’s or Master’s degree in a quantitative discipline (e.\n• , Data Science, Biostatistics, Computer Science, Epidemiology) or equivalent experience.\n• 3+ years of experience in a data-focused role within life sciences, healthcare, or biotech.\n• Experience working with real-world data (claims, EHR, or similar).\n• Strong SQL skills (preferably Redshift), with experience building data pipelines and analytic queries.\n• Experience with R and/or Python for data manipulation and statistical analysis.\n• Strong communication and stakeholder management skills, with the ability to explain complex data issues clearly to technical and non-technical audiences.\n• Ability to manage multiple client needs simultaneously in a fast-paced, client-centric environment.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164899803-data-scientist-rwe",
-    "id": "ai-jobs-data-scientist-rwe-philadelphia"
+    "job_posted_at": "1w",
+    "job_description": "• Industry experience in analyzing data, maintaining and developing models is preferred.\n• Background in energy and power systems is preferred.\n• Good communication skills.\n• Ability to understand the requirements and present the results to stakeholders.\n• Maintain existing machine learning and optimization models, updating them as needed.\n• Collaborate with cross-functional teams to understand the business requirements and deliver solution effectively.\n• Competitive Salary: Based on experience, level and location.\n• Benefits:Paid Time Off starting at 17 days per year, plus nine paid holidays.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163599984-data-scientist",
+    "id": "ai-jobs-data-scientist-jacksonville"
   },
   {
     "employer_name": "AI Jobs",
@@ -471,53 +491,23 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Scientist - Analytics, Trust & Safety",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_posted_at": "3d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164984413-data-scientist-analytics-trust-safety",
-    "id": "ai-jobs-data-scientist-analytics-trust-safety-san-jose"
+    "job_title": "Data Scientists - All Levels",
+    "job_city": "Boca Raton",
+    "job_state": "FL",
+    "job_posted_at": "4d",
+    "job_description": "• After one year of employment with ModMed, 100% of any matching contribution you receive is yours to keep.\n• Hands-on experience in data science or machine learning in a product or platform-focused environment preferably in healthcare or similar data-rich domain.\n• Experience with MLOps tools and cloud-based ML environments such as AWS.\n• Experience working with healthcare data formats (HL7, FHIR) and privacy standards (HIPAA) is a plus.\n• Comprehensive medical, dental, and vision benefits, including a company Health Savings Account contribution, 401(k): ModMed provides a matching contribution each payday of 50% of your contribution deferred on up to 6% of your compensation.\n• Generous Paid Time Off and Paid Parental Leave programs, Company paid Life and Disability benefits, Flexible Spending Account, and Employee Assistance Programs, Company-sponsored Business Resource & Special Interest Groups (https://www.\n• Com/company/social-responsibility/) that provide engaged and supportive communities within ModMed, Professional development opportunities, including tuition reimbursement programs and unlimited access to LinkedIn Learning, Global presence and in-person collaboration opportunities.\n• Dog-friendly HQ (US), Hybrid office-based roles and remote availability for some roles, Weekly catered breakfast and lunch, treadmill workstations, Zen, and wellness rooms within our BRIC headquarters.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164899793-data-scientists-all-levels",
+    "id": "ai-jobs-data-scientists-all-levels-boca-raton"
   },
   {
     "employer_name": "AI Jobs",
     "job_title": "Data Scientist, Product Analytics",
-    "job_city": "Seattle",
-    "job_state": "WA",
+    "job_city": "Austin",
+    "job_state": "TX",
     "job_posted_at": "1w",
     "job_description": "• Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approachesApply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businessesIdentify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trendsDefine, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendationsPartner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.\n• Degree must be completed prior to joining MetaBachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent2+ years of work experience in analytics and data querying languages (e.\n• R)2+ years of experience solving analytical problems using quantitative approaches, understanding ecosystems, user behaviors & long-term product trends, and leading data-driven projects from definition to execution [including defining metrics, experiment, design, communicating actionable insights] Master's or Ph.\n• Degree in a quantitative field.\n• SQL), scripting languages (e.\n• Python), and/or statistical/mathematical software (e.",
-    "job_apply_link": "https://www.aijobs.com/jobs/152176590-data-scientist-product-analytics",
-    "id": "ai-jobs-data-scientist-product-analytics-seattle"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist, Product Analytics",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "1w",
-    "job_description": "• Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approachesApply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businessesIdentify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trendsDefine, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendationsPartner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.\n• Degree must be completed prior to joining MetaBachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent2+ years of work experience in analytics and data querying languages (e.\n• R)2+ years of experience solving analytical problems using quantitative approaches, understanding ecosystems, user behaviors & long-term product trends, and leading data-driven projects from definition to execution [including defining metrics, experiment, design, communicating actionable insights] Master's or Ph.\n• Degree in a quantitative field.\n• SQL), scripting languages (e.\n• Python), and/or statistical/mathematical software (e.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164520411-data-scientist-product-analytics",
-    "id": "ai-jobs-data-scientist-product-analytics-redmond"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist, Product Analytics",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_posted_at": "1w",
-    "job_description": "• Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approachesApply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businessesIdentify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trendsDefine, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendationsPartner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.\n• Degree must be completed prior to joining MetaBachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent2+ years of work experience in analytics and data querying languages (e.\n• R)2+ years of experience solving analytical problems using quantitative approaches, understanding ecosystems, user behaviors & long-term product trends, and leading data-driven projects from definition to execution [including defining metrics, experiment, design, communicating actionable insights] Master's or Ph.\n• Degree in a quantitative field.\n• SQL), scripting languages (e.\n• Python), and/or statistical/mathematical software (e.",
-    "job_apply_link": "https://www.aijobs.com/jobs/152176591-data-scientist-product-analytics",
-    "id": "ai-jobs-data-scientist-product-analytics-bellevue"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist, Product Analytics",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "1w",
-    "job_description": "• Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approachesApply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businessesIdentify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trendsDefine, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendationsPartner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.\n• Degree must be completed prior to joining MetaBachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent2+ years of work experience in analytics and data querying languages (e.\n• R)2+ years of experience solving analytical problems using quantitative approaches, understanding ecosystems, user behaviors & long-term product trends, and leading data-driven projects from definition to execution [including defining metrics, experiment, design, communicating actionable insights] Master's or Ph.\n• Degree in a quantitative field.\n• SQL), scripting languages (e.\n• Python), and/or statistical/mathematical software (e.",
-    "job_apply_link": "https://www.aijobs.com/jobs/148949067-data-scientist-product-analytics",
-    "id": "ai-jobs-data-scientist-product-analytics-san-francisco"
+    "job_apply_link": "https://www.aijobs.com/jobs/157379846-data-scientist-product-analytics",
+    "id": "ai-jobs-data-scientist-product-analytics-austin"
   },
   {
     "employer_name": "AI Jobs",
@@ -532,6 +522,26 @@
   {
     "employer_name": "AI Jobs",
     "job_title": "Data Scientist, Product Analytics",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "1w",
+    "job_description": "• Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approachesApply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businessesIdentify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trendsDefine, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendationsPartner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.\n• Degree must be completed prior to joining MetaBachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent2+ years of work experience in analytics and data querying languages (e.\n• R)2+ years of experience solving analytical problems using quantitative approaches, understanding ecosystems, user behaviors & long-term product trends, and leading data-driven projects from definition to execution [including defining metrics, experiment, design, communicating actionable insights] Master's or Ph.\n• Degree in a quantitative field.\n• SQL), scripting languages (e.\n• Python), and/or statistical/mathematical software (e.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164520411-data-scientist-product-analytics",
+    "id": "ai-jobs-data-scientist-product-analytics-redmond"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist - Analytics, Trust & Safety",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "4d",
+    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164984413-data-scientist-analytics-trust-safety",
+    "id": "ai-jobs-data-scientist-analytics-trust-safety-san-jose"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist, Product Analytics",
     "job_city": "Los Angeles",
     "job_state": "CA",
     "job_posted_at": "1w",
@@ -542,12 +552,42 @@
   {
     "employer_name": "AI Jobs",
     "job_title": "Data Scientist, Product Analytics",
-    "job_city": "Washington",
-    "job_state": "DC",
+    "job_city": "Seattle",
+    "job_state": "WA",
     "job_posted_at": "1w",
     "job_description": "• Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approachesApply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businessesIdentify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trendsDefine, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendationsPartner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.\n• Degree must be completed prior to joining MetaBachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent2+ years of work experience in analytics and data querying languages (e.\n• R)2+ years of experience solving analytical problems using quantitative approaches, understanding ecosystems, user behaviors & long-term product trends, and leading data-driven projects from definition to execution [including defining metrics, experiment, design, communicating actionable insights] Master's or Ph.\n• Degree in a quantitative field.\n• SQL), scripting languages (e.\n• Python), and/or statistical/mathematical software (e.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162480553-data-scientist-product-analytics",
-    "id": "ai-jobs-data-scientist-product-analytics-washington"
+    "job_apply_link": "https://www.aijobs.com/jobs/152176590-data-scientist-product-analytics",
+    "id": "ai-jobs-data-scientist-product-analytics-seattle"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist, Product Analytics",
+    "job_city": "Menlo Park",
+    "job_state": "CA",
+    "job_posted_at": "1w",
+    "job_description": "• Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approachesApply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businessesIdentify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trendsDefine, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendationsPartner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.\n• Degree must be completed prior to joining MetaBachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent2+ years of work experience in analytics and data querying languages (e.\n• R)2+ years of experience solving analytical problems using quantitative approaches, understanding ecosystems, user behaviors & long-term product trends, and leading data-driven projects from definition to execution [including defining metrics, experiment, design, communicating actionable insights] Master's or Ph.\n• Degree in a quantitative field.\n• SQL), scripting languages (e.\n• Python), and/or statistical/mathematical software (e.",
+    "job_apply_link": "https://www.aijobs.com/jobs/152176577-data-scientist-product-analytics",
+    "id": "ai-jobs-data-scientist-product-analytics-menlo-park"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist, Product Analytics",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_posted_at": "1w",
+    "job_description": "• Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approachesApply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businessesIdentify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trendsDefine, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendationsPartner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.\n• Degree must be completed prior to joining MetaBachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent2+ years of work experience in analytics and data querying languages (e.\n• R)2+ years of experience solving analytical problems using quantitative approaches, understanding ecosystems, user behaviors & long-term product trends, and leading data-driven projects from definition to execution [including defining metrics, experiment, design, communicating actionable insights] Master's or Ph.\n• Degree in a quantitative field.\n• SQL), scripting languages (e.\n• Python), and/or statistical/mathematical software (e.",
+    "job_apply_link": "https://www.aijobs.com/jobs/152176591-data-scientist-product-analytics",
+    "id": "ai-jobs-data-scientist-product-analytics-bellevue"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist, Product Analytics",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "1w",
+    "job_description": "• Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approachesApply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businessesIdentify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trendsDefine, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendationsPartner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.\n• Degree must be completed prior to joining MetaBachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent2+ years of work experience in analytics and data querying languages (e.\n• R)2+ years of experience solving analytical problems using quantitative approaches, understanding ecosystems, user behaviors & long-term product trends, and leading data-driven projects from definition to execution [including defining metrics, experiment, design, communicating actionable insights] Master's or Ph.\n• Degree in a quantitative field.\n• SQL), scripting languages (e.\n• Python), and/or statistical/mathematical software (e.",
+    "job_apply_link": "https://www.aijobs.com/jobs/150961161-data-scientist-product-analytics",
+    "id": "ai-jobs-data-scientist-product-analytics-new-york"
   },
   {
     "employer_name": "AI Jobs",
@@ -571,16 +611,6 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Computer Vision/Deep Learning Scientist",
-    "job_city": "Norfolk",
-    "job_state": "VA",
-    "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164485033-computer-vision-deep-learning-scientist",
-    "id": "ai-jobs-computer-vision-deep-learning-scientist-norfolk"
-  },
-  {
-    "employer_name": "AI Jobs",
     "job_title": "Computer Vision Engineer",
     "job_city": "Santa Clara",
     "job_state": "CA",
@@ -588,6 +618,16 @@
     "job_description": "• Demonstrated experience with a modern deep learning framework such as PyTorch or TensorFlow.\n• Excellent communication skills and a proven ability to work effectively in a collaborative, fast-paced R&D environment.\n• In Computer Science, Electrical Engineering, or a related field with 3+ years of relevant experience, or an M.\n• With equivalent project experience.\n• Work in close partnership with hardware/software engineers to define requirements, develop solutions, and integrate them into our broader systems.\n• Prior experience with body-part segmentation, keypoint detection, and 3D pose reconstruction.\n• Prior project experience in biomedical engineering, physiology, or medical device development.\n• Deep expertise in deep learning for computer vision, specifically in human pose estimation and tracking.",
     "job_apply_link": "https://www.aijobs.com/jobs/163135306-computer-vision-engineer",
     "id": "ai-jobs-computer-vision-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Applied Data Scientist, Analytics & Insights, Americas",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_posted_at": "6d",
+    "job_description": "• Proven experience in an analytics or data science role.\n• Rigorous and structured analytical problem solving skills with deep understanding of how to use data to measure and drive business operations.\n• Exceptional communication skills, with the ability to tell data-driven stories and influence key collaborators across senior levels of the organization.\n• Bachelor’s degree in Engineering, Math, Physics or other related field or equivalent work experience Experience in consulting, or with top-tier consumer or tech brands would be an advantage.\n• Strong commercial competence with the ability to translate data into business impact and drive commercial decisions.\n• Proficient with analytics tools and techniques (e.\n• , SQL, Python, AI, and data visualization platforms like Power BI, Looker or Tableau).\n• Ability to work collaboratively and cross-functionally to embed analytics in the decision-making process across multiple departments.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164634623-applied-data-scientist-analytics-insights-americas",
+    "id": "ai-jobs-applied-data-scientist-analytics-insights-americas-boston"
   },
   {
     "employer_name": "AI Jobs",
@@ -608,16 +648,6 @@
     "job_description": "• PhD-level background in cog sci, behavioral econ, psychology, HCI, or similarHands-on research in decision-making, learning, or behavioral modeling in digital contextsComfortable working with data alongside engineers in a fast-moving environmentBonus: experience with agent-based modeling, RL, safety/alignment, or product experimentation Translate behavioral and cognitive theory into practical agent models and personasDesign and run in-silico experiments to evaluate realism and UX changesPartner with ML and product teams to embed traits, constraints, and variability into agentsAnalyze simulation outputs to uncover patterns, edge cases, and next-step improvements.",
     "job_apply_link": "https://www.aijobs.com/jobs/164964237-behaviour-research-scientist",
     "id": "ai-jobs-behaviour-research-scientist-san-francisco-bay-area"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "AI Engineer",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "4d",
-    "job_description": "• Education:Bachelor's or Master's degree in Computer Science, Machine Learning, Data Science, Engineering, or a related fieldRelevant certifications or coursework in MLOps or AI model development is a plusExperience:Experience in MLOps, AI/ML model development, or a related roleHands-on experience with computer vision applications in real-world environmentsExperience in data curation and vision model training and finetuning Experience working with manufacturing or industrial systems is a plusTechnical Skills:Proficiency in Linux, Python, Docker, Git, and Nvidia-based environments (CUDA, TensorRT) is a mustFamiliarity with cloud platforms (AWS, Azure, GCP) for compute, storage, and AI servicesExperience with CI/CD pipelines for ML modelsExperience with MLOps toolsExperience with ARM devices such as Jetson or Raspberry Pi is a plusHands on experience training neural networks.\n• Familiar with at least one of the following ML libraries: PyTorch, Tensorflow, Keras, SKlearnKnowledge of monitoring tools for deployed models and managing their lifecycleSoft Skills:Strong problem-solving abilities and a proactive approach to challengesExcellent project planning, communication and collaboration skillsExperience in front-facing engagement with customers is a plusAbility to travel and hold a valid driver's license is a plus Develop and train vision-based AI applications for manufacturing, including classification, object detection, and segmentation tasksBuild and manage pipelines for deploying AI/ML models in production environmentsSet up and integrate new tools to streamline and support MLOps workflowsMonitor and optimize the performance of deployed models, ensuring they meet operational requirementsDebug, troubleshoot, and update AI models as needed to maintain high reliability and performanceCollaborate with cross-functional teams to align AI applications with manufacturing requirementsLeverage cloud platforms (AWS, Azure, GCP) for scalable training compute and deployment solutionsMaintain and document processes to ensure reproducibility and operational excellenceMay occasionally require to travel to customer sites to support integration and deployment efforts Drive operational excellence in a fast-growing AI company transforming manufacturing through cutting-edge vision systems Shape the future of project delivery by building scalable processes for AI system deployments Work with world-class engineering talent while optimizing team performance and customer success Gain exposure to cutting-edge Vision AI & IoT solutions across diverse manufacturing environments Lead strategic initiatives that directly impact company growth and customer satisfaction Build expertise in the rapidly expanding field of industrial AI and autonomous manufacturing Proficiency in Linux, Python, Docker, Git, and Nvidia-based environments (CUDA, TensorRT) is a mustFamiliarity with cloud platforms (AWS, Azure, GCP) for compute, storage, and AI servicesExperience with CI/CD pipelines for ML modelsExperience with MLOps toolsExperience with ARM devices such as Jetson or Raspberry Pi is a plusHands on experience training neural networks.\n• Familiar with at least one of the following ML libraries: PyTorch, Tensorflow, Keras, SKlearnKnowledge of monitoring tools for deployed models and managing their lifecycle Experience in MLOps, AI/ML model development, or a related roleHands-on experience with computer vision applications in real-world environmentsExperience in data curation and vision model training and finetuning Experience working with manufacturing or industrial systems is a plus Strong problem-solving abilities and a proactive approach to challengesExcellent project planning, communication and collaboration skillsExperience in front-facing engagement with customers is a plusAbility to travel and hold a valid driver's license is a plus Competitive salary commensurate with experienceEquity participation in a high-growth AI startupComprehensive health, dental, and vision coverageFlexible PTO and professional development opportunitiesRemote-first culture with modern collaboration tools Bachelor's or Master's degree in Computer Science, Machine Learning, Data Science, Engineering, or a related fieldRelevant certifications or coursework in MLOps or AI model development is a plus.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162217136-ai-engineer",
-    "id": "ai-jobs-ai-engineer-"
   },
   {
     "employer_name": "AI Jobs",
@@ -661,16 +691,6 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Computer Vision Engineer",
-    "job_city": "Tremont",
-    "job_state": "IL",
-    "job_posted_at": "1w",
-    "job_description": "• Bachelor’s degree in Computer Science/Computer Engineering/Electrical Engineering or other Engineering with equivalent experience.\n• Proficiency in C++, and Python (OpenCV, Numpy, Matplotlib, etc) Proven ability to cross-compile and optimize modern C++ / Python computer-vision code on embedded Linux devices, preferably on the NVIDIA Jetson platform Familiarity or experience with ML packages (Sklearn, TensorFlow, PyTorch, etc) Familiarity or experience with Computer Vision concepts such as camera calibration, lens-distortion correction, feature extraction/matching, optical flow and multi-frame tracking.\n• Ability to work independently and high attention to detail Strong communication skills and experience being a flexible team player Passion and tenacity to solve difficult problems in a highly functioning, fast paced team environment Must be authorized to work in the U.\n• 3+ years developing algorithms and product solutions through software and embedded systems design 3+ years of software development experience in C++, C, or Python Experience developing computer vision and/or machine learning based systems and solutions Hands-on experience configuring BSPs, customizing kernels, and building/maintaining Yocto images, with solid understanding of board-level interfaces (camera, CAN, I²C, SPI, GPIO) and in-field flashing and update processes.\n• Health care and wellness plans Dental and vision plans Flexible and virtual work options (where available) 401(k) Savings Plan with company match Employee Stock Purchase Plan offering eligible employees the ability to purchase AGCO stock at a discounted price Paid holidays and paid time off Health savings and flexible spending accounts Reimbursement for continuing education Life insurance and other supplemental insurance plans.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163675239-computer-vision-engineer",
-    "id": "ai-jobs-computer-vision-engineer-tremont"
-  },
-  {
-    "employer_name": "AI Jobs",
     "job_title": "CAD Flow Development Engineer",
     "job_city": "US",
     "job_state": "CA",
@@ -680,23 +700,13 @@
     "id": "ai-jobs-cad-flow-development-engineer-us"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Mobile (Android), YouTube",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Software Engineer III, Mobile (Android), YouTube",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/115477275826102982-software-engineer-iii-mobile-android-youtube?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=5",
-    "id": "google-software-engineer-iii-mobile-android-youtube-mountain-view"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Data Engineer II, GSF , GSF Strategies data platform team",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "1 week",
-    "job_description": "data science job for the role Data Engineer II, GSF , GSF Strategies data platform team",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3091591/data-engineer-ii-gsf-gsf-strategies-data-platform-team",
-    "id": "amazon-data-engineer-ii-gsf-gsf-strategies-data-platform-team-austin"
+    "employer_name": "AI Jobs",
+    "job_title": "Computer Vision Engineer",
+    "job_city": "Tremont",
+    "job_state": "IL",
+    "job_posted_at": "1w",
+    "job_description": "• Bachelor’s degree in Computer Science/Computer Engineering/Electrical Engineering or other Engineering with equivalent experience.\n• Proficiency in C++, and Python (OpenCV, Numpy, Matplotlib, etc) Proven ability to cross-compile and optimize modern C++ / Python computer-vision code on embedded Linux devices, preferably on the NVIDIA Jetson platform Familiarity or experience with ML packages (Sklearn, TensorFlow, PyTorch, etc) Familiarity or experience with Computer Vision concepts such as camera calibration, lens-distortion correction, feature extraction/matching, optical flow and multi-frame tracking.\n• Ability to work independently and high attention to detail Strong communication skills and experience being a flexible team player Passion and tenacity to solve difficult problems in a highly functioning, fast paced team environment Must be authorized to work in the U.\n• 3+ years developing algorithms and product solutions through software and embedded systems design 3+ years of software development experience in C++, C, or Python Experience developing computer vision and/or machine learning based systems and solutions Hands-on experience configuring BSPs, customizing kernels, and building/maintaining Yocto images, with solid understanding of board-level interfaces (camera, CAN, I²C, SPI, GPIO) and in-field flashing and update processes.\n• Health care and wellness plans Dental and vision plans Flexible and virtual work options (where available) 401(k) Savings Plan with company match Employee Stock Purchase Plan offering eligible employees the ability to purchase AGCO stock at a discounted price Paid holidays and paid time off Health savings and flexible spending accounts Reimbursement for continuing education Life insurance and other supplemental insurance plans.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163675239-computer-vision-engineer",
+    "id": "ai-jobs-computer-vision-engineer-tremont"
   }
 ]
