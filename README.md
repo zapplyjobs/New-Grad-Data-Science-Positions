@@ -1,6 +1,6 @@
 # 📊 Data Science & Analytics Jobs & Internships 2025-2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 31+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 967+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 32+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 976+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -24,11 +24,11 @@ Use Zapply's extension to instantly submit applications across Tesla, Amazon, NV
 
 ## 📊 Live Stats
 
-🔥 **Current Positions:** 967 hot data-focused jobs
+🔥 **Current Positions:** 976 hot data-focused jobs
 
-🏢 **Top Companies:** 31 elite tech including Tesla, NVIDIA, Raytheon
+🏢 **Top Companies:** 32 elite tech including Tesla, NVIDIA, Raytheon
 
-⭐ **FAANG+ Jobs & Internships:** 218 premium opportunities
+⭐ **FAANG+ Jobs & Internships:** 219 premium opportunities
 
 📅 **Last Updated:** October 2, 2025
 
@@ -74,10 +74,10 @@ Top internships for students in data science, statistics, analytics, and related
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (under 1 week)
 
-### 🏢 **FAANG+** (218 positions)
+### 🏢 **FAANG+** (219 positions)
 
 <details>
-<summary><h4>📦 <strong>Amazon</strong> (64 positions)</h4></summary>
+<summary><h4>📦 <strong>Amazon</strong> (65 positions)</h4></summary>
 
 | Role | Location | Apply Now |  Age  |
 |------|----------|-----------|-------|
@@ -145,6 +145,7 @@ Top internships for students in data science, statistics, analytics, and related
 | Data Scientist II - AMZ9084921 | Seattle, WA | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3041563/data-scientist-ii-amz9084921) | 2 months |
 | Data Scientist II - AMZ9082460 | Seattle, WA | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3003786/data-scientist-ii-amz9082460) | 3 months |
 | Applied Scientist II, Special Projects | Seattle, WA | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3056666/applied-scientist-ii-special-projects) | 1 month |
+| Business Intelligence Engineer, Customer Trust External Relations | Seattle, WA | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3093236/business-intelligence-engineer-customer-trust-external-relations) | 1 week |
 
 </details>
 
@@ -313,7 +314,7 @@ Top internships for students in data science, statistics, analytics, and related
 | 🔵 **Meta** | Research Scientist Intern, Feed Recommendations (PhD) | Menlo Park, CA | [Apply](https://www.metacareers.com) | Recently |
 | 🔵 **Meta** | Research Scientist Intern, Smart Glasses in Wearables AI (PhD) | Redmond, WA +3 locations | [Apply](https://www.metacareers.com) | Recently |
 
-### 🏢 **Top Tech** (109 positions)
+### 🏢 **Top Tech** (108 positions)
 
 #### 🏢 **Marvel Technology** (11 positions)
 
@@ -392,7 +393,7 @@ Top internships for students in data science, statistics, analytics, and related
 | Physical Verification Application Engineer | 3 Locations, US | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Physical-Verification-Application-Engineer_JR0272754-1?q=data+science&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf) | 30 Days |
 | MES Engineer | US, Arizona | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/MES-Equipment-and-WIP-Modeler_JR0277565?q=data+science&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf) | 2 Days |
 
-#### 🔶 **AMD** (32 positions)
+#### 🔶 **AMD** (31 positions)
 
 | Role | Location | Apply Now |  Age  |
 |------|----------|-----------|-------|
@@ -427,7 +428,6 @@ Top internships for students in data science, statistics, analytics, and related
 | Research Associate - PhD | US, CA | [Apply](https://careers-amd.icims.com/jobs/63057/login) | Recently |
 | MTS IT Engineer | US, TX | [Apply](https://careers-amd.icims.com/jobs/70745/login) | Recently |
 | Systems Level Debug (Global Partner Support) | US, TX | [Apply](https://careers-amd.icims.com/jobs/67994/login) | Recently |
-| C-Simulation Engineer | US, CA | [Apply](https://careers-amd.icims.com/jobs/71273/login) | Recently |
 
 #### ☁️ **Salesforce** (14 positions)
 
@@ -437,14 +437,14 @@ Top internships for students in data science, statistics, analytics, and related
 | Software Engineering MTS | Indiana - Indianapolis, US | [Apply](https://careers.salesforce.com/en/jobs/jr309978/software-engineering-mts/) | Recently |
 | Software Engineering LMTS | Washington - Bellevue, US | [Apply](https://careers.salesforce.com/en/jobs/jr312351/software-engineering-lmts/) | Recently |
 | Software Engineering SMTS, LMTS, PMTS - Applied AI/ML Team | Texas - Dallas, US | [Apply](https://careers.salesforce.com/en/jobs/jr309961/software-engineering-smts-lmts-pmts-applied-aiml-team/) | Recently |
-| AI Forward Deployed Engineer (Early Career) | Washington - Bellevue, US | [Apply](https://careers.salesforce.com/en/jobs/jr312405/ai-forward-deployed-engineer-early-career/) | Recently |
-| Summer 2026 Intern - Software Engineer | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr308796/summer-2026-intern-software-engineer/) | Recently |
 | LMTS Backend Software Engineer | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303884/lmts-backend-software-engineer/) | Recently |
+| Software Engineering AMTS/MTS (New Grad) | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr307625/software-engineering-amtsmts-new-grad/) | Recently |
+| Missionforce - Associate Forward Deployed Engineer (FDE), Public Sector | Virginia - Herndon, US | [Apply](https://careers.salesforce.com/en/jobs/jr309444/missionforce-associate-forward-deployed-engineer-fde-public-sector/) | Recently |
 | Solution Engineer (Pre-Sales)- Small, Medium & Growth Business | Illinois - Chicago, US | [Apply](https://careers.salesforce.com/en/jobs/jr282134/solution-engineer-pre-sales-small-medium-growth-business/) | Recently |
-| Software Engineering LMTS | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr304562/software-engineering-lmts/) | Recently |
+| Solution Engineer (Pre-Sales) - All Levels | New York - New York, US | [Apply](https://careers.salesforce.com/en/jobs/jr282101/solution-engineer-pre-sales-all-levels/) | Recently |
+| Software Engineering LMTS | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr304561/software-engineering-lmts/) | Recently |
 | Summer 2026 Intern - Product Growth | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr307642/summer-2026-intern-product-growth/) | Recently |
 | Software Engineering LMTS (Service Mesh, Ingress Gateway) | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr304216/software-engineering-lmts-service-mesh-ingress-gateway/) | Recently |
-| PMTS Software Engineer, Service Mesh - Slack | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr297544/pmts-software-engineer-service-mesh-slack/) | Recently |
 | Software Engineering SMTS | Washington - Seattle, US | [Apply](https://careers.salesforce.com/en/jobs/jr300622/software-engineering-smts/) | Recently |
 | Solution Engineer (Pre-Sales) - Mulesoft | Georgia - Atlanta, US | [Apply](https://careers.salesforce.com/en/jobs/jr282136/solution-engineer-pre-sales-mulesoft/) | Recently |
 
@@ -452,10 +452,10 @@ Top internships for students in data science, statistics, analytics, and related
 |---------|------|----------|-----------|-------|
 | 🏢 **Synopsys** | Formal Verification Application Engineer | United States Off-site, US | [Apply](https://careers.synopsys.com/search-jobs/job/united-states/formal-verification-application-engineer/44408/85253384736) | Recently |
 
-### 💻 **Enterprise Software** (152 positions)
+### 💻 **Enterprise Software** (151 positions)
 
 <details>
-<summary><h4>🔵 <strong>IBM</strong> (91 positions)</h4></summary>
+<summary><h4>🔵 <strong>IBM</strong> (90 positions)</h4></summary>
 
 | Role | Location | Apply Now |  Age  |
 |------|----------|-----------|-------|
@@ -479,9 +479,8 @@ Top internships for students in data science, statistics, analytics, and related
 | Intern 2026: Research Scientist - Semiconductor | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59978&source=WEB_Search_NA) | Recently |
 | Intern 2026: Quantum Network  / Security Engineer | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60905&source=WEB_Search_NA) | Recently |
 | Intern 2026: Quantum Developer Advocate | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59975&source=WEB_Search_NA) | Recently |
-| Firmware Developer Intern | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60609&source=WEB_Search_NA) | Recently |
 | Entry Level Firmware Developer | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54837&source=WEB_Search_NA) | Recently |
-| Intern 2026: IBM Quantum Sales and Operations | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60311&source=WEB_Search_NA) | Recently |
+| Firmware Developer Intern | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60609&source=WEB_Search_NA) | Recently |
 | Supply Chain Professional - Planning, Scheduling & Inventory | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60280&source=WEB_Search_NA) | Recently |
 | Intern 2026: AI Platform Research Scientist | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58818&source=WEB_Search_NA) | Recently |
 | QA Test Developer Intern | shipPOUGHKEEPSIE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62806&source=WEB_Search_NA) | Recently |
@@ -491,9 +490,9 @@ Top internships for students in data science, statistics, analytics, and related
 | Intern 2026: AI Hybrid Cloud Platform Research Scientist | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58804&source=WEB_Search_NA) | Recently |
 | Hardware Developer Intern: | shipTUCSON, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58729&source=WEB_Search_NA) | Recently |
 | Entry Level Hardware Developer | TUCSON, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58486&source=WEB_Search_NA) | Recently |
-| Hardware Developer Intern | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55106&source=WEB_Search_NA) | Recently |
 | Entry Level Hardware Developer | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54841&source=WEB_Search_NA) | Recently |
 | 2026 AI Engineer Co-Op - Entry Level Sales Program | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57383&source=WEB_Search_NA) | Recently |
+| Hardware Developer Intern | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55106&source=WEB_Search_NA) | Recently |
 | AI Foundations - Software Engineer - Research Internship: | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58806&source=WEB_Search_NA) | Recently |
 | Entry Level Software Developer | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285&source=WEB_Search_NA) | Recently |
 | Intern 2026: Quantum Events & Engagements | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60303&source=WEB_Search_NA) | Recently |
@@ -501,8 +500,8 @@ Top internships for students in data science, statistics, analytics, and related
 | Research AI Engineer, Intern: | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58803&source=WEB_Search_NA) | Recently |
 | Intern 2026: AI and Agentic Security Intern | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58831&source=WEB_Search_NA) | Recently |
 | AI Algorithms and Applications Intern | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60260&source=WEB_Search_NA) | Recently |
-| Intern 2026: AI Inference Optimization Engineer | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60197&source=WEB_Search_NA) | Recently |
 | Intern 2026: Quantum Computing Applications Research | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59976&source=WEB_Search_NA) | Recently |
+| Intern 2026: AI Inference Optimization Engineer | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60197&source=WEB_Search_NA) | Recently |
 | Entry Level Software Engineer | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57952&source=WEB_Search_NA) | Recently |
 | Software Engineering Intern | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57950&source=WEB_Search_NA) | Recently |
 | Entry Level Printed Circuit Board Supplier Development Engineer | ROCHESTER, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57933&source=WEB_Search_NA) | Recently |
@@ -527,26 +526,26 @@ Top internships for students in data science, statistics, analytics, and related
 | 2026 Intern: Software Engineer – AI-powered Automation | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59704&source=WEB_Search_NA) | Recently |
 | Entry Level Supply Chain Management Professional | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56803&source=WEB_Search_NA) | Recently |
 | AI Research Partnerships Internship | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59639&source=WEB_Search_NA) | Recently |
-| Client Engineering Designer | Chicago, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=45161&source=WEB_Search_NA) | Recently |
 | Power Card Lab Technician Apprentice | POUGHKEEPSIE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=19116&source=WEB_Search_NA) | Recently |
+| Client Engineering Designer | Chicago, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=45161&source=WEB_Search_NA) | Recently |
 | Mainframe System Verification Tester Apprentice | POUGHKEEPSIE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58506&source=WEB_Search_NA) | Recently |
 | Associate Business Planing Analyst | Austin, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59667&source=WEB_Search_NA) | Recently |
 | Associate Designer | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54846&source=WEB_Search_NA) | Recently |
 | 2026 Intern: Next Generation Storage Systems | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60293&source=WEB_Search_NA) | Recently |
-| Financial Analyst Summer Intern | shipArmonk, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57618&source=WEB_Search_NA) | Recently |
 | Supply Chain Professional | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62367&source=WEB_Search_NA) | Recently |
+| Financial Analyst Summer Intern | shipArmonk, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57618&source=WEB_Search_NA) | Recently |
 | Online Community Engagement Intern– Entry Level Sales Program | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59930&source=WEB_Search_NA) | Recently |
 | Systems Support Apprentice | ROCHESTER, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=22032&source=WEB_Search_NA) | Recently |
 | Systems Support Apprentice | TUCSON, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=43112&source=WEB_Search_NA) | Recently |
-| Associate Designer Intern | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57353&source=WEB_Search_NA) | Recently |
 | Hardware Design Technician Apprentice | POUGHKEEPSIE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=21075&source=WEB_Search_NA) | Recently |
-| Associate Developer | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54830&source=WEB_Search_NA) | Recently |
+| Associate Designer Intern | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57353&source=WEB_Search_NA) | Recently |
 | 2026 Intern – IBM Marketing (New York City) | shipNew York, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61727&source=WEB_Search_NA) | Recently |
+| Associate Developer | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54830&source=WEB_Search_NA) | Recently |
 | 2026 Intern – IBM Marketing (Austin, TX) | shipAustin, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58136&source=WEB_Search_NA) | Recently |
-| Digital Seller – Entry Level Sales Program | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53144&source=WEB_Search_NA) | Recently |
-| Digital Seller Intern– Entry Level Sales Program | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53587&source=WEB_Search_NA) | Recently |
+| Federal Associate Developer | WASHINGTON, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54779&source=WEB_Search_NA) | Recently |
 | 2026 Sales Returning Intern – IBM Early Sales Professional | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48787&source=WEB_Search_NA) | Recently |
 | Federal Associate Developer (Rocket Center, WV) | Rocket Center, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54769&source=WEB_Search_NA) | Recently |
+| Digital Seller Intern– Entry Level Sales Program | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53587&source=WEB_Search_NA) | Recently |
 | 2026 Intern – External Communications | shipNew York, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61725&source=WEB_Search_NA) | Recently |
 | System Services Representative Chicago, Illinois | Chicago, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52109&source=WEB_Search_NA) | Recently |
 | 2026 Intern – Motion Designer | shipAustin, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61729&source=WEB_Search_NA) | Recently |
@@ -873,15 +872,15 @@ Top internships for students in data science, statistics, analytics, and related
 
 | Role | Location | Apply Now |  Age  |
 |------|----------|-----------|-------|
+| Student - Engineering Optics | Southfield, Michigan | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Southfield-Michigan-US/Student---Engineering-Optics_R00204849?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09) | 30+ Days |
+| Student - Engineering Object Fusion | Auburn Hills, Michigan | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Student---Engineering-Object-Fusion_R00207379?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09) | 30+ Days |
 | QA Engineer | Lowell, Massachusetts | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/QA-Engineer_R00201549?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09) | 30+ Days |
 | Tooling Engineer | Ethridge, Tennessee | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Ethridge-Tennessee-US/Tooling-Engineer_R00206379?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09) | 30+ Days |
-| Student - Engineering Object Fusion | Auburn Hills, Michigan | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Student---Engineering-Object-Fusion_R00207379?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09) | 30+ Days |
 | DevOps Engineer | Lowell, Massachusetts | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/DevOps-Engineer_R00211068?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09) | 14 Days |
-| Student - Engineering Optics | Southfield, Michigan | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Southfield-Michigan-US/Student---Engineering-Optics_R00204849?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09) | 30+ Days |
 | Product Engineer | Novi, Michigan | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Novi-Michigan-US/Eng--Product_R00209324?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09) | 2 Days |
 | Computer Vision & AI Intern- Fall | Troy, Michigan | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Computer-Vision---AI-Intern--Fall-2025_R00211083?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09) | 14 Days |
-| Software Engineer, Industrial IOT | Troy, Michigan | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Senior-Customer-Engineer--Software_R00190451?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09) | 30+ Days |
 | Solutions Engineer, Software | Troy, Michigan | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Solutions-Engineer--Software_R00177592?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09) | 30+ Days |
+| Software Engineer, Industrial IOT | Troy, Michigan | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Senior-Customer-Engineer--Software_R00190451?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09) | 30+ Days |
 | Deployment Engineer, Autonomous Mobile Robots | Troy, Michigan | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Deployment-Engineer--Autonomous-Mobile-Robots_R00164191?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09) | 30+ Days |
 | Junior Chemist | Grand Rapids, Michigan | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Junior-Chemist_R00210231?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09) | 17 Days |
 | eMotor Design Engineer | Troy, Michigan | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/eMotor-Design-Engineer_R00198172-1?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09) | 17 Days |
@@ -899,10 +898,9 @@ Top internships for students in data science, statistics, analytics, and related
 | 🏢 **RIVIAN** | Autonomy Systems Integration Engineer | Palo Alto, California US | [Apply](https://us-careers-rivian.icims.com/jobs/21447/login) | Recently |
 | 🏢 **RIVIAN** | Tracking Engineer, Perception, Autonomy | Palo Alto, California US | [Apply](https://us-careers-rivian.icims.com/jobs/26432/login) | Recently |
 
-### 💰 **Financial & Fintech** (53 positions)
+### 💰 **Financial & Fintech** (46 positions)
 
-<details>
-<summary><h4>🏢 <strong>JPMorgan Chase</strong> (53 positions)</h4></summary>
+#### 🏢 **JPMorgan Chase** (46 positions)
 
 | Role | Location | Apply Now |  Age  |
 |------|----------|-----------|-------|
@@ -952,15 +950,6 @@ Top internships for students in data science, statistics, analytics, and related
 | Risk Management - Compliance Anti-Money Laundering and KYC  - Model Risk Program Associate | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210658392/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Payments- Instrumentation & Metrics - Analytics Associate | US | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210648233/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
 | Infrastructure Engineer | US | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210665668/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Software Engineer III - Databricks | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210668208/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Digital Product Analyst – AI Products | BOURNEMOUTH, DORSET | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210655068/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| 2026 Quantitative Finance Analyst & Associate Internship | New York, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210658044/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| 2026 Machine Learning Center of Excellence Summer Associate – Time Series & Reinforcement Learning Internship – (6 months) | US | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210643786/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Pricing Direct - Corporate and Private Placement Valuation - Analyst | New York, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210657670/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Machine Learning Engineer | New York, NY | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210665979/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-| Process Improvement Associate II - Business Transformation & Process Intelligence | Columbus, OH | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210648380/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | Recently |
-
-</details>
 
 ### 🏥 **Healthcare & Life Sciences** (9 positions)
 
@@ -976,7 +965,7 @@ Top internships for students in data science, statistics, analytics, and related
 | 🏢 **10x Genomics** | Software Engineer III, Frontend | Pleasanton, California | [Apply](https://careers.10xgenomics.com/careers/job/171829117569) | Recently |
 | 🏢 **10x Genomics** | Spatial Field Application Scientist, 🏠 | Texas, USA () | [Apply](https://careers.10xgenomics.com/careers/job/171836508328) | Recently |
 
-### 🏭 **Manufacturing & Industrial** (87 positions)
+### 🏭 **Manufacturing & Industrial** (109 positions)
 
 <details>
 <summary><h4>🏢 <strong>Micron Technology</strong> (55 positions)</h4></summary>
@@ -1057,11 +1046,38 @@ Top internships for students in data science, statistics, analytics, and related
 | Quality Engineer Intern | US, MA | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Alpha/Quality-Engineer-Intern_R255008?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 30+ Days |
 | Product Applications Intern | 5 Locations, US | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Product-Applications-Intern_R255003?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 8 Days |
 
+#### 🏢 **Honeywell** (21 positions)
+
+| Role | Location | Apply Now |  Age  |
+|------|----------|-----------|-------|
+| Information Systems, IT, Cyber Engineer & Data Science - Summer 2026 Intern | United States | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113393/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1 month |
+| Information Systems, IT, Cyber Engineer & Data Science  (Recent Grad/Full Time) | United States | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113582/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1 month |
+| Information Systems, IT, Cyber Engineer & Data Science - Summer 2026 Intern (US Person Required) | United States | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113395/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1 month |
+| Information Systems, IT, Cyber Engineer & Data Science - Recent Grad/Full Time (US Person Required) | United States | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113580/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1 month |
+| AI Engineer/Data Scientist | Atlanta, GA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/118385/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3 weeks |
+| Data Analyst | Atlanta, GA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/118259/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 6 days |
+| Machine Learning Engineer | Atlanta, GA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/117190/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3 weeks |
+| Hardware Engineer | Fort Washington, PA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116090/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 6 days |
+| Software Engineer II - DDAS Systems | Phoenix, AZ | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/111406/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2 days |
+| Manufacturing Test Engineer | Columbus, OH | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/118205/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3 weeks |
+| Artificial Intelligence/Machine Learning - Summer 2026 Intern | United States | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113564/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1 month |
+| Electrical Engineer | Mason, OH | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/111365/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2 months |
+| Artificial Intelligence/Machine Learning - Summer 2026 Intern (US Person Required) | United States | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113566/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1 month |
+| Quality Engineer III - Semiconductor Manufacturing | Spokane Valley, WA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/117611/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3 weeks |
+| Full Stack Engineering Developer | Minneapolis, MN | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/121110/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1 day |
+| Software Engineer | Fort Mill, SC | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116510/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1 month |
+| Research Technician | Buffalo, NY | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/117281/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2 weeks |
+| Manufacturing Engineering Technician | Northford, CT | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/118008/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2 weeks |
+| Test Engineer | Clearwater, FL | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/117792/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3 weeks |
+| DevOps Platform Engineer | Raleigh, NC | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115780/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2 weeks |
+| Materials Mgmt Analyst | Acton, MA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116016/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1 month |
+
 | Company | Role | Location | Apply Now |  Age  |
 |---------|------|----------|-----------|-------|
 | 🏢 **Arm** | Graduate Systems Modeling Engineer | United States | [Apply](https://careers.arm.com/job/austin/graduate-systems-modeling-engineer/33099/86706351776) | Recently |
 | 🏢 **Arm** | Graduate GPU Modeling Engineer | Austin, Texas | [Apply](https://careers.arm.com/job/austin/graduate-gpu-modeling-engineer/33099/70199981248) | Recently |
 | 🏢 **Arm** | Design Verification Engineer - Cache Coherency | Austin, Texas | [Apply](https://careers.arm.com/job/austin/design-verification-engineer-cache-coherency/33099/84048875152) | Recently |
+| 🏢 **ABB** | QCS Systems Engineer | Available in one of 2 locations, US | [Apply](https://careers.abb/global/en/job/96186349/QCS-Systems-Engineer) | Recently |
 | 🏢 **ABB** | Front End Developer | Available in one of 2 locations, US | [Apply](https://careers.abb/global/en/job/JR00001806/Front-End-Developer) | Recently |
 | 🏢 **ABB** | IS Functional Analyst - ERP Technical Integration and BTP | Available in one of 2 locations, US | [Apply](https://careers.abb/global/en/job/JR00010050/IS-Functional-Analyst-ERP-Technical-Integration-and-BTP) | Recently |
 | 🏢 **ABB** | Software Engineer - Process automation & reporting | Location Senatobia, Mississippi | [Apply](https://careers.abb/global/en/job/JR00006952/Software-Engineer-Process-automation-reporting) | Recently |
@@ -1081,68 +1097,63 @@ Top internships for students in data science, statistics, analytics, and related
 | 🏢 **Infineon Technologies** | Internship - Process Design Kit Engineer - Summer | Lexington, US | [Apply](https://jobs.infineon.com/careers) | Recently |
 | 🏢 **Texas Instruments** | Web Marketing Development Program - Web Technology and Platforms | United States | [Apply](https://careers.ti.com/en/sites/CX/job/25005098/?keyword=data+science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | Recently |
 
-### 🤖 **AI & Emerging Tech** (100 positions)
+### 🤖 **AI & Emerging Tech** (95 positions)
 
 <details>
-<summary><h4>🏢 <strong>AI Jobs</strong> (100 positions)</h4></summary>
+<summary><h4>🏢 <strong>AI Jobs</strong> (95 positions)</h4></summary>
 
 | Role | Location | Apply Now |  Age  |
 |------|----------|-----------|-------|
 | AI Data Scientist | Detroit, MI | [Apply](https://www.aijobs.com/jobs/164766905-ai-data-scientist-ii) | 1w |
-| Data Scientist | Greenville, SC | [Apply](https://www.aijobs.com/jobs/164766894-data-scientist) | 1w |
 | Junior Data Scientist | US | [Apply](https://www.aijobs.com/jobs/163708906-junior-data-scientist) | 1w |
-| Data Scientist | Miami, FL | [Apply](https://www.aijobs.com/jobs/164520417-data-scientist) | 1w |
 | Data Scientist | New York, United States | [Apply](https://www.aijobs.com/jobs/161261943-data-scientist) | 1w |
+| Data Scientist | Greenville, SC | [Apply](https://www.aijobs.com/jobs/164766894-data-scientist) | 1w |
+| Data Scientist | Miami, FL | [Apply](https://www.aijobs.com/jobs/164520417-data-scientist) | 1w |
 | Data Scientist (Analyst) | US | [Apply](https://www.aijobs.com/jobs/165190850-data-scientist-analyst) | 3d |
 | Data Scientist (USA) | Stamford, CT | [Apply](https://www.aijobs.com/jobs/163807557-data-scientist-usa) | 1w |
 | Data Scientist (Entry-Level) | US | [Apply](https://www.aijobs.com/jobs/165190844-data-scientist-entry-level) | 3d |
 | Graduate Intern, Data Scientist (Spring 2026) | Atlanta, GA | [Apply](https://www.aijobs.com/jobs/165098669-graduate-intern-data-scientist-spring-2026) | 1w |
 | Data Scientist | Scottsdale, AZ | [Apply](https://www.aijobs.com/jobs/164766899-data-scientist) | 1w |
 | Data Scientist | San Jose, CA | [Apply](https://www.aijobs.com/jobs/163708912-data-scientist) | 1w |
+| Data Scientist | Zeeland, MI | [Apply](https://www.aijobs.com/jobs/163599991-data-scientist) | 1w |
 | Data Scientist Associate | Boston, MA | [Apply](https://www.aijobs.com/jobs/164899795-data-scientist-associate) | 6d |
 | Data Scientist | Milpitas, CA | [Apply](https://www.aijobs.com/jobs/164899802-data-scientist) | 6d |
 | Gen AI Engineer | Plano, TX | [Apply](https://www.aijobs.com/jobs/164957958-gen-ai-engineer) | 5d |
 | Data Scientist | US | [Apply](https://www.aijobs.com/jobs/165367976-data-scientist) | 1d |
-| Data Scientist | Huntsville, AL | [Apply](https://www.aijobs.com/jobs/163599985-data-scientist) | 1w |
-| Data Scientist – Level | Mason, OH | [Apply](https://www.aijobs.com/jobs/164766900-data-scientist-level-2) | 6d |
+| Data Scientist | Washington DC-Baltimore Area, US | [Apply](https://www.aijobs.com/jobs/164984416-data-scientist) | 5d |
 | Data Scientist | Oakland, CA | [Apply](https://www.aijobs.com/jobs/165190842-data-scientist-i) | 2d |
-| Data Scientist | Cary, NC | [Apply](https://www.aijobs.com/jobs/164984406-data-scientist) | 6d |
 | Data Scientist | Philadelphia, PA | [Apply](https://www.aijobs.com/jobs/165098667-data-scientist) | 6d |
+| Data Scientist | Cary, NC | [Apply](https://www.aijobs.com/jobs/164984406-data-scientist) | 6d |
 | Data Scientist | Salt Lake City Metropolitan Area, US | [Apply](https://www.aijobs.com/jobs/164984400-data-scientist) | 6d |
 | Junior Data Scientist | Sunnyvale, CA | [Apply](https://www.aijobs.com/jobs/163144515-junior-data-scientist) | 6d |
-| Data Scientist (Remote) | US | [Apply](https://www.aijobs.com/jobs/148949068-data-scientist-remote) | 1w |
-| Data Scientist | Newark, NJ | [Apply](https://www.aijobs.com/jobs/165271190-data-scientist) | 2d |
 | Data Scientist | Denver, CO | [Apply](https://www.aijobs.com/jobs/163599995-data-scientist) | 1w |
+| Data Scientist (Remote) | US | [Apply](https://www.aijobs.com/jobs/148949068-data-scientist-remote) | 1w |
 | Data Scientist | Boston, MA | [Apply](https://www.aijobs.com/jobs/164766903-data-scientist) | 1w |
 | Data Scientist Intern | Pleasanton, CA | [Apply](https://www.aijobs.com/jobs/163807556-data-scientist-intern) | 1w |
-| Data Scientist | Fishers, IN | [Apply](https://www.aijobs.com/jobs/164984415-data-scientist-i) | 5d |
 | Data Science & AI: Data Scientist | Norfolk, VA | [Apply](https://www.aijobs.com/jobs/165271191-data-science-ai-data-scientist) | 2d |
+| Data Scientist, User Growth | Pittsburgh, PA | [Apply](https://www.aijobs.com/jobs/164899798-data-scientist-user-growth) | 6d |
 | Data Scientist | New York City Metropolitan Area, US | [Apply](https://www.aijobs.com/jobs/165367973-data-scientist) | 1d |
-| Data Scientist, User Growth | Pittsburgh, PA | [Apply](https://www.aijobs.com/jobs/164899794-data-scientist-user-growth) | 6d |
 | AI/ML Engineer | Omaha, NE | [Apply](https://www.aijobs.com/jobs/164520414-ai-ml-engineer) | 1w |
-| Quantitative Researcher: Machine Learning | New York, United States | [Apply](https://www.aijobs.com/jobs/165081407-quantitative-researcher-machine-learning) | 5d |
-| Software Engineer, AI Tooling | Palo Alto, CA | [Apply](https://www.aijobs.com/jobs/165604048-software-engineer-ai-tooling) | 9h |
+| Data Scientist | Plano, TX | [Apply](https://www.aijobs.com/jobs/165190849-data-scientist) | 5d |
+| AI/ML Engineer | Scott AFB, IL | [Apply](https://www.aijobs.com/jobs/163599994-ai-ml-engineer) | 1w |
+| Software Engineer, AI Tooling | Palo Alto, CA | [Apply](https://www.aijobs.com/jobs/165604048-software-engineer-ai-tooling) | 11h |
 | Applied Data & AI Engineer | Austin, TX | [Apply](https://www.aijobs.com/jobs/164573936-applied-data-ai-engineer) | 1w |
 | Data Scientist - Computer Vision | Irving, TX | [Apply](https://www.aijobs.com/jobs/163675236-data-scientist-computer-vision) | 1w |
 | Data Scientist, Product | San Francisco, CA | [Apply](https://www.aijobs.com/jobs/163708907-data-scientist-product) | 1w |
 | Junior AI Engineer | Bellevue, WA | [Apply](https://www.aijobs.com/jobs/163660241-junior-ai-engineer) | 1w |
-| Data Scientist | Santa Monica, CA | [Apply](https://www.aijobs.com/jobs/164984409-data-scientist) | 5d |
 | Artificial Intelligence Engineer | Troy, MI | [Apply](https://www.aijobs.com/jobs/165162289-artificial-intelligence-engineer) | 5d |
-| Research Scientist, Mathematical Sciences | San Francisco, California | [Apply](https://www.aijobs.com/jobs/164878732-research-scientist-mathematical-sciences) | 1w |
 | Data Scientist | Palo Alto, CA | [Apply](https://www.aijobs.com/jobs/164634627-data-scientist) | 1w |
-| Data Scientist (Business Analysis & Decision Support) | New York City Metropolitan Area, US | [Apply](https://www.aijobs.com/jobs/164899790-data-scientist-business-analysis-decision-support) | 6d |
-| Artificial Intelligence Engineer | Atlanta, GA | [Apply](https://www.aijobs.com/jobs/163660240-artificial-intelligence-engineer) | 1w |
 | Machine Learning Engineer | Boise, ID | [Apply](https://www.aijobs.com/jobs/163660238-machine-learning-engineer) | 1w |
-| Data Scientist | Portland, Oregon Metropolitan Area | [Apply](https://www.aijobs.com/jobs/164899801-data-scientist) | 6d |
+| Data Scientist (Business Analysis & Decision Support) | New York City Metropolitan Area, US | [Apply](https://www.aijobs.com/jobs/164899790-data-scientist-business-analysis-decision-support) | 6d |
 | Machine Learning Engineer | Berkeley, CA | [Apply](https://www.aijobs.com/jobs/165320839-machine-learning-engineer) | 1d |
 | Data Analyst, User Operations | San Francisco, California | [Apply](https://www.aijobs.com/jobs/165332634-data-analyst-user-operations) | 1d |
-| Data Scientist, Data & Analytics – Customer, Loyalty & Marketing | Charlotte, NC | [Apply](https://www.aijobs.com/jobs/158456723-data-scientist-data-analytics-customer-loyalty-marketing) | 4d |
+| Data Scientists - All Levels 🏠 | Boca Raton, FL | [Apply](https://www.aijobs.com/jobs/164634622-data-scientists-all-levels) | 1w |
 | Data Scientist, RWE | Philadelphia, PA | [Apply](https://www.aijobs.com/jobs/164899803-data-scientist-rwe) | 5d |
 | Data Scientist | Jacksonville, FL | [Apply](https://www.aijobs.com/jobs/163599984-data-scientist) | 1w |
+| Data Scientist | Jersey City, NJ | [Apply](https://www.aijobs.com/jobs/161607085-data-scientist) | 1w |
 | AI Software Engineer | Dallas, TX | [Apply](https://www.aijobs.com/jobs/165320843-ai-software-engineer) | 1w |
 | GPU and HPC Infrastructure Engineer - New College Grad | US, CA | [Apply](https://www.aijobs.com/jobs/165626751-gpu-and-hpc-infrastructure-engineer-new-college-grad-2025) | 1d |
-| Research Analyst | Cupertino, CA | [Apply](https://www.aijobs.com/jobs/165634827-research-analyst) | 1w |
-| Computer Vision Engineer – Robotics | Mountain View, CA | [Apply](https://www.aijobs.com/jobs/165334687-computer-vision-engineer-robotics) | 19h |
+| Computer Vision Engineer – Robotics | Mountain View, CA | [Apply](https://www.aijobs.com/jobs/165334687-computer-vision-engineer-robotics) | 21h |
 | Computer Vision Engineer | Mountain View, CA | [Apply](https://www.aijobs.com/jobs/165334688-computer-vision-engineer) | 1d |
 | Quantitative Researcher - Early Career (USA) | Stamford, CT | [Apply](https://www.aijobs.com/jobs/165334709-quantitative-researcher-early-career-usa) | 2d |
 | Machine Learning Engineer | Jersey City, NJ | [Apply](https://www.aijobs.com/jobs/149872929-machine-learning-engineer) | 1w |
@@ -1150,19 +1161,22 @@ Top internships for students in data science, statistics, analytics, and related
 | Data Scientist, Product Analytics | Austin, TX | [Apply](https://www.aijobs.com/jobs/157379846-data-scientist-product-analytics) | 1w |
 | Data Scientist - Analytics, Trust & Safety | San Jose, CA | [Apply](https://www.aijobs.com/jobs/164984413-data-scientist-analytics-trust-safety) | 5d |
 | Data Scientist, Product Analytics | Seattle, WA | [Apply](https://www.aijobs.com/jobs/152176590-data-scientist-product-analytics) | 1w |
-| Data Scientist, Product Analytics | Menlo Park, CA | [Apply](https://www.aijobs.com/jobs/152176577-data-scientist-product-analytics) | 1w |
-| Data Scientist, Product Analytics | Washington, DC | [Apply](https://www.aijobs.com/jobs/162480553-data-scientist-product-analytics) | 1w |
-| Data Scientist, Product Analytics | Bellevue, WA | [Apply](https://www.aijobs.com/jobs/152176591-data-scientist-product-analytics) | 1w |
 | Data Scientist, Product Analytics | Los Angeles, CA | [Apply](https://www.aijobs.com/jobs/162480558-data-scientist-product-analytics) | 1w |
+| Data Scientist, Product Analytics | Sunnyvale, CA | [Apply](https://www.aijobs.com/jobs/152176589-data-scientist-product-analytics) | 1w |
+| Data Scientist, Product Analytics | Menlo Park, CA | [Apply](https://www.aijobs.com/jobs/152176577-data-scientist-product-analytics) | 1w |
+| Data Scientist, Product Analytics | Bellevue, WA | [Apply](https://www.aijobs.com/jobs/152176591-data-scientist-product-analytics) | 1w |
 | Data Scientist, Product Analytics | Burlingame, CA | [Apply](https://www.aijobs.com/jobs/152176597-data-scientist-product-analytics) | 1d |
-| Data Scientist - Personalization | New York, NY | [Apply](https://www.aijobs.com/jobs/162315117-data-scientist-personalization) | 1w |
 | Data Scientist, Product Analytics | New York, NY | [Apply](https://www.aijobs.com/jobs/150961161-data-scientist-product-analytics) | 1d |
+| Data Scientist - Personalization | New York, NY | [Apply](https://www.aijobs.com/jobs/162315117-data-scientist-personalization) | 1w |
 | Artificial Intelligence Engineer | Plano, TX | [Apply](https://www.aijobs.com/jobs/165320841-artificial-intelligence-engineer) | 1d |
+| Computer Vision/Deep Learning Scientist | Norfolk, VA | [Apply](https://www.aijobs.com/jobs/164485033-computer-vision-deep-learning-scientist) | 1w |
 | Computer Vision Engineer | Santa Clara, CA | [Apply](https://www.aijobs.com/jobs/163135306-computer-vision-engineer) | 1w |
 | Research Engineer / Research Scientist, Biology & Life Sciences | San Francisco, CA | [Apply](https://www.aijobs.com/jobs/165249687-research-engineer-research-scientist-biology-life-sciences) | 2d |
+| Data Scientist | Aurora, CO | [Apply](https://www.aijobs.com/jobs/165367972-data-scientist) | 1d |
 | Data Scientist, Financial Engineering | San Francisco, California | [Apply](https://www.aijobs.com/jobs/165332626-data-scientist-financial-engineering) | 2d |
+| Data Scientist | Honolulu, HI | [Apply](https://www.aijobs.com/jobs/165367967-data-scientist) | 1d |
 | Systems Software Engineer, AV Platform Scheduling - New College Grad | US, CA | [Apply](https://www.aijobs.com/jobs/165250239-systems-software-engineer-av-platform-scheduling-new-college-grad-2026) | 3d |
-| AI Residency | Palo Alto, CA | [Apply](https://www.aijobs.com/jobs/165604051-ai-residency) | 9h |
+| AI Residency | Palo Alto, CA | [Apply](https://www.aijobs.com/jobs/165604051-ai-residency) | 11h |
 | Applied Data Scientist, Analytics & Insights, Americas | Boston, MA | [Apply](https://www.aijobs.com/jobs/164634623-applied-data-scientist-analytics-insights-americas) | 1w |
 | Middleware Engineering Intern [Winter 2026] | San Jose, CA | [Apply](https://www.aijobs.com/jobs/165332342-middleware-engineering-intern-winter-2026) | 1d |
 | New Grads 2026 - Software Engineer - Computer Vision | San Jose, CA | [Apply](https://www.aijobs.com/jobs/163675235-new-grads-2026-software-engineer-computer-vision) | 1w |
@@ -1171,21 +1185,18 @@ Top internships for students in data science, statistics, analytics, and related
 | AI Engineer 🏠 | US | [Apply](https://www.aijobs.com/jobs/162217136-ai-engineer) | 5d |
 | Data Scientist | Chicago, IL | [Apply](https://www.aijobs.com/jobs/159982531-data-scientist-1) | 6d |
 | Backend Software Engineer (Evals) – Support Automation Engineering | San Francisco, California | [Apply](https://www.aijobs.com/jobs/163527133-backend-software-engineer-evals-support-automation-engineering) | 1w |
-| Associate - AI, Research & Innovation | Atlanta, GA | [Apply](https://www.aijobs.com/jobs/165634826-associate-ai-research-innovation) | 20h |
+| Associate - AI, Research & Innovation | Atlanta, GA | [Apply](https://www.aijobs.com/jobs/165634826-associate-ai-research-innovation) | 22h |
 | Research Engineer, Human-Centered AI | San Francisco, California | [Apply](https://www.aijobs.com/jobs/164458328-research-engineer-human-centered-ai) | 1w |
 | Computer Vision Software Engineer | US | [Apply](https://www.aijobs.com/jobs/165253350-computer-vision-software-engineer) | 2d |
 | Machine Learning Engineer | Los Angeles, CA | [Apply](https://www.aijobs.com/jobs/163449895-machine-learning-engineer) | 1w |
 | Security Researcher, Security Products | San Francisco, California | [Apply](https://www.aijobs.com/jobs/164962429-security-researcher-security-products) | 5d |
 | Machine Learning Engineer | South Burlington, VT | [Apply](https://www.aijobs.com/jobs/164766897-machine-learning-engineer) | 1w |
 | AI/ML Engineer | Philadelphia, PA | [Apply](https://www.aijobs.com/jobs/165367970-ai-ml-engineer) | 1d |
-| Generative AI Engineer | Chicago, IL | [Apply](https://www.aijobs.com/jobs/164573931-generative-ai-engineer) | 1w |
-| Software Engineer - Computer Vision | San Mateo, CA | [Apply](https://www.aijobs.com/jobs/163529321-software-engineer-computer-vision) | 1w |
 | Software Engineer - Networking | US, CA | [Apply](https://www.aijobs.com/jobs/165165359-software-engineer-networking) | 4d |
-| User Researcher | US | [Apply](https://www.aijobs.com/jobs/165634825-user-researcher) | 6h |
-| Software Engineer - DGX Cloud | US, WA | [Apply](https://www.aijobs.com/jobs/165626762-software-engineer-dgx-cloud) | 5h |
-| Software Engineer, Backend | Palo Alto, CA | [Apply](https://www.aijobs.com/jobs/164930446-software-engineer-backend) | 5d |
-| Software Engineer, Product Backend | Palo Alto, CA | [Apply](https://www.aijobs.com/jobs/164930417-software-engineer-product-backend) | 5d |
-| Research Scientist, Health AI | San Francisco, California | [Apply](https://www.aijobs.com/jobs/165332620-research-scientist-health-ai) | 1d |
+| Software Engineer - Computer Vision | San Mateo, CA | [Apply](https://www.aijobs.com/jobs/163529321-software-engineer-computer-vision) | 1w |
+| User Researcher | US | [Apply](https://www.aijobs.com/jobs/165634825-user-researcher) | 8h |
+| Software Engineer - DGX Cloud | US, WA | [Apply](https://www.aijobs.com/jobs/165626762-software-engineer-dgx-cloud) | 7h |
+| Computer Vision Engineer | Tremont, IL | [Apply](https://www.aijobs.com/jobs/163675239-computer-vision-engineer) | 1w |
 | Software Engineer, Machine Learning | Palo Alto, CA | [Apply](https://www.aijobs.com/jobs/164930425-software-engineer-machine-learning) | 5d |
 | Machine Learning Engineer, Roku TV | San Jose, CA | [Apply](https://www.aijobs.com/jobs/163599996-machine-learning-engineer-roku-tv) | 1w |
 
@@ -1229,9 +1240,9 @@ Updated list of enterprise companies.
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 173 | 18% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 305 | 32% | 1-2 years of experience. |
-| 🔴 Manager | 489 | 51% | 2+ years of experience. |
+| 🟢 Entry Level & New Grad | 169 | 17% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 303 | 31% | 1-2 years of experience. |
+| 🔴 Manager | 504 | 52% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -1239,34 +1250,34 @@ List of top locations and number of positions.
 
 - **2 Locations, US**: 63 positions
 - **Mountain View, CA**: 52 positions
-- **ship, US**: 41 positions
-- **Seattle, WA**: 33 positions
-- **New York, NY**: 33 positions
+- **ship, US**: 40 positions
+- **Seattle, WA**: 34 positions
+- **Sunnyvale, CA**: 31 positions
 - **Boise, Idaho**: 30 positions
-- **Sunnyvale, CA**: 30 positions
-- **US, CA**: 23 positions
+- **New York, NY**: 30 positions
+- **United States**: 22 positions
 
 ### 👨‍💻 Top Data Fields
 
-#### 🎨 Frontend Development (250 positions)
+#### 🎨 Frontend Development (247 positions)
 🔵 IBM • ☁️ Salesforce
 
-#### 💻 Software Engineering (186 positions)
+#### 💻 Software Engineering (185 positions)
 🔵 IBM
 
 #### ☁️ DevOps & Infrastructure (164 positions)
 🔵 IBM
 
-#### 💻 Machine Learning & AI (117 positions)
+#### 💻 Machine Learning & AI (113 positions)
 🔵 IBM
 
-#### 📊 Data Science & Analytics (100 positions)
+#### 📊 Data Science & Analytics (98 positions)
 🔵 IBM
 
-#### 💻 Hardware Engineering (66 positions)
+#### 💻 Hardware Engineering (87 positions)
 🔵 IBM
 
-#### 📱 Mobile Development (31 positions)
+#### 📱 Mobile Development (30 positions)
 🏢 10x Genomics • 🏢 Magna International
 
 #### 🛡️ Security Engineering (22 positions)
@@ -1275,7 +1286,7 @@ List of top locations and number of positions.
 #### 🎨 Design (15 positions)
 🔵 IBM
 
-#### ⚙️ Backend Development (10 positions)
+#### ⚙️ Backend Development (9 positions)
 🏢 Micron Technology • 🏢 Broadcom
 
 #### 🌐 Full Stack Development (6 positions)
@@ -1285,7 +1296,7 @@ List of top locations and number of positions.
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 967+ verified roles for data analysts and scientists from 31 elite tech companies.
+✅ **100% Real Jobs:** 976+ verified roles for data analysts and scientists from 32 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 
@@ -1390,7 +1401,7 @@ Review this [comprehensive interview guide on common behavioral, technical, and 
 
 ---
 
-🎯 **967 current opportunities from 31 elite companies.**
+🎯 **976 current opportunities from 32 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
