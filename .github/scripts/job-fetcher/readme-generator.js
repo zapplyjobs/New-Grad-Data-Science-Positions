@@ -262,7 +262,7 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 
 ## Join Community button
 
-🤗 [Job Finder & Career Hub by Zapply](https://discord.gg/yKWw28q7Yq) – Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join ${stats?.communitySize || '1000+'} (our community of) analytics students and data enthusiasts navigating their career journey together!
+🤗 [Job Finder & Career Hub by Zapply](https://discord.gg/yKWw28q7Yq) – Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of analytics students and data enthusiasts navigating their career journey together!
 
 ---
 
