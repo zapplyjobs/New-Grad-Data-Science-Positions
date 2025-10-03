@@ -1,23 +1,23 @@
 [
   {
     "employer_name": "Micron Technology",
-    "job_title": "Change Management Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
+    "job_title": "Product Applications Engineer",
+    "job_city": "Longmont",
+    "job_state": "Colorado",
     "job_posted_at": "a day",
-    "job_description": "• Coordinate the business processes and QMS components, ensuring efficiency, adherence to requirements, and successful delivery of intended outputs.\n• Maintain the integrity of the QMS/business process during planned changes, ensuring customer requirements are met.\n• Excellent verbal and written communication skills, with the ability to present data in large meetings.\n• Bachelor's degree in Engineering or a related field, or equivalent experience.\n• Desired: 1 year of semiconductor experience.\n• Strong data analysis and computer skills.\n• Demonstrated proficiency in coordinating and prioritizing multiple tasks effectively.\n• Proven ability to coordinate efforts across various groups.",
-    "job_apply_link": "https://careers.micron.com/careers/job/38368336",
-    "id": "micron-technology-change-management-engineer-boise"
+    "job_description": "• Senior Engineer, HIG HBM Media HealthTaichung City, Taichung City, TaiwanPosted 5 months ago Senior/Principal Engineer, Tester Applications, SSDSingapore, SingaporePosted 2 months ago HIG HBM PE Principal Component Validation EngineerSingapore, SingaporePosted 2 months ago Senior Engineer , SSD ValidationBengaluru, Karnataka, IndiaPosted 2 months ago SENIOR TEST SOLUTIONS ENGINEERSingapore, SingaporePosted 3 months ago.",
+    "job_apply_link": "https://careers.micron.com/careers/job/38368859",
+    "id": "micron-technology-product-applications-engineer-longmont"
   },
   {
-    "employer_name": "General Dynamics",
-    "job_title": "Cyber Operations Engineer - TS/SCI Clearance",
-    "job_city": "USA VA Herndon",
-    "job_state": "US",
+    "employer_name": "BAE Systems",
+    "job_title": "Data and AI Governance Engineer",
+    "job_city": "Arlington",
+    "job_state": "VA",
     "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/Cyber-Operations-Engineer_RQ208273-1?q=data+science",
-    "id": "general-dynamics-cyber-operations-engineer-ts-sci-clearance-usa-va-herndon"
+    "job_description": "• University, 2026 Summer Games Data Scientist Internlocations11 Locationsposted onPosted 21 Days AgoR0225534 Data Engineer, SeniorlocationsStuttgart, Baden-Wurttembergposted onPosted 30+ Days AgoR0223367 Data Scientist, SeniorlocationsAlexandria, VAposted onPosted 7 Days AgoR0227028 Data Scientist, SeniorlocationsAlexandria, VAposted onPosted 2 Days AgoR0227315 Data Scientist, SeniorlocationsArlington, VAposted onPosted 6 Days AgoR0226919 Data Scientist, SeniorlocationsAlexandria, VAposted onPosted YesterdayR0227427 Data Scientist, LeadlocationsChantilly, VAposted onPosted 3 Days AgoR0227242 Data Scientist, Seniorlocations2 Locationsposted onPosted YesterdayR0227430.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-and-AI-Governance-Engineer_R0227448?q=data+science",
+    "id": "bae-systems-data-and-ai-governance-engineer-arlington"
   },
   {
     "employer_name": "10x Genomics",
@@ -131,16 +131,6 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Junior Data Scientist",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163708906-junior-data-scientist",
-    "id": "ai-jobs-junior-data-scientist-"
-  },
-  {
-    "employer_name": "AI Jobs",
     "job_title": "Data Scientist",
     "job_city": "Miami",
     "job_state": "FL",
@@ -148,16 +138,6 @@
     "job_description": "• Collect, clean, and analyze structured and unstructured datasets from multiple sourcesDevelop predictive and prescriptive models using machine learning and statistical techniquesDesign and implement experiments (A/B testing, hypothesis testing) to support decision-makingBuild data pipelines and workflows to automate analytics processesVisualize insights using tools such as Power BI, Tableau, or Python libraries (Matplotlib, Seaborn, Plotly)Collaborate with data engineers, analysts, and business stakeholders to translate business requirements into technical solutionsCommunicate findings clearly to both technical and non-technical audiencesStay current with emerging data science tools, techniques, and best practices [2–5] years of professional experience in data science, machine learning, or advanced analyticsHands-on experience with:Programming: Python, R, SQLMachine Learning Frameworks: Scikit-learn, TensorFlow, PyTorchData Visualization: Power BI, Tableau, or similarBig Data Tools: Spark, Databricks, Hadoop (preferred)Strong knowledge of statistics, probability, and optimizationFamiliarity with cloud platforms (AWS, Azure, or GCP) for deploying modelsExcellent problem-solving, communication, and collaboration skills Experience with NLP, deep learning, or computer visionFamiliarity with MLOps tools for model deployment and monitoringPrior government or large enterprise project experienceUnderstanding of data governance, ethics, and compliance (FISMA, FedRAMP, etc.\n• If federal) Programming: Python, R, SQLMachine Learning Frameworks: Scikit-learn, TensorFlow, PyTorchData Visualization: Power BI, Tableau, or similarBig Data Tools: Spark, Databricks, Hadoop (preferred) Bachelor’s in Data Science, Computer Science, Statistics, Mathematics.",
     "job_apply_link": "https://www.aijobs.com/jobs/164520417-data-scientist",
     "id": "ai-jobs-data-scientist-miami"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "New York",
-    "job_state": "United States",
-    "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161261943-data-scientist",
-    "id": "ai-jobs-data-scientist-new-york"
   },
   {
     "employer_name": "AI Jobs",
@@ -192,6 +172,26 @@
   {
     "employer_name": "AI Jobs",
     "job_title": "Data Scientist",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "2d",
+    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165271194-data-scientist",
+    "id": "ai-jobs-data-scientist-new-york"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Graduate Intern, Data Scientist (Spring 2026)",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_posted_at": "1w",
+    "job_description": "• Pursuing a Master’s degree in Data Science, Statistics, Mathematics, Operations Research, or Computer ScienceExperience working with relational databases (SQL)Understanding of Machine Learning techniques (Python, SciKit Learn, R, SAS or other machine learning platforms)Good written, oral communication, and interpersonal skillsMust be able to commit to the duration of the internship timeline: January 12, 2026 through May 1, 2026.\n• This position is intended to provide you with educational, and professional work experience to prepare you for the workforce.\n• Must be able to work onsite in the Atlanta, GA office.\n• Is at least 18 years of age and has authorization to work in the United States.\n• Working as an intern does not guarantee a full-time opportunity upon graduation.\n• Embraces diverse people, thinking and stylesConsistently makes safety and security, of self and others, the priorityPossesses a high school diploma, GED, or high school equivalency.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165098669-graduate-intern-data-scientist-spring-2026",
+    "id": "ai-jobs-graduate-intern-data-scientist-spring-2026-atlanta"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist",
     "job_city": "San Jose",
     "job_state": "CA",
     "job_posted_at": "1w",
@@ -222,19 +222,9 @@
   {
     "employer_name": "AI Jobs",
     "job_title": "Data Scientist",
-    "job_city": "Zeeland",
-    "job_state": "MI",
-    "job_posted_at": "2w",
-    "job_description": "• Bachelor’s or Master’s degree in Data Science, Statistics, Applied Mathematics, Computer Science, or a related quantitative field, with 3+ years of applied experience in data science.\n• Experience with time series forecasting, regression, classification, clustering, or recommendation systems.\n• Strong SQL skills and experience working with large datasets and cloud-based data warehouses (Snowflake, BigQuery, etc.\n• Experience with data visualization and storytelling tools (Plotly, Tableau, Power BI, or Streamlit).\n• Excellent communication skills with the ability to translate analysis into actionable business recommendations.\n• Strong collaboration skills and comfort working in ambiguous, fast-paced environments.\n• Strong foundation in statistics, probability, linear algebra, and optimization.\n• Proficiency with Python and common data science libraries (Pandas, NumPy, Scikit-learn, XGBoost, PyTorch or TensorFlow).",
-    "job_apply_link": "https://www.aijobs.com/jobs/163599991-data-scientist",
-    "id": "ai-jobs-data-scientist-zeeland"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
     "job_city": "Milpitas",
     "job_state": "CA",
-    "job_posted_at": "6d",
+    "job_posted_at": "1w",
     "job_description": "• Bachelor's or higher in Electrical Engineering with Data Science, Statistics, Mathematics, Computer Science, Information Systems, Physics or Computer EngineeringFundamental understanding of Electrical Engineering Principles3+ years of professional-post graduate Data Science experience in an Engineering Environment3+ years of Data Analytics experience3+ years of programming experience with C, Python, R, and/or MATLABExperience optimizing complex SQL queries for large datasetsStrong background in Postgres, MongoDB or MySQLExperience with data visualization tools such as Matplotlib, R, MATLAB, Tableau, Microsoft Power BI, or Grafana Excellent verbal and written communication skills, including the ability to interact clearly and concisely with all departments and levels of managementExcellent organizational skills with attention-to-detailAbility to meet multiple deadlines in a fast-paced environmentAbility to effectively manage time and prioritize tasksAbility to act with integrity, professionalism, and confidentialityProficiency with Microsoft OfficeFamiliarity with NetSuiteStrong problem-solving skills, especially under time constraintsAbility to identify and seek needed information Build metrics collection pipelines from distributed infrastructure systemsIntegrate and clean large datasets from disparate sourcesWork with system owners to establish Service Level Objectives for their systemsWork with Operations and Reliability Engineers to develop dashboards and alertsWork with Systems Engineers to analyze large datasets of real-world system performance data to inform design decisions and optimize network performanceMeasure the accuracy of simulation models compared to operational data at scale Master's or higher in Electrical Engineering with Data Science, Statistics, Mathematics, Computer Science, Information Systems, Physics or Computer EngineeringExperience with data analysis for cellular telecommunication performance dataUnderstanding of Beam forming and MIMO wireless systemFamiliarity with AWS data pipeline tools (S3, Kinesis, Kinesis Analytics, etc.\n• )Should be able to understand datasets for wireless communication systems Work/Life Balance: Paid Time Off, Paid HolidaysFinancial Benefits: 401(k) Plan with Company Match, Employee Stock Purchase Program, Voluntary and Company Paid Group Life Insurance, Short- and Long-Term Disability Insurance, Medical FSA, Dependent Care, Competitive SalariesHealth & Wellness: Health Insurance, Dental Insurance, Vision Insurance, Employee Assistance Program, Comprehensive and Interactive Wellness Program.",
     "job_apply_link": "https://www.aijobs.com/jobs/164899802-data-scientist",
     "id": "ai-jobs-data-scientist-milpitas"
@@ -262,42 +252,12 @@
   {
     "employer_name": "AI Jobs",
     "job_title": "Data Scientist",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_posted_at": "2w",
-    "job_description": "• Possesses and applies comprehensive knowledge across key tasks and high impact assignments Evaluates performance results and recommends major changes affecting short-term project growth and success Collaborate with nontechnical, national security investigators and analysts to understand their data science needs, suggest solutions, and complete the work in a timely manner Design machine learning (ML), statistical analysis, and data analysis tasks Leverage existing and/or conduct custom Extract Transform Load (ETL) work to aggregate data from multiple repositories and condition the data to provide novel insights Interpret data, identify features and model variables, assess the quality of model outputs, generate alternatives, and conduct remediation Find and design new approaches to handling, analyzing, and using large volumes of data and/or data sets, and explore fundamental issues with data handling, search, and retention Design new software code to improve data search processes, and design, test, and validate the quality of data and data processes Automate routine workflows and data analysis steps to assist with workflow automation Report results of analyses and provide actionable recommendations Design and implement data science solutions that adhere to the principles of reproducible research, including maintaining clear documentation, using version control tools (e.\n• , Git), and ensuring that analyses are repeatable by others Develop and maintain automated, reproducible workflows for data preparation, model development, and results reporting, facilitating effective collaboration and knowledge transfer across the team Organizational Skills: Can plan and prioritize work.\n• Excellent active listening skills Quantitative Management: Ability to determine process measures and track to determine process effectiveness and efficiency Problem Solving: Natural inclination for planning strategy and tactics.\n• Ability to analyze problems and determine root cause, generating alternatives, evaluating and selecting alternatives and implementing solutions Results oriented: Able to drive things forward regardless of personal interest in the task Active Top Secret with eligibility for SCI or FS Poly 3 years of relevant experience with a BS in Data Science, Mathematics, Information Science, Statistics, Engineering, Business Analytics, or related degree High proficiency in Python.\n• Follows tasks to their logical conclusion and makes sure that everything has been done to the right standard.\n• Good attention to detail Team Work: Able to enthuse and maintain project interest.\n• Comfortable working both individually and as part of a team.\n• Prepared to challenge ideas within a group in a constructive way Leadership: Acute business acumen and understanding of organizational issues and challenges.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163599985-data-scientist",
-    "id": "ai-jobs-data-scientist-huntsville"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist – Level",
-    "job_city": "Mason",
-    "job_state": "OH",
-    "job_posted_at": "1w",
-    "job_description": "• Engage with Business Analysts and Functional Analysts in understanding Machine Learning (ML) and Artificial Intelligence (AI) use cases and collect detailed requirements.\n• Bachelor’s degree in Statistics, Mathematics, Data Science, Engineering, or related quantitative fieldMinimum 3 years of analytics, data science, related IT experience, including:3 years of experience where proficiency with programming in R or Python was demonstrated3 years of in-depth hands-on relational database and reporting experience including the ability to write SQL2 years of experience working with large databases to perform complex analysis2 years of experience working in statistics and multivariate analytical techniques including multivariate regression, logistic regression, cluster analysis, design of experiments, machine learning, and decision treesExperience with Google Cloud Platform – Big Query, Vertex AI Master’s degree in Statistics, Mathematics, Data Science, Engineering, or related quantitative fieldMinimum 1 year of analytics, data science, related IT experience, including:1 year of experience where proficiency with programming in R or Python was demonstrated1 year of in-depth hands-on relational database and reporting experience including the ability to write SQL1 year of experience working with large databases to perform complex analysis.\n• 1 year of experience working in statistics and multivariate analytical techniques including multivariate regression, logistic regression, cluster analysis, design of experiments, machine learning, and decision trees.\n• Some experience with Google Cloud Platform – Big Query, Vertex AI 1 year of experience where proficiency with programming in R or Python was demonstrated1 year of in-depth hands-on relational database and reporting experience including the ability to write SQL1 year of experience working with large databases to perform complex analysis.\n• 1 year of experience working in statistics and multivariate analytical techniques including multivariate regression, logistic regression, cluster analysis, design of experiments, machine learning, and decision trees.\n• Some experience with Google Cloud Platform – Big Query, Vertex AI 3 years of experience where proficiency with programming in R or Python was demonstrated3 years of in-depth hands-on relational database and reporting experience including the ability to write SQL2 years of experience working with large databases to perform complex analysis2 years of experience working in statistics and multivariate analytical techniques including multivariate regression, logistic regression, cluster analysis, design of experiments, machine learning, and decision treesExperience with Google Cloud Platform – Big Query, Vertex AI Some experience with commercial analytic techniques including pricing, customer lifetime value, and churn modeling preferred.\n• Design, develop and test AI neutral network models using Tensorflow, PyTorch, HuggingFace, Keras, Scikit-learn and any Python based libraries like Panda, Numpy, Scipy, etc.\n• Review data acquisition strategies and develop programs to acquire data into Data Lake / Data Warehouse from transactional SAP ERP systems like ECC, CRM, EWM, EM, BW, Hybris using various tools like HANA SDI & SDA adaptors.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164766900-data-scientist-level-2",
-    "id": "ai-jobs-data-scientist-level-mason"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
     "job_city": "Washington DC-Baltimore Area",
     "job_state": "US",
     "job_posted_at": "6d",
     "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
     "job_apply_link": "https://www.aijobs.com/jobs/164984416-data-scientist",
     "id": "ai-jobs-data-scientist-washington-dc-baltimore-area"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "Philadelphia",
-    "job_state": "PA",
-    "job_posted_at": "1w",
-    "job_description": "• Bachelor’s degree in Computer Science, Data Science, Statistics, or related field.\n• Strong SQL skills with experience in querying, modeling, and database management.\n• Strong analytical and problem-solving skills, with experience in predictive modeling and statistical analysis.\n• Excellent communication and collaboration skills, with enthusiasm for using data to solve problems.\n• Experience in the utility sector or with ESRI (Environmental Systems Research Institute) tools is a plus.\n• Proficiency in Python (pandas, NumPy, SQLAlchemy, native data structures).\n• Power BI expertise in building dashboards and reports.\n• Familiarity with Azure DevOps and Git commands.",
-    "job_apply_link": "https://www.aijobs.com/jobs/165098667-data-scientist",
-    "id": "ai-jobs-data-scientist-philadelphia"
   },
   {
     "employer_name": "AI Jobs",
@@ -312,12 +272,42 @@
   {
     "employer_name": "AI Jobs",
     "job_title": "Data Scientist",
+    "job_city": "Philadelphia",
+    "job_state": "PA",
+    "job_posted_at": "1w",
+    "job_description": "• Bachelor’s degree in Computer Science, Data Science, Statistics, or related field.\n• Strong SQL skills with experience in querying, modeling, and database management.\n• Strong analytical and problem-solving skills, with experience in predictive modeling and statistical analysis.\n• Excellent communication and collaboration skills, with enthusiasm for using data to solve problems.\n• Experience in the utility sector or with ESRI (Environmental Systems Research Institute) tools is a plus.\n• Proficiency in Python (pandas, NumPy, SQLAlchemy, native data structures).\n• Power BI expertise in building dashboards and reports.\n• Familiarity with Azure DevOps and Git commands.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165098667-data-scientist",
+    "id": "ai-jobs-data-scientist-philadelphia"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist",
     "job_city": "Salt Lake City Metropolitan Area",
     "job_state": "US",
     "job_posted_at": "1w",
     "job_description": "• Required Experience & Skills:Bachelor’s or advanced degree in Data Science, Statistics, Mathematics, Computer Science, Economics, or related field.\n• 5+ years’ experience programming in Python (NumPy, Pandas, Scikit-learn, XGBoost).\n• 2+ years’ experience with SQL (Snowflake experience a plus).\n• Proven experience in credit risk analytics, underwriting, or portfolio management.\n• Strong problem-solving, independent work skills, and ability to balance growth, risk, and profitability.\n• Nice to Have Experience:Experience with credit bureau data (Equifax, Experian, TransUnion).\n• Master’s degree or higher in a quantitative discipline.\n• Duties & Responsibilities:Develop, validate, and deploy credit risk models and strategies (underwriting, scorecards, loss forecasting).",
     "job_apply_link": "https://www.aijobs.com/jobs/164984400-data-scientist",
     "id": "ai-jobs-data-scientist-salt-lake-city-metropolitan-area"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist",
+    "job_city": "Newark",
+    "job_state": "NJ",
+    "job_posted_at": "2d",
+    "job_description": "• Graduate-level training in one of the above mentioned fields Experience working on a cross functional team, including product managers, marketers, and software/data engineers Fluency in mathematical foundations of statistics, machine learning, and economics Experience using empirical methods to inform pricing, investment decisions, experimentation science, and/or product optimizations in the digital media space Familiarity with financial/accounting metrics/methods Intellectual curiosity for what drives the business and strong desire to continue to learn new tools and empirical methods Ability to tackle very loosely defined problems and consistently deliver elegant, modular, and scalable solutions in a timely manner Undergraduate degree in: Statistics, Economics, Computer Science, Engineering, Applied Math, or a similar/related quantitative field 1+ year hands-on work experience in an applied/industry setting using SQL and Python, or similar, to work efficiently at scale with large data sets, constructing empirical analysis, modeling, and compelling data visualizations Experience formulating and solving challenging optimization and/or measurement problems.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165271190-data-scientist",
+    "id": "ai-jobs-data-scientist-newark"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist (Remote)",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• In Data Science, Computer Science, Electrical Engineering, Robotics, or a related field3-4 years of professional work experience in a similar role Proven experience in 3D technology integration Strong proficiency in computer vision, including feature detection, tracking, and 3D reconstructionProficient in programming languages such as C++, Python, and relevant libraries (OpenCV, PCL)Experience with 3D data processing, point cloud manipulation, and object recognitionExperience working with CT Scan (DICOM file format) and/or experience working in the medical device space is a plusKnowledge of machine learning and deep learning for computer vision tasks is a plusFamiliarity with hardware design and sensor integration is advantageousStrong problem-solving skills and the ability to work independently and in a teamExcellent communication and collaboration skills.\n• JsAPI Testing: Postman, InsomniaBrowser DevTools: Familiarity with browser developer tools for inspecting web elements, network traffic, and debuggingDatabase Testing: Basic knowledge of SQL for writing queries to validate data integrityBrowser and Device Compatibility: Knowledge of different browsers and devices to ensure cross-platform compatibilityPerformance Testing: Tools like JMeter or Gatling for load and performance testing Collaborate with cross-functional teams to define project requirements and objectivesDesign and implement 3D technology using Python (and C++) to create software that interfaces with 3D camera systems or computer vision/ ML models.\n• Develop and optimize computer vision algorithms for real-time data processingCreate software components for data acquisition, analysis, and visualizationWork on 3D point cloud processing, object recognition, and spatial mappingConduct performance testing, debugging, and optimization of the systemStay up-to-date with the latest advancements in 3D technology and computer vision C++ working experience Startup experience.\n• Bachelor's, Master's, or Ph.\n• Version Control: GitBug Tracking and Project Management: JIRA, ConfluenceDeployment (CI/CD): Jenkins, Travis CI, CircleCITest Management: RTMProgramming Languages: C++, Python, Swift, Node.",
+    "job_apply_link": "https://www.aijobs.com/jobs/148949068-data-scientist-remote",
+    "id": "ai-jobs-data-scientist-remote-"
   },
   {
     "employer_name": "AI Jobs",
@@ -341,16 +331,6 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Scientist (Remote)",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "2w",
-    "job_description": "• In Data Science, Computer Science, Electrical Engineering, Robotics, or a related field3-4 years of professional work experience in a similar role Proven experience in 3D technology integration Strong proficiency in computer vision, including feature detection, tracking, and 3D reconstructionProficient in programming languages such as C++, Python, and relevant libraries (OpenCV, PCL)Experience with 3D data processing, point cloud manipulation, and object recognitionExperience working with CT Scan (DICOM file format) and/or experience working in the medical device space is a plusKnowledge of machine learning and deep learning for computer vision tasks is a plusFamiliarity with hardware design and sensor integration is advantageousStrong problem-solving skills and the ability to work independently and in a teamExcellent communication and collaboration skills.\n• JsAPI Testing: Postman, InsomniaBrowser DevTools: Familiarity with browser developer tools for inspecting web elements, network traffic, and debuggingDatabase Testing: Basic knowledge of SQL for writing queries to validate data integrityBrowser and Device Compatibility: Knowledge of different browsers and devices to ensure cross-platform compatibilityPerformance Testing: Tools like JMeter or Gatling for load and performance testing Collaborate with cross-functional teams to define project requirements and objectivesDesign and implement 3D technology using Python (and C++) to create software that interfaces with 3D camera systems or computer vision/ ML models.\n• Develop and optimize computer vision algorithms for real-time data processingCreate software components for data acquisition, analysis, and visualizationWork on 3D point cloud processing, object recognition, and spatial mappingConduct performance testing, debugging, and optimization of the systemStay up-to-date with the latest advancements in 3D technology and computer vision C++ working experience Startup experience.\n• Bachelor's, Master's, or Ph.\n• Version Control: GitBug Tracking and Project Management: JIRA, ConfluenceDeployment (CI/CD): Jenkins, Travis CI, CircleCITest Management: RTMProgramming Languages: C++, Python, Swift, Node.",
-    "job_apply_link": "https://www.aijobs.com/jobs/148949068-data-scientist-remote",
-    "id": "ai-jobs-data-scientist-remote-"
-  },
-  {
-    "employer_name": "AI Jobs",
     "job_title": "Data Science Internship",
     "job_city": "Raleigh",
     "job_state": "NC",
@@ -358,16 +338,6 @@
     "job_description": "• Be a currently enrolled student pursuing a degree in data science, computer science, statistics, mathematics, or a related field of study.\n• Have excellent problem-solving and critical-thinking skills.\n• Be proficient in programming languages such as Python, R, or SQL.\n• Demonstrate a deep understanding of machine learning algorithms and proficiency in using data visualization tools.\n• Be detail-oriented with an exceptional ability to work independently and in a team.\n• Possess a passion for leveraging data to drive business insights and decision-making.\n• Display a passion for learning and staying updated with industry trends.",
     "job_apply_link": "https://www.aijobs.com/jobs/161607087-data-science-internship",
     "id": "ai-jobs-data-science-internship-raleigh"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_posted_at": "1w",
-    "job_description": "• You have a Bachelor’s or Master’s degree in Data Science, Computer Science, Statistics, Applied Mathematics, Bioinformatics, or a related field.\n• You have a minimum of 2–4 years of hands-on experience applying data science or ML techniques to real-world problems in academic, internship, or industry settings.\n• Or an advanced degree with 0–2 years of equivalent work experience.\n• You have excellent collaboration skills, including statistical consulting skills, interpersonal skills to contribute effectively in cross-functional team settings, ability to influence others without authority, and ability to build strong collaborative relationships with scientific and non-scientific partners.\n• You exhibit excellent strategic agility including problem-solving and critical thinking skills, and agility that extends beyond technical domain.\n• You possess excellent verbal and written communication skills, specifically in the areas of presentation and writing, with the ability to explain complex technical concepts in clear language.\n• Experience working with structured or semi-structured healthcare datasets.\n• You are working proficient with Python or R, and have basic familiarity with ML libraries (e.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164766903-data-scientist",
-    "id": "ai-jobs-data-scientist-boston"
   },
   {
     "employer_name": "AI Jobs",
@@ -382,22 +352,32 @@
   {
     "employer_name": "AI Jobs",
     "job_title": "Data Scientist",
-    "job_city": "Fishers",
-    "job_state": "IN",
-    "job_posted_at": "6d",
-    "job_description": "• Must have CAC ClearanceStrong background in statistics and mathematical modelingExperience building predictive modelsExperience building computer vision ML modelsFamiliarity with DockerExperience with modern data science toolkits such as Project JupyterExperience with PyTorch and TensorflowIntermediate (or better) Python development experienceProficient with SQL & NoSQL database designBA/BS degree in Computer Science, IT, ML, Statistics or related technical field or equivalent practical experience.\n• Master’s Degree is a plusDesire and ability to learn new skills while improving current skills Analyze and Organize large volumes of raw dataPerform exploratory data analysis and report on resultsDevelop and maintain datasetsIdentify optimal modeling workflows for a given problemTrain and retrain machine learning modelsInterpret trends and patternsCombine data from multiple sourcesCollaborate with engineers, full-stack and back-end developers, and the other product team members on several projectsInteract with clients to understand project needs Experience with Google Cloud Platform and/or Amazon Web ServicesExperience with data visualization tools such as Google Data Studio, Tableau, PowerBI, etc.\n• Data Science, Machine Learning or Cloud certifications are a plus (e.\n• Google Cloud Platform Certified Professional Machine Learning Engineer).",
-    "job_apply_link": "https://www.aijobs.com/jobs/164984415-data-scientist-i",
-    "id": "ai-jobs-data-scientist-fishers"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
     "job_city": "Cary",
     "job_state": "NC",
     "job_posted_at": "1w",
     "job_description": "• , to communicate findingsAutomation & Optimization: Develop scripts and tools to automate data processing and model deploymentCollaboration: Work cross-functionally with product, engineering, and business teams to align data initiatives with strategic goalsResearch & Innovation: Stay current with emerging technologies and methodologies in data science and apply them to business challenges Years of experience: 5+ years (regardless of level of degree) - will accept internships as job experienceDegree requirement: Bachelors and/or Masters are required Proficiency in Python, SQL, and data science libraries (e.\n• , Azure, AWS, Snowflake) and data modelingExcellent communication skills to explain technical concepts to non-technical stakeholders A Data Scientist is responsible for analyzing large volumes of structured and unstructured data to extract actionable insights, build predictive models, and support data-driven decision-making.\n• This role blends statistical expertise, programming skills, and business acumen to solve complex problems and drive innovation.\n• Data Collection & Preparation: Gather, clean, and validate data from various sources to ensure quality and usabilityExploratory Data Analysis: Identify trends, anomalies, and patterns in large datasetsModel Development: Design and implement machine learning models (e.\n• , regression, classification, clustering, NLP) to support forecasting and decision-makingData Visualization: Create dashboards and reports using tools like Power BI, etc.\n• , Pandas, Scikit-learn, TensorFlow)Strong foundation in statistics, probability, and machine learningFamiliarity with cloud platforms (e.\n• Choppy tenureAny project done outside of work (Data Science work) is also welcome.\n• If candidate isn’t local at this time, we are not interested in in reviewing those resumes at this time.",
     "job_apply_link": "https://www.aijobs.com/jobs/164634620-data-scientist",
     "id": "ai-jobs-data-scientist-cary"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "1w",
+    "job_description": "• 3+ years proven experience in product analytics or ontological data modeling.\n• Or Bachelors degree in Math, Economics, Bioinformatics, Statistics, Engineering, Computer Science, or other quantitative fields.\n• Ability and experience in extracting insights from data, and summarizing learnings / takeaways.\n• Experience with Excel and some dashboarding/data visualization (i.\n• Excellent judgment, critical-thinking, and decision-making skills.\n• Advanced degrees in Math, Economics, Statistics, Engineering, Computer Science, Operation Research, Machine Learning or other quantitative fields.\n• 4+ years industry experience in consumer facing product analytics.\n• Ability to communicate effectively and manage relationships with partners coming from both technical and non-technical backgrounds.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164520408-data-scientist-ii",
+    "id": "ai-jobs-data-scientist-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Science & AI: Data Scientist",
+    "job_city": "Norfolk",
+    "job_state": "VA",
+    "job_posted_at": "3d",
+    "job_description": "• Evaluate operational requirements and objectives, recommending appropriate engineering solutions for integrating LLMs into NATO workflows and systems.\n• Provide technical training and mentoring to NATO staff, supporting educational efforts in AI engineering, data pipeline design, API development, and digital literacy.\n• Perform additional tasks as required by the Contracting Officer’s Technical Representative (COTR) related to the LABOR category.\n• Minimum 4 years of proven work experience as a Data Scientist, Machine Learning Engineer, Data Engineer, or Software Engineer, with a strong emphasis on distributed systems, cloud-based architectures, developing operational AI/ML solutions, and designing API-based infrastructures, microservices architectures, and containerized applications (e.\n• Demonstrated experience working with GenAI, in particular LLMs, including preprocessing data, fine-tuning, and deployment in secure and scalable environments to include AI/ML frameworks such as TensorFlow, PyTorch, or scikit-learn.\n• Proven expertise in programming languages such as Python, Java, or Scala, with demonstrated experience in software engineering practices (e.\n• Experience building and optimizing data pipelines, ETL processes, and real-time streaming solutions using tools like Apache Airflow, Kafka, Spark, or equivalent.\n• Experience building visually impactful reports, dashboards, and analytics using tools such as Tableau, MS Power BI, or Kibana, supporting informed decision-making for high-level stakeholders.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165271191-data-science-ai-data-scientist",
+    "id": "ai-jobs-data-science-ai-data-scientist-norfolk"
   },
   {
     "employer_name": "AI Jobs",
@@ -421,30 +401,10 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "Framingham",
-    "job_state": "MA",
-    "job_posted_at": "1w",
-    "job_description": "• A degree in a quantitative field such as Data Science, Computer Science, Engineering, Mathematics, or natural sciencesMust meet one of the following experience criteria based on their highest level of education:Bachelor’s degree with a minimum of 3 years of professional experience in a data analytics or related role.\n• Master’s degree with at least 1 year of professional experience in a data analytics or related role.\n• No prior professional experience required.\n• Proficiency in Python and SQLExperience with one or more machine learning frameworks and data analysis/visualization libraries in Python (e.\n• )Strong problem-solving skills, attention to detail, and ability to work independently and collaborativelyExcellent communication and storytelling skills to translate data insights into business value Proven application of advanced techniques in a business setting with impactful resultsExperience working with cloud platforms (e.\n• Familiarity with data visualization tools such as Tableau and Power BIExperience designing and evaluating experiments, including A/B testing and other statistical test methodologiesExperience with time series modeling techniques and/or product recommendation systemsFamiliarity with data ingestion, transformation, and integration Design, develop, and deploy machine learning models and statistical algorithms to solve complex business problemsAnalyze large, structured and unstructured datasets to extract meaningful insights and drive data-informed decisionsBuild, maintain, and run automated and ad-hoc reports to support business operations and strategic initiativesCollaborate with cross-functional stakeholders to identify opportunities for demonstrating data and fulfill ad-hoc data requests to support timely and informed decision-makingBuild and maintain data pipelines and workflows to support scalable analytics, reporting, and model deploymentCommunicate technical findings and recommendations clearly to both technical and non-technical stakeholdersConduct A/B testing and other experimental designs to evaluate the impact of business initiativesSupport, mentor, and lead junior team members, providing guidance on technical approaches, standard methodologies, and professional development.\n• Pandas, scikit-learn, PyTorch, Matplotlib, Plotly, etc.\n• , AWS, Azure, GCP) and big data technologies such as Spark and Databricks.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163708904-data-scientist",
-    "id": "ai-jobs-data-scientist-framingham"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Junior Level Data Scientist (Remote)",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "1w",
-    "job_description": "• Bachelor's or Master's degree in Computer Science, Computer Engineering, Mathematics, Electrical Engineering, Information Systems, or ITStrong foundation in Mathematics or StatisticsExperience in Python programming and understanding of the software development lifecycleKnowledge of Linear Algebra, Statistics, and fundamental mathematical conceptsExcellent written and verbal communication skillsSelf-motivated, technically inquisitive, team-oriented, and committed to problem-solvingPreferred: familiarity with Deep Learning, Data Visualization, NLP, Scala, or Django Competitive salary with flexible work schedulePart-time off and skill enhancement opportunitiesE-verified and H1B filing support (where applicable)On-the-job technical mentorshipExposure to projects with Fortune 500 companiesOpportunities to develop practical experience in AI, machine learning, and data science.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164520404-junior-level-data-scientist-remote",
-    "id": "ai-jobs-junior-level-data-scientist-remote-"
-  },
-  {
-    "employer_name": "AI Jobs",
     "job_title": "Artificial Intelligence Engineer",
     "job_city": "Vienna",
     "job_state": "VA",
-    "job_posted_at": "21h",
+    "job_posted_at": "1d",
     "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
     "job_apply_link": "https://www.aijobs.com/jobs/165607342-artificial-intelligence-engineer",
     "id": "ai-jobs-artificial-intelligence-engineer-vienna"
@@ -461,20 +421,10 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "AI/ML Engineer",
-    "job_city": "Scott AFB",
-    "job_state": "IL",
-    "job_posted_at": "2w",
-    "job_description": "• Normalization and denormalization Knowledge of data extraction, transformation, and loading using tools Design and implementation of scalable data warehouses and data lakes Ability to design efficient data solutions based on business needs Excellent communication and leadership skills, with the ability to engage with both technical and non-technical stakeholders Active DoD Secret Clearance Bachelor's degree in computer science, data science, information systems, or a related field Automate metadata extraction using ML Validate AI/ML pipelines and produce readiness reports Ensure explainability, drift detection, and compliance in testbeds Support data-driven innovation for clinical and operational analytics Experience supporting the DoD or other federal agencies in a data-centric role A Master’s degree is preferred but not required Expertise in NLP, OCR, and DoD AI guidelines Familiarity with Advana’s analytics tools.\n• Understanding of conceptual, logical, and physical data models.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163599994-ai-ml-engineer",
-    "id": "ai-jobs-ai-ml-engineer-scott-afb"
-  },
-  {
-    "employer_name": "AI Jobs",
     "job_title": "Data Scientist",
     "job_city": "Columbia",
     "job_state": "MD",
-    "job_posted_at": "23h",
+    "job_posted_at": "1d",
     "job_description": "• BS or MS Degree in Data Science, Computer Science, Engineering, Information Technology or related technical field.\n• Management consulting/professional service experience Advanced analytics/machine learning work experience.\n• Experience with agentic workflows and GenAI in Data Science product solutions.\n• ”Ability to work in a dynamic and cross-functional environment, where multiple conflicting objectives need to be prioritized and achieved.\n• Superior written and verbal communication skills including influencing and consensus building.\n• Must have proficiency in using query languages such as SQL.\n• Experience with data analysis tools and platforms such as GCP, Big Query, SQL Server, PowerBI, ectExperience in in pricing modeling, revenue optimization, or other similar analytical use cases is highly preferred.\n• Good applied statistics skills, such as distributions, statistical testing, regression, etc.",
     "job_apply_link": "https://www.aijobs.com/jobs/165688809-data-scientist",
     "id": "ai-jobs-data-scientist-columbia"
@@ -484,27 +434,27 @@
     "job_title": "Data Scientist",
     "job_city": "Chicago",
     "job_state": "IL",
-    "job_posted_at": "23h",
+    "job_posted_at": "1d",
     "job_description": "• BS or MS Degree in Data Science, Computer Science, Engineering, Information Technology or related technical field.\n• Management consulting/professional service experience Advanced analytics/machine learning work experience.\n• Experience with agentic workflows and GenAI in Data Science product solutions.\n• ”Ability to work in a dynamic and cross-functional environment, where multiple conflicting objectives need to be prioritized and achieved.\n• Superior written and verbal communication skills including influencing and consensus building.\n• Must have proficiency in using query languages such as SQL.\n• Experience with data analysis tools and platforms such as GCP, Big Query, SQL Server, PowerBI, ectExperience in in pricing modeling, revenue optimization, or other similar analytical use cases is highly preferred.\n• Good applied statistics skills, such as distributions, statistical testing, regression, etc.",
     "job_apply_link": "https://www.aijobs.com/jobs/165688815-data-scientist",
     "id": "ai-jobs-data-scientist-chicago"
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Quantitative Researcher: Machine Learning",
-    "job_city": "New York",
-    "job_state": "United States",
+    "job_title": "Data Scientist",
+    "job_city": "Plano",
+    "job_state": "TX",
     "job_posted_at": "6d",
-    "job_description": "• Degree in mathematics, physics, computer science, or another quantitative field (Master’s/PhD preferred, but not essential with strong experience).\n• Solid programming skills in Python (C++ experience a plus).\n• Experience with distributed computing and Linux environments.\n• Hands-on experience applying ML techniques to trading problems.\n• Experience with orchestration/container tools such as Docker, Airflow, or Prefect.\n• Strong grounding in probability, statistics, and machine learning.\n• Familiarity with software engineering best practices (TDD, CI/CD).\n• Excellent communication and ability to work across teams in a fast-paced environment.",
-    "job_apply_link": "https://www.aijobs.com/jobs/165081407-quantitative-researcher-machine-learning",
-    "id": "ai-jobs-quantitative-researcher-machine-learning-new-york"
+    "job_description": "• Develop AI/ML models: design, develop, and optimize machine learning (ML) and deep learning (DL) models for allocation, planning, forecasting, and inventory management Data processing: extract, clean, and preprocess large datasets from multiple supply chain systems for model training and evaluation Feature engineering: create and select meaningful features that improve model performance based on supply chain domain knowledge Model deployment: build scalable pipelines to deploy models into production, ensuring smooth integration with existing systems Performance monitoring: continuously monitor and tune models to maintain accuracy and adapt to changing business needs Collaboration: partner with cross-functional teams (inventory, planning, merchandising, and engineering) to turn business requirements into technical solutions Automation: develop automated workflows for data ingestion, model retraining, and reporting Documentation: maintain clear documentation of models, data sources, assumptions, and workflows Innovation: stay current with emerging AI/ML techniques and evaluate their application to supply chain challenges Problem solving: identify inefficiencies in supply chain processes and propose AI-driven improvements 5+ years of data science or advanced analytics experience Strong programming in Python (pandas, NumPy, scikit-learn, TensorFlow, PyTorch) SQL and data manipulation expertise Familiarity with BI tools (Power BI, Tableau, or similar) Experience with time series forecasting and demand planning algorithms Knowledge of supply chain concepts (inventory management, allocation, lead times) Experience with cloud platforms (AWS, Azure, or GCP) and MLOps practices Strong analytical and communication skills Comfort working as a solo contributor, building solutions where no playbook yet exists.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165190849-data-scientist",
+    "id": "ai-jobs-data-scientist-plano"
   },
   {
     "employer_name": "AI Jobs",
     "job_title": "Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (BS/MS)",
     "job_city": "San Jose",
     "job_state": "CA",
-    "job_posted_at": "9h",
+    "job_posted_at": "12h",
     "job_description": "• Currently pursuing a Bachelor's, or Master's degree in Mathematics, Statistics, Economics, Computer Science, Data Science etc relevant technical field, or equivalent practical experience Proficient in data querying languages and at least one scripting language (e.\n• Python、R) Experience in one or more of the following methods: forecasting, statistical and causal inference, classification methods.\n• Strong product sense and structured thinking, and be able to convert the analysis results into business decisions very well Must be able to commit to a 12-week full-time work period during Summer 2026 Define success metrics to measure product growth and identify problems through monitoring or forecasting Apply technical expertise with quantitative analysis, experimentation, data mining to develop strategies for product optimizations Quantify the impact of strategies through causal inference and generate actionable insights through deep dive analysis Partner with Product, Engineering and cross-functional teams to influence and execute product strategy Internship experience in data science Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues.\n• Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems.\n• And Exercising sound judgment.",
     "job_apply_link": "https://www.aijobs.com/jobs/165688808-data-scientist-intern-tiktok-product-data-science-2026-summer-bs-ms",
     "id": "ai-jobs-data-scientist-intern-tiktok-product-data-science-2026-summer-bs-ms-san-jose"
@@ -531,13 +481,13 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Scientist - Computer Vision",
-    "job_city": "Irving",
-    "job_state": "TX",
+    "job_title": "Junior Data Scientist",
+    "job_city": "",
+    "job_state": "US",
     "job_posted_at": "1w",
-    "job_description": "• 1 – 3 years’ experience in data science.\n• Experience working in Linux environments and using version control tools such as Git.\n• Practical experience with machine learning and deep learning frameworks (e.\n• Hands-on experience with tasks such as classification, segmentation, and object detection.\n• Strong written and verbal communication skills.\n• Experience working with medical imaging data, particularly histopathology images from whole slide scanners.\n• Background in cancer research or oncology-focused AI applications.\n• Experience with cloud computing environments (e.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163675236-data-scientist-computer-vision",
-    "id": "ai-jobs-data-scientist-computer-vision-irving"
+    "job_description": "• 1-3 years of data analyst/ML/AI engineering work experience after your degree.\n• Must have experience with both Python programming & SQL language developer.\n• Should demonstrate experience developing end-to-end solutions.\n• Demonstrated SQL experience.\n• Additional experience with at least one: AWS, Azure or Databricks is preferred.\n• Additional experience with Pyspark, AWS S3, Lambda, EC2/AZ, Data bricks, Machine learning (ML), GenAI/ Computer Vision, Theory of Probability, GitLab, R Programming, GCP & Airflow will be preferred.\n• Experience: Over 25 years of combined domestic and international expertise in IT consulting serving hundreds of Fortune 1,000 and innovative startup clients.\n• Interested in accelerating your tech career through career-enhancing IT consulting experience.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164634625-junior-data-scientist",
+    "id": "ai-jobs-junior-data-scientist-"
   },
   {
     "employer_name": "AI Jobs",
@@ -551,6 +501,16 @@
   },
   {
     "employer_name": "AI Jobs",
+    "job_title": "Junior AI Engineer",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_posted_at": "1w",
+    "job_description": "• Conducted in depth data analysis to uncover trends patterns and anomalies that informed strategic decisions across product marketing and operations teamsDesigned and implemented scalable data pipelines and automated data workflows using Python and SQLDeveloped and maintained analytical models and dashboards to track key business metrics and performance indicatorsApplied statistical methods and machine learning techniques to solve real world business problems such as forecasting segmentation and performance optimizationCollaborated with stakeholders to gather requirements translate business questions into analytical approaches and communicate findings with clarityExplored the use of LLMs eg OpenAI GPT for enhancing internal workflows and accelerating data driven tasks such as querying summarization and content generation Programming Tools Python Pandas NumPy Matplotlib Seaborn Scikitlearn SQL complex queries joins CTEs window functions GitData Analysis Visualization Exploratory Data Analysis EDA trend and correlation analysis hypothesis testing dashboards Power BITableau storytelling with dataDatabases Data Handling SQL Server MySQL basic knowledge of Spark Big Query Hive is a plusStatistics ML Foundational Descriptive and inferential statistics regression classification clustering KMeans model evaluation metrics accuracy precision recall AUC overfitting underfitting cross validationLLMAI ExposureFamiliarity with prompt engineering OpenAI APIs basic usage of GPT models for data text automation awareness of LLM limitations and applications in analytics Mandatory skill Python Data ScienceResults driven Data Scientist with hands on experience in data analysis data wrangling and business insights generation using Python and SQL Adept at translating complex datasets into actionable recommendations Possesses a solid foundation in statistics and machine learning with emerging exposure to large language models LLMs and OpenAI technologies Strong problem solving ability attention to detail stakeholder communication ability to translate business problems into data solutions.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163660241-junior-ai-engineer",
+    "id": "ai-jobs-junior-ai-engineer-bellevue"
+  },
+  {
+    "employer_name": "AI Jobs",
     "job_title": "Data Scientist, Product",
     "job_city": "San Francisco",
     "job_state": "CA",
@@ -558,6 +518,16 @@
     "job_description": "• You can draw on that experience to identify where data can have the most impact and clearly communicate to your partner teams what that impact is.\n• You have experience building predictive models, and you know how to evaluate their effectiveness.\n• You are comfortable transforming raw data to build your own data sets if the measure you need doesn't exist yet.\n• You have experience making tradeoffs between speed and accuracy.\n• You will apply your expertise in statistical inference, data analysis, and the presentation of data to see beyond the numbers and understand how our users interact with NotionYou will dive into ambiguous areas, define problems and opportunities for the team to work on the next influential projectYou'll design the right set of experiments or analyses to evaluate the success of new featuresYou'll partner closely with a product, engineering, and marketing pillar at every step of the development process, driving forward data science and analytics work in that area.\n• You'll work with your teams to determine both north star and operational metrics, and build and maintain the dashboards that those teams rely on for monitoring progress and making key decisions.\n• You'll influence your product roadmap by communicating your findings with the rest of the company, and driving and verifying change in our product and business.\n• Impact is even better.",
     "job_apply_link": "https://www.aijobs.com/jobs/163708907-data-scientist-product",
     "id": "ai-jobs-data-scientist-product-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist",
+    "job_city": "Santa Monica",
+    "job_state": "CA",
+    "job_posted_at": "6d",
+    "job_description": "• Partner with talent representatives and internal divisions to identify the methodology to answer business questions and fulfill the subsequent data needs, evaluating multiple sources, for meetings, pitches, and presentations.\n• Bachelor’s or Master’s degree in Data Science, Statistics, Computer Science, Business Analytics, or a related quantitative field.\n• 3+ years of experience in data analysis, business intelligence, or a quantitative analytics role.\n• Experience in entertainment, sports, or marketing preferred.\n• Demonstrated experience managing third-party data providers and vendor relationships.\n• Strong organizational and project management skills with the ability to prioritize and manage multiple projects under tight deadlines.\n• Exceptional communication skills, with the ability to distill complex data into actionable insights for both technical and non-technical audiences.\n• Experience with predictive modeling, statistical analysis, and designing analytical frameworks to inform business strategy is a plus.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164984409-data-scientist",
+    "id": "ai-jobs-data-scientist-santa-monica"
   },
   {
     "employer_name": "AI Jobs",
@@ -571,13 +541,13 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
+    "job_title": "Research Scientist, Mathematical Sciences",
+    "job_city": "San Francisco",
+    "job_state": "California",
     "job_posted_at": "1w",
-    "job_description": "• Focus on user experience and maintainability for all developed dashboards.\n• Cross-Functional Collaboration: Partner effectively with manufacturing engineers, production managers, quality control specialists, supply chain analysts, and other business stakeholders to understand their challenges, define analytical requirements, and deliver relevant data solutions.\n• Practical LLM Application:Hands-on experience with Prompt Engineering: The ability to craft effective and nuanced prompts to guide LLMs towards desired outputs for specific tasks.\n• Experience utilizing LLMs via APIs: Working with commercial LLM APIs (e.\n• LLM Frameworks/Libraries (Practical Use):Familiarity with and practical experience using libraries like Hugging Face Transformers for accessing and working with pre-trained models.\n• Experience with LangChain or LlamaIndex for building more complex LLM applications (e.\n• Some practical experience (even if limited) with fine-tuning techniques or using specialized tools for model adaptation.\n• Education:Required: Master's degree in a quantitative field such as Computer Science, Statistics, Mathematics, Data Science, Engineering, or a related discipline.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164634627-data-scientist",
-    "id": "ai-jobs-data-scientist-palo-alto"
+    "job_description": "• Open-source contributions to mathematical science or AI toolingExperience building or curating domain datasets and benchmarksExperience engaging a research community (teaching, workshops, tutorials, standards).",
+    "job_apply_link": "https://www.aijobs.com/jobs/164878732-research-scientist-mathematical-sciences",
+    "id": "ai-jobs-research-scientist-mathematical-sciences-san-francisco"
   },
   {
     "employer_name": "AI Jobs",
@@ -611,23 +581,23 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Scientist, Data & Analytics – Customer, Loyalty & Marketing",
-    "job_city": "Charlotte",
-    "job_state": "NC",
-    "job_posted_at": "5d",
-    "job_description": "• Bachelor’s or Master’s degree in a quantitative field (e.\n• 3+ years’ experience in MMM, econometrics, or media effectiveness analysis.\n• Strong background in statistics/econometrics (e.\n• Proficiency in query processing languages such as SQL and PySpark, along with hands-on experience on cloud-based platforms (e.\n• Excellent communication skills with the ability to clearly articulate technical information to all levels of the organization and collaborate effectively with cross-functional teams.\n• Strong stakeholder management skills, with experience engaging diverse teams and senior leaders across geographies.\n• Adaptable to new and evolving technologies and business needs.\n• , Statistics, Data Science, Economics, Applied Mathematics, Computer Science).",
-    "job_apply_link": "https://www.aijobs.com/jobs/158456723-data-scientist-data-analytics-customer-loyalty-marketing",
-    "id": "ai-jobs-data-scientist-data-analytics-customer-loyalty-marketing-charlotte"
+    "job_title": "Data Scientist",
+    "job_city": "Portland",
+    "job_state": "Oregon Metropolitan Area",
+    "job_posted_at": "1w",
+    "job_description": "• Cross-Functional CollaborationPartner with product managers, engineers, and additive manufacturing experts to align technical solutions with customer needs.\n• Experience with ETL, streaming, and data warehousing.\n• Experience with CI/CD for ML, model versioning, deployment orchestration, and monitoring.\n• Excellent communication skills and ability to collaborate cross-functionally Degree in Computer Science, Data Science, ML/AI, or related quantitative field.\n• Experience deploying ML models in production environments.\n• Experience with fairness frameworks (e.\n• Model Development & ValidationBuild, train, and fine-tune ML/DL models that power agentic workflows such as printability scoring and supplier recommendations.\n• Validate models against part lists, material properties, and supplier datasets to ensure accuracy, reliability, and compliance.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164899801-data-scientist",
+    "id": "ai-jobs-data-scientist-portland"
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Analyst, User Operations",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "1d",
-    "job_description": "• Explore large support and product datasets to uncover trends, volume drivers, and user‑experience pain points, distilling findings into clear, actionable narratives.\n• 8 + years in analytics, business intelligence, or data science, ideally supporting customer support or operations teams.\n• Expert‑level SQL skills and proficiency in Python or R for advanced analysis and automationHands‑on experience designing and maintaining BI dashboards (e.\n• Hands‑on experience fine‑tuning or prompt‑engineering LLMs to build text classifiers, sentiment analysis, or tagging systems.\n• Strong cross‑functional communication skills—comfortable collaborating daily with engineers, data scientists, and operations leaders.\n• Build, enhance, and maintain self‑serve dashboards and reporting tools, enabling non‑technical teams to answer their own data questions.\n• Establish a unified metrics taxonomy for service‑health and performance—and build automated data‑sharing pipelines and scorecards with our BPO partners to ensure everyone operates from the same real‑time view of successLeverage LLMs to build bespoke classifiers that automatically label and segment inbound volumes—powering smarter routing, richer self‑serve insights, and swifter root‑cause analysis.\n• Partner with Data Engineering to ensure reliable pipelines, implement data‑quality checks, and document sources of truth.",
-    "job_apply_link": "https://www.aijobs.com/jobs/165332634-data-analyst-user-operations",
-    "id": "ai-jobs-data-analyst-user-operations-san-francisco"
+    "job_title": "Machine Learning Engineer",
+    "job_city": "Berkeley",
+    "job_state": "CA",
+    "job_posted_at": "2d",
+    "job_description": "• 1–3 years of professional experience in Data Analysis / ML / AI Engineering (post-degree).\n• Strong programming skills in Python and SQL (must-have).\n• Hands-on experience in end-to-end solution development.\n• Exposure to cloud platforms (AWS, Azure, or Databricks preferred).\n• Bachelor’s in CS, IT, EE, Mathematics, or related quantitative field (Master’s preferred).\n• Career-boosting experience with Fortune 1000 clients.\n• 401K eligibility after one year.\n• Nice-to-have: PySpark, AWS (S3, Lambda, EC2), Azure, Databricks, ML, GenAI, Computer Vision, Probability Theory, GitLab, R, GCP, Airflow.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165320839-machine-learning-engineer",
+    "id": "ai-jobs-machine-learning-engineer-berkeley"
   },
   {
     "employer_name": "AI Jobs",
@@ -648,6 +618,16 @@
     "job_description": "• Bachelor’s or Master’s degree in a quantitative discipline (e.\n• , Data Science, Biostatistics, Computer Science, Epidemiology) or equivalent experience.\n• 3+ years of experience in a data-focused role within life sciences, healthcare, or biotech.\n• Experience working with real-world data (claims, EHR, or similar).\n• Strong SQL skills (preferably Redshift), with experience building data pipelines and analytic queries.\n• Experience with R and/or Python for data manipulation and statistical analysis.\n• Strong communication and stakeholder management skills, with the ability to explain complex data issues clearly to technical and non-technical audiences.\n• Ability to manage multiple client needs simultaneously in a fast-paced, client-centric environment.",
     "job_apply_link": "https://www.aijobs.com/jobs/164899803-data-scientist-rwe",
     "id": "ai-jobs-data-scientist-rwe-philadelphia"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist",
+    "job_city": "Jacksonville",
+    "job_state": "FL",
+    "job_posted_at": "1w",
+    "job_description": "• Industry experience in analyzing data, maintaining and developing models is preferred.\n• Background in energy and power systems is preferred.\n• Good communication skills.\n• Ability to understand the requirements and present the results to stakeholders.\n• Maintain existing machine learning and optimization models, updating them as needed.\n• Collaborate with cross-functional teams to understand the business requirements and deliver solution effectively.\n• Competitive Salary: Based on experience, level and location.\n• Benefits:Paid Time Off starting at 17 days per year, plus nine paid holidays.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163599984-data-scientist",
+    "id": "ai-jobs-data-scientist-jacksonville"
   },
   {
     "employer_name": "AI Jobs",
@@ -674,10 +654,20 @@
     "job_title": "GPU and HPC Infrastructure Engineer - New College Grad",
     "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "1d",
+    "job_posted_at": "2d",
     "job_description": "• Pursuing or recently completed a BS or MS in Computer Science/Engineering/Physics/Mathematics or other comparable Degree or equivalent experience.\n• Software engineering experience on large-scale production systems.\n• Experience working successfully with multi-functional teams, principles and architects and coordinate effectively across organizational boundaries and geographies.\n• Hands-on experience working with RDMA networking.\n• Advanced hands-on experience and deep understanding of cluster management systems (Kubernetes, SLURM.\n• ) Hands-on experience in Machine Learning Operations.\n• Hands-on experience with Bright Cluster Manager.\n• Hands-on experience developing and/or operating hardware fleet management systems.",
     "job_apply_link": "https://www.aijobs.com/jobs/165626751-gpu-and-hpc-infrastructure-engineer-new-college-grad-2025",
     "id": "ai-jobs-gpu-and-hpc-infrastructure-engineer-new-college-grad-us"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Artificial Intelligence Engineer",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "3h",
+    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165793468-artificial-intelligence-engineer",
+    "id": "ai-jobs-artificial-intelligence-engineer-"
   },
   {
     "employer_name": "AI Jobs",
@@ -691,26 +681,6 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Growth - AI Workflows, Martech, Creative Systems",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "2w",
-    "job_description": "• Serve as a bridge between marketing, product, growth and technical teams, translating growth objectives into system requirements and scalable solutions.\n• 8+ years of growth or marketing technology experience spanning both consumer (B2C) and business (B2B) products, with a track record of designing and scaling AI-driven growth systems.\n• Deep knowledge of martech ecosystems and experience working with APIs, event streams, and cloud data warehouses.\n• Strong analytical skills with the ability to model funnels, run incrementality studies, and translate data into actionable growth strategies.\n• Experience applying AI/ML techniques (e.\n• Design and launch AI-powered creative systems (dynamic content generation, automated asset production, experimentation tooling) that enable rapid, personalized campaigns across multiple channels.\n• Build and scale a modern martech stack (data pipelines, automation platforms, experimentation frameworks) that supports sophisticated targeting, measurement, and real-time optimization.\n• Be scrappy and build MVPs, then partner with engineering to architect 0→1 infrastructure—including APIs, event triggers, and growth tools—that accelerates testing velocity and supports global rollout.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163527149-growth-ai-workflows-martech-creative-systems",
-    "id": "ai-jobs-growth-ai-workflows-martech-creative-systems-san-francisco"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Growth - AI Workflows, Martech, Creative Systems",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "2w",
-    "job_description": "• Serve as a bridge between marketing, product, growth and technical teams, translating growth objectives into system requirements and scalable solutions.\n• 8+ years of growth or marketing technology experience spanning both consumer (B2C) and business (B2B) products, with a track record of designing and scaling AI-driven growth systems.\n• Deep knowledge of martech ecosystems and experience working with APIs, event streams, and cloud data warehouses.\n• Strong analytical skills with the ability to model funnels, run incrementality studies, and translate data into actionable growth strategies.\n• Experience applying AI/ML techniques (e.\n• Design and launch AI-powered creative systems (dynamic content generation, automated asset production, experimentation tooling) that enable rapid, personalized campaigns across multiple channels.\n• Build and scale a modern martech stack (data pipelines, automation platforms, experimentation frameworks) that supports sophisticated targeting, measurement, and real-time optimization.\n• Be scrappy and build MVPs, then partner with engineering to architect 0→1 infrastructure—including APIs, event triggers, and growth tools—that accelerates testing velocity and supports global rollout.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163527148-growth-ai-workflows-martech-creative-systems",
-    "id": "ai-jobs-growth-ai-workflows-martech-creative-systems-"
-  },
-  {
-    "employer_name": "AI Jobs",
     "job_title": "Research Analyst",
     "job_city": "Cupertino",
     "job_state": "CA",
@@ -718,16 +688,6 @@
     "job_description": "• • Provide timely, accurate analysis of customer preferences and competitive movements.\n• Tableau and visualization tools as needed.\n• Bachelor’s degree in Business, Marketing, Economics, Data Science, or related field.\n• Experience in market research, analytics, or related (1-2 years preferred).\n• Eagerness to expand skills.\n• Excellent communication skills to deliver clear, concise insights.\n• Market Analysis:• Conduct research to identify industry trends, market size, and opportunities in Tech categories.\n• • Track and report market share using data sources such as Circana.",
     "job_apply_link": "https://www.aijobs.com/jobs/165634827-research-analyst",
     "id": "ai-jobs-research-analyst-cupertino"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Computer Vision Engineer – Robotics",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com/jobs/165334687-computer-vision-engineer-robotics",
-    "id": "ai-jobs-computer-vision-engineer-robotics-mountain-view"
   },
   {
     "employer_name": "AI Jobs",
@@ -741,6 +701,16 @@
   },
   {
     "employer_name": "AI Jobs",
+    "job_title": "Data Scientist - Health Plan Operations",
+    "job_city": "Compton",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• A Strong Educational Foundation: Master’s degree in Computer Science, Statistics, Mathematics, Engineering, or a related field.\n• Proven Real-World Impact: 4+ years of experience applying machine learning and predictive modeling to solve meaningful problems.\n• Hands-On Coding Expertise: Proficiency in Python (preferred) or R, with the ability to design and deliver end-to-end data science solutions.\n• Data Wrangler Skills: Strong experience using SQL to query and transform large-scale healthcare data into insights that matter.\n• Healthcare Data Savvy: Experience analyzing large, complex datasets such as claims, EMR, enrollment, and operational data.\n• Effective Communicator: Excellent written and verbal communication skills with a collaborative, problem-solving mindset.\n• Risk Adjustment Expertise: Hands-on experience with healthcare risk adjustment models like CMS-HCC, PACE, or Medicare Advantage.\n• Big Data Proficiency: Experience with technologies such as Spark, Fabric, Databricks, or Snowflake.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165688818-data-scientist-health-plan-operations",
+    "id": "ai-jobs-data-scientist-health-plan-operations-compton"
+  },
+  {
+    "employer_name": "AI Jobs",
     "job_title": "Quantitative Researcher - Early Career (USA)",
     "job_city": "Stamford",
     "job_state": "CT",
@@ -748,16 +718,6 @@
     "job_description": "• Design, implement, and optimize various machine learning models aimed at predicting liquid assets using a wide set of financial data and a vast library of trading signals Parse data sets to be used for future alpha(strategy) development Investigate and implement state-of-the-art academic research in the field of quantitative finance Collaborate with experienced and resourceful quantitative researchers to carry out experiments and test hypothesis using simulations BS/MS/PhD degree in any stem field Passion for machine learning Fluent with programming languages like Python Strong problem-solving skills Ability to work effectively both as an individual and a team player Knowledge of financial accounting is a plus Background in quantitative finance is a plus but not necessary.",
     "job_apply_link": "https://www.aijobs.com/jobs/165334709-quantitative-researcher-early-career-usa",
     "id": "ai-jobs-quantitative-researcher-early-career-usa-stamford"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist - Health Plan Operations",
-    "job_city": "Compton",
-    "job_state": "CA",
-    "job_posted_at": "23h",
-    "job_description": "• A Strong Educational Foundation: Master’s degree in Computer Science, Statistics, Mathematics, Engineering, or a related field.\n• Proven Real-World Impact: 4+ years of experience applying machine learning and predictive modeling to solve meaningful problems.\n• Hands-On Coding Expertise: Proficiency in Python (preferred) or R, with the ability to design and deliver end-to-end data science solutions.\n• Data Wrangler Skills: Strong experience using SQL to query and transform large-scale healthcare data into insights that matter.\n• Healthcare Data Savvy: Experience analyzing large, complex datasets such as claims, EMR, enrollment, and operational data.\n• Effective Communicator: Excellent written and verbal communication skills with a collaborative, problem-solving mindset.\n• Risk Adjustment Expertise: Hands-on experience with healthcare risk adjustment models like CMS-HCC, PACE, or Medicare Advantage.\n• Big Data Proficiency: Experience with technologies such as Spark, Fabric, Databricks, or Snowflake.",
-    "job_apply_link": "https://www.aijobs.com/jobs/165688818-data-scientist-health-plan-operations",
-    "id": "ai-jobs-data-scientist-health-plan-operations-compton"
   },
   {
     "employer_name": "AI Jobs",
@@ -771,33 +731,13 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Python AI Engineer",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "4d",
-    "job_description": "• Strong programming skills in Python.\n• Experience building and managing Cloud Functions and Cloud Run instances on GCP.\n• Hands-on experience with Terraform for Infrastructure as Code (IaC).\n• Experience with databases (SQL and NoSQL) and query optimization.\n• Experience working with Pandas, Xarray, and other data science libraries to build ETL applications.\n• Experience with row-level security and access control principles.\n• Hands-on experience working with LLMs like Open AI’s GPT models, Claude, and Gemini.\n• (Preferred) Integrate and optimize AI/LLM-powered applications.",
-    "job_apply_link": "https://www.aijobs.com/jobs/165070004-python-ai-engineer",
-    "id": "ai-jobs-python-ai-engineer-mountain-view"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist - Analytics, Trust & Safety",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_posted_at": "6d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164984413-data-scientist-analytics-trust-safety",
-    "id": "ai-jobs-data-scientist-analytics-trust-safety-san-jose"
-  },
-  {
-    "employer_name": "AI Jobs",
     "job_title": "Data Scientist, Product Analytics",
-    "job_city": "Seattle",
-    "job_state": "WA",
+    "job_city": "Austin",
+    "job_state": "TX",
     "job_posted_at": "1w",
     "job_description": "• Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approachesApply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businessesIdentify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trendsDefine, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendationsPartner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.\n• Degree must be completed prior to joining MetaBachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent2+ years of work experience in analytics and data querying languages (e.\n• R)2+ years of experience solving analytical problems using quantitative approaches, understanding ecosystems, user behaviors & long-term product trends, and leading data-driven projects from definition to execution [including defining metrics, experiment, design, communicating actionable insights] Master's or Ph.\n• Degree in a quantitative field.\n• SQL), scripting languages (e.\n• Python), and/or statistical/mathematical software (e.",
-    "job_apply_link": "https://www.aijobs.com/jobs/152176590-data-scientist-product-analytics",
-    "id": "ai-jobs-data-scientist-product-analytics-seattle"
+    "job_apply_link": "https://www.aijobs.com/jobs/157379846-data-scientist-product-analytics",
+    "id": "ai-jobs-data-scientist-product-analytics-austin"
   },
   {
     "employer_name": "AI Jobs",
@@ -812,12 +752,12 @@
   {
     "employer_name": "AI Jobs",
     "job_title": "Data Scientist, Product Analytics",
-    "job_city": "Redmond",
+    "job_city": "Seattle",
     "job_state": "WA",
     "job_posted_at": "1w",
     "job_description": "• Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approachesApply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businessesIdentify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trendsDefine, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendationsPartner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.\n• Degree must be completed prior to joining MetaBachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent2+ years of work experience in analytics and data querying languages (e.\n• R)2+ years of experience solving analytical problems using quantitative approaches, understanding ecosystems, user behaviors & long-term product trends, and leading data-driven projects from definition to execution [including defining metrics, experiment, design, communicating actionable insights] Master's or Ph.\n• Degree in a quantitative field.\n• SQL), scripting languages (e.\n• Python), and/or statistical/mathematical software (e.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164520411-data-scientist-product-analytics",
-    "id": "ai-jobs-data-scientist-product-analytics-redmond"
+    "job_apply_link": "https://www.aijobs.com/jobs/152176590-data-scientist-product-analytics",
+    "id": "ai-jobs-data-scientist-product-analytics-seattle"
   },
   {
     "employer_name": "AI Jobs",
@@ -842,22 +782,12 @@
   {
     "employer_name": "AI Jobs",
     "job_title": "Data Scientist, Product Analytics",
-    "job_city": "Menlo Park",
+    "job_city": "San Francisco",
     "job_state": "CA",
     "job_posted_at": "1w",
     "job_description": "• Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approachesApply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businessesIdentify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trendsDefine, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendationsPartner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.\n• Degree must be completed prior to joining MetaBachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent2+ years of work experience in analytics and data querying languages (e.\n• R)2+ years of experience solving analytical problems using quantitative approaches, understanding ecosystems, user behaviors & long-term product trends, and leading data-driven projects from definition to execution [including defining metrics, experiment, design, communicating actionable insights] Master's or Ph.\n• Degree in a quantitative field.\n• SQL), scripting languages (e.\n• Python), and/or statistical/mathematical software (e.",
-    "job_apply_link": "https://www.aijobs.com/jobs/152176577-data-scientist-product-analytics",
-    "id": "ai-jobs-data-scientist-product-analytics-menlo-park"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist, Product Analytics",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "1w",
-    "job_description": "• Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approachesApply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businessesIdentify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trendsDefine, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendationsPartner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.\n• Degree must be completed prior to joining MetaBachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent2+ years of work experience in analytics and data querying languages (e.\n• R)2+ years of experience solving analytical problems using quantitative approaches, understanding ecosystems, user behaviors & long-term product trends, and leading data-driven projects from definition to execution [including defining metrics, experiment, design, communicating actionable insights] Master's or Ph.\n• Degree in a quantitative field.\n• SQL), scripting languages (e.\n• Python), and/or statistical/mathematical software (e.",
-    "job_apply_link": "https://www.aijobs.com/jobs/157379846-data-scientist-product-analytics",
-    "id": "ai-jobs-data-scientist-product-analytics-austin"
+    "job_apply_link": "https://www.aijobs.com/jobs/148949067-data-scientist-product-analytics",
+    "id": "ai-jobs-data-scientist-product-analytics-san-francisco"
   },
   {
     "employer_name": "AI Jobs",
@@ -891,56 +821,6 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Artificial Intelligence Engineer",
-    "job_city": "Plano",
-    "job_state": "TX",
-    "job_posted_at": "2d",
-    "job_description": "• Collaborate closely with senior leadership, product managers, and key stakeholders to identify high-impact AI opportunities, define comprehensive project requirements, and effectively communicate progress and outcomes.\n• Bachelor's or similar education in Computer Science, Artificial Intelligence, Data Science, or a related field.\n• Minimum of 1 year of experience in AI engineering, with a proven track record of leading complex AI projects from conception to deployment.\n• Experience with data processing tools and big data technologies (e.\n• Experience in Agile methodologies and project management tools (e.\n• Excellent verbal and written communication skills, with the ability to convey technical concepts to non-technical stakeholders.\n• Understanding of ethical considerations and regulatory requirements related to AI technologies.\n• Familiarity with AI applications in the automotive industry or related fields, including autonomous systems, predictive maintenance, and customer experience enhancement.",
-    "job_apply_link": "https://www.aijobs.com/jobs/165320841-artificial-intelligence-engineer",
-    "id": "ai-jobs-artificial-intelligence-engineer-plano"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Growth - Emails, Notifications and Lifecycle",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "2w",
-    "job_description": "• 8+ years of growth experience spanning both consumer (B2C) and business (B2B) products, with a track record of scaling email, push, and in-app messaging platforms and growth initiatives driving activation, engagement, and paid conversion.\n• Hands-on experience with automation, email, and messaging platforms (e.\n• Strong analytical skills with the ability to model consumer funnels and lead-to-customer pipelines, leveraging data to identify growth opportunities and measure impact.\n• Deep expertise in audience segmentation, targeting, and multi-channel orchestration (email, push, in-app, SMS) across self-serve consumer funnels and multi-stakeholder B2B purchase journeys.\n• , SendGrid, Braze, Iterable, Customer.\n• Io, Marketo) and comfort working with APIs, event triggers, and CRM data.\n• Proven ability to design and interpret experimentation and measurement frameworks—A/B tests, multivariate testing, and incrementality studies—to optimize lifecycle touchpoints across different customer types.\n• Demonstrated success collaborating cross-functionally with product, engineering, design, sales, and analytics teams to build scalable lifecycle programs and nurture both individual users and enterprise accounts.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163527146-growth-emails-notifications-and-lifecycle",
-    "id": "ai-jobs-growth-emails-notifications-and-lifecycle-san-francisco"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Growth - Emails, Notifications and Lifecycle",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "2w",
-    "job_description": "• 8+ years of growth experience spanning both consumer (B2C) and business (B2B) products, with a track record of scaling email, push, and in-app messaging platforms and growth initiatives driving activation, engagement, and paid conversion.\n• Hands-on experience with automation, email, and messaging platforms (e.\n• Strong analytical skills with the ability to model consumer funnels and lead-to-customer pipelines, leveraging data to identify growth opportunities and measure impact.\n• Deep expertise in audience segmentation, targeting, and multi-channel orchestration (email, push, in-app, SMS) across self-serve consumer funnels and multi-stakeholder B2B purchase journeys.\n• , SendGrid, Braze, Iterable, Customer.\n• Io, Marketo) and comfort working with APIs, event triggers, and CRM data.\n• Proven ability to design and interpret experimentation and measurement frameworks—A/B tests, multivariate testing, and incrementality studies—to optimize lifecycle touchpoints across different customer types.\n• Demonstrated success collaborating cross-functionally with product, engineering, design, sales, and analytics teams to build scalable lifecycle programs and nurture both individual users and enterprise accounts.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163527145-growth-emails-notifications-and-lifecycle",
-    "id": "ai-jobs-growth-emails-notifications-and-lifecycle-"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Growth - B2B / B2C Funnel Optimizations",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "2w",
-    "job_description": "• 8+ years in growth roles, ideally with experience scaling both consumer and enterprise offerings.\n• Deep analytical skills: comfortable with funnel modeling, segmentation, cohort analysis, and experimentation design.\n• Experience working with data / experimentation platforms (e.\n• Hands-on experience instrumenting growth stacks (tracking, events, CRM/lifecycle systems) to enable granular measurement across B2B and B2C funnels.\n• Proven track record running and scaling full-funnel growth programs with strong ROI and impact.\n• A/B testing, attribution systems).\n• Strong cross-functional collaboration with product, engineering, design, and analytics teams.\n• Ability to context-switch between strategic modeling (market sizing, marginal ROI) and tactical execution (channel-level ops, creative/value prop testing, funnel QA).",
-    "job_apply_link": "https://www.aijobs.com/jobs/163527140-growth-b2b-b2c-funnel-optimizations",
-    "id": "ai-jobs-growth-b2b-b2c-funnel-optimizations-"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Growth - B2B / B2C Funnel Optimizations",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "2w",
-    "job_description": "• 8+ years in growth roles, ideally with experience scaling both consumer and enterprise offerings.\n• Deep analytical skills: comfortable with funnel modeling, segmentation, cohort analysis, and experimentation design.\n• Experience working with data / experimentation platforms (e.\n• Hands-on experience instrumenting growth stacks (tracking, events, CRM/lifecycle systems) to enable granular measurement across B2B and B2C funnels.\n• Proven track record running and scaling full-funnel growth programs with strong ROI and impact.\n• A/B testing, attribution systems).\n• Strong cross-functional collaboration with product, engineering, design, and analytics teams.\n• Ability to context-switch between strategic modeling (market sizing, marginal ROI) and tactical execution (channel-level ops, creative/value prop testing, funnel QA).",
-    "job_apply_link": "https://www.aijobs.com/jobs/163527147-growth-b2b-b2c-funnel-optimizations",
-    "id": "ai-jobs-growth-b2b-b2c-funnel-optimizations-san-francisco"
-  },
-  {
-    "employer_name": "AI Jobs",
     "job_title": "Computer Vision/Deep Learning Scientist",
     "job_city": "Norfolk",
     "job_state": "VA",
@@ -951,23 +831,63 @@
   },
   {
     "employer_name": "AI Jobs",
+    "job_title": "Computer Vision Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1w",
+    "job_description": "• Demonstrated experience with a modern deep learning framework such as PyTorch or TensorFlow.\n• Excellent communication skills and a proven ability to work effectively in a collaborative, fast-paced R&D environment.\n• In Computer Science, Electrical Engineering, or a related field with 3+ years of relevant experience, or an M.\n• With equivalent project experience.\n• Work in close partnership with hardware/software engineers to define requirements, develop solutions, and integrate them into our broader systems.\n• Prior experience with body-part segmentation, keypoint detection, and 3D pose reconstruction.\n• Prior project experience in biomedical engineering, physiology, or medical device development.\n• Deep expertise in deep learning for computer vision, specifically in human pose estimation and tracking.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163135306-computer-vision-engineer",
+    "id": "ai-jobs-computer-vision-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AI Jobs",
     "job_title": "Data Scientist",
     "job_city": "Aurora",
     "job_state": "CO",
-    "job_posted_at": "1d",
+    "job_posted_at": "2d",
     "job_description": "• Medical, Dental, and Vision Coverage for Employee and Dependents Up to 25 Days of Paid Time OffUp to 40 hours of PTO Carryover11 Federal Government HolidaysWork From Home Opportunities401K Company Contribution, Fully Vested Day 1Discretionary, Certification, and Sign-On Bonus Potential Employee Referral Bonus Program Annual Professional Development 100% Premium Covered for Life & Disability InsurancesAdditional Voluntary Life Insurance Coverage Available Employee Assistance ProgramTravel Protection ProgramFinancial Planning Assistance Bereavement and Jury Duty LeaveMonthly Team and Family EventsTechnology BudgetGlobal EntryAnnual Swag Budget Building and maintaining custom data analytics to automate and scale signals analysis Experience with adversary defeat, mission management, metrics, and data visualizationExperience compiling various data sources via computer scripting, statistical analysis, data modeling, etcNeed someone who understands very large networks, telcos, and can use DS skills to make sense of large data sets Possess an active or rein-statable TS/SCI with Polygraph security clearanceU.\n• Citizenship3+ years of experience and a Bachelor's Degree in Computer Science or a related disciplinePossess software development skillsWork well independently as well as on a team.\n• Strong communication skills.\n• An active or rein-statable TS/SCI with Polygraph security clearance is REQUIRED.\n• Please do not apply if you currently do not possess this level of clearance.\n• *** Long term job securityCompetitive salaries & bonus opportunitiesChallenging work you are passionate aboutAbility to work with some amazingly talented people.",
     "job_apply_link": "https://www.aijobs.com/jobs/165367972-data-scientist",
     "id": "ai-jobs-data-scientist-aurora"
   },
   {
     "employer_name": "AI Jobs",
+    "job_title": "Data Scientist, Financial Engineering",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "3d",
+    "job_description": "• 5+ years in a quantitative role (data science, product analytics, or experimentation) in high-growth or fintech environmentsFluency in SQL and Python, with a track record designing and interpreting A/B tests and quasi-experimentsExperience building product metrics from scratch and operationalizing them for decision-makingExcellent communication skills with PMs, engineers, risk/finance partners, and executivesStrategic instincts beyond significance tests—clear thinking about tradeoffs (conversion vs.\n• User experience) Payments, checkout, or subscription analytics experience (PSPs, bank rails, disputes/refunds, risk, e-commerce)Background in offline incrementality methods, uplift modeling, CUPED/causal inference, or counterfactual evaluationExperience with internationalization/local payments, FX, and pricing & packaging strategyComfort building operational analytics (alerting, SLIs/SLOs) and partnering closely with data engineering Own checkout & payments analytics and experimentation across methods and locales (e.\n• , bank transfers, emerging rails), improving conversion while monitoring risk and latency.\n• Build and run the experimentation program for in-house checkout—define success metrics and guardrails, execute staged rollouts, and use offline incrementality when online tests aren’t feasible.\n• Create operational visibility and source-of-truth data with FinEng Data Engineering—land team-level metrics, SLAs, and self-serve dashboards that drive proactive action.\n• Lead subscription, retention, and monetization analytics—ship launch-readiness for new subscription features, reduce involuntary churn (e.\n• , targeted retrials/nudges), and develop elasticity/FX frameworks toward pricing optimality.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165332626-data-scientist-financial-engineering",
+    "id": "ai-jobs-data-scientist-financial-engineering-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist",
+    "job_city": "Honolulu",
+    "job_state": "HI",
+    "job_posted_at": "2d",
+    "job_description": "• Citizenship3+ years of experience and a Bachelor's Degree in Computer Science or a related disciplinePossess software development skillsWork well independently as well as on a team.\n• Strong communication skills.\n• An active or rein-statable TS/SCI with Polygraph security clearance is REQUIRED.\n• *** Long term job securityCompetitive salaries & bonus opportunitiesChallenging work you are passionate aboutAbility to work with some amazingly talented people Developing data analytics and automating analytic workflows for Data ParsingTool knowledge neededData flow knowledge neededPython Needed.\n• Medical, Dental, and Vision Coverage for Employee and Dependents Up to 25 Days of Paid Time OffUp to 40 hours of PTO Carryover11 Federal Government HolidaysWork From Home Opportunities401K Company Contribution, Fully Vested Day 1Discretionary, Certification, and Sign-On Bonus Potential Employee Referral Bonus Program Annual Professional Development 100% Premium Covered for Life & Disability InsurancesAdditional Voluntary Life Insurance Coverage Available Employee Assistance ProgramTravel Protection ProgramFinancial Planning Assistance Bereavement and Jury Duty LeaveMonthly Team and Family EventsTechnology BudgetGlobal EntryAnnual Swag Budget Possess an active or rein-statable TS/SCI with Polygraph security clearanceU.\n• Please do not apply if you currently do not possess this level of clearance.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165367967-data-scientist",
+    "id": "ai-jobs-data-scientist-honolulu"
+  },
+  {
+    "employer_name": "AI Jobs",
     "job_title": "AI Residency",
     "job_city": "Palo Alto",
     "job_state": "CA",
-    "job_posted_at": "23h",
+    "job_posted_at": "1d",
     "job_description": "• We are looking for people with the courage to tackle unsolved technical challenges with an intense work ethicBachelor’s degree in Computer Science or equivalent.\n• We're mostly looking for graduate-level students in ML and Robotics programs, but are willing to consider exceptional peopleProficiency working with large codebases in Python, including testingAbility to rapidly prototype ideas in code in an independent mannerExperience with Deep Learning Frameworks (Pytorch, TF, JAX, etc.\n• ) Robotics and ROS experienceHas built large programming projects on their own for fun (e.\n• ) Fast thinker and learnerHighly independent code contributorCapable of performing world-class machine learning research but willing to work on infra and operational scaling of the fleet when neededGood judgement in scoping research problems and infrastructure.\n• Getting general-purpose robots to work in the home is just about the hardest problem one can work on.\n• Open source projects)Systems programmingTraining large-scale ML models such as visual foundation models, large language models, pixel-level generative modelsPublished robotics research in top ML conferences (CVPR, ICML, ICLR, etc.",
     "job_apply_link": "https://www.aijobs.com/jobs/165604051-ai-residency",
     "id": "ai-jobs-ai-residency-palo-alto"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Applied Data Scientist, Analytics & Insights, Americas",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_posted_at": "1w",
+    "job_description": "• Proven experience in an analytics or data science role.\n• Rigorous and structured analytical problem solving skills with deep understanding of how to use data to measure and drive business operations.\n• Exceptional communication skills, with the ability to tell data-driven stories and influence key collaborators across senior levels of the organization.\n• Bachelor’s degree in Engineering, Math, Physics or other related field or equivalent work experience Experience in consulting, or with top-tier consumer or tech brands would be an advantage.\n• Strong commercial competence with the ability to translate data into business impact and drive commercial decisions.\n• Proficient with analytics tools and techniques (e.\n• , SQL, Python, AI, and data visualization platforms like Power BI, Looker or Tableau).\n• Ability to work collaboratively and cross-functionally to embed analytics in the decision-making process across multiple departments.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164634623-applied-data-scientist-analytics-insights-americas",
+    "id": "ai-jobs-applied-data-scientist-analytics-insights-americas-boston"
   },
   {
     "employer_name": "AI Jobs",
@@ -1011,6 +931,16 @@
   },
   {
     "employer_name": "AI Jobs",
+    "job_title": "AI (Python) Engineer",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_posted_at": "7h",
+    "job_description": "• Research and publish internal training resources, workshops, and documentation to upskill teams.\n• 2–3 years of hands-on experience in developing, deploying, and scaling AI/ML solutions.\n• Experience leading AI-focused projects and collaborating with business & technical stakeholders.\n• Experience with containerization and cloud services (Azure/AWS/GCP).\n• Bachelor’s degree in computer science, Data Science, AI/ML, or related field (required).\n• Master’s degree (preferred).\n• Clear communication — able to explain complex AI concepts to technical and non-technical audiences.\n• Collaboration & teamwork — works well across engineering, business, and research teams.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165793464-ai-python-engineer",
+    "id": "ai-jobs-ai-python-engineer-dallas"
+  },
+  {
+    "employer_name": "AI Jobs",
     "job_title": "AI Engineer",
     "job_city": "",
     "job_state": "US",
@@ -1024,7 +954,7 @@
     "job_title": "Backend Software Engineer (Evals) – Support Automation Engineering",
     "job_city": "San Francisco",
     "job_state": "California",
-    "job_posted_at": "1w",
+    "job_posted_at": "2w",
     "job_description": "• Collaborate closely with data, research, and engineering teams to integrate OpenAI models into high-leverage workflowsOwn the full development lifecycle of new backend systems and internal platform capabilitiesBuild with scale and maintainability in mind, while rapidly iterating on new ideas 4+ years of backend engineering experience at product-driven companies (excluding internships)Proficiency in backend technologies.\n• Our tech stack includes Python, FastAPI, and PostgresExperience designing and scaling distributed systems, APIs, or data processing pipelinesHave experience building AI agents or applications, including designing evals and improving performance through prompting or scaffoldingAre familiar with evaluation methods for LLMs and have worked with patterns like multi-agent workflows, tool use, or long context.\n• Experience creating production evals and/or measuring performance of ML/LLM models at scaleA pragmatic mindset.\n• Design eval pipelines that are reliable, reproducible, and extendableBuild the infrastructure for continuous eval monitoring frameworks (regression/drift monitoring, building robust golden datasets) along with feedback loops that ultimately strengthen support automationDesign, build, and maintain backend services and APIs to support intelligent automation and knowledge systemsIntegrate and structure data across internal platforms, transforming it into formats optimized for use by downstream systems and AI workflows.\n• You’re comfortable shipping iteratively while building toward a long-term vision.",
     "job_apply_link": "https://www.aijobs.com/jobs/163527133-backend-software-engineer-evals-support-automation-engineering",
     "id": "ai-jobs-backend-software-engineer-evals-support-automation-engineering-san-francisco"
@@ -1051,6 +981,16 @@
   },
   {
     "employer_name": "AI Jobs",
+    "job_title": "Research Engineer, Human-Centered AI",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1w",
+    "job_description": "• Have experience with machine learning frameworks (e.\n• Are goal-oriented instead of method-oriented, and are not afraid of tedious but high-value work when needed.\n• Have an interest or background in cognitive science, computational linguistics, human-computer interaction, or social sciences.\n• Research and model mechanisms that create value for people, with an emphasis on explaining or predicting preferences, behaviors, and satisfaction.\n• , PyTorch) and are comfortable experimenting with large-scale models.\n• Enjoy moving fluidly between high-level research questions and low-level implementation details, adapting methods to solve ambiguous, dynamic problems.\n• Are strongly motivated by OpenAI’s mission of building safe, universally beneficial AGI and are aligned with OpenAI’s charterWant to work on systems that balance breakthrough capabilities with robust alignment, ultimately shaping a safer and more human-centered AI landscape.\n• Excel in fast-paced, collaborative, and cutting-edge research environments.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164458328-research-engineer-human-centered-ai",
+    "id": "ai-jobs-research-engineer-human-centered-ai-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
     "job_title": "Machine Learning Engineer",
     "job_city": "Los Angeles",
     "job_state": "CA",
@@ -1071,16 +1011,6 @@
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "AI/ML Engineer",
-    "job_city": "Philadelphia",
-    "job_state": "PA",
-    "job_posted_at": "1d",
-    "job_description": "• Bachelor’s/Master’s in CS, Data Science, or related field (or equivalent experience)Foundational ML knowledge and Python skillsBasic cloud experience (AWS preferred)Familiarity with Git and strong problem-solving skillsExcellent communication and teamwork abilitiesAble to work onsite in Philadelphia 3 days per week Hands-on experience with state-of-the-art AI/ML technologiesMentorship from experienced engineersProfessional development and training opportunitiesClear growth paths in a rapidly evolving fieldA collaborative hybrid work environment Exposure to LLM/RAG frameworks (LangChain, LangSmith)Experience with Docker/ECS, Databricks, or MLOps practicesFamiliarity with SQL, vector databases, or anomaly detection projects Develop and support RAG AI agents (LangSmith/LangGraph)Deploy and maintain MCP servers (FastMCP on AWS ECS)Contribute to anomaly detection and smart alarming models on DatabricksWrite clean, maintainable Python code and participate in reviewsCollaborate with senior engineers on design and implementationDocument technical work, test, debug, and optimize modelsSupport data pipeline and preprocessing workflows.",
-    "job_apply_link": "https://www.aijobs.com/jobs/165367970-ai-ml-engineer",
-    "id": "ai-jobs-ai-ml-engineer-philadelphia"
-  },
-  {
-    "employer_name": "AI Jobs",
     "job_title": "Generative AI Engineer",
     "job_city": "Chicago",
     "job_state": "IL",
@@ -1090,43 +1020,23 @@
     "id": "ai-jobs-generative-ai-engineer-chicago"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Associate Data Scientist, Payments Data & Analytics",
-    "job_city": "Plano",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "• Assistant Vice President - Data Science / Applied AI ML Bengaluru, Karnataka, India Data & AnalyticsPredictive Science Assistant Vice President - Data Science / Applied AI ML Data Science Senior Associate - Connected Commerce Columbus, OH, United States Data & AnalyticsPredictive Science Drive advanced analytics projects to deliver actionable insights and enhance customer experience across Connected Commerce.\n• Applied AIML Data Scientist Lead - Vice President Plano, TX, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Lead who applies quantitative, data science and analytical skills to complex problems.\n• Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Data Scientist Director - AI, ML, Gen AI Brooklyn, NY, United States Data & AnalyticsPredictive Science Seeking a dynamic leader with a strong corporate finance and analytical background.\n• Principle Software Engineer Palo Alto, CA, United States TechnologySoftware Engineering We are seeking a highly skilled and experienced Principal AI/ML and Gen AI Engineer to join our dynamic team at CCB COSMIC.\n• Product Analytics Lead, Employee Experience New York, NY, United States Data & AnalyticsQuant Analytics Collaborate with senior product managers, engineers, UX designers, and executive stakeholders to design and implement solutions Software Engineer III – Applied AI/ML Python Software Engineer LONDON, United Kingdom TechnologySoftware Engineering Software Engineer III – Applied AI/ML Python Software Engineer Lead Software Engineer - Java , React , AWS Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team 2026 Consumer & Community Banking Risk Modeling Associate Program – Summer Internship Wilmington, DE, United States and 3 more Data & AnalyticsSeasonal Employee We are looking for innovative problem-solvers with a passion for developing complex solutions that support our global business.\n• Product Owner - Customer Identity & Authentication Plano, TX, United States and 1 more Product/Investment MgmtProduct Product manager who leads strategy and delivery of secure, user-friendly customer identity and authentication solutions Product Manager – Speech AI – Vice President – Machine Learning Center of Excellence New York, NY, United States ProductProduct Management Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Technical Program Manager: AI Project Lead Jersey City, NJ, United States TechnologyTechnical Program Delivery Manage complex agentic AI tech programs at a leading firm, driving innovation and success with expert skills Applied AI ML Lead Jersey City, NJ, United States Data & AnalyticsPredictive Science This is a unique opportunity to apply your skills and contribute to impactful global business initiatives.\n• Agile Scrum Master Mumbai, Maharashtra, India ProductProduct Management Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Senior Application Support Engineer Metro Manila, National Capital Region, Philippines TechnologyTechnology Support Provide business-oriented technology support for Securities Services, managing production incidents and driving automation initiatives.\n• Client Service Senior Associate Plano, TX, United States OperationsClient Service Own our Commercial Bank Client’s experience.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210673274/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-associate-data-scientist-payments-data-analytics-plano"
+    "employer_name": "AI Jobs",
+    "job_title": "Computer Vision Engineer",
+    "job_city": "Tremont",
+    "job_state": "IL",
+    "job_posted_at": "1w",
+    "job_description": "• Bachelor’s degree in Computer Science/Computer Engineering/Electrical Engineering or other Engineering with equivalent experience.\n• Proficiency in C++, and Python (OpenCV, Numpy, Matplotlib, etc) Proven ability to cross-compile and optimize modern C++ / Python computer-vision code on embedded Linux devices, preferably on the NVIDIA Jetson platform Familiarity or experience with ML packages (Sklearn, TensorFlow, PyTorch, etc) Familiarity or experience with Computer Vision concepts such as camera calibration, lens-distortion correction, feature extraction/matching, optical flow and multi-frame tracking.\n• Ability to work independently and high attention to detail Strong communication skills and experience being a flexible team player Passion and tenacity to solve difficult problems in a highly functioning, fast paced team environment Must be authorized to work in the U.\n• 3+ years developing algorithms and product solutions through software and embedded systems design 3+ years of software development experience in C++, C, or Python Experience developing computer vision and/or machine learning based systems and solutions Hands-on experience configuring BSPs, customizing kernels, and building/maintaining Yocto images, with solid understanding of board-level interfaces (camera, CAN, I²C, SPI, GPIO) and in-field flashing and update processes.\n• Health care and wellness plans Dental and vision plans Flexible and virtual work options (where available) 401(k) Savings Plan with company match Employee Stock Purchase Plan offering eligible employees the ability to purchase AGCO stock at a discounted price Paid holidays and paid time off Health savings and flexible spending accounts Reimbursement for continuing education Life insurance and other supplemental insurance plans.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163675239-computer-vision-engineer",
+    "id": "ai-jobs-computer-vision-engineer-tremont"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Full Stack Software Engineer III - Java/React/AWS",
-    "job_city": "Jacksonville",
-    "job_state": "FL",
-    "job_posted_at": "Recently",
-    "job_description": "• Assistant Vice President - Data Science / Applied AI ML Bengaluru, Karnataka, India Data & AnalyticsPredictive Science Assistant Vice President - Data Science / Applied AI ML Data Science Senior Associate - Connected Commerce Columbus, OH, United States Data & AnalyticsPredictive Science Drive advanced analytics projects to deliver actionable insights and enhance customer experience across Connected Commerce.\n• Applied AIML Data Scientist Lead - Vice President Plano, TX, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Lead who applies quantitative, data science and analytical skills to complex problems.\n• Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Data Scientist Director - AI, ML, Gen AI Brooklyn, NY, United States Data & AnalyticsPredictive Science Seeking a dynamic leader with a strong corporate finance and analytical background.\n• Principle Software Engineer Palo Alto, CA, United States TechnologySoftware Engineering We are seeking a highly skilled and experienced Principal AI/ML and Gen AI Engineer to join our dynamic team at CCB COSMIC.\n• Product Analytics Lead, Employee Experience New York, NY, United States Data & AnalyticsQuant Analytics Collaborate with senior product managers, engineers, UX designers, and executive stakeholders to design and implement solutions Software Engineer III – Applied AI/ML Python Software Engineer LONDON, United Kingdom TechnologySoftware Engineering Software Engineer III – Applied AI/ML Python Software Engineer Lead Software Engineer - Java , React , AWS Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team 2026 Consumer & Community Banking Risk Modeling Associate Program – Summer Internship Wilmington, DE, United States and 3 more Data & AnalyticsSeasonal Employee We are looking for innovative problem-solvers with a passion for developing complex solutions that support our global business.\n• Product Owner - Customer Identity & Authentication Plano, TX, United States and 1 more Product/Investment MgmtProduct Product manager who leads strategy and delivery of secure, user-friendly customer identity and authentication solutions Product Manager – Speech AI – Vice President – Machine Learning Center of Excellence New York, NY, United States ProductProduct Management Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Technical Program Manager: AI Project Lead Jersey City, NJ, United States TechnologyTechnical Program Delivery Manage complex agentic AI tech programs at a leading firm, driving innovation and success with expert skills Applied AI ML Lead Jersey City, NJ, United States Data & AnalyticsPredictive Science This is a unique opportunity to apply your skills and contribute to impactful global business initiatives.\n• Agile Scrum Master Mumbai, Maharashtra, India ProductProduct Management Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Senior Application Support Engineer Metro Manila, National Capital Region, Philippines TechnologyTechnology Support Provide business-oriented technology support for Securities Services, managing production incidents and driving automation initiatives.\n• Client Service Senior Associate Plano, TX, United States OperationsClient Service Own our Commercial Bank Client’s experience.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210666757/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-full-stack-software-engineer-iii-java-react-aws-jacksonville"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "UX Quantitative Researcher, Google Photos",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role UX Quantitative Researcher, Google Photos",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/94253969810825926-ux-quantitative-researcher-google-photos?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2",
-    "id": "google-ux-quantitative-researcher-google-photos-mountain-view"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Data Engineer, AWS Infrastructure Supply Chain Automation",
-    "job_city": "Herndon",
-    "job_state": "VA",
-    "job_posted_at": "1 day",
-    "job_description": "data science job for the role Data Engineer, AWS Infrastructure Supply Chain Automation",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3100406/data-engineer-aws-infrastructure-supply-chain-automation",
-    "id": "amazon-data-engineer-aws-infrastructure-supply-chain-automation-herndon"
+    "employer_name": "AI Jobs",
+    "job_title": "Research Scientist, Health AI",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Have 4+ years of experience with deep learning research and LLMs, especially practical alignment topics such as RLHF, automated red teaming, scalable oversight, etc.\n• Or other degree in computer science, AI, machine learning, or a related field.\n• Stay goal-oriented instead of method-oriented, and are not afraid of unglamorous but high-value work when needed.\n• Possess experience making practical model improvements for AI model deployment.\n• Bonus: possess experience in health-related AI research or deployments.\n• Are excited about OpenAI’s mission of ensuring AGI is universally beneficial and are aligned with OpenAI’s charter.\n• Demonstrate passion for AI safety and improving global health outcomes.\n• Own problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165332620-research-scientist-health-ai",
+    "id": "ai-jobs-research-scientist-health-ai-san-francisco"
   }
 ]
