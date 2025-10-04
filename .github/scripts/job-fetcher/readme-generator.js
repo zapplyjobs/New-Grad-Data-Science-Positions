@@ -187,7 +187,7 @@ Top internships for students in data science, statistics, analytics, and related
 ${internshipData.companyPrograms
   .map((program) => {
   
-    return `| ${program.emoji} **${program.company}** | ${program.program} |<a href="${program.url}"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|`;
+    return `| ${program.emogi} **${program.company}** | ${program.program} |<a href="${program.url}"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|`;
   })
   .join("\n")}
 
