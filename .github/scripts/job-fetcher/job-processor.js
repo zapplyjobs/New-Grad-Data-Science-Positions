@@ -119,13 +119,13 @@ async function fetchAllJobs() {
         // Search without location first
         const jobs = await searchJobs(query);
         allJobs.push(...jobs);
-        await delay(1200); // Respect rate limits
-        
+        await delay(500); // Respect rate limits (reduced from 1200ms)
+
         // Then search specific locations for higher-quality results
-        for (const location of locations.slice(0, 2)) { // Limit to 2 locations to conserve API calls
+        for (const location of locations.slice(0, 1)) { // Limit to 1 location to conserve API calls (reduced from 2)
             const locationJobs = await searchJobs(query, location);
             allJobs.push(...locationJobs);
-            await delay(1200);
+            await delay(500); // Reduced from 1200ms
         }
     }
     
@@ -134,7 +134,7 @@ async function fetchAllJobs() {
     for (const query of newGradQueries) {
         const jobs = await searchJobs(query);
         allJobs.push(...jobs);
-        await delay(1200);
+        await delay(500); // Reduced from 1200ms
     }
     
     console.log(`📊 Total jobs fetched: ${allJobs.length}`);
