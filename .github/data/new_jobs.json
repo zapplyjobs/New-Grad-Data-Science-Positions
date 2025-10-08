@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "Infineon Technologies",
-    "job_title": "Graduate - Quality Engineer",
-    "job_city": "Leominster",
+    "employer_name": "IBM",
+    "job_title": "Data Scientist - Hardware Development",
+    "job_city": "shipPOUGHKEEPSIE",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "data science job for the role Graduate - Quality Engineer",
-    "job_apply_link": "https://jobs.infineon.com/careers",
-    "id": "infineon-technologies-graduate-quality-engineer-leominster"
+    "job_description": "data science job for the role Data Scientist - Hardware Development",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58480&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-hardware-development-shippoughkeepsie"
   },
   {
-    "employer_name": "Intel",
-    "job_title": "MES Engineer",
-    "job_city": "3 Locations",
+    "employer_name": "IBM",
+    "job_title": "Product Engineer - IBM Z",
+    "job_city": "POUGHKEEPSIE",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Identity Security Analystlocations3 Locationsposted onPosted 12 Days AgoJR0277299Network Security Analystlocations2 Locationsposted onPosted 12 Days AgoJR0277300Senior Export Compliance Specialistlocations5 Locationsposted onPosted 20 Days AgoJR0277420Director-Commercial Workstation Segmentlocations4 Locationsposted onPosted 30+ Days AgoJR0277012Cyber Security Managerlocations3 Locationsposted onPosted 5 Days AgoJR0277638IP Enablement Application Engineerlocations3 Locationsposted onPosted 29 Days AgoJR0273988Manufacturing and Process Development - Intern, Graduatelocations3 Locationsposted onPosted 30+ Days AgoJR0276775Software Engineering - Intern, Graduatelocations5 Locationsposted onPosted 30+ Days AgoJR0276778Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted 30+ Days AgoJR0276774Manufacturing and Process Development - Intern, Bachelorslocations3 Locationsposted onPosted 30+ Days AgoJR0276779Software Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 30+ Days AgoJR0276773Silicon Hardware Engineering - Intern, Bachelorslocations5 Locationsposted onPosted 30+ Days AgoJR0276780Sr.\n• Infrastructure Engineer – Windows OSlocationsUS, Arizona, Phoenixposted onPosted 16 Days AgoJR0277459Sr.\n• Infrastructure Engineer – Linux OSlocationsUS, Arizona, Phoenixposted onPosted 16 Days AgoJR0277458Software Application Development Engineerlocations2 Locationsposted onPosted 7 Days AgoJR0277557JR0277575Physical Verification Application Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0272754Software Application Development EngineerlocationsUS, California, Santa Claraposted onPosted 16 Days AgoJR0276922MES EngineerlocationsUS, Arizona, Phoenixposted onPosted 8 Days AgoJR0277565MES Engineerlocations3 Locationsposted onPosted TodayJR0277570.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/MES-Equipment-and-WIP-Modeler_JR0277570?q=data+science&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-mes-engineer-3-locations"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Research Intern - Gray Systems Lab (GSL)",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "1d",
-    "job_description": "data science job for the role Research Intern - Gray Systems Lab (GSL)",
-    "job_apply_link": "https://jobs.careers.microsoft.com",
-    "id": "microsoft-research-intern-gray-systems-lab-gsl-redmond"
+    "job_description": "data science job for the role Product Engineer - IBM Z",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63348&source=WEB_Search_NA",
+    "id": "ibm-product-engineer-ibm-z-poughkeepsie"
   }
 ]
