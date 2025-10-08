@@ -1,12 +1,12 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Google Cloud Business Platforms",
-    "job_city": "Kirkland",
-    "job_state": "WA",
-    "job_posted_at": "1h",
-    "job_description": "data science job for the role Software Engineer III, Google Cloud Business Platforms",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/109587454029112006-software-engineer-iii-google-cloud-business-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=5",
-    "id": "google-software-engineer-iii-google-cloud-business-platforms-kirkland"
+    "employer_name": "IBM",
+    "job_title": "Data Scientist Intern",
+    "job_city": "shipAustin",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "data science job for the role Data Scientist Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63317&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-intern-shipaustin"
   }
 ]
