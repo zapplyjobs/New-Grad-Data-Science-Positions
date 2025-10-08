@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Technical Support Engineer",
-    "job_city": "POUGHKEEPSIE",
+    "employer_name": "Analog Devices",
+    "job_title": "Process Engineering Intern",
+    "job_city": "3 Locations",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "data science job for the role Technical Support Engineer",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63081&source=WEB_Search_NA",
-    "id": "ibm-technical-support-engineer-poughkeepsie"
+    "job_description": "• Failure Analysis Engineering Internlocations3 Locationsposted onPosted 14 Days AgoR256321Equipment Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR255011Senior Engineer, Software Development EngineeringlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR252032Manufacturing EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR252696SERDES Digital Design EngineerlocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR243200Senior Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 26 Days AgoR252542Manufacturing InternlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR254975Staff Research Scientist, Intelligent SystemslocationsUS, MA, Bostonposted onPosted 7 Days AgoR255393Senior Engineer, Product Engineering (Prod Dev)locationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR253905Designer, CAD EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR251647Process Engineering Internlocations3 Locationsposted onPosted TodayR257265SOC Analyst Level 2locations4 Locationsposted onPosted 8 Days AgoR255974Senior Engineer, Yield Enhancement and Defect ReductionlocationsUS, WA, Camasposted onPosted 28 Days AgoR254981Senior Manager, Robotics Software EngineeringlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR253617Process Sustaining Engineer, 2nd ShiftlocationsUS, MA, Chelmsford, Alphaposted onPosted 12 Days AgoR242025Senior Engineer, Audit (Software Systems)locationsUS, MA, Wilmingtonposted onPosted 21 Days AgoR253505Quality Engineer InternlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR255008Product Applications Internlocations5 Locationsposted onPosted 14 Days AgoR255003Senior Manager, Software Development EngineeringlocationsUS, MA, Wilmingtonposted onPosted 8 Days AgoR255295B2B Delivery Lead / Sr.\n• ManagerlocationsUS, MA, Wilmingtonposted onPosted 8 Days AgoR252214.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-WA-Camas/Process-Engineering-Intern_R257265?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-process-engineering-intern-3-locations"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, AI/ML, Road Data Quality",
+    "job_title": "Quantitative UX Researcher, Payments Platform",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "data science job for the role Software Engineer III, AI/ML, Road Data Quality",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/111640826353722054-software-engineer-iii-aiml-road-data-quality?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3",
-    "id": "google-software-engineer-iii-ai-ml-road-data-quality-mountain-view"
+    "job_description": "data science job for the role Quantitative UX Researcher, Payments Platform",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/92977715983852230-quantitative-ux-researcher-payments-platform?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2",
+    "id": "google-quantitative-ux-researcher-payments-platform-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML, Learning and Education",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "data science job for the role Software Engineer III, AI/ML, Learning and Education",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/96532394126779078-software-engineer-iii-aiml-learning-and-education?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=9",
+    "id": "google-software-engineer-iii-ai-ml-learning-and-education-mountain-view"
   }
 ]
