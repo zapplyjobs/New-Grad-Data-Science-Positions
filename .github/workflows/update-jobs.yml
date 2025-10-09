@@ -79,7 +79,18 @@ jobs:
         
     - name: Push changes
       if: steps.verify-changed-files.outputs.changed == 'true'
-      run: git push origin main
+      run: |
+        # Pull latest changes and rebase our commit on top
+        git pull --rebase origin main || {
+          echo "Rebase failed, trying merge strategy..."
+          git rebase --abort 2>/dev/null || true
+          git pull origin main --no-edit || {
+            echo "Merge also failed, attempting force push of our changes..."
+            git push origin main --force-with-lease
+          }
+        }
+        # Push the changes
+        git push origin main
         
     - name: Create job summary
       run: |

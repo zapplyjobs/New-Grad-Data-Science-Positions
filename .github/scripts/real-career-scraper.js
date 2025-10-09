@@ -500,7 +500,7 @@ async function fetchSimplifyJobsData() {
 
 // Fetch jobs from all companies with real career APIs
 
-async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, batchConfig = BATCH_CONFIG) {
+async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 3, batchConfig = BATCH_CONFIG) {
   console.log("🚀 Starting optimized job fetching pipeline...");
 
   let allJobs = [];

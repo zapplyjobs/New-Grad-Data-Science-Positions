@@ -51,10 +51,11 @@ async function extractJobData(page, selector, company, pageNum) {
         const jobData = await extractSingleJobData(page, jobElements[i], selector, company, i, pageNum);
         
         if (jobData.title || jobData.applyLink) {
-          // Extract description by navigating to job page
-          if (selector.descriptionSelector && jobData.applyLink) {
-            jobData.description = await extractDescriptionNextPage(page, jobData.applyLink, selector, currentUrl, i + 1);
-          }
+          // TEMPORARILY DISABLED: Skip description extraction to speed up scraping (60min -> 5min)
+          // Re-enable if descriptions are needed for filtering
+          // if (selector.descriptionSelector && jobData.applyLink) {
+          //   jobData.description = await extractDescriptionNextPage(page, jobData.applyLink, selector, currentUrl, i + 1);
+          // }
           jobs.push(jobData);
         }
       }
@@ -78,10 +79,11 @@ async function extractJobData(page, selector, company, pageNum) {
         const jobData = await extractSingleJobData(page, currentJobElements[i], selector, company, i, pageNum);
         
         if (jobData.title || jobData.applyLink) {
-          // Extract description on same page if selector exists - FIXED TO USE INDEX
-          if (selector.descriptionSelector) {
-            jobData.description = await extractDescriptionSamePage(page, i, selector, i + 1);
-          }
+          // TEMPORARILY DISABLED: Skip description extraction to speed up scraping (60min -> 5min)
+          // Re-enable if descriptions are needed for filtering
+          // if (selector.descriptionSelector) {
+          //   jobData.description = await extractDescriptionSamePage(page, i, selector, i + 1);
+          // }
           jobs.push(jobData);
         }
       }

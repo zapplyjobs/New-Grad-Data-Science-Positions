@@ -20,7 +20,8 @@
       "Read(//mnt/c/Users/jarra/Videos/Work/Business/New-Grad-Hardware-Engineering-Positions/**)",
       "Bash(npm run build:*)",
       "Bash(npm ci:*)",
-      "Read(//mnt/c/Users/jarra/Videos/Work/Business/**)"
+      "Read(//mnt/c/Users/jarra/Videos/Work/Business/**)",
+      "Bash(git config:*)"
     ],
     "deny": []
   }
