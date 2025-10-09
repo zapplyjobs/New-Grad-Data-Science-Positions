@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "Guidehouse",
-    "job_title": "Intern-Energy Providers, General Management Consulting-Campus",
-    "job_city": "11 Locations",
-    "job_state": "US",
+    "employer_name": "Intel",
+    "job_title": "DevOps and Validation Engineer",
+    "job_city": "US",
+    "job_state": "Oregon",
     "job_posted_at": "1d",
-    "job_description": "• Intern-Energy Providers, General Management Consulting-Campus 2026locations11 Locationsposted onPosted Today329692026 D&S Tech InternlocationsUS - VA, McLeanposted onPosted Yesterday33023Systems AnalystlocationsUS - MD, Fort Detrickposted onPosted 6 Days Ago31660Federal Appian Product ManagerlocationsUS - VA, McLeanposted onPosted 8 Days Ago32467Senior Power Platform DeveloperlocationsUS - Remote (Any location)posted onPosted 8 Days Ago32207Senior Power Platform DeveloperlocationsUS - Remote (Any location)posted onPosted 8 Days Ago32547Power Platform DeveloperlocationsUS - Remote (Any location)posted onPosted 8 Days Ago32206Power Platform DeveloperlocationsUS - Remote (Any location)posted onPosted 8 Days Ago32590Senior Salesforce Developerlocations2 Locationsposted onPosted Yesterday30979HRIS Technology LeadlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago31862Staff ScientistlocationsUS - MD, Rockvilleposted onPosted 6 Days Ago32014Senior Scientist IVlocationsUS - Remote (Any location)posted onPosted 9 Days Ago32789Mathematical StatisticianlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago30575Power Platform ArchitectlocationsUS - Remote (Any location)posted onPosted 8 Days Ago32587Consultant - Actuarial Consulting, State Health - Campus 2026locationsUS - GA, Atlantaposted onPosted Yesterday33031Intern – State and Local Government, Midwest Market – Campus 2026locations2 Locationsposted onPosted Yesterday32403Intern – Customer Programs - Communities, Energy & Infrastructure – Campus 2026locations7 Locationsposted onPosted 9 Days Ago32798Senior Quality Assurance (QA) TesterlocationsUS - VA, McLeanposted onPosted 8 Days Ago32486Microsoft Dynamics 365 ArchitectlocationsUS - Remote (Any location)posted onPosted 8 Days Ago30535ScientistlocationsUS - MD, Bethesdaposted onPosted 6 Days Ago31962.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Intern-Energy-Providers--General-Management-Consulting-Campus-2026_32969?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-intern-energy-providers-general-management-consulting-campus-11-locations"
+    "job_description": "• Search: \"data+science\"US, Arizona, PhoenixUS, California, FolsomUS, California, Santa ClaraUS, Massachusetts, Beaver BrookUS, New Mexico, AlbuquerqueUS, Oregon, HillsboroUS, Oregon, PortlandUS, Texas, AustinUS, Virginia, FairfaxUS, Washington, D.\n• Clear All (11) Software Application Development EngineerlocationsUS, Arizona, Phoenixposted onPosted YesterdayJR0277577Physical Verification Application Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0272754DevOps and Validation EngineerlocationsUS, Oregon, Hillsboroposted onPosted YesterdayJR0277658Software Application Development EngineerlocationsUS, California, Santa Claraposted onPosted 17 Days AgoJR0276922MES EngineerlocationsUS, Arizona, Phoenixposted onPosted 9 Days AgoJR0277565MES Engineerlocations3 Locationsposted onPosted YesterdayJR0277570.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/DevOps-and-Validation-Engineer_JR0277658?q=data+science&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-devops-and-validation-engineer-us"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Infrastructure, YouTube",
+    "job_city": "San Bruno",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "data science job for the role Software Engineer III, Infrastructure, YouTube",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/78330227431744198-software-engineer-iii-infrastructure-youtube?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=5",
+    "id": "google-software-engineer-iii-infrastructure-youtube-san-bruno"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Full Stack, Google Cloud Platforms",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "data science job for the role Software Engineer III, Full Stack, Google Cloud Platforms",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/111930608938033862-software-engineer-iii-full-stack-google-cloud-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=7",
+    "id": "google-software-engineer-iii-full-stack-google-cloud-platforms-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Camera System Software Engineer, Pixel and XR Camera",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "data science job for the role Camera System Software Engineer, Pixel and XR Camera",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/81739599046419142-camera-system-software-engineer-pixel-and-xr-camera?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=7",
+    "id": "google-camera-system-software-engineer-pixel-and-xr-camera-mountain-view"
   }
 ]
