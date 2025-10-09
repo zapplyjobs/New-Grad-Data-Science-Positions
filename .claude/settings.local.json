@@ -12,7 +12,9 @@
       "Bash(git stash:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(git fetch:*)"
+      "Bash(git fetch:*)",
+      "Bash(timeout:*)",
+      "Bash(npm install:*)"
     ],
     "deny": []
   }
