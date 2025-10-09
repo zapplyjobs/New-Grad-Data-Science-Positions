@@ -138,44 +138,6 @@
       "parentButtonSelector": "button",
       "disabledAttribute": "aria-disabled"
     }
-
-  },
-  "salesforce": {
-    "name": "Salesforce",
-    "jobSelector": "div.card.card-job",
-    "titleSelector": "a.stretched-link.js-view-job",
-    "applyLinkSelector": "a.stretched-link.js-view-job",
-    "linkAttribute": "href",
-    "locationSelector": "ul.list-inline.locations li.list-inline-item",
-    "postedSelector": "",
-    "descriptionType": "next-page",
-
-    "descriptionSelector": "ul",
-  
-
-    "pagination": {
-      "type": "url-page",
-      "pageParam": "page"
-     
-    }
-  },
-  "dell": {
-    "name": "Dell",
-    "jobSelector": "li.css-1q2dra3",
-    "titleSelector": "h3",
-    "applyLinkSelector": "a",
-    "linkAttribute": "href",
-    "locationSelector": "div[data-automation-id='locations'] dd.css-129m7dg",
-    "postedSelector": "div[data-automation-id='postedOn'] dd.css-129m7dg",
-    "categorySelector": "div[data-automation-id='jobCategory'] dd.css-129m7dg",
-    "reqIdSelector": "div[data-automation-id='jobReqId'] dd.css-129m7dg",
-    "descriptionSelector": "ul",
-    "pagination": {
-      "type": "chevron-click",
-      "nextButtonSelector": "svg.wd-icon-chevron-right-small.wd-icon",
-      "parentButtonSelector": "button",
-      "disabledAttribute": "aria-disabled"
-    }
   },
   "10xgenomics": {
     "name": "10x Genomics",
@@ -258,8 +220,8 @@
     "locationSelector": "div[data-automation-id='locations'] dd.css-129m7dg",
     "postedSelector": "div[data-automation-id='postedOn'] dd.css-129m7dg",
     "categorySelector": "div[data-automation-id='jobCategory'] dd.css-129m7dg",
-    "reqIdSelector": "div[data-automation-id='jobReqId'] dd.css-129m7dg",
-    "descriptionSelector": "ul",
+    "reqIdSelector": "ul[data-automation-id='subtitle'] li",
+    "descriptionType": "skip",
     "pagination": {
       "type": "chevron-click",
       "nextButtonSelector": "svg.wd-icon-chevron-right-small.wd-icon",

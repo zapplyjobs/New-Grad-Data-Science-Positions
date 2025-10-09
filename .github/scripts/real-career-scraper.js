@@ -3,39 +3,10 @@ const path = require("path");
 const { generateJobId } = require("./job-fetcher/utils");
 const {isUSOnlyJob} = require("./job-fetcher/utils");
 const {filterJobsByLevel} =require("./job-fetcher/utils")
-// Removed jobboard dependencies - using stub functions for now
-// const { scrapeCompanyData } = require('../../jobboard/src/backend/core/scraper.js');
-// const { getCompanies } = require('../../jobboard/src/backend/config/companies.js');
-// const { transformJobs ,convertDateToRelative } = require('../../jobboard/src/backend/output/jobTransformer.js');
-
-// Stub functions to replace jobboard dependencies
-function scrapeCompanyData(companyKey, searchQuery, maxPages) {
-  // Return empty array for now - would need Puppeteer implementation
-  return Promise.resolve([]);
-}
-
-function getCompanies(searchQuery) {
-  // Return empty object for now
-  return {};
-}
-
-function transformJobs(jobs, searchQuery) {
-  // Simple passthrough for now - jobs are already in correct format from APIs
-  return jobs;
-}
-
-function convertDateToRelative(date) {
-  const now = new Date();
-  const jobDate = new Date(date);
-  const diffMs = now - jobDate;
-  const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
-
-  if (diffDays === 0) return "Today";
-  if (diffDays === 1) return "Yesterday";
-  if (diffDays < 7) return `${diffDays} days ago`;
-  if (diffDays < 30) return `${Math.floor(diffDays / 7)} weeks ago`;
-  return `${Math.floor(diffDays / 30)} months ago`;
-}
+// Import jobboard dependencies
+const { scrapeCompanyData } = require('../../jobboard/src/backend/core/scraper.js');
+const { getCompanies } = require('../../jobboard/src/backend/config/companies.js');
+const { transformJobs ,convertDateToRelative } = require('../../jobboard/src/backend/output/jobTransformer.js');
 
 // Load company database
 const companies = JSON.parse(

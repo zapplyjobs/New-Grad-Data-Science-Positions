@@ -29,7 +29,6 @@ jobs:
         
         
     - name: Install scraper dependencies
-      working-directory: .github/scripts
       run: npm install puppeteer
       
     - name: Update job listings

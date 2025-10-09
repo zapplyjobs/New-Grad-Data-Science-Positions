@@ -19,7 +19,8 @@
       "Read(//mnt/c/Users/jarra/Videos/Work/Business/New-Grad-Hardware-Engineering-Positions/.github/workflows/**)",
       "Read(//mnt/c/Users/jarra/Videos/Work/Business/New-Grad-Hardware-Engineering-Positions/**)",
       "Bash(npm run build:*)",
-      "Bash(npm ci:*)"
+      "Bash(npm ci:*)",
+      "Read(//mnt/c/Users/jarra/Videos/Work/Business/**)"
     ],
     "deny": []
   }
