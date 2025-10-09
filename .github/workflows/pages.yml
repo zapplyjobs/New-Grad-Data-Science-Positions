@@ -24,13 +24,24 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Prepare static site
+        run: |
+          mkdir -p _site
+          cp index.html _site/
+          cp README.md _site/
+          cp *.png _site/ 2>/dev/null || true
+          cp *.md _site/ 2>/dev/null || true
+          cp LICENSE _site/ 2>/dev/null || true
+          echo "Static site prepared with essential files only"
+          ls -lh _site/
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: '_site'
 
       - name: Deploy to GitHub Pages
         id: deployment
