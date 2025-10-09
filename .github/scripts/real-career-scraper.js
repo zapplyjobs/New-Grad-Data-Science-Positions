@@ -1,10 +1,12 @@
 const fs = require("fs");
+const path = require("path");
 const { generateJobId } = require("./job-fetcher/utils");
 const {isUSOnlyJob} = require("./job-fetcher/utils");
 const {filterJobsByLevel} =require("./job-fetcher/utils")
 const { scrapeCompanyData } = require('../../jobboard/src/backend/core/scraper.js');
 const { getCompanies } = require('../../jobboard/src/backend/config/companies.js');
 const { transformJobs ,convertDateToRelative } = require('../../jobboard/src/backend/output/jobTransformer.js');
+
 // Load company database
 const companies = JSON.parse(
   fs.readFileSync("./.github/scripts/job-fetcher/companies.json", "utf8")
@@ -12,29 +14,29 @@ const companies = JSON.parse(
 const ALL_COMPANIES = Object.values(companies).flat();
 
 const BATCH_CONFIG = {
-  batchSize: 15,                    // Number of scrapers to run concurrently in each batch (8 companies)
-  delayBetweenBatches: 500,       // Delay in milliseconds between batches (2 seconds)
+  batchSize: 15,                    // Number of scrapers to run concurrently in each batch
+  delayBetweenBatches: 500,       // Delay in milliseconds between batches
   maxRetries: 1,                   // Maximum retry attempts for failed scrapers
   timeout: 180000,                 // Timeout for individual scrapers (3 minutes)
   enableProgressBar: true,          // Enable progress tracking
   enableDetailedLogging: true      // Enable detailed logging for each scraper
 };
 
+// Utility functions
+function delay(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
 function safeISOString(dateValue) {
-    console.log("Input dateValue:", dateValue);
     if (!dateValue) return new Date().toISOString();
 
     try {
         const date = new Date(dateValue);
-        console.log("Parsed date:", date);
-        console.log("Is valid:", !isNaN(date.getTime()));
         if (isNaN(date.getTime())) {
-            console.log("Invalid date, returning current date");
             return new Date().toISOString();
         }
         return date.toISOString();
     } catch (error) {
-        console.log("Error:", error);
         return new Date().toISOString();
     }
 }
@@ -47,31 +49,269 @@ function createBatchConfig(options = {}) {
   };
 }
 
-// Utility functions
-function delay(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
+// Real career page endpoints for data science companies
+const CAREER_APIS = {
+  // Greenhouse API Companies
+  Databricks: {
+    api: "https://api.greenhouse.io/v1/boards/databricks/jobs",
+    method: "GET",
+    parser: (data) => {
+      if (!Array.isArray(data.jobs)) return [];
+      return data.jobs
+        .filter(
+          (job) =>
+            job.title.toLowerCase().includes("data") ||
+            job.title.toLowerCase().includes("machine learning") ||
+            job.title.toLowerCase().includes("analyst")
+        )
+        .map((job) => ({
+          job_title: job.title,
+          employer_name: "Databricks",
+          job_city: job.location?.name?.split(", ")?.[0] || "San Francisco",
+          job_state: job.location?.name?.split(", ")?.[1] || "CA",
+          job_description:
+            job.content || "Join Databricks to unify analytics and AI.",
+          job_apply_link: job.absolute_url,
+          job_posted_at_datetime_utc: safeISOString(job.updated_at),
+          job_employment_type: "FULLTIME",
+        }));
+    },
+  },
+
+  Stripe: {
+    api: "https://api.greenhouse.io/v1/boards/stripe/jobs",
+    method: "GET",
+    parser: (data) => {
+      if (!Array.isArray(data.jobs)) return [];
+      return data.jobs
+        .filter(
+          (job) =>
+            job.title.toLowerCase().includes("data") ||
+            job.title.toLowerCase().includes("analyst")
+        )
+        .map((job) => ({
+          job_title: job.title,
+          employer_name: "Stripe",
+          job_city: job.location?.name?.split(", ")?.[0] || "San Francisco",
+          job_state: job.location?.name?.split(", ")?.[1] || "CA",
+          job_description:
+            job.content ||
+            "Join Stripe to help build the economic infrastructure for the internet.",
+          job_apply_link: job.absolute_url,
+          job_posted_at_datetime_utc: safeISOString(job.updated_at),
+          job_employment_type: "FULLTIME",
+        }));
+    },
+  },
+
+  // Add more data science focused APIs here...
+};
+
+// Fetch jobs from a specific company's career API
+async function fetchCompanyJobs(companyName) {
+  const config = CAREER_APIS[companyName];
+  if (!config) {
+    console.log(`⚠️ No API config for ${companyName}`);
+    return [];
+  }
+
+  try {
+    console.log(`🔍 Fetching jobs from ${companyName}...`);
+
+    const options = {
+      method: config.method,
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        Accept: "application/json",
+        ...config.headers,
+      },
+    };
+
+    if (config.body) {
+      options.body = config.body;
+    }
+
+    const response = await fetch(config.api, options);
+
+    if (!response.ok) {
+      console.log(`❌ ${companyName} API returned ${response.status}`);
+      return [];
+    }
+
+    const data = await response.json();
+    const jobs = config.parser(data);
+
+    console.log(`✅ Found ${jobs.length} jobs at ${companyName}`);
+    return jobs;
+  } catch (error) {
+    console.error(`❌ Error fetching ${companyName} jobs:`, error.message);
+    return [];
+  }
 }
 
+// Fetch jobs from SimplifyJobs public data
+async function fetchSimplifyJobsData() {
+  try {
+    console.log("📡 Fetching data from public sources...");
+
+    const newGradUrl =
+      "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json";
+    const response = await fetch(newGradUrl);
+
+    if (!response.ok) {
+      console.log(`⚠️ Could not fetch external data: ${response.status}`);
+      return [];
+    }
+
+    const data = await response.json();
+
+    const activeJobs = data
+      .filter(
+        (job) =>
+          job.active &&
+          job.url &&
+          (job.title.toLowerCase().includes("data") ||
+            job.title.toLowerCase().includes("analyst") ||
+            job.title.toLowerCase().includes("scientist"))
+      )
+      .map((job) => ({
+        job_title: job.title,
+        employer_name: job.company_name,
+        job_city: job.locations?.[0]?.split(", ")?.[0] || "Multiple",
+        job_state: job.locations?.[0]?.split(", ")?.[1] || "Locations",
+        job_description: `Join ${job.company_name} in this exciting data science opportunity.`,
+        job_apply_link: job.url,
+        job_posted_at_datetime_utc: safeISOString(job.date_posted * 1000),
+        job_employment_type: "FULLTIME",
+      }));
+
+    console.log(
+      `📋 Found ${activeJobs.length} active data science positions from external sources`
+    );
+    return activeJobs;
+  } catch (error) {
+    console.error(`❌ Error fetching external data:`, error.message);
+    return [];
+  }
+}
 
 // Fetch jobs from all companies with real career API
 async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, batchConfig = BATCH_CONFIG) {
-  console.log("🚀 Starting REAL career page scraping...");
+  console.log("🚀 Starting optimized job fetching pipeline...");
 
   let allJobs = [];
+  const processedJobIds = new Set(); // Track all processed job IDs
+
+  // Track job IDs for duplicate counting (not filtering)
+  // We now return ALL jobs and let job-processor.js handle filtering
+  try {
+    const seenJobsPath = path.join(process.cwd(), '.github', 'data', 'seen_jobs.json');
+    if (fs.existsSync(seenJobsPath)) {
+      const seenJobs = JSON.parse(fs.readFileSync(seenJobsPath, 'utf8'));
+      if (Array.isArray(seenJobs)) {
+        seenJobs.forEach(id => processedJobIds.add(id));
+        console.log(`📚 Loaded ${processedJobIds.size} previously seen jobs for duplicate tracking (not filtering)`);
+      }
+    }
+  } catch (err) {
+    console.log(`⚠️ Could not load seen jobs for tracking: ${err.message}`);
+  }
+
+  // ===== PHASE 1: API-BASED COMPANIES (NO PUPPETEER) =====
+  console.log('\n📡 PHASE 1: Fetching from API-based companies (no browser needed)...');
+  const companiesWithAPIs = Object.keys(CAREER_APIS);
+  console.log(`   Found ${companiesWithAPIs.length} companies with direct API access`);
+
+  let apiJobsCollected = 0;
+  const apiStartTime = Date.now();
+
+  for (const company of companiesWithAPIs) {
+    try {
+      const jobs = await fetchCompanyJobs(company);
+      if (jobs && jobs.length > 0) {
+        const transformedAPIJobs = transformJobs(jobs, searchQuery);
+
+        // Track duplicates but add ALL jobs
+        let newCount = 0;
+        let dupeCount = 0;
+
+        transformedAPIJobs.forEach(job => {
+          const jobId = generateJobId(job);
+          if (processedJobIds.has(jobId)) {
+            dupeCount++;
+          } else {
+            processedJobIds.add(jobId);
+            newCount++;
+          }
+        });
+
+        // Add ALL jobs regardless of duplicate status
+        allJobs.push(...transformedAPIJobs);
+        apiJobsCollected += transformedAPIJobs.length;
+        console.log(`   ✅ ${company}: ${transformedAPIJobs.length} jobs (${newCount} new, ${dupeCount} seen)`);
+      }
+
+      await delay(1000); // Shorter delay for API calls
+    } catch (apiError) {
+      console.error(`   ❌ ${company} failed: ${apiError.message}`);
+    }
+  }
+
+  const apiDuration = ((Date.now() - apiStartTime) / 1000).toFixed(1);
+  console.log(`✅ Phase 1 Complete: ${apiJobsCollected} jobs in ${apiDuration}s\n`);
+
+  // ===== PHASE 2: EXTERNAL SOURCES =====
+  console.log('📡 PHASE 2: Fetching from external sources...');
+  let externalJobsCollected = 0;
+  try {
+    const externalJobs = await fetchSimplifyJobsData();
+    if (externalJobs && externalJobs.length > 0) {
+      const transformedExternalJobs = transformJobs(externalJobs, searchQuery);
+
+      // Track duplicates but add ALL jobs
+      let newCount = 0;
+      let dupeCount = 0;
+
+      transformedExternalJobs.forEach(job => {
+        const jobId = generateJobId(job);
+        if (processedJobIds.has(jobId)) {
+          dupeCount++;
+        } else {
+          processedJobIds.add(jobId);
+          newCount++;
+        }
+      });
+
+      // Add ALL jobs regardless of duplicate status
+      allJobs.push(...transformedExternalJobs);
+      externalJobsCollected = transformedExternalJobs.length;
+      console.log(`✅ Phase 2 Complete: ${transformedExternalJobs.length} external jobs (${newCount} new, ${dupeCount} seen)\n`);
+    }
+  } catch (externalError) {
+    console.error('❌ External sources failed:', externalError.message);
+  }
+
+  // ===== PHASE 3: PUPPETEER-BASED SCRAPING =====
+  console.log("🌐 PHASE 3: Starting Puppeteer-based scraping...");
+
   const companies = getCompanies(searchQuery);
   const companyKeys = Object.keys(companies);
 
-  // Add execution tracking to prevent loops
-  const executionId = Date.now();
-  console.log(`🔍 Execution ID: ${executionId}`);
+  // Filter out companies that already have APIs
+  const scrapingCompanies = companyKeys.filter(key =>
+    !companiesWithAPIs.includes(companies[key].name)
+  );
+
+  console.log(`   ${scrapingCompanies.length} companies need Puppeteer scraping`);
+  console.log(`   ${companiesWithAPIs.length} companies already processed via API`);
 
   // Define scraper configurations for batch processing
-  const scraperConfigs = companyKeys.map(companyKey => ({
+  const scraperConfigs = scrapingCompanies.map(companyKey => ({
     name: companies[companyKey].name,
     companyKey: companyKey,
     scraper: () => scrapeCompanyData(companyKey, searchQuery, maxPages),
-    query: searchQuery,
-    executionId // Add execution ID to track this run
+    query: searchQuery
   }));
 
   // Enhanced batch processing function with comprehensive tracking and error handling
@@ -334,17 +574,17 @@ async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, bat
   const batchResults = await processScrapersInBatches(scraperConfigs, batchConfig);
 
   // Collect all jobs from successful scrapers and transform immediately
-  const processedJobIds = new Set(); // Track processed job IDs for duplicate counting only
-
   batchResults.forEach(result => {
     if (result.success && result.jobs && result.jobs.length > 0) {
       try {
         const transformedJobs = transformJobs(result.jobs, searchQuery);
         console.log(`🔄 Transforming ${result.jobs.length} jobs from ${result.name}`);
 
-        // Track duplicates for logging but add ALL jobs
+        // Add ALL jobs - don't filter by seen status
+        // Track duplicates for logging but include everything
         let newCount = 0;
         let dupeCount = 0;
+
         transformedJobs.forEach(job => {
           const jobId = generateJobId(job);
           if (processedJobIds.has(jobId)) {
@@ -357,7 +597,7 @@ async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, bat
 
         // Add ALL jobs regardless of duplicate status
         allJobs.push(...transformedJobs);
-        console.log(`✅ Added ${transformedJobs.length} jobs from ${result.name} (${newCount} new, ${dupeCount} duplicates)`)
+        console.log(`✅ Added ${transformedJobs.length} jobs from ${result.name} (${newCount} new, ${dupeCount} seen before)`)
       } catch (transformError) {
         console.error(`❌ Error transforming jobs from ${result.name}:`, transformError.message);
       }
@@ -366,72 +606,73 @@ async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, bat
     }
   });
 
-  console.log(`📊 Total scraped jobs collected after transformation: ${allJobs.length}`);
+  const puppeteerJobsCount = allJobs.length - apiJobsCollected - externalJobsCollected;
+  console.log(`📊 Phase 3 Complete: ${puppeteerJobsCount} jobs from Puppeteer scrapers`);
+
+  // ===== FINAL PROCESSING =====
+  console.log('\n🔧 FINAL PROCESSING...');
+  console.log(`📊 Total jobs collected: ${allJobs.length}`);
 
   // Early exit if no jobs found
   if (allJobs.length === 0) {
-    console.log(`⚠️ No scraped jobs found. Will only collect API jobs.`);
+    console.log(`⚠️ No jobs found. Exiting early.`);
+    return [];
   }
 
-  // Filter jobs by level (remove senior-level positions) BEFORE adding API/external jobs
-  console.log('🎯 Filtering scraped jobs by experience level...');
-  let levelFilteredJobs = [];
+  // Filter jobs by level (remove senior-level positions)
+  console.log('🎯 Filtering jobs by experience level...');
+  let processedJobs;
   try {
-    if (allJobs.length > 0) {
-      levelFilteredJobs = filterJobsByLevel(allJobs);
-      console.log(`🎯 Level filtering: ${allJobs.length} -> ${levelFilteredJobs.length} scraped jobs`);
-    }
+    const levelFilteredJobs = filterJobsByLevel(allJobs);
+    console.log(`🎯 Level filtering: ${allJobs.length} -> ${levelFilteredJobs.length} jobs`);
+    processedJobs = levelFilteredJobs;
   } catch (filterError) {
     console.error('❌ Error in level filtering:', filterError.message);
-    levelFilteredJobs = allJobs; // Fallback to unfiltered jobs
+    processedJobs = allJobs; // Fallback to unfiltered jobs
   }
 
-  // Filter out non-US jobs from scraped jobs
+  // Early exit if no jobs after filtering
+  if (processedJobs.length === 0) {
+    console.log(`⚠️ No jobs remaining after level filtering. Exiting.`);
+    return [];
+  }
+
+  // Filter for US-only jobs
   const removedJobs = [];
-  const initialScrapedCount = levelFilteredJobs.length;
+  const initialCount = processedJobs.length;
 
   try {
-    if (levelFilteredJobs.length > 0) {
-      levelFilteredJobs = levelFilteredJobs.filter(job => {
-        const isUSJob = isUSOnlyJob(job);
+    processedJobs = processedJobs.filter(job => {
+      const isUSJob = isUSOnlyJob(job);
 
-        if (!isUSJob ) {
-          removedJobs.push(job);
-          return false;
-        // Remove non-US job
-        }
+      if (!isUSJob) {
+        removedJobs.push(job);
+        return false; // Remove non-US job
+      }
 
-        return true; // Keep US job
-      });
+      return true; // Keep US job
+    });
 
-      console.log(`🗺️ Location filtering scraped jobs: ${initialScrapedCount} -> ${levelFilteredJobs.length} jobs (removed ${removedJobs.length} non-US jobs)`);
-    }
+    console.log(`🗺️ Location filtering: ${initialCount} -> ${processedJobs.length} jobs (removed ${removedJobs.length} non-US jobs)`);
   } catch (locationError) {
-    console.error('❌ Error in location filtering scraped jobs:', locationError.message);
+    console.error('❌ Error in location filtering:', locationError.message);
   }
 
-  // Final deduplication using standardized job ID generation
-  const uniqueJobs = levelFilteredJobs.filter((job, index, self) => {
+  // Remove duplicates using standardized job ID generation
+  const uniqueJobs = processedJobs.filter((job, index, self) => {
     const jobId = generateJobId(job);
     return index === self.findIndex((j) => generateJobId(j) === jobId);
   });
 
-  console.log(`🧹 Final deduplication: ${levelFilteredJobs.length} -> ${uniqueJobs.length} jobs`);
+  console.log(`🧹 After deduplication: ${uniqueJobs.length}`);
 
   // Sort by posting date (descending - latest first)
   uniqueJobs.sort((a, b) => {
-    const dateA = new Date(a.job_posted_at);
-    const dateB = new Date(b.job_posted_at);
+    const dateA = new Date(a.job_posted_at_datetime_utc || a.job_posted_at);
+    const dateB = new Date(b.job_posted_at_datetime_utc || b.job_posted_at);
     return dateB - dateA;
   });
 
-  // Calculate scraped jobs count (total jobs minus API and external jobs)
-  const scrapedJobsCount = allJobs.length;
-
-  // Final summary
-  console.log(`\n🎯 ===== FINAL SUMMARY =====`);
-  console.log(`📊 Total unique jobs: ${uniqueJobs.length}`);
-  console.log(`   🔍 Scraped jobs (with descriptions): ${scrapedJobsCount}`);
   console.log(`✅ REAL JOBS ONLY - No fake data!`);
 
   return uniqueJobs;
