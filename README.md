@@ -1,6 +1,6 @@
 # 📊 Data Science & Analytics Jobs & Internships 2025-2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 7+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 12+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 7+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 11+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -16,12 +16,12 @@
 
 ## 📊 **Live Stats**
 
-🔥 **Current Positions:** 12 hot data-focused jobs 
+🔥 **Current Positions:** 11 hot data-focused jobs 
 🏢 **Top Companies:** 7 elite tech including Tesla, NVIDIA, Raytheon  
 ⭐ **FAANG+ Jobs & Internships:** 0 premium opportunities  
 📅 **Last Updated:** October 9, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Developer Jobs:** 68 (older than 1 week)
+📁 **Archived Developer Jobs:** 69 (older than 1 week)
 
 
 ---
@@ -95,8 +95,8 @@ No companies available
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 8 | 67% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 4 | 33% | 1-2 years of experience. |
+| 🟢 Entry Level & New Grad | 7 | 64% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 4 | 36% | 1-2 years of experience. |
 | 🔴 Manager | 0 | 0% | 2+ years of experience. |
 
 ### 🌍 Top Locations
@@ -116,7 +116,7 @@ List of top locations and number of positions.
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 12+ verified roles for data analysts and scientists from 7 elite tech companies.
+✅ **100% Real Jobs:** 11+ verified roles for data analysts and scientists from 7 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 
@@ -177,13 +177,13 @@ Reference their products: "As a daily Slack user, I've noticed..." proves genuin
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 68 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 69 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 68 positions
+📁 **Total Jobs:** 69 positions
 
 🏢 **Companies:** 7 companies
 
@@ -229,7 +229,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 12 current opportunities from 7 elite companies.**
+**🎯 11 current opportunities from 7 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
