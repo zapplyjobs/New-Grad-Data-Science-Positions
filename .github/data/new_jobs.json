@@ -1,13 +1,102 @@
 [
   {
-    "job_title": "University Graduate - Data Scientist",
-    "employer_name": "Adobe",
-    "job_city": "San Jose",
+    "employer_name": "IBM",
+    "job_title": "Data Analyst",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Data Analyst",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63706&source=WEB_Search_NA",
+    "id": "ibm-data-analyst-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Security Trust Analyst",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Security Trust Analyst",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64113&source=WEB_Search_NA",
+    "id": "ibm-security-trust-analyst-"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "Substrate Yield Analyst",
+    "job_city": "US",
+    "job_state": "Arizona",
+    "job_posted_at": "Posted Today",
+    "job_description": "data science job for the role Substrate Yield Analyst",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Substrate-Yield-Analyst_JR0277737?q=data+science&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-substrate-yield-analyst-us"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "Verizon Consumer Sales Operations Summer 2026 Internship",
+    "job_city": "Basking Ridge",
+    "job_state": "New Jersey",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Verizon Consumer Sales Operations Summer 2026 InternshiplocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted TodayR-1086664Principal Engineer Software DevelopmentlocationsAshburn, Virginiatime typeFull timeposted onPosted YesterdayR-1081230Rutgers University - 2026 Global Solutions Technology Summer Internshiplocations6 Locationstime typeFull timeposted onPosted YesterdayR-1086610Product Development/Management-Manager (Digital Marketing Manager)locationsIrving, Texastime typeFull timeposted onPosted 2 Days AgoR-1086592Product Development/Management-Senior ManagerlocationsNew York, New Yorktime typeFull timeposted onPosted 2 Days AgoR-1086588Principal Engineer - Network Security Data Analyticslocations4 Locationstime typeFull timeposted onPosted 2 Days AgoR-1083052AI Connect Senior Product Managerlocations3 Locationstime typeFull timeposted onPosted 2 Days AgoR-1086444Product Development /Management-Senior ManagerlocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted 2 Days AgoR-10864972026 VTeamer for a Day Finance Programs- Lake Mary, FLlocations2 Locationstime typeFull timeposted onPosted 2 Days AgoR-1086469Principal Solutions Architectlocations5 Locationstime typeFull timeposted onPosted 3 Days AgoR-1084146Engr IV-Security Engrglocations2 Locationstime typeFull timeposted onPosted 6 Days AgoR-1070012TMCF- 2026 Finance Internship Programlocations2 Locationstime typeFull timeposted onPosted 7 Days AgoR-1085901TMCF Leadership Institute- Finance Leadership Development Internship Programlocations2 Locationstime typeFull timeposted onPosted 7 Days AgoR-1085904Morgan State University Consumer Sales Ops & Partner Channel Summer 2026 InternshiplocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted 8 Days AgoR-1086277Business Intelligence Senior Managerlocations3 Locationstime typeFull timeposted onPosted 9 Days AgoR-1084875Full Stack Software Development Summer 2026 InternshiplocationsIrving, Texastime typeFull timeposted onPosted 10 Days AgoR-1086181Network Performance Summer 2026 InternshiplocationsIrving, Texastime typeFull timeposted onPosted 10 Days AgoR-1086176Security Engineering Summer 2026 InternshiplocationsSouthlake, Texastime typeFull timeposted onPosted 10 Days AgoR-1086113Technical Product Management Summer 2026 InternshiplocationsPlano, Texastime typeFull timeposted onPosted 10 Days AgoR-1086171Cloud Solutions Summer 2026 InternshiplocationsIrving, Texastime typeFull timeposted onPosted 10 Days AgoR-1086077.",
+    "job_apply_link": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Sales-Operations-Summer-2026-Internship_R-1086664?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "verizon-verizon-consumer-sales-operations-summer-2026-internship-basking-ridge"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Data Scientist, YouTube Music and Premium",
+    "job_city": "San Bruno",
     "job_state": "CA",
-    "job_description": "Join Adobe in this exciting data science opportunity.",
-    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Data-Scientist_R161170",
-    "job_posted_at_datetime_utc": "2025-10-07T08:31:30.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "adobe-university-graduate-data-scientist-san-jose"
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Data Scientist, YouTube Music and Premium",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/77510516548739782-data-scientist-youtube-music-and-premium?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1",
+    "id": "google-data-scientist-youtube-music-and-premium-san-bruno"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Front End, Google Workspace",
+    "job_city": "Boulder",
+    "job_state": "CO",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Software Engineer III, Front End, Google Workspace",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/135282637043311302-software-engineer-iii-front-end-google-workspace?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=8",
+    "id": "google-software-engineer-iii-front-end-google-workspace-boulder"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Data Engineer I, GME Fintech",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "Today",
+    "job_description": "data science job for the role Data Engineer I, GME Fintech",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3105334/data-engineer-i-gme-fintech",
+    "id": "amazon-data-engineer-i-gme-fintech-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Applied Scientist, Account Integrity",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "Today",
+    "job_description": "data science job for the role Applied Scientist, Account Integrity",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3105448/applied-scientist-account-integrity",
+    "id": "amazon-applied-scientist-account-integrity-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Data Scientist I, Customer Delivery Excellence Science",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_posted_at": "Today",
+    "job_description": "data science job for the role Data Scientist I, Customer Delivery Excellence Science",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3105281/data-scientist-i-customer-delivery-excellence-science",
+    "id": "amazon-data-scientist-i-customer-delivery-excellence-science-bellevue"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Data Scientist, NA Stores Expansion",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "Today",
+    "job_description": "data science job for the role Data Scientist, NA Stores Expansion",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3105178/data-scientist-na-stores-expansion",
+    "id": "amazon-data-scientist-na-stores-expansion-seattle"
   }
 ]
