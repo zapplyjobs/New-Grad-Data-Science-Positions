@@ -81,23 +81,23 @@ function getCompanyCareerUrl(companyName) {
   return company ? company.career_url : "#";
 }
 
-// function formatTimeAgo(dateString) {
-//   if (!dateString) return "Recently";
+function formatTimeAgo(dateString) {
+  if (!dateString) return "Recently";
 
-//   const date = new Date(dateString);
-//   const now = new Date();
-//   const diffInHours = Math.floor((now - date) / (1000 * 60 * 60));
+  const date = new Date(dateString);
+  const now = new Date();
+  const diffInHours = Math.floor((now - date) / (1000 * 60 * 60));
 
-//   if (diffInHours < 24) {
-//     return `${diffInHours}h ago`;
-//   } else {
-//     const diffInDays = Math.floor(diffInHours / 24);
-//     if (diffInDays === 1) return "1d ago";
-//     if (diffInDays < 7) return `${diffInDays}d ago`;
-//     if (diffInDays < 30) return `${Math.floor(diffInDays / 7)}w ago`;
-//     return `${Math.floor(diffInDays / 30)}mo ago`;
-//   }
-// }
+  if (diffInHours < 24) {
+    return `${diffInHours}h ago`;
+  } else {
+    const diffInDays = Math.floor(diffInHours / 24);
+    if (diffInDays === 1) return "1d ago";
+    if (diffInDays < 7) return `${diffInDays}d ago`;
+    if (diffInDays < 30) return `${Math.floor(diffInDays / 7)}w ago`;
+    return `${Math.floor(diffInDays / 30)}mo ago`;
+  }
+}
 
 function isJobOlderThanWeek(dateString) {
   if (!dateString) return false;
@@ -843,6 +843,7 @@ module.exports = {
   normalizeCompanyName,
   getCompanyEmoji,
   getCompanyCareerUrl,
+  formatTimeAgo,
   isJobOlderThanWeek,
   isUSOnlyJob,
   getExperienceLevel,
