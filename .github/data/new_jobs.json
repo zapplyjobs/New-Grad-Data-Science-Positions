@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Broadcom",
-    "job_title": "Software Engineer - vDefend Firewall",
-    "job_city": "USA-CA - Promontory E",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Master Software EngineerlocationsUSA-CA San Jose Innovation Drivetime typeFull timeposted onPosted 7 Days AgoR021132 Principal Engineer - Lifecycle ManagementlocationsUSA-CA - Promontory Btime typeFull timeposted onPosted 23 Days AgoR023737 Site ManagerlocationsUSA-North Carolina-Charlotte-9815 David Taylor Drtime typeFull timeposted onPosted 28 Days AgoR023698 Senior Software Engineer - PerformancelocationsUSA-CA - Promontory Dtime typeFull timeposted onPosted 14 Days AgoR023796 Engineering Manager GPU VirtualizationlocationsUSA-CA - Promontory Btime typeFull timeposted onPosted 8 Days AgoR023839 Principal EngineerlocationsUSA-CA San Jose Innovation Drivetime typeFull timeposted onPosted 16 Days AgoR023639 Senior UX DesignerlocationsIND-Hyderabad 115 IT Park Areatime typeFull timeposted onPosted YesterdayR023883.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-E/Principal-Engineer---vDefend-Firewall_R023881?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-software-engineer-vdefend-firewall-usa-ca-promontory-e"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Data Scientist, Google Play",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Data Scientist, Google Play",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/119399744903488198-data-scientist-google-play?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1",
-    "id": "google-data-scientist-google-play-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Engineering Productivity, Search",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Software Engineer III, Engineering Productivity, Search",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/137880336343147206-software-engineer-iii-engineering-productivity-search?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=5",
-    "id": "google-software-engineer-iii-engineering-productivity-search-mountain-view"
+    "employer_name": "Amazon",
+    "job_title": "2026 Applied Science Internship - Distributed Systems and High Performance Computing",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "Today",
+    "job_description": "data science job for the role 2026 Applied Science Internship - Distributed Systems and High Performance Computing",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing",
+    "id": "amazon-2026-applied-science-internship-distributed-systems-and-high-performance-computing-seattle"
   }
 ]
