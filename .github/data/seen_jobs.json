@@ -1,6 +1,4 @@
 [
-  "aijobs-data-scientist-fraud-us",
-  "aijobs-data-scientist-generosity-us",
   "aijobs-data-scientist-givingtuesday-unknown",
   "aijobs-data-scientist-growth-unknown",
   "aijobs-data-scientist-growth-us",
@@ -4391,6 +4389,7 @@
   "google-data-scientist-irvine",
   "google-data-scientist-manager-ii-san-bruno",
   "google-data-scientist-mountain-view",
+  "google-data-scientist-play-monetization-mountain-view",
   "google-data-scientist-product-ads-privacy-and-regulations-new-york",
   "google-data-scientist-product-connected-tv-san-bruno",
   "google-data-scientist-product-customer-engagement-irvine",
@@ -4754,6 +4753,7 @@
   "google-software-engineer-google-cloud-platforms-sunnyvale",
   "google-software-engineer-google-store-front-end-mountain-view",
   "google-software-engineer-google-store-full-stack-mountain-view",
+  "google-software-engineer-google-wide-profiling-infrastructure-sunnyvale",
   "google-software-engineer-identity-and-access-full-stack-kirkland",
   "google-software-engineer-ii-ai-ml-google-workspace-durham",
   "google-software-engineer-iii-agentic-ai-google-ads-irvine",
