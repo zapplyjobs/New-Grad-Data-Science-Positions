@@ -102,6 +102,19 @@ function formatTimeAgo(dateString) {
 function isJobOlderThanWeek(dateString) {
   if (!dateString) return false;
 
+  // Check if the date is in relative format (e.g., '1d', '2w')
+  const relativeMatch = dateString.match(/^(\d+)([hdwmo])$/i);
+  if (relativeMatch) {
+    const value = parseInt(relativeMatch[1]);
+    const unit = relativeMatch[2].toLowerCase();
+
+    if (unit === 'd' && value >= 7) return true; // 7 or more days
+    if (unit === 'w') return true; // Any number of weeks is older than a week
+    if (unit === 'mo') return true; // Any number of months is older than a week
+    return false; // Hours ('h') or less than 7 days ('d') are not older than a week
+  }
+
+  // Fallback to absolute date comparison
   const date = new Date(dateString);
   const now = new Date();
   const diffInDays = Math.floor((now - date) / (1000 * 60 * 60 * 24));

@@ -271,18 +271,16 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 </div>
 
 ---
-
 ## 📊 **Live Stats**
 
-🔥 **Current Positions:** ${currentJobs.length} hot data-focused jobs 
-🏢 **Top Companies:** ${totalCompanies} elite tech including Tesla, NVIDIA, Raytheon  
-⭐ **FAANG+ Jobs & Internships:** ${faangJobs} premium opportunities  
-📅 **Last Updated:** ${currentDate}  
-🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Developer Jobs:** ${archivedJobs.length} (older than 1 week)
+- 🔥 **Current Positions:** ${currentJobs.length} hot data-focused jobs
+- 🏢 **Top Companies:** ${totalCompanies} elite tech including Tesla, NVIDIA, Raytheon
+- ⭐ **FAANG+ Jobs & Internships:** ${faangJobs} premium opportunities
+- 📅 **Last Updated:** ${currentDate}
+- 🤖 **Next Update:** Tomorrow at 9 AM UTC
+- 📁 **Archived Developer Jobs:** ${archivedJobs.length} (older than 1 week)
 
 ${internshipData ? generateInternshipSection(internshipData) : ""}
-
 ---
 
 
@@ -382,31 +380,31 @@ ${stats ? Object.entries(stats.byLocation)
 
 ### 🔍 Research Before Applying
 
-Find the hiring manager: Search "[Company] [Team] engineering manager" on LinkedIn.
+- Find the hiring manager: Search "[Company] [Team] engineering manager" on LinkedIn.
 
-Check recent tech decisions: Read their engineering blog for stack changes or new initiatives.
+- Check recent tech decisions: Read their engineering blog for stack changes or new initiatives.
 
-Verify visa requirements: Look for 🇺🇸 indicator or "US persons only" in job description.
+- Verify visa requirements: Look for 🇺🇸 indicator or "US persons only" in job description.
 
 - [Use this 100% ATS-compliant and job-targeted resume template](https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx).
 
 ### 📄 Resume Best Practices
 
-Mirror their tech stack: Copy exact keywords from job post (SQL, Tableau, Python, R, etc.).
+- Mirror their tech stack: Copy exact keywords from job post (SQL, Tableau, Python, R, etc.).
 
-Lead with business impact: "Reduced churn by 12% through cohort analysis" > "Used Excel."
+- Lead with business impact: "Reduced churn by 12% through cohort analysis" > "Used Excel."
 
-Show product familiarity: "Built Netflix-style recommendation engine" or "Created Stripe payment integration."
+- Show product familiarity: "Built Netflix-style recommendation engine" or "Created Stripe payment integration."
 
 - [Read this informative guide on tweaking your resume](https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e).
 
 ### 🎯 Interview Best Practices
 
-Ask domain questions: "How do you ensure model explainability in production?" shows real research.
+- Ask domain questions: "How do you ensure model explainability in production?" shows real research.
 
-Prepare case stories: "Improved forecast accuracy by 20% using time-series analysis."
+- Prepare case stories: "Improved forecast accuracy by 20% using time-series analysis."
 
-Reference their products: "As a daily Slack user, I've noticed..." proves genuine interest.
+- Reference their products: "As a daily Slack user, I've noticed..." proves genuine interest.
 
 - [Review this comprehensive interview guide on common behavioral, technical, and curveball questions](https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0)
 
@@ -414,13 +412,13 @@ Reference their products: "As a daily Slack user, I've noticed..." proves genuin
 
 ## 📬 Stay Updated
 
-⭐ **Star this repo** to bookmark and check daily.
+- ⭐ **Star this repo** to bookmark and check daily.
 
-👀 **Watch** to get notified of new data postings.
+- 👀 **Watch** to get notified of new data postings.
 
-📱 **Bookmark on your phone** for quick job hunting.
+- 📱 **Bookmark on your phone** for quick job hunting.
 
-🤝 **Become a contributor** and add new jobs! Visit our CONTRIBUTING-GUIDE [here](CONTRIBUTING-GUIDE.md).
+- 🤝 **Become a contributor** and add new jobs! Visit our CONTRIBUTING-GUIDE [here](CONTRIBUTING-GUIDE.md).
 
 ---
 
