@@ -1,32 +1,32 @@
 [
   {
-    "employer_name": "Intel",
-    "job_title": "Process Integration and Yield Development System Engineer",
-    "job_city": "US",
-    "job_state": "Arizona",
+    "employer_name": "Broadcom",
+    "job_title": "Software Engineer - vDefend Firewall",
+    "job_city": "USA-CA - Promontory E",
+    "job_state": "US",
     "job_posted_at": "Posted Today",
-    "job_description": "data science job for the role Process Integration and Yield Development System Engineer",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Process-Integration-and-Yield-Development-System-Engineer_JR0277779?q=data+science&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-process-integration-and-yield-development-system-engineer-us"
+    "job_description": "• Master Software EngineerlocationsUSA-CA San Jose Innovation Drivetime typeFull timeposted onPosted 7 Days AgoR021132 Principal Engineer - Lifecycle ManagementlocationsUSA-CA - Promontory Btime typeFull timeposted onPosted 23 Days AgoR023737 Site ManagerlocationsUSA-North Carolina-Charlotte-9815 David Taylor Drtime typeFull timeposted onPosted 28 Days AgoR023698 Senior Software Engineer - PerformancelocationsUSA-CA - Promontory Dtime typeFull timeposted onPosted 14 Days AgoR023796 Engineering Manager GPU VirtualizationlocationsUSA-CA - Promontory Btime typeFull timeposted onPosted 8 Days AgoR023839 Principal EngineerlocationsUSA-CA San Jose Innovation Drivetime typeFull timeposted onPosted 16 Days AgoR023639 Senior UX DesignerlocationsIND-Hyderabad 115 IT Park Areatime typeFull timeposted onPosted YesterdayR023883.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-E/Principal-Engineer---vDefend-Firewall_R023881?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-software-engineer-vdefend-firewall-usa-ca-promontory-e"
   },
   {
     "employer_name": "Google",
-    "job_title": "Analyst, Platform Journey Analytics and Measurement",
-    "job_city": "Boulder",
-    "job_state": "CO",
+    "job_title": "Data Scientist, Google Play",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role Analyst, Platform Journey Analytics and Measurement",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/121546060320383686-analyst-platform-journey-analytics-and-measurement?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3",
-    "id": "google-analyst-platform-journey-analytics-and-measurement-boulder"
+    "job_description": "data science job for the role Data Scientist, Google Play",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/119399744903488198-data-scientist-google-play?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1",
+    "id": "google-data-scientist-google-play-mountain-view"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Operations Engineer II, Total GCF Field",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_posted_at": "Today",
-    "job_description": "data science job for the role Operations Engineer II, Total GCF Field",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3106097/operations-engineer-ii-total-gcf-field",
-    "id": "amazon-operations-engineer-ii-total-gcf-field-boston"
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Engineering Productivity, Search",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Software Engineer III, Engineering Productivity, Search",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/137880336343147206-software-engineer-iii-engineering-productivity-search?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=5",
+    "id": "google-software-engineer-iii-engineering-productivity-search-mountain-view"
   }
 ]
