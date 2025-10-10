@@ -260,9 +260,9 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 
 ---
 
-## Join Community button
+## **Join Community**
 
- – Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of analytics students and data enthusiasts navigating their career journey together!
+Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities.. Join our community of analytics students and data enthusiasts navigating their career journey together!
 
  <div align="center">
   <a href="https://discord.gg/yKWw28q7Yq" target="_blank">
