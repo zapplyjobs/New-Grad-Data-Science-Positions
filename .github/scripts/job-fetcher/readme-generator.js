@@ -176,7 +176,7 @@ function generateInternshipSection(internshipData) {
  return `
 ---
 
-## 🎓 **Data Internships 2025-2026**
+## 🎓 **Data Internships 2026**
 
 Top internships for students in data science, statistics, analytics, and related majors.
 
@@ -250,7 +250,7 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
   const internshipSection = generateInternshipSection(internshipData);
   const archivedSection = generateArchivedSection(archivedJobs, stats);
 
-  return `# 📊 Data Science & Analytics Jobs & Internships 2025-2026 by Zapply
+  return `# 📊 Data Science & Analytics Jobs & Internships 2026 by Zapply
 
 🚀 Real-time data science and data analysis jobs from ${totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with ${currentJobs.length}+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
@@ -280,7 +280,7 @@ ${internshipData ? generateInternshipSection(internshipData) : ""}
 ---
 
 
-## 🎯 Fresh Data Science Job Listings 2025-2026 (under 1 week)
+## 🎯 Fresh Data Science Job Listings 2026 (under 1 week)
 
 ${generateJobTable(currentJobs)}
 
