@@ -1,46 +1,21 @@
 const fs = require("fs");
-const path = require("path");
 const { generateJobId } = require("./job-fetcher/utils");
 const {isUSOnlyJob} = require("./job-fetcher/utils");
 const {filterJobsByLevel} =require("./job-fetcher/utils")
-// Import jobboard dependencies
 const { scrapeCompanyData } = require('../../jobboard/src/backend/core/scraper.js');
 const { getCompanies } = require('../../jobboard/src/backend/config/companies.js');
-const { transformJobs ,convertDateToRelative } = require('../../jobboard/src/backend/output/jobTransformer.js');
+const { transformJobs } = require('../../jobboard/src/backend/output/jobTransformer.js');
 
-// Load company database
-const companies = JSON.parse(
-  fs.readFileSync("./.github/scripts/job-fetcher/companies.json", "utf8")
-);
-const ALL_COMPANIES = Object.values(companies).flat();
 
+// Batch processing configuration
 const BATCH_CONFIG = {
-  batchSize: 15,                    // Number of scrapers to run concurrently in each batch
-  delayBetweenBatches: 500,       // Delay in milliseconds between batches
-  maxRetries: 1,                   // Maximum retry attempts for failed scrapers
-  timeout: 180000,                 // Timeout for individual scrapers (3 minutes)
-  enableProgressBar: true,          // Enable progress tracking
+  batchSize: 10,                   // Increased from 5 to 10 for better parallelization
+  delayBetweenBatches: 1000,       // Reduced from 2000ms to 1000ms
+  maxRetries: 1,                   // Reduced from 2 to 1 (most failures are persistent)
+  timeout: 120000,                 // Reduced from 900000ms (15min) to 120000ms (2min)
+  enableProgressBar: true,         // Enable progress tracking
   enableDetailedLogging: true      // Enable detailed logging for each scraper
 };
-
-// Utility functions
-function delay(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
-}
-
-function safeISOString(dateValue) {
-    if (!dateValue) return new Date().toISOString();
-
-    try {
-        const date = new Date(dateValue);
-        if (isNaN(date.getTime())) {
-            return new Date().toISOString();
-        }
-        return date.toISOString();
-    } catch (error) {
-        return new Date().toISOString();
-    }
-}
 
 // Function to create custom batch configuration
 function createBatchConfig(options = {}) {
@@ -50,35 +25,15 @@ function createBatchConfig(options = {}) {
   };
 }
 
-// Real career page endpoints for data science companies
+// Load company database
+// const companies = JSON.parse(
+//   fs.readFileSync("./companies.json", "utf8")
+// );
+// const ALL_COMPANIES = Object.values(companies).flat();
+
+// Real career page endpoints for major companies
 const CAREER_APIS = {
   // Greenhouse API Companies
-  Databricks: {
-    api: "https://api.greenhouse.io/v1/boards/databricks/jobs",
-    method: "GET",
-    parser: (data) => {
-      if (!Array.isArray(data.jobs)) return [];
-      return data.jobs
-        .filter(
-          (job) =>
-            job.title.toLowerCase().includes("data") ||
-            job.title.toLowerCase().includes("machine learning") ||
-            job.title.toLowerCase().includes("analyst")
-        )
-        .map((job) => ({
-          job_title: job.title,
-          employer_name: "Databricks",
-          job_city: job.location?.name?.split(", ")?.[0] || "San Francisco",
-          job_state: job.location?.name?.split(", ")?.[1] || "CA",
-          job_description:
-            job.content || "Join Databricks to unify analytics and AI.",
-          job_apply_link: job.absolute_url,
-          job_posted_at_datetime_utc: safeISOString(job.updated_at),
-          job_employment_type: "FULLTIME",
-        }));
-    },
-  },
-
   Stripe: {
     api: "https://api.greenhouse.io/v1/boards/stripe/jobs",
     method: "GET",
@@ -88,7 +43,9 @@ const CAREER_APIS = {
         .filter(
           (job) =>
             job.title.toLowerCase().includes("data") ||
-            job.title.toLowerCase().includes("analyst")
+            job.title.toLowerCase().includes("analyst") ||
+            job.title.toLowerCase().includes("scientist") ||
+            job.title.toLowerCase().includes("machine learning")
         )
         .map((job) => ({
           job_title: job.title,
@@ -105,8 +62,349 @@ const CAREER_APIS = {
     },
   },
 
-  // Add more data science focused APIs here...
+  Coinbase: {
+    api: "https://api.greenhouse.io/v1/boards/coinbase/jobs",
+    method: "GET",
+    parser: (data) => {
+      if (!Array.isArray(data.jobs)) return [];
+      return data.jobs
+        .filter(
+          (job) =>
+            job.title.toLowerCase().includes("data") ||
+            job.title.toLowerCase().includes("analyst") ||
+            job.title.toLowerCase().includes("scientist") ||
+            job.title.toLowerCase().includes("machine learning")
+        )
+        .map((job) => ({
+          job_title: job.title,
+          employer_name: "Coinbase",
+          job_city: job.location?.name?.split(", ")?.[0] || "San Francisco",
+          job_state: job.location?.name?.split(", ")?.[1] || "CA",
+          job_description:
+            job.content ||
+            "Join Coinbase to build the future of cryptocurrency.",
+          job_apply_link: job.absolute_url,
+          job_posted_at_datetime_utc: safeISOString(job.updated_at),
+          job_employment_type: "FULLTIME",
+        }));
+    },
+  },
+
+  Airbnb: {
+    api: "https://api.greenhouse.io/v1/boards/airbnb/jobs",
+    method: "GET",
+    parser: (data) => {
+      if (!Array.isArray(data.jobs)) return [];
+      return data.jobs
+        .filter(
+          (job) =>
+            job.title.toLowerCase().includes("data") ||
+            job.title.toLowerCase().includes("analyst") ||
+            job.title.toLowerCase().includes("scientist") ||
+            job.title.toLowerCase().includes("machine learning")
+        )
+        .map((job) => ({
+          job_title: job.title,
+          employer_name: "Airbnb",
+          job_city: job.location?.name?.split(", ")?.[0] || "San Francisco",
+          job_state: job.location?.name?.split(", ")?.[1] || "CA",
+          job_description:
+            job.content ||
+            "Join Airbnb to create a world where anyone can belong anywhere.",
+          job_apply_link: job.absolute_url,
+          job_posted_at_datetime_utc: safeISOString(job.updated_at),
+          job_employment_type: "FULLTIME",
+        }));
+    },
+  },
+
+  Databricks: {
+    api: "https://api.greenhouse.io/v1/boards/databricks/jobs",
+    method: "GET",
+    parser: (data) => {
+      if (!Array.isArray(data.jobs)) return [];
+      return data.jobs
+        .filter(
+          (job) =>
+            job.title.toLowerCase().includes("data") ||
+            job.title.toLowerCase().includes("analyst") ||
+            job.title.toLowerCase().includes("scientist") ||
+            job.title.toLowerCase().includes("machine learning")
+        )
+        .map((job) => ({
+          job_title: job.title,
+          employer_name: "Databricks",
+          job_city: job.location?.name?.split(", ")?.[0] || "San Francisco",
+          job_state: job.location?.name?.split(", ")?.[1] || "CA",
+          job_description:
+            job.content || "Join Databricks to unify analytics and AI.",
+          job_apply_link: job.absolute_url,
+          job_posted_at_datetime_utc: safeISOString(job.updated_at),
+          job_employment_type: "FULLTIME",
+        }));
+    },
+  },
+
+  Figma: {
+    api: "https://api.greenhouse.io/v1/boards/figma/jobs",
+    method: "GET",
+    parser: (data) => {
+      if (!Array.isArray(data.jobs)) return [];
+      return data.jobs
+        .filter(
+          (job) =>
+            job.title.toLowerCase().includes("data") ||
+            job.title.toLowerCase().includes("analyst") ||
+            job.title.toLowerCase().includes("scientist") ||
+            job.title.toLowerCase().includes("machine learning")
+        )
+        .map((job) => ({
+          job_title: job.title,
+          employer_name: "Figma",
+          job_city: job.location?.name?.split(", ")?.[0] || "San Francisco",
+          job_state: job.location?.name?.split(", ")?.[1] || "CA",
+          job_description:
+            job.content || "Join Figma to make design accessible to all.",
+          job_apply_link: job.absolute_url,
+          job_posted_at_datetime_utc: safeISOString(job.updated_at),
+          job_employment_type: "FULLTIME",
+        }));
+    },
+  },
+
+  // Custom API Companies
+  Apple: {
+    api: "https://jobs.apple.com/api/v1/search",
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      query: "engineer",
+      filters: {
+        locations: ["postLocation-USA"],
+      },
+      page: 1,
+      locale: "en-us",
+      sort: "newest",
+      format: {
+        longDate: "MMMM D, YYYY",
+        mediumDate: "MMM D, YYYY",
+      },
+    }),
+    parser: (data) => {
+      if (!data.searchResults) return [];
+      return data.searchResults.slice(0, 20).map((job) => ({
+        job_title: job.postingTitle,
+        employer_name: "Apple",
+        job_city: job.locations?.[0]?.name?.split(", ")?.[0] || "Cupertino",
+        job_state: job.locations?.[0]?.name?.split(", ")?.[1] || "CA",
+        job_description:
+          job.jobSummary || "Join Apple to create products that change lives.",
+        job_apply_link: `https://jobs.apple.com/en-us/details/${job.positionId}`,
+        job_posted_at_datetime_utc: safeISOString(job.postDateInGMT),
+        job_employment_type: "FULLTIME",
+      }));
+    },
+  },
+
+  Microsoft: {
+    api: "https://gcsservices.careers.microsoft.com/search/api/v1/search?l=en_us&pg=1&pgSz=20&o=Recent&flt=true",
+    method: "GET",
+    parser: (data) => {
+      if (!data.operationResult?.result?.jobs) return [];
+      return data.operationResult.result.jobs
+        .filter(
+          (job) =>
+            job.title.toLowerCase().includes("data") ||
+            job.title.toLowerCase().includes("analyst") ||
+            job.title.toLowerCase().includes("scientist") ||
+            job.title.toLowerCase().includes("machine learning")
+        )
+        .map((job) => ({
+          job_title: job.title,
+          employer_name: "Microsoft",
+          job_city: job.primaryLocation?.city || "Redmond",
+          job_state: job.primaryLocation?.state || "WA",
+          job_description:
+            job.description ||
+            "Join Microsoft to empower every person and organization on the planet.",
+          job_apply_link: `https://jobs.careers.microsoft.com/global/en/job/${job.jobId}`,
+          job_posted_at_datetime_utc: safeISOString(job.postedDate),
+          job_employment_type: "FULLTIME",
+        }));
+    },
+  },
+
+  // Amazon now uses dedicated scraper
+
+  Netflix: {
+    api: "https://explore.jobs.netflix.net/api/apply/v2/jobs?domain=netflix.com&query=data",
+    method: "GET",
+    pagination: true,
+    parser: (data) => {
+      if (!data.positions) return [];
+
+      // Filter for fresh jobs from past week and data science roles
+      const oneWeekAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
+
+      return data.positions
+        .filter((job) => {
+          const isDataScience =
+            job.name.toLowerCase().includes("data") ||
+            job.name.toLowerCase().includes("analyst") ||
+            job.name.toLowerCase().includes("scientist") ||
+            job.name.toLowerCase().includes("machine learning");
+          const isFresh = job.t_create * 1000 > oneWeekAgo;
+          return isDataScience && isFresh;
+        })
+        .map((job) => ({
+          job_title: job.name,
+          employer_name: "Netflix",
+          job_city: job.location?.split(",")?.[0] || "Los Gatos",
+          job_state: job.location?.split(", ")?.[1] || "CA",
+          job_description:
+            job.job_description || "Join Netflix to entertain the world.",
+          job_apply_link: job.canonicalPositionUrl,
+          job_posted_at_datetime_utc: safeISOString(job.t_create * 1000),
+          job_employment_type: "FULLTIME",
+        }));
+    },
+  },
+
+  Qualcomm: {
+    api: "https://careers.qualcomm.com/api/apply/v2/jobs?domain=qualcomm.com&num=20&query=USA&sort_by=relevance",
+    method: "GET",
+    parser: (data) => {
+      if (!data.positions) return [];
+      return data.positions
+        .filter(
+          (job) =>
+            job.name.toLowerCase().includes("data") ||
+            job.name.toLowerCase().includes("analyst") ||
+            job.name.toLowerCase().includes("scientist") ||
+            job.name.toLowerCase().includes("machine learning")
+        )
+        .map((job) => ({
+          job_title: job.name,
+          employer_name: "Qualcomm",
+          job_city: job.location?.split(", ")?.[0] || "San Diego",
+          job_state: job.location?.split(", ")?.[1] || "CA",
+          job_description:
+            job.description ||
+            "Join Qualcomm to invent breakthrough technologies.",
+          job_apply_link: job.canonicalPositionUrl,
+          job_posted_at_datetime_utc: safeISOString(job.publishedDate),
+          job_employment_type: "FULLTIME",
+        }));
+    },
+  },
+
+  PayPal: {
+    api: "https://paypal.eightfold.ai/api/apply/v2/jobs?domain=paypal.com&num=20&location=USA&sort_by=relevance",
+    method: "GET",
+    parser: (data) => {
+      if (!data.positions) return [];
+      return data.positions
+        .filter(
+          (job) =>
+            job.name.toLowerCase().includes("data") ||
+            job.name.toLowerCase().includes("analyst") ||
+            job.name.toLowerCase().includes("scientist") ||
+            job.name.toLowerCase().includes("machine learning")
+        )
+        .map((job) => ({
+          job_title: job.name,
+          employer_name: "PayPal",
+          job_city: job.location?.split(", ")?.[0] || "San Jose",
+          job_state: job.location?.split(", ")?.[1] || "CA",
+          job_description:
+            job.description || "Join PayPal to democratize financial services.",
+          job_apply_link: job.canonicalPositionUrl,
+          job_posted_at_datetime_utc: safeISOString(job.publishedDate),
+          job_employment_type: "FULLTIME",
+        }));
+    },
+  },
+
+  // Lever API Companies
+  // Uber now uses dedicated scraper
+
+  Discord: {
+    api: "https://boards-api.greenhouse.io/v1/boards/discord/jobs",
+    method: "GET",
+    parser: (data) => {
+      if (!Array.isArray(data.jobs)) return [];
+      return data.jobs
+        .filter(
+          (job) =>
+            job.title.toLowerCase().includes("data") ||
+            job.title.toLowerCase().includes("analyst") ||
+            job.title.toLowerCase().includes("scientist") ||
+            job.title.toLowerCase().includes("machine learning")
+        )
+        .map((job) => ({
+          job_title: job.title,
+          employer_name: "Discord",
+          job_city: job.location?.name?.split(", ")?.[0] || "San Francisco",
+          job_state: job.location?.name?.split(", ")?.[1] || "CA",
+          job_description: job.content || "Join Discord to build connections.",
+          job_apply_link: job.absolute_url,
+          job_posted_at_datetime_utc: safeISOString(job.updated_at),
+          job_employment_type: "FULLTIME",
+        }));
+    },
+  },
+
+  Lyft: {
+    api: "https://boards-api.greenhouse.io/v1/boards/lyft/jobs",
+    method: "GET",
+    parser: (data) => {
+      if (!Array.isArray(data.jobs)) return [];
+      return data.jobs
+        .filter(
+          (job) =>
+            job.title.toLowerCase().includes("data") ||
+            job.title.toLowerCase().includes("analyst") ||
+            job.title.toLowerCase().includes("scientist") ||
+            job.title.toLowerCase().includes("machine learning")
+        )
+        .map((job) => ({
+          job_title: job.title,
+          employer_name: "Lyft",
+          job_city: job.location?.name?.split(", ")?.[0] || "San Francisco",
+          job_state: job.location?.name?.split(", ")?.[1] || "CA",
+          job_description:
+            job.content ||
+            "Join Lyft to improve people's lives with the world's best transportation.",
+          job_apply_link: job.absolute_url,
+          job_posted_at_datetime_utc: safeISOString(job.updated_at),
+          job_employment_type: "FULLTIME",
+        }));
+    },
+  },
+
+  // Slack now uses dedicated scraper
 };
+
+// Utility functions
+function delay(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function safeISOString(dateValue) {
+  if (!dateValue) return new Date().toISOString();
+
+  try {
+    const date = new Date(dateValue);
+    if (isNaN(date.getTime())) {
+      return new Date().toISOString();
+    }
+    return date.toISOString();
+  } catch (error) {
+    return new Date().toISOString();
+  }
+}
 
 // Fetch jobs from a specific company's career API
 async function fetchCompanyJobs(companyName) {
@@ -151,6 +449,8 @@ async function fetchCompanyJobs(companyName) {
   }
 }
 
+// No sample jobs - only real API data
+
 // Fetch jobs from SimplifyJobs public data
 async function fetchSimplifyJobsData() {
   try {
@@ -174,7 +474,8 @@ async function fetchSimplifyJobsData() {
           job.url &&
           (job.title.toLowerCase().includes("data") ||
             job.title.toLowerCase().includes("analyst") ||
-            job.title.toLowerCase().includes("scientist"))
+            job.title.toLowerCase().includes("scientist") ||
+            job.title.toLowerCase().includes("machine learning"))
       )
       .map((job) => ({
         job_title: job.title,
@@ -197,7 +498,8 @@ async function fetchSimplifyJobsData() {
   }
 }
 
-// Fetch jobs from all companies with real career API
+// Fetch jobs from all companies with real career APIs
+
 async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, batchConfig = BATCH_CONFIG) {
   console.log("🚀 Starting optimized job fetching pipeline...");
 
@@ -206,14 +508,14 @@ async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, bat
 
   // Track job IDs for duplicate counting (not filtering)
   // We now return ALL jobs and let job-processor.js handle filtering
+  const fs = require('fs');
+  const path = require('path');
   try {
     const seenJobsPath = path.join(process.cwd(), '.github', 'data', 'seen_jobs.json');
     if (fs.existsSync(seenJobsPath)) {
       const seenJobs = JSON.parse(fs.readFileSync(seenJobsPath, 'utf8'));
-      if (Array.isArray(seenJobs)) {
-        seenJobs.forEach(id => processedJobIds.add(id));
-        console.log(`📚 Loaded ${processedJobIds.size} previously seen jobs for duplicate tracking (not filtering)`);
-      }
+      seenJobs.forEach(id => processedJobIds.add(id));
+      console.log(`📚 Loaded ${processedJobIds.size} previously seen jobs for duplicate tracking (not filtering)`);
     }
   } catch (err) {
     console.log(`⚠️ Could not load seen jobs for tracking: ${err.message}`);
@@ -320,7 +622,7 @@ async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, bat
     const results = [];
     const totalBatches = Math.ceil(configs.length / config.batchSize);
     const processedCompanies = new Set(); // Track processed companies to prevent duplicates
-
+    
     // Enhanced tracking objects
     const overallProgress = {
       totalCompanies: configs.length,
@@ -338,7 +640,7 @@ async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, bat
       failed: [],
       skipped: []
     };
-
+    
     console.log(`🚀 Starting optimized batch processing:`);
     console.log(`   📊 Total scrapers: ${configs.length}`);
     console.log(`   📦 Batch size: ${config.batchSize} companies per batch`);
@@ -346,14 +648,14 @@ async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, bat
     console.log(`   ⏳ Delay between batches: ${config.delayBetweenBatches}ms`);
     console.log(`   🔄 Max retries: ${config.maxRetries}`);
     console.log(`   🕐 Started at: ${new Date().toLocaleTimeString()}`);
-
+    
     for (let i = 0; i < configs.length; i += config.batchSize) {
       const batch = configs.slice(i, i + config.batchSize);
       const batchNumber = Math.floor(i / config.batchSize) + 1;
       const batchStartTime = Date.now();
-
+      
       console.log(`\n📦 Processing Batch ${batchNumber}/${totalBatches}: ${batch.map(c => c.name).join(', ')}`);
-
+      
       // Filter out already processed companies
       const filteredBatch = batch.filter(scraperConfig => {
         if (processedCompanies.has(scraperConfig.companyKey)) {
@@ -386,19 +688,20 @@ async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, bat
       const batchPromises = filteredBatch.map(async (scraperConfig) => {
         let lastError = null;
         let startTime = Date.now();
-
+        
         for (let attempt = 1; attempt <= config.maxRetries; attempt++) {
           try {
             // Update startTime for each attempt
             startTime = Date.now();
-
+            
+           
             let jobs;
             if (config.timeout > 0) {
               // Timeout enabled
               const timeoutPromise = new Promise((_, reject) => {
                 setTimeout(() => reject(new Error('Scraper timeout')), config.timeout);
               });
-
+              
               jobs = await Promise.race([
                 scraperConfig.scraper(),
                 timeoutPromise
@@ -407,12 +710,12 @@ async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, bat
               // No timeout - wait indefinitely for the scraper to complete
               jobs = await scraperConfig.scraper();
             }
-
+            
             const duration = Date.now() - startTime;
             overallProgress.processedCompanies++;
             overallProgress.successfulCompanies++;
             overallProgress.totalJobsCollected += jobs?.length || 0;
-
+            
             // Track successful company
             const successInfo = {
               name: scraperConfig.name,
@@ -423,33 +726,33 @@ async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, bat
             companiesStatus.successful.push(successInfo);
             batchProgress.successful.push(successInfo);
             batchProgress.totalJobs += jobs?.length || 0;
-
+            
             if (config.enableDetailedLogging) {
               console.log(`✅ ${scraperConfig.name}: ${jobs?.length || 0} jobs in ${duration}ms (Attempt ${attempt})`);
             }
-
-            return {
+            
+            return { 
               name: scraperConfig.name,
               companyKey: scraperConfig.companyKey,
-              jobs: jobs || [],
-              duration,
-              success: true,
+              jobs: jobs || [], 
+              duration, 
+              success: true, 
               attempts: attempt,
-              error: null
+              error: null 
             };
-
+            
           } catch (error) {
             lastError = error;
             if (config.enableDetailedLogging) {
               console.log(`⚠️  ${scraperConfig.name} attempt ${attempt} failed: ${error.message}`);
             }
-
+            
             // If this is the last attempt, mark as failed
             if (attempt === config.maxRetries) {
               const duration = Date.now() - startTime;
               overallProgress.processedCompanies++;
               overallProgress.failedCompanies++;
-
+              
               // Track failed company
               const failInfo = {
                 name: scraperConfig.name,
@@ -459,20 +762,20 @@ async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, bat
               };
               companiesStatus.failed.push(failInfo);
               batchProgress.failed.push(failInfo);
-
+              
               console.error(`❌ ${scraperConfig.name} failed after ${config.maxRetries} attempts: ${error.message}. Skipping company.`);
-
-              return {
+              
+              return { 
                 name: scraperConfig.name,
                 companyKey: scraperConfig.companyKey,
-                jobs: [],
-                duration: duration,
-                success: false,
+                jobs: [], 
+                duration: duration, 
+                success: false, 
                 attempts: attempt,
-                error: error.message
+                error: error.message 
               };
             }
-
+            
             // Exponential backoff with jitter for retry delay
             const baseDelay = 2000 * Math.pow(2, attempt - 1);
             const jitter = Math.random() * 1000; // Add jitter to avoid thundering herd
@@ -484,7 +787,7 @@ async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, bat
           }
         }
       });
-
+      
       // Wait for current batch to complete, with error tolerance (continue on individual failures)
       let batchResults;
       try {
@@ -494,30 +797,30 @@ async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, bat
         batchResults = []; // Or collect partial if using allSettled
       }
       results.push(...batchResults.filter(result => result)); // Filter nulls if any
-
+      
       // Complete batch tracking
       batchProgress.duration = Date.now() - batchStartTime;
       overallProgress.batchResults.push(batchProgress);
-
+      
       // Enhanced progress reporting after each batch
       const progressPercent = ((overallProgress.processedCompanies / overallProgress.totalCompanies) * 100).toFixed(1);
       const elapsedTime = Date.now() - overallProgress.startTime;
       const avgTimePerCompany = overallProgress.processedCompanies > 0 ? elapsedTime / overallProgress.processedCompanies : 0;
       const estimatedTimeRemaining = avgTimePerCompany * (overallProgress.totalCompanies - overallProgress.processedCompanies);
-
+      
       console.log(`\n🏁 Batch ${batchNumber}/${totalBatches} Completed in ${(batchProgress.duration/1000).toFixed(1)}s:`);
       console.log(`   ✅ Successful: ${batchProgress.successful.length} companies`);
       console.log(`   ❌ Failed: ${batchProgress.failed.length} companies`);
       console.log(`   📊 Jobs collected in this batch: ${batchProgress.totalJobs}`);
-
+      
       if (batchProgress.successful.length > 0) {
         console.log(`   🎯 Successful companies: ${batchProgress.successful.map(s => `${s.name}(${s.jobs})`).join(', ')}`);
       }
-
+      
       if (batchProgress.failed.length > 0) {
         console.log(`   💥 Failed companies: ${batchProgress.failed.map(f => `${f.name}(${f.error.substring(0, 30)}...)`).join(', ')}`);
       }
-
+      
       console.log(`\n📈 Overall Progress: ${overallProgress.processedCompanies}/${overallProgress.totalCompanies} (${progressPercent}%)`);
       console.log(`   ✅ Total Successful: ${overallProgress.successfulCompanies}`);
       console.log(`   ❌ Total Failed: ${overallProgress.failedCompanies}`);
@@ -525,14 +828,14 @@ async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, bat
       console.log(`   📊 Total Jobs Collected: ${overallProgress.totalJobsCollected}`);
       console.log(`   ⏱️  Elapsed Time: ${(elapsedTime/1000).toFixed(1)}s`);
       console.log(`   🔮 Estimated Time Remaining: ${(estimatedTimeRemaining/1000).toFixed(1)}s`);
-
+      
       // Add delay between batches (except for the last batch)
       if (i + config.batchSize < configs.length) {
         console.log(`⏳ Waiting ${config.delayBetweenBatches}ms before next batch...`);
         await new Promise(resolve => setTimeout(resolve, config.delayBetweenBatches));
       }
     }
-
+    
     // Final comprehensive summary
     const totalDuration = Date.now() - overallProgress.startTime;
     console.log(`\n🏆 ===== BATCH PROCESSING COMPLETE =====`);
@@ -544,7 +847,7 @@ async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, bat
     console.log(`   ⏭️  Skipped Companies: ${overallProgress.skippedCompanies} (${((overallProgress.skippedCompanies/overallProgress.totalCompanies)*100).toFixed(1)}%)`);
     console.log(`   📊 Total Jobs Collected: ${overallProgress.totalJobsCollected}`);
     console.log(`   ⚡ Average Jobs per Successful Company: ${overallProgress.successfulCompanies > 0 ? (overallProgress.totalJobsCollected/overallProgress.successfulCompanies).toFixed(1) : 0}`);
-
+    
     // Detailed success and failure breakdown
     console.log(`\n🎉 Successful Companies (${companiesStatus.successful.length}):`);
     companiesStatus.successful
@@ -552,28 +855,28 @@ async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, bat
       .forEach((company, index) => {
         console.log(`   ${index + 1}. ${company.name}: ${company.jobs} jobs (${(company.duration/1000).toFixed(1)}s, ${company.attempts} attempts)`);
       });
-
+    
     if (companiesStatus.failed.length > 0) {
       console.log(`\n💥 Failed Companies (${companiesStatus.failed.length}):`);
       companiesStatus.failed.forEach((company, index) => {
         console.log(`   ${index + 1}. ${company.name}: ${company.error} (${(company.duration/1000).toFixed(1)}s, ${company.attempts} attempts)`);
       });
     }
-
+    
     if (companiesStatus.skipped.length > 0) {
       console.log(`\n⏭️ Skipped Companies (${companiesStatus.skipped.length}):`);
       companiesStatus.skipped.forEach((company, index) => {
         console.log(`   ${index + 1}. ${company}`);
       });
     }
-
+    
     console.log(`🏁 Batch processing completed. Total results: ${results.length}`);
     return results;
   }
 
   // Process all scrapers in optimized batches
   const batchResults = await processScrapersInBatches(scraperConfigs, batchConfig);
-
+  
   // Collect all jobs from successful scrapers and transform immediately
   batchResults.forEach(result => {
     if (result.success && result.jobs && result.jobs.length > 0) {
@@ -641,16 +944,16 @@ async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, bat
   // Filter for US-only jobs
   const removedJobs = [];
   const initialCount = processedJobs.length;
-
+  
   try {
     processedJobs = processedJobs.filter(job => {
       const isUSJob = isUSOnlyJob(job);
-
+      
       if (!isUSJob) {
         removedJobs.push(job);
         return false; // Remove non-US job
       }
-
+      
       return true; // Keep US job
     });
 
@@ -669,14 +972,14 @@ async function fetchAllRealJobs(searchQuery = 'data science', maxPages = 10, bat
 
   // Sort by posting date (descending - latest first)
   uniqueJobs.sort((a, b) => {
-    const dateA = new Date(a.job_posted_at_datetime_utc || a.job_posted_at);
-    const dateB = new Date(b.job_posted_at_datetime_utc || b.job_posted_at);
+    const dateA = new Date(a.job_posted_at_datetime_utc);
+    const dateB = new Date(b.job_posted_at_datetime_utc);
     return dateB - dateA;
   });
 
+  // console.log(`🏢 Companies with real API data: ${companiesWithAPIs.length}`);
   console.log(`✅ REAL JOBS ONLY - No fake data!`);
 
   return uniqueJobs;
 }
-
 module.exports = { fetchAllRealJobs };
