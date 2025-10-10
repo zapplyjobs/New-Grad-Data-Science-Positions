@@ -1,12 +1,32 @@
 [
   {
+    "employer_name": "Intel",
+    "job_title": "Process Integration and Yield Development System Engineer",
+    "job_city": "US",
+    "job_state": "Arizona",
+    "job_posted_at": "Posted Today",
+    "job_description": "data science job for the role Process Integration and Yield Development System Engineer",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Process-Integration-and-Yield-Development-System-Engineer_JR0277779?q=data+science&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-process-integration-and-yield-development-system-engineer-us"
+  },
+  {
     "employer_name": "Google",
-    "job_title": "Software Engineer, gRPC",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "job_title": "Analyst, Platform Journey Analytics and Measurement",
+    "job_city": "Boulder",
+    "job_state": "CO",
     "job_posted_at": "Recently",
-    "job_description": "data science job for the role Software Engineer, gRPC",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/138694868300899014-software-engineer-grpc?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=5",
-    "id": "google-software-engineer-grpc-sunnyvale"
+    "job_description": "data science job for the role Analyst, Platform Journey Analytics and Measurement",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/121546060320383686-analyst-platform-journey-analytics-and-measurement?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3",
+    "id": "google-analyst-platform-journey-analytics-and-measurement-boulder"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Operations Engineer II, Total GCF Field",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_posted_at": "Today",
+    "job_description": "data science job for the role Operations Engineer II, Total GCF Field",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3106097/operations-engineer-ii-total-gcf-field",
+    "id": "amazon-operations-engineer-ii-total-gcf-field-boston"
   }
 ]
