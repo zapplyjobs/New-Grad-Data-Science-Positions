@@ -1,6 +1,6 @@
 # 📊 Data Science & Analytics Jobs & Internships 2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 13+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 406+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 12+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 404+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -21,8 +21,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 406 hot data-focused jobs
-- 🏢 **Top Companies:** 13 elite tech including Tesla, NVIDIA, Raytheon
+- 🔥 **Current Positions:** 404 hot data-focused jobs
+- 🏢 **Top Companies:** 12 elite tech including Tesla, NVIDIA, Raytheon
 - ⭐ **FAANG+ Jobs & Internships:** 195 premium opportunities
 - 📅 **Last Updated:** October 12, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -378,9 +378,9 @@ Top internships for students in data science, statistics, analytics, and related
 | Intern 2026: Quantum Events & Engagements | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60303&source=WEB_Search_NA) | NaNmo ago |
 | AI Foundations - Research Scientist - Research Internship: | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58805&source=WEB_Search_NA) | NaNmo ago |
 | Research AI Engineer, Intern: | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58803&source=WEB_Search_NA) | NaNmo ago |
+| Intern 2026: Quantum Computing Applications Research | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59976&source=WEB_Search_NA) | NaNmo ago |
 | Intern 2026: AI and Agentic Security Intern | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58831&source=WEB_Search_NA) | NaNmo ago |
 | AI Algorithms and Applications Intern | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60260&source=WEB_Search_NA) | NaNmo ago |
-| Intern 2026: Quantum Computing Applications Research | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59976&source=WEB_Search_NA) | NaNmo ago |
 | Intern 2026: AI Inference Optimization Engineer | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60197&source=WEB_Search_NA) | NaNmo ago |
 | Entry Level Software Engineer | United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57952&source=WEB_Search_NA) | NaNmo ago |
 | Software Developer Intern: | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54845&source=WEB_Search_NA) | NaNmo ago |
@@ -390,8 +390,8 @@ Top internships for students in data science, statistics, analytics, and related
 | Z Systems Support Intern | shipPOUGHKEEPSIE, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58199&source=WEB_Search_NA) | NaNmo ago |
 | Z Systems Support Intern | shipTUCSON, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58627&source=WEB_Search_NA) | NaNmo ago |
 | Warehouse Production Operator | POUGHKEEPSIE, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59662&source=WEB_Search_NA) | NaNmo ago |
-| Component Engineer Accelerate ELH | POUGHKEEPSIE, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63661&source=WEB_Search_NA) | NaNmo ago |
 | Technical Support Engineer | TUCSON, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63043&source=WEB_Search_NA) | NaNmo ago |
+| Component Engineer Accelerate ELH | POUGHKEEPSIE, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63661&source=WEB_Search_NA) | NaNmo ago |
 | Technical Support Engineer | POUGHKEEPSIE, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63081&source=WEB_Search_NA) | NaNmo ago |
 | Support Engineer - HashiCorp | Austin, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60266&source=WEB_Search_NA) | NaNmo ago |
 | Platform Engineer Intern – Entry Level Sales Program | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53603&source=WEB_Search_NA) | NaNmo ago |
@@ -414,15 +414,15 @@ Top internships for students in data science, statistics, analytics, and related
 | Financial Analyst Summer Intern | shipArmonk, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57618&source=WEB_Search_NA) | NaNmo ago |
 | Product Engineer - IBM Z | POUGHKEEPSIE, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63348&source=WEB_Search_NA) | NaNmo ago |
 | Systems Support Apprentice | TUCSON, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=43112&source=WEB_Search_NA) | NaNmo ago |
-| Hardware Design Technician Apprentice | POUGHKEEPSIE, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=21075&source=WEB_Search_NA) | NaNmo ago |
-| System Services Representative Austin, Texas | Austin, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59666&source=WEB_Search_NA) | NaNmo ago |
-| Associate Developer | United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54830&source=WEB_Search_NA) | NaNmo ago |
 | Associate Designer Intern | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57353&source=WEB_Search_NA) | NaNmo ago |
-| Enterprise Sales Development Representative - Apptio | RESEARCH TRIANGLE PARK, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63715&source=WEB_Search_NA) | NaNmo ago |
+| System Services Representative Austin, Texas | Austin, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59666&source=WEB_Search_NA) | NaNmo ago |
+| Hardware Design Technician Apprentice | POUGHKEEPSIE, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=21075&source=WEB_Search_NA) | NaNmo ago |
+| Associate Developer | United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54830&source=WEB_Search_NA) | NaNmo ago |
 | Federal Associate Developer | WASHINGTON, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54779&source=WEB_Search_NA) | NaNmo ago |
 | Digital Seller – Entry Level Sales Program | United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53144&source=WEB_Search_NA) | NaNmo ago |
-| Digital Seller Intern– Entry Level Sales Program | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53587&source=WEB_Search_NA) | NaNmo ago |
+| Enterprise Sales Development Representative - Apptio | RESEARCH TRIANGLE PARK, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63715&source=WEB_Search_NA) | NaNmo ago |
 | Federal Associate Developer (Rocket Center, WV) | Rocket Center, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54769&source=WEB_Search_NA) | NaNmo ago |
+| Digital Seller Intern– Entry Level Sales Program | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53587&source=WEB_Search_NA) | NaNmo ago |
 | 2026 Intern – Motion Designer | shipAustin, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61729&source=WEB_Search_NA) | NaNmo ago |
 | 2026 Intern – Visual Designer | shipAustin, US | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61730&source=WEB_Search_NA) | NaNmo ago |
 
@@ -448,7 +448,7 @@ Top internships for students in data science, statistics, analytics, and related
 | R&D Firmware Engineer | USA-CA Irvine Alton Parkway Bldg 1, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-1/R-D-Firmware-Engineer_R023456?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | NaNmo ago |
 
 <details>
-<summary><h4>📱 <strong>Verizon</strong> (24 positions)</h4></summary>
+<summary><h4>📱 <strong>Verizon</strong> (23 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -473,20 +473,20 @@ Top internships for students in data science, statistics, analytics, and related
 | Rutgers University Security Engineering Summer 2026 Internship | Basking Ridge, New Jersey | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Rutgers-University-Security-Engineering-Summer-2026-Internship_R-1084702?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | NaNmo ago |
 | 2026 Finance Internship Program | 2 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/XMLNAME-2026-Finance-Internship-Program_R-1084402?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | NaNmo ago |
 | The University of Texas at Dallas Network Security Co-op | Irving, Texas | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Irving-Texas/The-University-of-Texas-at-Dallas-Network-Security-Co-op_R-1084810?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | NaNmo ago |
-| Cybersecurity Data Scientist | 6 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Irving-Texas/Cybersecurity-Data-Scientist_R-1084901?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | NaNmo ago |
 | New Jersey Institute of Technology Network Security Co-op | Branchburg, New Jersey | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Branchburg-New-Jersey/New-Jersey-Institute-of-Technology-Network-Security-Co-op_R-1084801?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | NaNmo ago |
 | New Jersey Institute of Technology Product Engineering Co-op | Basking Ridge, New Jersey | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/New-Jersey-Institute-of-Technology-Product-Engineering-Co-op_R-1084736?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | NaNmo ago |
 
 </details>
 
-#### 📅 **Workday** (4 positions)
+#### 📅 **Workday** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Machine Learning Engineer 🏠 | 6 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Senior-Machine-Learning-Engineer-Machine-Learning-Engineer-III_JR-0098887?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | NaNmo ago |
+| Data Observability and Quality Engineer 🏠 | USA, GA | [<img src="./image.png" width="100" alt="Apply">](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-GA-Atlanta/Data-Observability-and-Quality-Engineer_JR-0098352?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | NaNmo ago |
+| Software Development Engineer, DevOps (US Federal) 🏠 | USA, VA | [<img src="./image.png" width="100" alt="Apply">](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-VA-McLean/Software-Development-Engineer--DevOps--US-Federal-_JR-0095837?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | NaNmo ago |
 | Software Engineer, DBaas - US Federal 🏠 | USA, VA | [<img src="./image.png" width="100" alt="Apply">](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-VA-McLean/Software-Engineer--DBaas---US-Federal_JR-0097446?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | NaNmo ago |
 | Software Development Engineer, DevOps - Lifecycle Platform (US Federal) 🏠 | USA, VA | [<img src="./image.png" width="100" alt="Apply">](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-VA-McLean/Software-Development-Engineer--DevOps---Lifecycle-Platform--US-Federal-_JR-0097425?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | NaNmo ago |
-| Software Development Engineer, DevOps (US Federal) 🏠 | USA, VA | [<img src="./image.png" width="100" alt="Apply">](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-VA-McLean/Software-Development-Engineer--DevOps--US-Federal-_JR-0097414?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | NaNmo ago |
 
 ### 🚗 **Automotive & Transportation** (14 positions)
 
@@ -523,14 +523,7 @@ Top internships for students in data science, statistics, analytics, and related
 | Production Maintenance Technician 3 - 3rd Shift 🏠 | US - California - San Diego, US | [<img src="./image.png" width="100" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Production-Maintenance-Technician-3---3rd-Shift_41162-JOB-1?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | NaNmo ago |
 | Onsite Field Service Engineer 🏠 | US - California - Southern -, US | [<img src="./image.png" width="100" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---Southern---Remote/Onsite-Field-Service-Engineer-2_41109-JOB-1?q=data+science&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | NaNmo ago |
 
-### 🏭 **Manufacturing & Industrial** (24 positions)
-
-#### 💪 **Arm** (2 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Graduate GPU Modeling Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/graduate-gpu-modeling-engineer/33099/70199981248) | NaNmo ago |
-| Graduate Systems Modeling Engineer | United States | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/graduate-systems-modeling-engineer/33099/86706351776) | NaNmo ago |
+### 🏭 **Manufacturing & Industrial** (22 positions)
 
 #### 🔌 **Infineon Technologies** (11 positions)
 
@@ -581,7 +574,7 @@ No companies available
 
 
 #### ☁️ **Enterprise & Cloud** (6 companies)
-📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (14 positions) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (24) • 📅 **[Workday](https://workday.wd5.myworkdayjobs.com/Workday)** (4) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (3) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (35) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (86)
+📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (14 positions) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (23) • 📅 **[Workday](https://workday.wd5.myworkdayjobs.com/Workday)** (5) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (3) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (35) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (86)
 
 ---
 
@@ -589,9 +582,9 @@ No companies available
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 115 | 28% | No or minimal experience. |
+| 🟢 Entry Level & New Grad | 112 | 28% | No or minimal experience. |
 | 🟡 Beginner & Early Career | 215 | 53% | 1-2 years of experience. |
-| 🔴 Manager | 76 | 19% | 2+ years of experience. |
+| 🔴 Manager | 77 | 19% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -603,14 +596,14 @@ List of top locations and number of positions.
 - **Seattle, WA**: 21 positions
 - **2 Locations, US**: 14 positions
 - **3 Locations, US**: 12 positions
-- **United States**: 10 positions
+- **United States**: 9 positions
 - **San Bruno, CA**: 9 positions
 
 ---
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 406+ verified roles for data analysts and scientists from 13 elite tech companies.
+✅ **100% Real Jobs:** 404+ verified roles for data analysts and scientists from 12 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 
@@ -675,7 +668,7 @@ List of top locations and number of positions.
 
 <div align="center">
 
-**🎯 406 current opportunities from 13 elite companies.**
+**🎯 404 current opportunities from 12 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
