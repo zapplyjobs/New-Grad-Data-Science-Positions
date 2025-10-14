@@ -67,7 +67,7 @@ async function extractJobData(page, selector, company, pageNum) {
         // Re-select job elements fresh each time to avoid detached nodes
         const currentJobElements = await page.$$(selector.jobSelector);
         if (selector.name === 'Applied Materials') {
-          currentJobElements = currentJobElements.slice(-EXTRACTION_MATERIALS_LIMIT);
+          currentJobElements = currentJobElements.slice(-EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
         }
         
         if (i >= currentJobElements.length) {
@@ -126,8 +126,17 @@ async function extractSingleJobData(page, jobElement, selector, company, index, 
         title = getText(sel.titleSelector);
       }
 
-      // Extract raw apply link - EMPTY for now, will be handled below
+      // Extract raw apply link
       let applyLink = '';
+      if (sel.applyLinkSelector) {
+        applyLink = getAttr(sel.applyLinkSelector.replace(/\${index}/g, jobIndex), sel.linkAttribute);
+      } else if (sel.linkSelector) {
+        applyLink = getAttr(sel.linkSelector, sel.linkAttribute);
+      } else if (sel.jobLinkSelector && sel.linkAttribute) {
+        applyLink = el.getAttribute(sel.linkAttribute) || '';
+      }
+
+      
       
       // Extract location with special handling
       let location = '';
@@ -178,24 +187,8 @@ async function extractSingleJobData(page, jobElement, selector, company, index, 
     index
   );
 
-  // Special handling for companies where job links are in the page URL context
-  // (e.g., when each job is clickable and opens in a new context rather than having direct href)
-  let finalApplyLink = '';
-  
-  // Check if this company needs URL-based link extraction
-  const needsUrlBasedExtraction = !selector.applyLinkSelector && 
-                                    !selector.linkSelector && 
-                                    !selector.jobLinkSelector;
-  
-  if (needsUrlBasedExtraction) {
-    // Extract job link from the page context for this specific job element
-    finalApplyLink = await extractJobLinkFromPageContext(page, jobElement, selector, company, index);
-  } else {
-    // Traditional link extraction
-    finalApplyLink = buildApplyLink(rawJobData.applyLink, company.baseUrl || '');
-  }
-  
-  // Fallback to base URL if no link found
+  // Build full apply link
+  let finalApplyLink = buildApplyLink(rawJobData.applyLink, company.baseUrl || '');
   if (!finalApplyLink && company.baseUrl) {
     finalApplyLink = company.baseUrl;
   }
@@ -225,122 +218,6 @@ async function extractSingleJobData(page, jobElement, selector, company, index, 
   }
 
   return job;
-}
-
-/**
- * Extract job link from page context by clicking and capturing navigation
- * This handles cases where job links aren't directly in href attributes
- * @param {Object} page - Puppeteer page instance
- * @param {Object} jobElement - Job element handle
- * @param {Object} selector - Selector configuration
- * @param {Object} company - Company configuration
- * @param {number} index - Job index
- * @returns {string} Job link URL
- */
-async function extractJobLinkFromPageContext(page, jobElement, selector, company, index) {
-  try {
-    // Method 1: Try to find any anchor tag within the job element
-    const anchorHref = await jobElement.evaluate((el) => {
-      const anchor = el.querySelector('a[href]');
-      return anchor ? anchor.getAttribute('href') : null;
-    });
-    
-    if (anchorHref) {
-      // Build full URL if it's relative
-      if (anchorHref.startsWith('http')) {
-        return anchorHref;
-      } else if (anchorHref.startsWith('/')) {
-        return company.baseUrl + anchorHref;
-      } else {
-        return company.baseUrl + '/' + anchorHref;
-      }
-    }
-
-    // Method 2: Try to extract from data attributes
-    const dataUrl = await jobElement.evaluate((el) => {
-      // Common data attributes that might contain job URLs
-      const dataAttrs = ['data-job-id', 'data-job-url', 'data-url', 'data-href', 'data-link'];
-      for (const attr of dataAttrs) {
-        const value = el.getAttribute(attr);
-        if (value) return value;
-      }
-      return null;
-    });
-    
-    if (dataUrl) {
-      if (dataUrl.startsWith('http')) {
-        return dataUrl;
-      } else {
-        // Construct URL based on company pattern
-        return `${company.baseUrl}/global/en/job/${dataUrl}`;
-      }
-    }
-
-    // Method 3: Click element and capture the URL change
-    // This is more aggressive but works for dynamic links
-    const originalUrl = page.url();
-    
-    // Set up navigation promise before clicking
-    const navigationPromise = page.waitForNavigation({ 
-      waitUntil: 'domcontentloaded',
-      timeout: 5000 
-    }).catch(() => null); // Ignore timeout errors
-    
-    // Click the job element (or its title)
-    const clickResult = await jobElement.evaluate((el, titleSel) => {
-      const titleEl = titleSel ? el.querySelector(titleSel) : el;
-      if (titleEl) {
-        titleEl.click();
-        return true;
-      }
-      return false;
-    }, selector.titleSelector);
-    
-    if (clickResult) {
-      // Wait a bit for navigation
-      await navigationPromise;
-      
-      // Get the new URL
-      const newUrl = page.url();
-      
-      // If URL changed, we found the job link
-      if (newUrl !== originalUrl && newUrl.includes('job')) {
-        const jobLink = newUrl;
-        
-        // Navigate back to the listing page
-        await page.goto(originalUrl, { waitUntil: 'domcontentloaded', timeout: 10000 });
-        await waitForJobSelector(page, selector.jobSelector);
-        
-        return jobLink;
-      }
-    }
-
-    // Method 4: Construct URL from job ID in title or element
-    const jobId = await jobElement.evaluate((el) => {
-      // Try to find job ID in various places
-      const text = el.textContent;
-      const idMatch = text.match(/(?:Job|ID|#)\s*[:\-]?\s*(\d{6,})/i);
-      if (idMatch) return idMatch[1];
-      
-      // Check for ID in class names
-      const classes = el.className;
-      const classMatch = classes.match(/job-(\d{6,})/);
-      if (classMatch) return classMatch[1];
-      
-      return null;
-    });
-    
-    if (jobId) {
-      return `${company.baseUrl}/global/en/job/${jobId}`;
-    }
-
-    console.warn(`Could not extract job link for job at index ${index}`);
-    return '';
-    
-  } catch (error) {
-    console.error(`Error extracting job link from page context: ${error.message}`);
-    return '';
-  }
 }
 
 /**
@@ -422,7 +299,7 @@ async function extractDescriptionSamePage(page, jobIndex, selector, jobNumber) {
  * @returns {string} Job description
  */
 async function extractDescriptionNextPage(page, applyLink, selector, originalUrl, jobNumber) {
-  let retries = 2;
+  let retries = 1;
   
   while (retries > 0) {
     try {
@@ -447,7 +324,7 @@ async function extractDescriptionNextPage(page, applyLink, selector, originalUrl
       try {
         await page.goto(originalUrl, { 
           waitUntil: 'domcontentloaded', 
-          timeout: 15000 
+          timeout: 115000 
         });
         await waitForJobSelector(page, selector.jobSelector);
         await new Promise(resolve => setTimeout(resolve, 500)); // Brief pause for page stability
@@ -650,6 +527,31 @@ async function extractAndFormatDescription(page, descriptionSelector) {
       .join('\n');
       
   }, descriptionSelector);
+}
+
+// Helper function to validate if extracted description contains experience info
+function validateDescriptionForExperience(description) {
+  if (!description || description === 'Description content not available' || description === 'No description found') {
+    return { hasExperience: false, confidence: 0 };
+  }
+  
+  const experienceIndicators = [
+    /\d+\s*\+?\s*years?\s*(?:of\s*)?(?:experience|exp|work)/gi,
+    /(?:minimum|require|need|must have)\s*\d+\s*years?/gi,
+    /(?:experience|background|qualification).*?\d+\s*years?/gi,
+    /\d+\s*years?\s*(?:minimum|required|needed)/gi
+  ];
+  
+  const matches = experienceIndicators.reduce((count, pattern) => {
+    const found = (description.match(pattern) || []).length;
+    return count + found;
+  }, 0);
+  
+  return {
+    hasExperience: matches > 0,
+    confidence: Math.min(matches * 0.3, 1), // 0.3 per match, max 1.0
+    matchCount: matches
+  };
 }
 
 /**
