@@ -1,213 +1,33 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Federal Associate Data Engineer",
-    "job_city": "",
-    "job_state": "Washington",
-    "job_posted_at": "1d",
-    "job_description": "Data Science job for the role Federal Associate Data Engineer",
-    "job_apply_link": "https://www.ibm.com",
-    "id": "ibm-federal-associate-data-engineer-"
-  },
-  {
-    "employer_name": "Micron Technology",
-    "job_title": "Process Quality Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "2d",
-    "job_description": "• Continues to improve abilities via internal and external education opportunities, and a desire to grow skills in Data Science Demonstrated analytical problem-solving skills with ability to solve complex problems and address root causes Completes all required safety training and ensures all work is conducted in accordance with safety policies Ability to plan, drive, and complete projects effectively white great attention to detail Ability to communicate complex analysis in a succinct and actionable manner Bachelor's degree in Chemistry, Chemical Engineering, or Materials Science Ability to organize and efficiently facilitate meetings and project teams Master's degree in Chemistry, Chemical Engineering, or Materials Science Skills in data extraction, analysis, reporting and visualization 2+ years in semiconductor industry.",
-    "job_apply_link": "https://careers.micron.com",
-    "id": "micron-technology-process-quality-engineer-boise"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Data Scientist",
-    "job_city": "cDill AFB",
-    "job_state": "FL",
-    "job_posted_at": "2w",
-    "job_description": "• Search: \"Data+Science\" Clear All (1) Space Science TechnologistlocationsArlington, VAposted onPosted 27 Days AgoR0226391 Data Scientistlocations2 Locationsposted onPosted 19 Days AgoR0217828 Data Scientistlocations2 Locationsposted onPosted 30+ Days AgoR0221143 Data ScientistlocationsAnnapolis Junction, MDposted onPosted 13 Days AgoR0221768 Data ScientistlocationsWiesbaden, Hesseposted onPosted 25 Days AgoR0224514 Data ScientistlocationsStuttgart, Baden-Wurttembergposted onPosted 30+ Days AgoR0225079 Data ScientistlocationsStuttgart, Baden-Wurttembergposted onPosted 30+ Days AgoR0225074 Data ScientistlocationsSpringfield, VAposted onPosted 30+ Days AgoR0225584 Data ScientistlocationsWashington, DCposted onPosted 30+ Days AgoR0225728 Data ScientistlocationsHerndon, VAposted onPosted 30+ Days AgoR0225823 Data ScientistlocationsArlington, VAposted onPosted 30+ Days AgoR0225955 Data ScientistlocationsSpringfield, VAposted onPosted 30+ Days AgoR0225585 Data ScientistlocationsNapoliposted onPosted 11 Days AgoR0226656 Data ScientistlocationsNapoliposted onPosted 11 Days AgoR0226652 Data ScientistlocationsMacDill AFB, FLposted onPosted 20 Days AgoR0226861 Data ScientistlocationsArlington, VAposted onPosted 15 Days AgoR0226843 Data ScientistlocationsStuttgart, Baden-Wurttembergposted onPosted 14 Days AgoR0227137 Data ScientistlocationsChantilly, VAposted onPosted 14 Days AgoR0226646 Data ScientistlocationsArlington, VAposted onPosted 13 Days AgoR0227412 Data ScientistlocationsNorfolk, VAposted onPosted 12 Days AgoR0227443.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com",
-    "id": "bae-systems-data-scientist-cdill-afb"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Data Scientist, Mid",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_posted_at": "4d",
-    "job_description": "• University, 2026 Summer Games Data Scientist Internlocations11 Locationsposted onPosted 30+ Days AgoR0225534 Data Scientist, SeniorlocationsAlexandria, VAposted onPosted 14 Days AgoR0227315 Data Scientist, SeniorlocationsAlexandria, VAposted onPosted 13 Days AgoR0227427 Data Scientist, SeniorlocationsSpringfield, VAposted onPosted 7 Days AgoR0227761 Data Scientist, SeniorlocationsArlington, VAposted onPosted 18 Days AgoR0226919 Data Scientist, Seniorlocations2 Locationsposted onPosted 13 Days AgoR0227430 Data Scientist, LeadlocationsHuntsville, ALposted onPosted 6 Days AgoR0227770.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com",
-    "id": "bae-systems-data-scientist-mid-fort-meade"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Data Analyst",
-    "job_city": "Stuttgart",
-    "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "4d",
-    "job_description": "• University, 2026 Summer Games Data Scientist Internlocations11 Locationsposted onPosted 30+ Days AgoR0225534 Data Scientist, SeniorlocationsAlexandria, VAposted onPosted 14 Days AgoR0227315 Data Scientist, SeniorlocationsAlexandria, VAposted onPosted 13 Days AgoR0227427 Data Scientist, SeniorlocationsSpringfield, VAposted onPosted 7 Days AgoR0227761 Data Scientist, SeniorlocationsArlington, VAposted onPosted 18 Days AgoR0226919 Data Scientist, Seniorlocations2 Locationsposted onPosted 13 Days AgoR0227430 Data Scientist, LeadlocationsHuntsville, ALposted onPosted 6 Days AgoR0227770.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com",
-    "id": "bae-systems-data-analyst-stuttgart"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Power Automation Developer",
-    "job_city": "Location / Remote",
-    "job_state": "",
-    "job_posted_at": "5d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com",
-    "id": "general-dynamics-power-automation-developer-location-remote"
-  },
-  {
     "employer_name": "10x Genomics",
     "job_title": "Scientist 1, Assay Productization (P-4386)",
     "job_city": "Pleasanton",
     "job_state": "California",
     "job_posted_at": "1d",
     "job_description": "• , 4+ years of relevant biotechnology or pharmaceutical industry experience.\n• Experience in a process or product development role, especially technology transfer to manufacturing and/or QC groups.\n• Proficient in standard molecular biology techniques such as sample preparation, nucleic acid amplification and purification (RNA/DNA), and DNA/RNA in situ hybridization experience.\n• Light and fluorescent microscopy experience.\n• Experience with experimental design and statistical data analysis.\n• Experience troubleshooting molecular biology-based assays and issues with reagent quality (manufacturing process, QC and stability).\n• Experience generating reports/presentations and forecasting reagent usage and costs.\n• Strong collaboration and communication skills.",
-    "job_apply_link": "https://careers.10xgenomics.com",
+    "job_apply_link": "https://careers.10xgenomics.com/careers/job/171837195797",
     "id": "10x-genomics-scientist-1-assay-productization-p-4386-pleasanton"
   },
   {
-    "employer_name": "Guidehouse",
-    "job_title": "Data Analyst",
-    "job_city": "US VA",
-    "job_state": "Norfolk",
-    "job_posted_at": "4d",
-    "job_description": "• Solutions Architect - AI & Data Sciencelocations2 Locationsposted onPosted 7 Days Ago32586Director - Life Sciences Advisory - Data SciencelocationsUS - Remote (Any location)posted onPosted 30+ Days Ago32193Data Engineer – AI & Data Modernizationlocations3 Locationsposted onPosted 4 Days Ago31777Data ScientistlocationsUS - VA, Springfieldposted onPosted 30+ Days Ago30703Data ScientistlocationsUS - VA, Springfieldposted onPosted 14 Days Ago32224Data AnalystlocationsUS - VA, Norfolkposted onPosted 4 Days Ago33119Data ScientistlocationsUS - VA, Arlingtonposted onPosted Today33076Data Warehouse Architect – AI & Data Modernizationlocations4 Locationsposted onPosted 15 Days Ago31739Senior Data Engineer – AI & Data Modernizationlocations3 Locationsposted onPosted 4 Days Ago31753Senior Data AnalystlocationsUS - VA, Springfieldposted onPosted 30+ Days Ago31752Senior Data ScientistlocationsUS - VA, McLeanposted onPosted 6 Days Ago32934Senior Data Analytics ConsultantlocationsUS - AL, Huntsvilleposted onPosted 19 Days Ago31536AI & Data Analytics Project ManagerlocationsUS - VA, Ashburnposted onPosted Today31011Associate Director, AI & Data, Energy Providerslocations6 Locationsposted onPosted 4 Days Ago30435AI/ML Ops Data Scientist – Jr.\n• LocationsUS - VA, Arlingtonposted onPosted 8 Days Ago32443Associate Director, AI & Data, Federal Civilian Agencieslocations2 Locationsposted onPosted 4 Days Ago30806Palantir Foundry Architectlocations5 Locationsposted onPosted 5 Days Ago28487Workforce Planning Reporting and Technical Associatelocations2 Locationsposted onPosted 30+ Days Ago31679AI/ML Engineer - Supply Chain & LogisticslocationsUS - AL, Huntsvilleposted onPosted Yesterday31825Associate Director, AI & Data (State and Local Government)locations3 Locationsposted onPosted 4 Days Ago31844.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com",
-    "id": "guidehouse-data-analyst-us-va"
-  },
-  {
-    "employer_name": "Guidehouse",
-    "job_title": "Regulatory Data Analyst",
-    "job_city": "US Remote ( location)",
-    "job_state": "",
-    "job_posted_at": "4d",
-    "job_description": "• Public Health Informaticist Associate DirectorlocationsUS - Remote (Any location)posted onPosted 15 Days Ago32399DoD Business Analytics EngineerlocationsUS - FL, Tampaposted onPosted 8 Days Ago32570Senior Consultant, Healthcare Analytics – Payor/Provider Finance Data and AI, Managed Care Contracting & Optimizationlocations2 Locationsposted onPosted 6 Days Ago32920AI Studio Delivery Leadlocations2 Locationsposted onPosted 5 Days Ago33065Senior Data Engineerlocations2 Locationsposted onPosted 21 Days Ago29225Regulatory Data AnalystlocationsUS - Remote (Any location)posted onPosted 4 Days Ago31897Architect - Data Engineeringlocations2 Locationsposted onPosted 29 Days Ago32049Lead - Data Scientist & AIlocations2 Locationsposted onPosted 28 Days Ago28457Assistant Manager - Data Engineeringlocations2 Locationsposted onPosted 30+ Days Ago31233Assistant Manager - Data Engineeringlocations2 Locationsposted onPosted 7 Days Ago31179AI Technical Leadlocations2 Locationsposted onPosted 30+ Days Ago30212Consultant - Life Sciences Advisory, Health Segment - Campus 2026locations4 Locationsposted onPosted 30+ Days Ago32181Senior Consultant - Life Sciences Advisory, Health Segment - Campus 2026locations4 Locationsposted onPosted 30+ Days Ago32182Data Engineer ArchitectlocationsUS - AL, Huntsvilleposted onPosted 19 Days Ago31270Senior Data Analystlocations2 Locationsposted onPosted 6 Days Ago32498Lead Data Analystlocations2 Locationsposted onPosted 6 Days Ago32495Junior AI SpecialistlocationsUS - VA, Springfieldposted onPosted 8 Days Ago32388Assistant Manager Data Analystlocations2 Locationsposted onPosted 6 Days Ago32494Consultant - Life Sciences - LondonlocationsGB - Londonposted onPosted 30+ Days Ago30459Senior Workday Data Conversionlocations2 Locationsposted onPosted 7 Days Ago31232.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com",
-    "id": "guidehouse-regulatory-data-analyst-us-remote-location"
-  },
-  {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "Material Handler 1st Shift",
-    "job_city": "Chippewa Falls",
-    "job_state": "Wisconsin",
-    "job_posted_at": "5d",
-    "job_description": "Same-page description extraction failed after retries",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com",
-    "id": "hewlett-packard-enterprise-material-handler-1st-shift-chippewa-falls"
-  },
-  {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "Warehouse Distribution/Kitting",
-    "job_city": "Chippewa Falls",
-    "job_state": "Wisconsin",
-    "job_posted_at": "5d",
-    "job_description": "Same-page description extraction failed after retries",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com",
-    "id": "hewlett-packard-enterprise-warehouse-distribution-kitting-chippewa-falls"
-  },
-  {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "Order Management",
-    "job_city": "Chippewa Falls",
-    "job_state": "Wisconsin",
-    "job_posted_at": "5d",
-    "job_description": "Same-page description extraction failed after retries",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com",
-    "id": "hewlett-packard-enterprise-order-management-chippewa-falls"
-  },
-  {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "Data Lake SME",
-    "job_city": "ngalore",
-    "job_state": "Karnataka",
-    "job_posted_at": "1w",
-    "job_description": "Same-page description extraction failed after retries",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com",
-    "id": "hewlett-packard-enterprise-data-lake-sme-ngalore"
-  },
-  {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "Data Lake ETL",
-    "job_city": "ngalore",
-    "job_state": "Karnataka",
-    "job_posted_at": "1w",
-    "job_description": "Same-page description extraction failed after retries",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com",
-    "id": "hewlett-packard-enterprise-data-lake-etl-ngalore"
-  },
-  {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "AI/ML Engineer",
-    "job_city": "ngalore",
-    "job_state": "Karnataka",
-    "job_posted_at": "1w",
-    "job_description": "Same-page description extraction failed after retries",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com",
-    "id": "hewlett-packard-enterprise-ai-ml-engineer-ngalore"
-  },
-  {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "Software Engineer",
-    "job_city": "ngalore",
-    "job_state": "Karnataka",
-    "job_posted_at": "5d",
-    "job_description": "Same-page description extraction failed after retries",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com",
-    "id": "hewlett-packard-enterprise-software-engineer-ngalore"
-  },
-  {
-    "employer_name": "Illumina",
-    "job_title": "Onsite Field Service Engineer",
-    "job_city": "US California Southern Remote",
-    "job_state": "",
-    "job_posted_at": "4w",
-    "job_description": "• Associate Director, Strategic Finance (San Diego/Hybrid)locationsUS - California - San Diegoposted onPosted 28 Days Ago41329-JOBSr Territory Account Manager TN/ALlocations2 Locationsposted onPosted 26 Days Ago41230-JOBBiochemistry Specialist 1locationsUS - Wisconsin - Madisonposted onPosted Yesterday41450-JOBSenior Territory Account ManagerlocationsUS - Texas - Remoteposted onPosted 4 Days Ago41506-JOBStaff Product ManagerlocationsUS - California - San Diegoposted onPosted 30+ Days Ago41197-JOBCybersecurity Program Manager, Assoc Principallocations2 Locationsposted onPosted 30+ Days Ago40897-JOBSenior Manager, IT - SAP FinancelocationsUS - California - San Diego - HQposted onPosted 30+ Days Ago40615-JOBAssociate Director, Sales Compensation Administrationlocations2 Locationsposted onPosted 28 Days Ago41341-JOBDirector, Business Operations - USCAN CommerciallocationsUS - California - San Diegoposted onPosted 7 Days Ago41379-JOBAssociate Director, Sales Compensation DesignlocationsUS - California - Southern - Remoteposted onPosted 5 Days Ago41434-JOBSr Business Systems Analyst, Global Learning ServiceslocationsUS - California - San Diegoposted onPosted Yesterday41216-JOBProduction Maintenance Technician 3 - 3rd ShiftlocationsUS - California - San Diegoposted onPosted 30+ Days Ago41162-JOBInvestor Relations Senior Financial Analyst (San Diego/Hybrid)locationsUS - California - San Diegoposted onPosted 8 Days Ago41310-JOBSr.\n• Director of Global Real Estate and Workplace StrategylocationsUS - California - San Diegoposted onPosted 27 Days Ago41181-JOBAssociate Director, Product Management – NGS ApplicationslocationsUS - California - San Diegoposted onPosted 30+ Days Ago41318-JOBOnsite Field Service Engineer 2locationsUS - California - Southern - Remoteposted onPosted 29 Days Ago41109-JOBSr Sequencing Sales SpecialistlocationsUS - Tennessee - Remoteposted onPosted Yesterday41469-JOBMaterial Coordinator 2 (2nd Shift)locationsUS - California - San Diegoposted onPosted 26 Days Ago41332-JOB.",
-    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com",
-    "id": "illumina-onsite-field-service-engineer-us-california-southern-remote"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "Verizon Consumer Sales Operations Summer 2026 Internship",
-    "job_city": "sking Ridge",
-    "job_state": "New Jersey",
-    "job_posted_at": "5d",
-    "job_description": "• FAMU Finance Summer Internship Programlocations2 Locationstime typeFull timeposted onPosted TodayR-1086625FAMU Finance Leadership Development Program Internshiplocations2 Locationstime typeFull timeposted onPosted TodayR-1086626Senior Engineer Consultant - Adobe Journey Orchestrationlocations2 Locationstime typeFull timeposted onPosted YesterdayR-1074045Verizon Consumer Sales Operations Summer 2026 InternshiplocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted 5 Days AgoR-1086664Principal Engineer Software DevelopmentlocationsAshburn, Virginiatime typeFull timeposted onPosted 6 Days AgoR-1081230Rutgers University - 2026 Global Solutions Technology Summer Internshiplocations6 Locationstime typeFull timeposted onPosted 6 Days AgoR-1086610Product Development/Management-Manager (Digital Marketing Manager)locationsIrving, Texastime typeFull timeposted onPosted 7 Days AgoR-1086592Product Development/Management-Senior ManagerlocationsNew York, New Yorktime typeFull timeposted onPosted 7 Days AgoR-1086588Principal Engineer - Network Security Data Analyticslocations4 Locationstime typeFull timeposted onPosted 7 Days AgoR-1083052AI Connect Senior Product Managerlocations3 Locationstime typeFull timeposted onPosted 7 Days AgoR-1086444Product Development /Management-Senior ManagerlocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted 7 Days AgoR-1086497Principal Solutions Architectlocations5 Locationstime typeFull timeposted onPosted 8 Days AgoR-1084146Engr IV-Security Engrglocations2 Locationstime typeFull timeposted onPosted 11 Days AgoR-1070012Morgan State University Consumer Sales Ops & Partner Channel Summer 2026 InternshiplocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted 13 Days AgoR-1086277Business Intelligence Senior Managerlocations3 Locationstime typeFull timeposted onPosted 14 Days AgoR-1084875Full Stack Software Development Summer 2026 InternshiplocationsIrving, Texastime typeFull timeposted onPosted 15 Days AgoR-1086181Network Performance Summer 2026 InternshiplocationsIrving, Texastime typeFull timeposted onPosted 15 Days AgoR-1086176Security Engineering Summer 2026 InternshiplocationsSouthlake, Texastime typeFull timeposted onPosted 15 Days AgoR-1086113Technical Product Management Summer 2026 InternshiplocationsPlano, Texastime typeFull timeposted onPosted 15 Days AgoR-1086171Cloud Solutions Summer 2026 InternshiplocationsIrving, Texastime typeFull timeposted onPosted 15 Days AgoR-1086077.",
-    "job_apply_link": "https://verizon.wd12.myworkdayjobs.com",
-    "id": "verizon-verizon-consumer-sales-operations-summer-2026-internship-sking-ridge"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "Morgan State University Consumer Sales Ops & Partner Channel Summer 2026 Internship",
-    "job_city": "sking Ridge",
-    "job_state": "New Jersey",
-    "job_posted_at": "1w",
-    "job_description": "• FAMU Finance Summer Internship Programlocations2 Locationstime typeFull timeposted onPosted TodayR-1086625FAMU Finance Leadership Development Program Internshiplocations2 Locationstime typeFull timeposted onPosted TodayR-1086626Senior Engineer Consultant - Adobe Journey Orchestrationlocations2 Locationstime typeFull timeposted onPosted YesterdayR-1074045Verizon Consumer Sales Operations Summer 2026 InternshiplocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted 5 Days AgoR-1086664Principal Engineer Software DevelopmentlocationsAshburn, Virginiatime typeFull timeposted onPosted 6 Days AgoR-1081230Rutgers University - 2026 Global Solutions Technology Summer Internshiplocations6 Locationstime typeFull timeposted onPosted 6 Days AgoR-1086610Product Development/Management-Manager (Digital Marketing Manager)locationsIrving, Texastime typeFull timeposted onPosted 7 Days AgoR-1086592Product Development/Management-Senior ManagerlocationsNew York, New Yorktime typeFull timeposted onPosted 7 Days AgoR-1086588Principal Engineer - Network Security Data Analyticslocations4 Locationstime typeFull timeposted onPosted 7 Days AgoR-1083052AI Connect Senior Product Managerlocations3 Locationstime typeFull timeposted onPosted 7 Days AgoR-1086444Product Development /Management-Senior ManagerlocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted 7 Days AgoR-1086497Principal Solutions Architectlocations5 Locationstime typeFull timeposted onPosted 8 Days AgoR-1084146Engr IV-Security Engrglocations2 Locationstime typeFull timeposted onPosted 11 Days AgoR-1070012Morgan State University Consumer Sales Ops & Partner Channel Summer 2026 InternshiplocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted 13 Days AgoR-1086277Business Intelligence Senior Managerlocations3 Locationstime typeFull timeposted onPosted 14 Days AgoR-1084875Full Stack Software Development Summer 2026 InternshiplocationsIrving, Texastime typeFull timeposted onPosted 15 Days AgoR-1086181Network Performance Summer 2026 InternshiplocationsIrving, Texastime typeFull timeposted onPosted 15 Days AgoR-1086176Security Engineering Summer 2026 InternshiplocationsSouthlake, Texastime typeFull timeposted onPosted 15 Days AgoR-1086113Technical Product Management Summer 2026 InternshiplocationsPlano, Texastime typeFull timeposted onPosted 15 Days AgoR-1086171Cloud Solutions Summer 2026 InternshiplocationsIrving, Texastime typeFull timeposted onPosted 15 Days AgoR-1086077.",
-    "job_apply_link": "https://verizon.wd12.myworkdayjobs.com",
-    "id": "verizon-morgan-state-university-consumer-sales-ops-partner-channel-summer-2026-internship-sking-ridge"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "Consumer Sales Ops & Partner Channel Summer 2026 Internship",
-    "job_city": "sking Ridge",
-    "job_state": "New Jersey",
-    "job_posted_at": "2w",
-    "job_description": "• Consumer Sales Ops & Partner Channel Summer 2026 InternshiplocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted 15 Days AgoR-1086120Consumer Success Ops & Strategy Summer 2026 Internshiplocations2 Locationstime typeFull timeposted onPosted 15 Days AgoR-1086114Senior Embedded Software EngineerlocationsFirenze, Italytime typeFull timeposted onPosted 20 Days AgoR-1085604Principal Solutions ArchitectlocationsAlpharetta, Georgiatime typeFull timeposted onPosted 20 Days AgoR-1085846Associate Director-AI/ML Engineeringlocations3 Locationstime typeFull timeposted onPosted 21 Days AgoR-1085330MarTech Specialistlocations2 Locationstime typeFull timeposted onPosted 21 Days AgoR-1079917George Mason University-Verizon Business Public Sector Sales Summer 2026 Internshiplocations5 Locationstime typeFull timeposted onPosted 22 Days AgoR-1085725Senior Engineering Consultant-Software Developmentlocations2 Locationstime typeFull timeposted onPosted 22 Days AgoR-1085403Associate Director-AI SciencelocationsHyderabad, Indiatime typeFull timeposted onPosted 22 Days AgoR-1067829Network Performance Summer 2026 InternshiplocationsIndianapolis, Indianatime typeFull timeposted onPosted 25 Days AgoR-1085577New Jersey Institute of Technology Finance Leadership Development Summer 2026 Internshiplocations2 Locationstime typeFull timeposted onPosted 26 Days AgoR-1085258University of Central Florida Finance Summer 2026 Internshiplocations2 Locationstime typeFull timeposted onPosted 27 Days AgoR-1085098University of Central Florida Finance Leadership Development Summer 2026 Internshiplocations2 Locationstime typeFull timeposted onPosted 27 Days AgoR-1085095Principal Penetration Testerlocations5 Locationstime typeFull timeposted onPosted 27 Days AgoR-1084374Full-Stack Java DeveloperlocationsLisboa, Portugaltime typeFull timeposted onPosted 27 Days AgoR-1083101Sales Tax Audit - Senior Managerlocations2 Locationstime typeFull timeposted onPosted 28 Days AgoR-1050644Verizon Business Public Sector-Federal Sales Summer 2026 InternshiplocationsAshburn, Virginiatime typeFull timeposted onPosted 28 Days AgoR-1085222Security Engineering Summer 2026 InternshiplocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted 30+ Days AgoR-1084678Rutgers University Security Engineering Summer 2026 InternshiplocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted 30+ Days AgoR-1084702Architect-Sols ArchtlocationsSolna, Swedentime typeFull timeposted onPosted 30+ Days AgoR-1082619.",
-    "job_apply_link": "https://verizon.wd12.myworkdayjobs.com",
-    "id": "verizon-consumer-sales-ops-partner-channel-summer-2026-internship-sking-ridge"
+    "employer_name": "NVIDIA",
+    "job_title": "Site Reliability Engineer - Air Platform Team",
+    "job_city": "US",
+    "job_state": "NC",
+    "job_posted_at": "2d",
+    "job_description": "• Senior Solutions Architect - Healthcare and Life Scienceslocations2 Locationsposted onPosted YesterdayJR2005926AI and ML Infra Software Engineer, GPU Clusters - New College Grad 2026locations2 Locationsposted onPosted YesterdayJR2005097Senior Customer Technical Program Manager - AI Datacenterlocations2 Locationsposted onPosted YesterdayJR2005827Principal Software Engineer L3, Planning and Controls - Autonomous Vehicleslocations2 Locationsposted onPosted YesterdayJR2006109Senior Solutions Architect, Autonomous Vehicles - Data CenterlocationsUS, CA, Santa Claraposted onPosted YesterdayJR1995134Senior Software Engineer, Metrics and Evaluation - Autonomous Vehicleslocations6 Locationsposted onPosted YesterdayJR1994974Senior Software Manager, NetworkinglocationsUS, CA, Santa Claraposted onPosted YesterdayJR2005622Senior Firmware Engineer – GPU NetworkinglocationsUS, CA, Santa Claraposted onPosted YesterdayJR2005933Senior Software Engineer, NetworkinglocationsUS, CA, Santa Claraposted onPosted YesterdayJR2005652Senior Server Firmware Bringup EngineerlocationsUS, CA, Santa Claraposted onPosted 2 Days AgoJR2001012Distinguished Software Engineer - NVLink Fusion Softwarelocations6 Locationsposted onPosted 2 Days AgoJR2000295Senior HPC Performance EngineerlocationsUS, CA, Santa Claraposted onPosted 2 Days AgoJR1997214Senior Linux Kernel Systems Software Engineer – CSP Engagementslocations4 Locationsposted onPosted 2 Days AgoJR1999600Senior Storage Production Engineer - DGX Cloudlocations2 Locationsposted onPosted 2 Days AgoJR2001696Senior System Software Engineer - DevSecOps locationsUS, CO, Remoteposted onPosted 2 Days AgoJR2004967Senior Software Engineer, Data Ingestion and Movement - DGX Cloudlocations2 Locationsposted onPosted 2 Days AgoJR2001568Senior System Security Test Engineer - Datacenterlocations2 Locationsposted onPosted 2 Days AgoJR2002118Site Reliability Engineer - Air Platform TeamlocationsUS, NC, Durhamposted onPosted 2 Days AgoJR2005919Senior Systems Software Security Engineer – Data Center SystemslocationsUS, CO, Remoteposted onPosted 2 Days AgoJR2004966Senior Offensive Security Engineer – Data Center Systemslocations2 Locationsposted onPosted 2 Days AgoJR2004393.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/Site-Reliability-Engineer---Air-Platform-Team_JR2005919?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-site-reliability-engineer-air-platform-team-us"
   },
   {
     "employer_name": "AMD",
-    "job_title": "Post Silicon Data Fabric Validation Engineer",
+    "job_title": "ML/AI Engineer",
     "job_city": "US",
     "job_state": "TX",
     "job_posted_at": "1d",
-    "job_description": "Data Science job for the role Post Silicon Data Fabric Validation Engineer",
-    "job_apply_link": "",
-    "id": "amd-post-silicon-data-fabric-validation-engineer-us"
+    "job_description": "• Strong interpersonal and communication skills and a willingness s to collaborate with different functional teams.\n• (Plus) Experience with web development using Javascript and frameworks such Flask, Angular, ASP.\n• Excellent problem-solving skills with the ability to thrive in a demanding, fast-paced work environment.\n• AMD Partner Hub Authorized Distributors AMD University Program Experience with PyTorch, Tensorflow and Python packages, such as NumPy (Plus) Experience using relational (SQL) and noSQL databases.\n• Experience developing and deploying machine learning.\n• In-depth knowledge of computer programming languages, such as Python, JavaScript, and C++.\n• Practical knowledge of neural networks and data science Stay current on AI knowledge, trends, and regulations.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/72468/login",
+    "id": "amd-ml-ai-engineer-us"
   },
   {
     "employer_name": "AI Jobs",
@@ -215,8 +35,8 @@
     "job_city": "New York City Metropolitan Area",
     "job_state": "",
     "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
+    "job_description": "• Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Data Science, Statistics, Mathematics, Engineering, or a related quantitative field anticipated to graduate in May 2027.\n• Strong programming skills in Python and SQL.\n• Experience with PySpark/Spark is a plus.\n• Strong written and verbal communication skills.\n• Hands-on experience with real alternative datasets and AI tools used in financial research.\n• Experience with LLM orchestration frameworks like LangChain or LangGraph.\n• Prior experience in data testing, anomaly detection, or production-quality code.\n• Familiarity with cloud platforms (AWS, Databricks) and distributed data processing.",
+    "job_apply_link": "https://www.aijobs.com/jobs/166162910-data-scientist-intern",
     "id": "ai-jobs-data-scientist-intern-new-york-city-metropolitan-area"
   },
   {
@@ -225,49 +45,9 @@
     "job_city": "Detroit",
     "job_state": "MI",
     "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
+    "job_description": "• )Develop and adhere to the best practice in data science across the companies and functions and actively share knowledge and data assets with decentralized data and analytics resourcesLeverage the key drivers of our business through the building of advanced analytics products that enable business leaders to know with confidence the best path forwardPartner with infrastructure, data warehouse and data engineering colleagues to address the immediate needs identified in the development of business focused analytics products and build a future landscape that enables deeper analytics at greater speedPartner with the leaders and coworkers in centralized data functions, like Data Governance and BI to support the efficient built-out of the data and reporting infrastructure that supports all analyticsHighlight opportunities to use new data sources and new data science tools that are value-adding and cost effectiveStay current around developments and trends in advanced analytics with a focus on the relevancy for LCE/IHI businesses and capability stateSupport and challenge other members of the Global Data and Analytics team to drive data driven decisioningMentor others and implement best practices on technical, statistical, and analytical tasksResponsible for the delivery of individual delivery of large, complex tasks/project components and lead delivery small sized projects (up to 12 FTE weeks) Masters in Data Science or undergrad in quantitative studies with 2+ years of Data Science practice OR 5+ years Undergraduate in Data Science or undergrad in statistics, mathematics, computer science, or similar fields of study with 5+ years of Data Science practiceCapability to develop data science solutions in SQL, R, and/or Python, as well as utilize and adapt open-source solutionsProficiency to convey, in simple terms complex mathematical and statistical concepts and how they relate to the business challengeAccomplished in analyzing business challenges and developing solutions through cross-functional collaborationProficiency to communicate findings in an audience adapted way, including through compelling visualizationsCapability to support the deployment of solutions in additional programing languages and applicationsPracticed in bringing structured thinking in ambiguous problems spaces and delivering solutionsExperience with machine learning, artificial intelligence, and advanced methodologies in key areas of the LCE/IHI business, like pricing, forecast predictions, optimization, etc.\n• Experience with processes and tools (including embedded features) that secure data security and data privacyExcellent written and verbal communication skills This position may require minimal travel to vendor locations, assessment at stores and Ilitch Companies facilities, data centers or seminars/networking.\n• Requires extended periods of time sitting and talking on the phone.\n• Knowledge of how on-prem and cloud data storage factors in the design of data science solutionsUnderstanding modern ways of working/ product development such as Agile, Design Thinking, MLopsExperience in Databricks, Jupyter notebooks, as well as Azure Data Factory.\n• Support LCE/IHI decision makers across levels, geographies, etc.\n• With key analytics products like, predictive analytics model, recommendation engines, attrition/retention models, large scale optimization engines, as well as key analytics techniques like multivariate testing – to name a fewCreate and contribute to the development of team structures that are adaptable as we grow and scale the data science work (e.\n• , MLOps, Data Engineering, Product Owners, etc.\n• Works in a normal office environment where there is no physical discomfort due to temperature, noise, dust, and the like.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165833067-data-scientist",
     "id": "ai-jobs-data-scientist-detroit"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
-    "id": "ai-jobs-data-scientist-redmond"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "5d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
-    "id": "ai-jobs-data-scientist-sunnyvale"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "Vienna",
-    "job_state": "VA",
-    "job_posted_at": "6d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
-    "id": "ai-jobs-data-scientist-vienna"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist – AI/ML Recommendations & Personalization",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
-    "id": "ai-jobs-data-scientist-ai-ml-recommendations-personalization-redmond"
   },
   {
     "employer_name": "AI Jobs",
@@ -275,8 +55,8 @@
     "job_city": "Palm Beach Gardens",
     "job_state": "FL",
     "job_posted_at": "6d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
+    "job_description": "• Bachelor's degree in Data Science, Computer Science, Statistics, Mathematics, or a related field Basic understanding of data science concepts and techniques Proficiency in programming languages such as Python Familiarity with data manipulation and analysis libraries (e.\n• , pandas, NumPy, scikit-learn) Experience with data visualization tools (e.\n• , Matplotlib, Seaborn, Tableau) is a plus Strong problem-solving skills and attention to detail Ability to work effectively in a team-oriented environment Strong verbal and written communication skills Assist in the collection, cleaning, and preprocessing of large datasets from various sources Conduct exploratory data analysis (EDA) to uncover patterns and insights in the data Develop and implement machine learning models and algorithms to address specific business problems Collaborate with cross-functional teams to understand their data needs and provide actionable insights Communicate findings and results through clear visualizations and reports Maintain up-to-date knowledge of industry trends and tools in data science and machine learning.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162480555-data-scientist",
     "id": "ai-jobs-data-scientist-palm-beach-gardens"
   },
   {
@@ -285,19 +65,19 @@
     "job_city": "Tampa",
     "job_state": "FL",
     "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
+    "job_description": "• Proficient in Python programmingExperience with graph traversal languages such as Gremlin, Cypher, or GraphML, along with expertise in network analytics, including centrality, community detection, link prediction, pattern recognition, and/or blockchain analyticsStrong SQL or other relational database query experienceIn-depth knowledge of graph-structured data and analyticsKnowledge of GPS technology and its integration into analytical processesExperience with cloud platforms, specifically Amazon Web Services (AWS)Familiarity with containerization platforms, including Docker and KubernetesBachelor's or advanced degree in Computer Science, Data Science, or a related field1-3 years' experience in a similar roleStrong communication and collaboration skillsAbility to work in a dynamic and fast-paced environmentAn active Top Secret clearance is required Familiarity with Natural Language Processing (NLP) techniques.\n• Preferred Working knowledge of generative and agentic Artificial Intelligence models, usage, and training techniques.\n• Full-stack software engineering or development experience.\n• Preferred Collaborate with subject matter experts, team leads, and third-party vendors to define new features and functions for automation, aiding investigators in extracting meaningful information about a target and their surrounding networkDesign, code, test, and document data science microservices primarily in PythonSupport the integration of disparate bulk data sources into a unified databaseDevelop and optimize graph traversal queries and analytic pipelines to support analyst use cases, ensuring smooth transition from development to test and production environmentsExtract valuable information from unstructured text, including SAR narratives and web scraped data related to cryptocurrency addresses and actorsGenerate synthetic data for testing and development environments, as well as for the MM capstone training, adapting to evolving MM training and data holdings.\n• Expertise in blockchain architecture and cryptocurrency data analytics.\n• Understanding of machine learning algorithms and their application in cybersecurity analytics.",
+    "job_apply_link": "https://www.aijobs.com/jobs/136009792-data-scientist",
     "id": "ai-jobs-data-scientist-tampa"
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "Greater Boston",
-    "job_state": "",
-    "job_posted_at": "4d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
-    "id": "ai-jobs-data-scientist-greater-boston"
+    "job_title": "Data Scientist Internship",
+    "job_city": "Durham",
+    "job_state": "NC",
+    "job_posted_at": "3d",
+    "job_description": "• AI, Data Science, and Technical Execution:Support the design, implementation and optimization of AI-driven strategies per business stakeholder requirements.\n• Strategic PlanningTranslate business requirements into technical strategies.\n• Ensure alignment to stakeholders' strategic direction and tactical needs.\n• Experience and/or coursework in statistics, machine learning, generative and traditional AI.\n• Experience and/or coursework with common Python libraries used by data scientists (e.\n• ) Excellent communication skills, with the ability to explain technical concepts clearly.\n• Pursuing a Bachelor's degree in Computer Science, Data Science, Statistics, Economics, or a related field.\n• Experience with AI/ML technologies and statistical modeling through coursework, projects, or past internships or full time positions.",
+    "job_apply_link": "https://www.aijobs.com/jobs/166697053-data-scientist-internship-2026",
+    "id": "ai-jobs-data-scientist-internship-durham"
   },
   {
     "employer_name": "AI Jobs",
@@ -305,39 +85,29 @@
     "job_city": "New York",
     "job_state": "NY",
     "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
+    "job_description": "• A choice between medical plans with an option for 100% covered premiums Fertility and adoption benefitsAccess to supplemental insurance plans for additional coverageHeadspace mindfulness app subscriptionGlobal Employee Assistance ProgramRetirement benefits with employer matchFlexible paid time off20 weeks for parental leave and up to 12 weeks to care for an ill family memberPretax commuter benefitEducation reimbursementEmployee donation match to community organizations8 Global Employee Resource Groups (ERGs)Dog-friendly workplaceFree lunch and snacksPrivate rooftopHack week twice per year 2+ years of experience working in a Data Science or similar role.\n• Experience working directly with business stakeholders in a Data Science role is a plusExperience building and deploying models in a production environment, particularly for marketing mix modeling, customer lifetime value modeling, and financial risk modeling.\n• Competency with Python and SQLStrong experience communicating data science solutions to both technical and non-technical audiences.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165935658-data-scientist-commercial",
     "id": "ai-jobs-data-scientist-commercial-new-york"
   },
   {
     "employer_name": "AI Jobs",
     "job_title": "Data Scientist",
-    "job_city": "Palo Alto",
+    "job_city": "Santa Clara",
     "job_state": "CA",
-    "job_posted_at": "6d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
-    "id": "ai-jobs-data-scientist-palo-alto"
+    "job_posted_at": "16h",
+    "job_description": "• Proven experience in a data science role that demonstrates analytical versatility across different types of projects.\n• Hands-on experience with a range of machine learning techniques, including both unsupervised (e.\n• Extensive experience using Jupyter Notebooks for iterative analysis, model development, and reporting.\n• Excellent problem-solving skills, with the ability to toggle between investigative analysis, exploratory research, and predictive modeling.\n• Bachelor's or Master's degree in a quantitative field such as Computer Science, Statistics, Operations Research, or a related discipline.\n• Direct experience with discrete event simulation and familiarity with simulation frameworks.\n• Experience deploying machine learning models into production environments.\n• Strong proficiency in Python and its core data science libraries, including Pandas, NumPy, and Scikit-learn.",
+    "job_apply_link": "https://www.aijobs.com/jobs/166518551-data-scientist",
+    "id": "ai-jobs-data-scientist-santa-clara"
   },
   {
     "employer_name": "AI Jobs",
     "job_title": "Data Scientist",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
-    "id": "ai-jobs-data-scientist-arlington"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Science Graduate",
-    "job_city": "San Jose",
+    "job_city": "San Francisco",
     "job_state": "CA",
-    "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
-    "id": "ai-jobs-data-science-graduate-san-jose"
+    "job_posted_at": "6d",
+    "job_description": "• You have 1-3 years of experience in data science, working with Python and building data-driven modelsYou're comfortable working with large-scale datasets and enjoy extracting meaningful insights from complex informationYou have a strong foundation in statistics and machine learning, with particular interest in applying advanced techniques to real-world problemsYou prioritize data integrity and ethical considerations, especially when working with sensitive information in regulated environments like KYC/KYBYou have a keen eye for detail and take pride in creating clear, interpretable analyses while optimizing for actionable insightsYou thrive in a high-trust, ownership-focused environment and are comfortable translating between technical concepts and business objectivesProblem-solver who navigates ambiguous data challenges confidentlyProactive self-starter who thrives in dynamic settingsIncredibly intelligent and analytical.\n• You take pride in your data-driven solutionsHighly feedback-oriented.\n• We believe in radical candor and using feedback to get to the next level.",
+    "job_apply_link": "https://www.aijobs.com/jobs/161261938-data-scientist",
+    "id": "ai-jobs-data-scientist-san-francisco"
   },
   {
     "employer_name": "AI Jobs",
@@ -346,8 +116,28 @@
     "job_state": "WA",
     "job_posted_at": "5d",
     "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
+    "job_apply_link": "https://www.aijobs.com/jobs/166518545-data-scientist",
     "id": "ai-jobs-data-scientist-seattle"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Science Graduate",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "1w",
+    "job_description": "• Participates in the analysis and validation of data sets/solutions/user experience.\n• Supports visualization of the model's insights, user experience and configuration tools for the analytics model.\n• Basic understanding of business requirements and data science objectives.\n• Basic data mapping, data transfer and data migration skills.\n• Basic knowledge of machine learning, data integration, and modeling skills and ETL tools (eg.\n• Basic communication and presentation skills.\n• Bachelor´s degree in Data Science, Statistics, Operations Research, Computer Science or equivalent.\n• Typically 0-2 years experience.",
+    "job_apply_link": "https://www.aijobs.com/jobs/166162909-data-science-graduate",
+    "id": "ai-jobs-data-science-graduate-san-jose"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Junior Data Scientist",
+    "job_city": "Oklahoma City",
+    "job_state": "OK",
+    "job_posted_at": "6d",
+    "job_description": "• Bachelor’s degree (or equivalent experience) in a quantitative field — Statistics, Mathematics, Computer Science, Engineering, etc.\n• 1–2 years of experience in quantitative analytics or data modelingStrong grasp of predictive modeling, ML algorithms, clustering, and classification techniquesProficiency in at least one programming language: Python, C, C++, Java, or SQLFamiliarity with Big Data frameworks (Hadoop, Spark, Cassandra) and visualization tools (Tableau, Power BI, etc.\n• Experience: Over 25 years of combined domestic and international expertise in IT consulting serving hundreds of Fortune 1,000 and innovative startup clients.\n• Interested in accelerating your tech career through career-enhancing IT consulting experience.\n• Do you meet the required qualifications.\n• ) Our Specialization: Providing IT consulting services.\n• We look forward to hearing from you.",
+    "job_apply_link": "https://www.aijobs.com/jobs/166396167-junior-data-scientist",
+    "id": "ai-jobs-junior-data-scientist-oklahoma-city"
   },
   {
     "employer_name": "AI Jobs",
@@ -355,19 +145,9 @@
     "job_city": "Dearborn",
     "job_state": "MI",
     "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
+    "job_description": "• Experience working with Terraform to provision Infrastructure as CodeExperience in electrification and/or transportation domain.\n• Experience in forecasting algorithms, anomaly detection algorithms, optimization modelsExperience in Generative AI, including a strong understanding of ML frameworks, algorithms, and practical implementation.\n• Experience in specialized areas such as Natural Language Processing (NLP), deep learning (e.\n• Inquisitive, proactive, and interested in learning new tools and techniquesComfortable working in a fast-paced and innovative environment where problems are not always well-defined 3+ years of experience in AI/ML, with proven experience developing and deploying machine learning models in a production environment.\n• 2+ years of experience in Google cloud platform with solutions designed and implemented at production scale2+ Experience working with Airflow for scheduling and orchestration of data pipelinesExpertise in SQL for data querying, manipulation, and database interaction.\n• Excellent oral, written, and interpersonal communication skills.\n• Listed salary ranges may vary based on experience, qualifications, and local market.\n• Also, some positions may include bonuses or other incentives*** Master's degree (M.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165935657-data-scientist-ml-gcp",
     "id": "ai-jobs-data-scientist-ml-gcp-dearborn"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
-    "id": "ai-jobs-data-scientist-atlanta"
   },
   {
     "employer_name": "AI Jobs",
@@ -375,19 +155,9 @@
     "job_city": "Menlo Park",
     "job_state": "CA",
     "job_posted_at": "4d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
+    "job_description": "• Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.\n• Degree must be completed prior to joining MetaBachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience4+ years of experience (1+ years of experience post Ph.\n• ) managing and analyzing large-scale data using Python, R, or similar languages4+ years of experience (1+ years of experience post Ph.\n• ) working with visualization tools such as Tableau, PowerBI, or similar4+ years experience (1+ years of experience post Ph.\n• ) analyzing and interpreting data, developing metrics, drawing conclusions, recommending actions, and reporting results across stakeholders4+ years of experience (1+ years of experience post Ph.\n• , Hive, Presto, Spark) and data modelingExperience in enhancing data collection procedures, data processing, cleansing, and verifying the integrity of data used for analysisProven track record of managing and leading cross-functional projects and teamsSolid understanding of machine learning techniques and algorithmsHands-on programming experience in one or more of: AI/ML, LLM, NLP, Statistical modelingProficient in statistical analysis and experimental design Collaborate with cross-functional data and business teams to define problems, analyze impacts, identify opportunities, and develop solutions that improve decision-making and efficiencyTranslate business challenges into data-driven problems and design appropriate data science solutions, including metrics and analytics, business intelligence, experimentationIdentify operational gaps, build analytical models to derive insights, and support decision-making across organizational leadershipDesign and implement statistical models such as hypothesis testing, forecasting, statistical process control, and simulation to influence critical business decisions and Data Center operationsUtilize expertise in statistics, machine learning, optimization, and automation to develop analytics solutionsWork closely with stakeholders, data engineers, and program/product managers to ensure a seamless progressEducate and influence stakeholders to enhance operational efficiency with empathyRecommend process improvements based on operational data and user behavior to boost business performance Technical knowledge of data center operationsKnowledge of simulation and optimization techniquesCommunication and storytelling skills to influence all organizational levels (engineers, executives and cross functional teams) to drive business decisions.\n• ) with advanced SQL in big data environments (e.",
+    "job_apply_link": "https://www.aijobs.com/jobs/166612691-data-scientist",
     "id": "ai-jobs-data-scientist-menlo-park"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Artificial Intelligence Engineer",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "3d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
-    "id": "ai-jobs-artificial-intelligence-engineer-redmond"
   },
   {
     "employer_name": "AI Jobs",
@@ -395,8 +165,8 @@
     "job_city": "Reston",
     "job_state": "VA",
     "job_posted_at": "5d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
+    "job_description": "• Bachelor’s Degree or higher in a quantitative or technical field (e.\n• Demonstrated experience in data repository design, ETL development, API integration, and data normalization.\n• Experience in data visualization and creating dashboards in Tableau.\n• Strong analytical skills in applied mathematics, computer programming, or data visualization.\n• Excellent written and verbal communication skills, with the ability to convey complex data-driven insights to technical and non-technical audiences.\n• Experience working collaboratively in team settings and managing multiple priorities simultaneously.\n• Experience working within the Sponsor’s domain or with Sponsor business operations.\n• Experience supporting the Department of Defense or Intelligence Community.",
+    "job_apply_link": "https://www.aijobs.com/jobs/166518543-data-scientist",
     "id": "ai-jobs-data-scientist-reston"
   },
   {
@@ -405,9 +175,19 @@
     "job_city": "District of Columbia",
     "job_state": "United States",
     "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
+    "job_description": "• Python experience3+ years of experience with data exploration, data cleaning, data analysis, data visualization, or data mining3+ years of experience with analyzing structured and unstructured data sourcesExperience with statistical and general-purpose programming languages for data analysisExperience with developing predictive data models, quantitative analyses, and visualization of target data sourcesExperience with leading the development of solutions to complex problemsExperience with natural language processing, text mining, or machine learning techniquesExperience implementing automation in processing, presenting, or manipulating dataActive TS/SCI clearance.\n• Willingness to take a polygraph examBachelor's degree Experience in the development of algorithms leveraging Python and SQLExperience with developing solutions incorporating Large Language ModelsExperience with Python data science and visualization packagesExperience with Excel MBAAn active CI polygraph.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165935647-data-scientist-mid-level",
     "id": "ai-jobs-data-scientist-mid-level-district-of-columbia"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Machine Learning Data Scientist",
+    "job_city": "South San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "1w",
+    "job_description": "• Bachelor’s degree in Statistics, Computer Science, Data Science, Psychology, or another field with a focus on analytics and measurement, OR 1+ years of professional experience in the pharma, biotech, or medical device industry.\n• Academic or project-based experience applying core Machine Learning algorithms (e.\n• Programming skills in a language like R or Python for data analysis.\n• Experience creating dashboards or visualizations with tools like Tableau and/or ThoughtSpot.\n• , Linear Regression, Logistic Regression, Decision Trees) using libraries like scikit-learn.\n• Familiarity with cloud computing environments (e.\n• , AWS, Azure, GCP) or querying with SQL.\n• Our Digital Strategy & Products (DS&P) team is looking for a curious and motivated Entry-level Data Analyst to join us.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165935659-machine-learning-data-scientist",
+    "id": "ai-jobs-machine-learning-data-scientist-south-san-francisco"
   },
   {
     "employer_name": "AI Jobs",
@@ -415,49 +195,9 @@
     "job_city": "Detroit",
     "job_state": "MI",
     "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
+    "job_description": "• Bachelor's/Master’s in Robotics, Computer Science, or related fieldStrong coding skills in Python, C and C++Understanding of ADAS systems and control theoryExperience with reverse engineering or technical documentationFamiliarity with ROS, Git, and simulation tools (e.\n• , CARLA, MATLAB/Simulink) Experience with machine learning or deep learning frameworksKnowledge of automotive safety standards (ISO 26262).",
+    "job_apply_link": "https://www.aijobs.com/jobs/165916387-robotics-computer-vision-engineer",
     "id": "ai-jobs-robotics-computer-vision-engineer-detroit"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "Auburn Hills",
-    "job_state": "MI",
-    "job_posted_at": "5d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
-    "id": "ai-jobs-data-scientist-auburn-hills"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "Santa Monica",
-    "job_state": "CA",
-    "job_posted_at": "3d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
-    "id": "ai-jobs-data-scientist-santa-monica"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Junior Data Scientist",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_posted_at": "6d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
-    "id": "ai-jobs-junior-data-scientist-san-jose"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Applied Scientist (DPX)",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
-    "id": "ai-jobs-applied-scientist-dpx-mountain-view"
   },
   {
     "employer_name": "AI Jobs",
@@ -465,8 +205,8 @@
     "job_city": "Pittsburgh",
     "job_state": "PA",
     "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
+    "job_description": "• Bachelor’s degree in a relevant field (e.\n• , Data Science, Economics, Business Analytics, Information Systems)Relevant experience in data science, advanced data analytics, business intelligence, or a related fieldAdvanced SQL skills to build datasets that enable ad-hoc analyses and efficient visualizationExpertise in data visualization tools such as Sigma, Tableau, Hex, or Looker for full-stack data analysis, insight synthesis, and presentationProfessional or academic experience with experimentation, A/B testing, and/or causal inferenceExperience in programming (e.\n• , Python, R) to extract, transform, clean, and analyze large amounts of dataExperience training machine learning models and deploying them in productionOutstanding problem-solving abilities and the capacity to distill complex data into concise explanations and actionable insightsExcellent verbal and written communication skills that facilitate collaboration with both technical and non-technical partnersAbility to relocate to and work in our Pittsburgh office Derive insights from data to influence product roadmaps and drive business resultsEmbed in teams with product managers and engineers to design, run, and analyze experiments to improve user experiencesApply advanced analytical methods to model user behavior and estimate the impact of potential new features.\n• , Sigma, Tableau, Plotly) to analyze trends, make recommendations, and help preserve our culture of fact-based decision making as we scaleCollaborate with other data scientists to level up our company's scientific capabilities and data footprintEnsure the quality of our tracking and data collection is high (and improving) Master's degree in data science, economics, statistics, or an equivalent quantitative fieldFamiliarity with AI tools such as Cursor, a knack for prompt engineering, and a desire to continue to innovate and learn in AIExperience at a high-growth company that has undertaken an IPOAn impressive Duolingo XP or streak.\n• Partner with product and engineering teams to develop and implement solutionsBuild dashboards, reports, and/or forecasts (e.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164899798-data-scientist-user-growth",
     "id": "ai-jobs-data-scientist-user-growth-pittsburgh"
   },
   {
@@ -476,8 +216,18 @@
     "job_state": "VA",
     "job_posted_at": "1w",
     "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
+    "job_apply_link": "https://www.aijobs.com/jobs/165607342-artificial-intelligence-engineer",
     "id": "ai-jobs-artificial-intelligence-engineer-vienna"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Junior Data Scientist",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "6d",
+    "job_description": "• Minimum 1-3 years of Foundational knowledge of SQL and one programming language (preferably Python, Scala, or Java) after your master’s degree in computer science, Data Engineering, Information Systems, or a related field.\n• Understanding of big data concepts and distributed systems (HDFS, MapReduce, etc.\n• )Exposure to data tools like Apache Spark, Hadoop, or Hive.\n• Work with cloud platforms like AWS, Azure, or GCP for big data storage and processing.\n• Familiarity with relational databases (MySQL, PostgreSQL) and NoSQL databases (MongoDB, Cassandra, etc.\n• )Basic knowledge of data pipelines, data ingestion, and batch/stream processing.\n• Understanding of data-warehousing and data-modelling techniques.\n• Work with large-scale datasets across structured and unstructured data sources.",
+    "job_apply_link": "https://www.aijobs.com/jobs/166518536-junior-data-scientist",
+    "id": "ai-jobs-junior-data-scientist-san-jose"
   },
   {
     "employer_name": "AI Jobs",
@@ -485,9 +235,19 @@
     "job_city": "New York City Metropolitan Area",
     "job_state": "",
     "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
+    "job_description": "• Customers love the product (100K+ users and growing)We’re growing a lot (6x YoY last year, and 10x YoY the two years before that)Incredible culture (our customers keep applying to work here)Well-resourced - We raised a $100M Series C in 2025 at a $3.\n• 1B valuation and are backed by world-class investors like Capital G (Google), Sequoia and Meritech 4+ year experience Expert in SQL and Python or RRobust understanding of statistical and machine learning methodsExperience with data transformation tools (dbt) and data orchestration tools (Dagster or Airflow)Live in New York (or willing to relocate).",
+    "job_apply_link": "https://www.aijobs.com/jobs/165367973-data-scientist",
     "id": "ai-jobs-data-scientist-new-york-city-metropolitan-area"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "1w",
+    "job_description": "• Customers love the product (100K+ users and growing)We’re growing a lot (6x YoY last year, and 10x YoY the two years before that)Incredible culture (our customers keep applying to work here)Well-resourced - We raised a $100M Series C in 2025 at a $3.\n• 1B valuation and are backed by world-class investors like Capital G (Google), Sequoia and Meritech 4+ year experience Expert in SQL and Python or RRobust understanding of statistical and machine learning methodsExperience with data transformation tools (dbt) and data orchestration tools (Dagster or Airflow)Live in New York (or willing to relocate).",
+    "job_apply_link": "https://www.aijobs.com/jobs/165367965-data-scientist",
+    "id": "ai-jobs-data-scientist-new-york"
   },
   {
     "employer_name": "AI Jobs",
@@ -495,9 +255,19 @@
     "job_city": "Detroit",
     "job_state": "MI",
     "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
+    "job_description": "• Minimum 1-3 years of Foundational knowledge of SQL and one programming language (preferably Python, Scala, or Java) after your Master’s degree in computer science, Data Engineering, Information Systems, or a related field.\n• Understanding of big data concepts and distributed systems (HDFS, MapReduce, etc.\n• )Exposure to data tools like Apache Spark, Hadoop, or Hive.\n• Work with cloud platforms like AWS, Azure, or GCP for big data storage and processing.\n• Familiarity with relational databases (MySQL, PostgreSQL) and NoSQL databases (MongoDB, Cassandra, etc.\n• )Basic knowledge of data pipelines, data ingestion, and batch/stream processing.\n• Understanding of data-warehousing and data-modelling techniques.\n• Work with large-scale datasets across structured and unstructured data sources.",
+    "job_apply_link": "https://www.aijobs.com/jobs/166075576-jr-data-scientist",
     "id": "ai-jobs-jr-data-scientist-detroit"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientists",
+    "job_city": "Schaumburg",
+    "job_state": "IL",
+    "job_posted_at": "3d",
+    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
+    "job_apply_link": "https://www.aijobs.com/jobs/166697055-data-scientists",
+    "id": "ai-jobs-data-scientists-schaumburg"
   },
   {
     "employer_name": "AI Jobs",
@@ -505,49 +275,19 @@
     "job_city": "Columbia",
     "job_state": "MD",
     "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
+    "job_description": "• BS or MS Degree in Data Science, Computer Science, Engineering, Information Technology or related technical field.\n• Management consulting/professional service experience Advanced analytics/machine learning work experience.\n• Experience with agentic workflows and GenAI in Data Science product solutions.\n• ”Ability to work in a dynamic and cross-functional environment, where multiple conflicting objectives need to be prioritized and achieved.\n• Superior written and verbal communication skills including influencing and consensus building.\n• Must have proficiency in using query languages such as SQL.\n• Experience with data analysis tools and platforms such as GCP, Big Query, SQL Server, PowerBI, ectExperience in in pricing modeling, revenue optimization, or other similar analytical use cases is highly preferred.\n• Good applied statistics skills, such as distributions, statistical testing, regression, etc.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165688809-data-scientist",
     "id": "ai-jobs-data-scientist-columbia"
   },
   {
     "employer_name": "AI Jobs",
     "job_title": "Data Scientist",
-    "job_city": "Chicago",
-    "job_state": "IL",
-    "job_posted_at": "4d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
-    "id": "ai-jobs-data-scientist-chicago"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_city": "Dearborn",
+    "job_state": "MI",
     "job_posted_at": "5d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
-    "id": "ai-jobs-data-scientist-new-york"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist, Product Analytics",
-    "job_city": "Greater Syracuse-Auburn Area",
-    "job_state": "",
-    "job_posted_at": "15h",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
-    "id": "ai-jobs-data-scientist-product-analytics-greater-syracuse-auburn-area"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Software Engineer, AI Tooling",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
-    "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
-    "id": "ai-jobs-software-engineer-ai-tooling-palo-alto"
+    "job_description": "• 3+ years of experience in AI/ML, with proven experience developing and deploying machine learning models in a production environment.\n• 2+ years of experience in Google cloud platform with solutions designed and implemented at production scale 2+ Experience working with for scheduling and orchestration of data pipelines Expertise in SQL for data querying, manipulation, and database interaction.\n• Experience with containerization (e.\n• Excellent oral, written, and interpersonal communication skills.\n• Experience working with Terraform to provision Infrastructure as Code Experience in electrification and/or transportation domain.\n• Experience in forecasting algorithms, anomaly detection algorithms, optimization models Experience in Generative AI, including a strong understanding of ML frameworks, algorithms, and practical implementation.\n• Experience in specialized areas such as Natural Language Processing (NLP), deep learning (e.\n• ) in Data Science, Computer Science, Business Analytics, Machine Learning, Statistics, or a related quantitative field.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163307708-data-scientist",
+    "id": "ai-jobs-data-scientist-dearborn"
   },
   {
     "employer_name": "AI Jobs",
@@ -555,29 +295,9 @@
     "job_city": "San Jose",
     "job_state": "CA",
     "job_posted_at": "1w",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
+    "job_description": "• Currently pursuing a Bachelor's, or Master's degree in Mathematics, Statistics, Economics, Computer Science, Data Science etc relevant technical field, or equivalent practical experience Proficient in data querying languages and at least one scripting language (e.\n• Python、R) Experience in one or more of the following methods: forecasting, statistical and causal inference, classification methods.\n• Strong product sense and structured thinking, and be able to convert the analysis results into business decisions very well Must be able to commit to a 12-week full-time work period during Summer 2026 Define success metrics to measure product growth and identify problems through monitoring or forecasting Apply technical expertise with quantitative analysis, experimentation, data mining to develop strategies for product optimizations Quantify the impact of strategies through causal inference and generate actionable insights through deep dive analysis Partner with Product, Engineering and cross-functional teams to influence and execute product strategy Internship experience in data science Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues.\n• Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems.\n• And Exercising sound judgment.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165688808-data-scientist-intern-tiktok-product-data-science-2026-summer-bs-ms",
     "id": "ai-jobs-data-scientist-intern-tiktok-product-data-science-2026-summer-bs-ms-san-jose"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Engineer, Marketing",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "4d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
-    "id": "ai-jobs-data-engineer-marketing-san-francisco"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Software Engineer, Biology & Life Sciences",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "3d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
-    "id": "ai-jobs-software-engineer-biology-life-sciences-san-francisco"
   },
   {
     "employer_name": "AI Jobs",
@@ -585,8 +305,8 @@
     "job_city": "Boston",
     "job_state": "",
     "job_posted_at": "3d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
+    "job_description": "• Education:Bachelor’s, Master’s, or PhD in Computer Vision, Machine Learning, Computer Science, Engineering, Applied Mathematics, or a related quantitative field is preferred.\n• Computer Vision Expertise:Demonstrated experience developing and deploying computer vision models and algorithms using frameworks such as PyTorch, TensorFlow, Keras, OpenCV, or similar.\n• Proficiency in Python or R, with experience handling large-scale video and image datasets.\n• Experience applying computer vision methods to sports, biomechanics, or human movement data is a plus.\n• Background in machine learning model deployment, cloud computing environments, or scalable infrastructure.\n• Experience leveraging AI-assisted analysis tools for identifying and implementing solutions.\n• Soft Skills:Knowledge of public baseball analytics research or prior experience working with sports performance data is a plus.\n• Strong critical thinking skills, intellectual curiosity, and ability to communicate findings clearly to both technical and non-technical stakeholders.",
+    "job_apply_link": "https://www.aijobs.com/jobs/166676271-computer-vision-analyst",
     "id": "ai-jobs-computer-vision-analyst-boston"
   },
   {
@@ -595,168 +315,38 @@
     "job_city": "Reston",
     "job_state": "VA",
     "job_posted_at": "6d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
+    "job_description": "• 2+ years of professional or academic experience working with data pipelines, analysis, or dashboardsProficiency in Python and SQLExperience using Databricks, Power BI, or similar tools for data modeling and visualizationExcellent communication and organizational skills to support client meetings and deliverables, and explain technical concepts/solutions to non-technical stakeholdersEffective time management and ability to adapt to changing prioritiesExperience with large scale data analytics frameworks such as Apache SparkExperience working with Azure Databricks and one or more Azure specialty certifications (SysOps Administrator, Security, Advanced Networking, DevOps Engineer, Administration, Architecture)Proficiency in working with tools such as Docker and KubernetesProficiency with cloud networking (DNS, TCP, Firewalls, Proxy Servers, Load Balancing, VPN, and VPC), storage, security, and computeExperience working with and supporting Agile development teams.\n• Support client projects across energy, electrification, and DER domains through:Data Engineering: Ingest, clean, and transform large datasets using Python, SQL, and DatabricksData Science & Analytics: Conduct exploratory analysis, build analytical models, and generate actionable insightsData Visualization: Develop clear, compelling dashboards and reports in Power BI and Microsoft FabricAttend regular client meetings and collaborate with project managers to understand goals, manage timelines, and incorporate feedbackTranslate client requirements into well-structured analytics tasks and deliverablesWrite clean, maintainable, and well-documented code while optimizing workflows for performance and scalabilityManage and prioritize a diverse set of technical assignments across multiple projectsWork with cross-functional teams including data engineers, scientists, and policy experts to ensure high-quality client deliverablesStay up to date on tools, trends, and best practices in energy analytics and visualization Master’s degree in Data Science, Computer Science, Engineering, Statistics, or a related field.\n• Ability to learn quickly, understand, and work with new emerging technologies, methodologies, and solutions in the cloud/IT technology space.",
+    "job_apply_link": "https://www.aijobs.com/jobs/166396163-data-scientist-entry-level",
     "id": "ai-jobs-data-scientist-entry-level-reston"
   },
   {
     "employer_name": "AI Jobs",
     "job_title": "Data Scientist",
-    "job_city": "Fort George G. Meade",
-    "job_state": "MD",
-    "job_posted_at": "5d",
-    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
-    "job_apply_link": "https://www.aijobs.com",
-    "id": "ai-jobs-data-scientist-fort-george-g-meade"
-  },
-  {
-    "employer_name": "Synopsys",
-    "job_title": "Generative AI Solutions Engineer – Chip Design Automation",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "2w",
-    "job_description": "• If you do not allow these cookies, you will experience less targeted advertising.\n• Sitemap Modify Preferences Administration (1) AI (10) Analog Design (12) Ansys Application Engineering (4) Ansys Dev Ops Engineering (4) Ansys NA (25) Ansys Order Processing (1) Ansys Project/Program Management (2) Ansys Software Development (36) Ansys Software Specialization (1) Ansys Technical Account Mgmt (1) Ansys Technical Documentation (1) Ansys User Interface/Exp (UI/UX) (2) Ansys Verification (3) Applications Engineering (26) ASIC Digital Design (23) ASIC Physical Design (2) Business Development (1) Hardware Engineering (1) Intern (Technical-Engineering) (5) Layout Design (6) Operations (3) Product Management (3) Product Marketing (1) Program Management (Technical) (1) Project / Program Management (3) Project Engineering Management (1) R&D Engineering (34) Sales Account Management (5) SOC Engineering (7) Software Development (1) Software Engineering (2) Solutions Engineering (3) Technical Product Management (1) Validation / Verification Eng (1) Photo shared by Synopsys on July 17 2025 tagging @ansys_inc.\n• (opens in new window)An amazing week at #TSMCOIP North America 2025 We announced exciting TSMC collaborations and took home six 2025 OIP Partner of the Year awards.\n• This year ten leading technology companies came together in a spirited competition that blended strategy with camaraderie.\n• Save Principal Analog Design Engineer Hyderabad, India Category: Engineering Posted: 10/14/2025 Job ID: 10016 Save Formal Verification Engineer Bengaluru, India Category: Engineering Posted: 10/14/2025 Job ID: 12915 Save Engineering Services Manager/Document Control Manager - 12434 Sunnyvale, California Category: Operations Posted: 10/14/2025 Job ID: 12434 Save Applications Engineering, Staff Engineer Bengaluru, India Category: Engineering Posted: 10/14/2025 Job ID: 12503 Save Design Implementation Intern Zapopan, Mexico Category: Interns/Temp Posted: 10/14/2025 Job ID: 12704 Save Pre-Silicon Verification Intern Zapopan, Mexico Category: Interns/Temp Posted: 10/14/2025 Job ID: 12701 Save Test & Validation Engineer Category: Engineering Posted: 10/13/2025 Job ID: 12923 Save Spring 2026 Intern - Electronics (Masters), C++ United States Off-site Category: Ansys NA Posted: 10/13/2025 Job ID: 12790 Save Machine Learning EDA Apprenticeship Noida, India Category: Interns/Temp Posted: 10/13/2025 Job ID: 9813 Save DFT, Sr Staff Engineer in HCMC/ Da Nang/ Ha Noi Ho Chi Minh City, Vietnam Category: Engineering Posted: 10/13/2025 Job ID: 7738 Save Analog Design, Principal Engineer in Da Nang/ Ha Noi Da Nang, Vietnam Category: Engineering Posted: 10/13/2025 Job ID: 5447 Save SRAM Design, Sr Engineer Hsinchu, Taiwan Category: Engineering Posted: 10/13/2025 Job ID: 12477 Save R&D Engineering, Staff Engineer_Zebu_12936 Hsinchu, Taiwan Category: Engineering Posted: 10/13/2025 Job ID: 12936 Save Sales Account Management, Director Seongnam-si, South Korea Category: Sales Posted: 10/13/2025 Job ID: 12694 Save Principal Project Manager-12679 Sunnyvale, California Category: General Management Posted: 10/11/2025 Job ID: 12679 Targeting Cookies Switch Label labelThese cookies may be set through our site by our advertising partners.\n• They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.\n• They do not store directly personal information, but are based on uniquely identifying your browser and internet device.\n• May be an image of text that says quotAnsys partof Synopsys quot.",
-    "job_apply_link": "https://careers.synopsys.com/search-jobs",
-    "id": "synopsys-generative-ai-solutions-engineer-chip-design-automation-austin"
+    "job_city": "Boston",
+    "job_state": "",
+    "job_posted_at": "6d",
+    "job_description": "• Bachelor's or Master’s degree in Statistics, Computer Science, Applied Math, or a related field and a minimum of 3 years of professional experienceProven experience with predictive modeling, time series forecasting, pricing algorithms, or classification modelsStrong Python skills for statistical modeling and knowledge of modern ML platforms (e.\n• PyTorch/TensorFlow, scikit-learn)Advanced SQL and experience working with large-scale cloud data warehouses (Redshift, Snowflake, etc.\n• )Experience deploying models in production environments (using tools like Airflow, dbt, or AWS), knowledge of machine learning model evaluation, and performance tuning best practicesFamiliarity with software development workflows (version control, code review, reproducibility)Strong written and verbal communication skills—able to clearly explain models to non-technical audiencesComfort working with ambiguity, unstructured problems, and evolving data sources Improve fleet demand forecasting modelsBuild new predictive models for pricing sensitivity, member segmentation, and campaign targetingCollaborate with Product, Pricing, Operations, Finance, and Marketing to integrate modeling into decision-makingTranslate complex modeling outcomes into clear, actionable recommendationsMonitor model performance, retrain as needed, and manage model lifecycle in productionPartner with Engineering to move models from prototype to production and partner with the Product team to prioritize future enhancementsBuild trust in modeling outputs by documenting assumptions, limitations, and performanceEvangelize data science best practices across the company and help level up analytical maturity Experience with geospatial modeling, especially using Uber’s H3 libraryExperience using Looker or other BI tools for exploratory data analysis or visualizationBackground in transportation, location planning, urban analytics, or consumer marketplacesExperience mentoring other Analysts or acting as a tech leadCuriosity and interest in leveraging AI and LLM tools to improve workflows.",
+    "job_apply_link": "https://www.aijobs.com/jobs/166396156-data-scientist",
+    "id": "ai-jobs-data-scientist-boston"
   },
   {
     "employer_name": "JPMorgan Chase",
     "job_title": "Applied Artificial Intelligence Machine Learning, Associate",
-    "job_city": "Dallas",
+    "job_city": "Houston",
     "job_state": "TX",
     "job_posted_at": "1d",
-    "job_description": "• Applied AIML Data Scientist Lead - Vice President Plano, TX, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Lead who applies quantitative, data science and analytical skills to complex problems.\n• Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems 2026 Asset Management Data Scientist - Summer Associate Hong Kong Data & AnalyticsSeasonal Employee Leverage NLP and AI expertise to develop innovative solutions that drive investment insights and process automation.\n• Quantitative Research – Associate/Vice President - Mumbai/Bengaluru India RiskRisk Analytics/Modeling We are looking for an experienced quant to join our team in Mumbai/Bengaluru.\n• 606 Open Jobs Categories 0 Software Engineering (153) Predictive Science (89) Product Management (34) Analytics Solutions & Delivery (31) Data Management (27) Seasonal Employee (17) Technical Program Delivery (16) Associates (13) Algo Trading (13) AI Research (12) Analysts (12) Security Engineering (12) Quant Analytics (11) Product Portfolio & Delivery (11) Infrastructure Engineering (10) Architecture (9) Data & Analytics (8) Data Engineering (8) Technology Support (8) Risk Analytics/Modeling (7) CCOR LOB/CF/Country Coverage (7) Client Service (6) Strategy (6) Cybersecurity Operations (6) Client Solutions (6) Financial Analysis (5) Portfolio Management (5) Project Management (4) Process Improvement (4) User Experience Design (4) Risk Support (3) Controller (3) Data & Analytics Rotation (3) Marketing Delivery (3) Firmwide Risk and Compliance (3) Technology Risk & Services (3) Auditing (2) Business Management (2) Workforce Analytics (2) Business Transformation (2) Posting Dates 0 Less than 30 days (340) Greater than 30 days (266) Less than 7 days (109) Software Engineering (153) Predictive Science (89) Product Management (34) Analytics Solutions & Delivery (31) Data Management (27) Seasonal Employee (17) Technical Program Delivery (16) Associates (13) Algo Trading (13) AI Research (12) Analysts (12) Security Engineering (12) Quant Analytics (11) Product Portfolio & Delivery (11) Infrastructure Engineering (10) Architecture (9) Data & Analytics (8) Data Engineering (8) Technology Support (8) Risk Analytics/Modeling (7) CCOR LOB/CF/Country Coverage (7) Client Service (6) Strategy (6) Cybersecurity Operations (6) Client Solutions (6) Financial Analysis (5) Portfolio Management (5) Project Management (4) Process Improvement (4) User Experience Design (4) Risk Support (3) Controller (3) Data & Analytics Rotation (3) Marketing Delivery (3) Firmwide Risk and Compliance (3) Technology Risk & Services (3) Auditing (2) Business Management (2) Workforce Analytics (2) Business Transformation (2) Categories 0 Software Engineering (153) Predictive Science (89) Product Management (34) Analytics Solutions & Delivery (31) Data Management (27) Seasonal Employee (17) Technical Program Delivery (16) Associates (13) Algo Trading (13) AI Research (12) Analysts (12) Security Engineering (12) Quant Analytics (11) Product Portfolio & Delivery (11) Infrastructure Engineering (10) Architecture (9) Data & Analytics (8) Data Engineering (8) Technology Support (8) Risk Analytics/Modeling (7) CCOR LOB/CF/Country Coverage (7) Client Service (6) Strategy (6) Cybersecurity Operations (6) Client Solutions (6) Financial Analysis (5) Portfolio Management (5) Project Management (4) Process Improvement (4) User Experience Design (4) Risk Support (3) Controller (3) Data & Analytics Rotation (3) Marketing Delivery (3) Firmwide Risk and Compliance (3) Technology Risk & Services (3) Auditing (2) Business Management (2) Workforce Analytics (2) Business Transformation (2) Posting Dates 0 Less than 30 days (340) Greater than 30 days (266) Less than 7 days (109) Software Engineering (153) Predictive Science (89) Product Management (34) Analytics Solutions & Delivery (31) Data Management (27) Seasonal Employee (17) Technical Program Delivery (16) Associates (13) Algo Trading (13) AI Research (12) Analysts (12) Security Engineering (12) Quant Analytics (11) Product Portfolio & Delivery (11) Infrastructure Engineering (10) Architecture (9) Data & Analytics (8) Data Engineering (8) Technology Support (8) Risk Analytics/Modeling (7) CCOR LOB/CF/Country Coverage (7) Client Service (6) Strategy (6) Cybersecurity Operations (6) Client Solutions (6) Financial Analysis (5) Portfolio Management (5) Project Management (4) Process Improvement (4) User Experience Design (4) Risk Support (3) Controller (3) Data & Analytics Rotation (3) Marketing Delivery (3) Firmwide Risk and Compliance (3) Technology Risk & Services (3) Auditing (2) Business Management (2) Workforce Analytics (2) Business Transformation (2) Applied Artificial Intelligence Machine Learning , Sr Associate Plano, TX, United States Posted on 07/15/2025 The Corporate Technology Data Science and AI organization solves challenging business problems using AIML across CT.\n• Collaborate with cross-functional teams to identify requirements and develop solutions to meet business needs within the organization.\n• Master’s degree in a data science-related discipline, plus at least five years of industry experience (or: PhD in a data science-related discipline, plus at least three years of industry experience) Extensive experience with data analysis and transformation (especially in Python) and analytics Experience with continuous integration models and unit test development Strong written and spoken communication to effectively communicate technical concepts and results to both technical and business audiences.\n• Scientific thinking with the ability to invent and to work both independently and in highly collaborative team environments Curious, hardworking and detail-oriented, and motivated by complex analytical problems Familiarity with the financial services industry Experience with A/B testing and data/metric-driven product development, cloud-native deployment in a large-scale distributed environment and ability to develop and debug production-quality code Some industry experience in implementing machine learning as well as deep learning toolkits (e.\n• Executive Director, Data Science Jersey City, NJ, United States TechnologySoftware Engineering Executive Director, Data Science for the Applied AI & Analytics Solutions Vice President – Data Science / Applied AI ML Bengaluru, Karnataka, India Data & AnalyticsPredictive Science Vice President – Data Science / Applied AI ML 2026 Data Science Analyst Program - Full-Time Analyst Chicago, IL, United States and 4 more Data & AnalyticsData & Analytics Rotation Delivering excellence at the intersection of data science and industry expertise, our teams go beyond where any bank has gone before.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com",
-    "id": "jpmorgan-chase-applied-artificial-intelligence-machine-learning-associate-dallas"
+    "job_description": "• Applied AIML Data Scientist Lead - Vice President Plano, TX, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Lead who applies quantitative, data science and analytical skills to complex problems.\n• Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Associate Data Scientist, Payments Data & Analytics Plano, TX, United States Data & AnalyticsPredictive Science Transform payments data into actionable insights and new agentic capabilities through advanced analytics and artificial intelligence.\n• Quantitative Research – Associate/Vice President - Mumbai/Bengaluru India RiskRisk Analytics/Modeling We are looking for an experienced quant to join our team in Mumbai/Bengaluru.\n• 608 Open Jobs Categories 0 Software Engineering (154) Predictive Science (91) Product Management (34) Analytics Solutions & Delivery (31) Data Management (27) Seasonal Employee (17) Technical Program Delivery (16) Associates (13) Algo Trading (13) AI Research (12) Analysts (12) Security Engineering (12) Quant Analytics (11) Product Portfolio & Delivery (11) Infrastructure Engineering (10) Architecture (9) Data Engineering (8) Technology Support (8) Risk Analytics/Modeling (7) Data & Analytics (7) CCOR LOB/CF/Country Coverage (7) Client Service (6) Strategy (6) Cybersecurity Operations (6) Client Solutions (6) Financial Analysis (5) Portfolio Management (5) Project Management (4) Process Improvement (4) User Experience Design (4) Risk Support (3) Controller (3) Data & Analytics Rotation (3) Marketing Delivery (3) Firmwide Risk and Compliance (3) Technology Risk & Services (3) Auditing (2) Business Management (2) Workforce Analytics (2) Business Transformation (2) Posting Dates 0 Less than 30 days (342) Greater than 30 days (266) Less than 7 days (111) Software Engineering (154) Predictive Science (91) Product Management (34) Analytics Solutions & Delivery (31) Data Management (27) Seasonal Employee (17) Technical Program Delivery (16) Associates (13) Algo Trading (13) AI Research (12) Analysts (12) Security Engineering (12) Quant Analytics (11) Product Portfolio & Delivery (11) Infrastructure Engineering (10) Architecture (9) Data Engineering (8) Technology Support (8) Risk Analytics/Modeling (7) Data & Analytics (7) CCOR LOB/CF/Country Coverage (7) Client Service (6) Strategy (6) Cybersecurity Operations (6) Client Solutions (6) Financial Analysis (5) Portfolio Management (5) Project Management (4) Process Improvement (4) User Experience Design (4) Risk Support (3) Controller (3) Data & Analytics Rotation (3) Marketing Delivery (3) Firmwide Risk and Compliance (3) Technology Risk & Services (3) Auditing (2) Business Management (2) Workforce Analytics (2) Business Transformation (2) Categories 0 Software Engineering (154) Predictive Science (91) Product Management (34) Analytics Solutions & Delivery (31) Data Management (27) Seasonal Employee (17) Technical Program Delivery (16) Associates (13) Algo Trading (13) AI Research (12) Analysts (12) Security Engineering (12) Quant Analytics (11) Product Portfolio & Delivery (11) Infrastructure Engineering (10) Architecture (9) Data Engineering (8) Technology Support (8) Risk Analytics/Modeling (7) Data & Analytics (7) CCOR LOB/CF/Country Coverage (7) Client Service (6) Strategy (6) Cybersecurity Operations (6) Client Solutions (6) Financial Analysis (5) Portfolio Management (5) Project Management (4) Process Improvement (4) User Experience Design (4) Risk Support (3) Controller (3) Data & Analytics Rotation (3) Marketing Delivery (3) Firmwide Risk and Compliance (3) Technology Risk & Services (3) Auditing (2) Business Management (2) Workforce Analytics (2) Business Transformation (2) Posting Dates 0 Less than 30 days (342) Greater than 30 days (266) Less than 7 days (111) Software Engineering (154) Predictive Science (91) Product Management (34) Analytics Solutions & Delivery (31) Data Management (27) Seasonal Employee (17) Technical Program Delivery (16) Associates (13) Algo Trading (13) AI Research (12) Analysts (12) Security Engineering (12) Quant Analytics (11) Product Portfolio & Delivery (11) Infrastructure Engineering (10) Architecture (9) Data Engineering (8) Technology Support (8) Risk Analytics/Modeling (7) Data & Analytics (7) CCOR LOB/CF/Country Coverage (7) Client Service (6) Strategy (6) Cybersecurity Operations (6) Client Solutions (6) Financial Analysis (5) Portfolio Management (5) Project Management (4) Process Improvement (4) User Experience Design (4) Risk Support (3) Controller (3) Data & Analytics Rotation (3) Marketing Delivery (3) Firmwide Risk and Compliance (3) Technology Risk & Services (3) Auditing (2) Business Management (2) Workforce Analytics (2) Business Transformation (2) Lead the development and implementation of GenAI and Agentic AI solutions using Python to enhance automation and decision-making processes.\n• Collaborate with cross-functional teams to identify requirements and develop solutions to meet business needs within the organization.\n• Master’s degree in a data science-related discipline, plus at least five years of industry experience (or: PhD in a data science-related discipline, plus at least three years of industry experience) Extensive experience with data analysis and transformation (especially in Python) and analytics Experience with continuous integration models and unit test development Strong written and spoken communication to effectively communicate technical concepts and results to both technical and business audiences.\n• Scientific thinking with the ability to invent and to work both independently and in highly collaborative team environments Curious, hardworking and detail-oriented, and motivated by complex analytical problems Familiarity with the financial services industry Experience with A/B testing and data/metric-driven product development, cloud-native deployment in a large-scale distributed environment and ability to develop and debug production-quality code Some industry experience in implementing machine learning as well as deep learning toolkits (e.\n• Executive Director, Data Science Jersey City, NJ, United States TechnologySoftware Engineering Executive Director, Data Science for the Applied AI & Analytics Solutions Vice President – Data Science / Applied AI ML Bengaluru, Karnataka, India Data & AnalyticsPredictive Science Vice President – Data Science / Applied AI ML 2026 Data Science Analyst Program - Full-Time Analyst Chicago, IL, United States and 4 more Data & AnalyticsData & Analytics Rotation Delivering excellence at the intersection of data science and industry expertise, our teams go beyond where any bank has gone before.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677015/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-applied-artificial-intelligence-machine-learning-associate-houston"
   },
   {
     "employer_name": "JPMorgan Chase",
-    "job_title": "Analytics Solutions [Multiple Positions Available]",
-    "job_city": "Wilmington",
-    "job_state": "DE",
+    "job_title": "Software Engineer III - Data Engineer, Graph DB",
+    "job_city": "Jersey City",
+    "job_state": "NJ",
     "job_posted_at": "1d",
-    "job_description": "• Applied AIML Data Scientist Lead - Vice President Plano, TX, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Lead who applies quantitative, data science and analytical skills to complex problems.\n• Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems 2026 Asset Management Data Scientist - Summer Associate Hong Kong Data & AnalyticsSeasonal Employee Leverage NLP and AI expertise to develop innovative solutions that drive investment insights and process automation.\n• Quantitative Research – Associate/Vice President - Mumbai/Bengaluru India RiskRisk Analytics/Modeling We are looking for an experienced quant to join our team in Mumbai/Bengaluru.\n• 606 Open Jobs Categories 0 Software Engineering (153) Predictive Science (89) Product Management (34) Analytics Solutions & Delivery (31) Data Management (27) Seasonal Employee (17) Technical Program Delivery (16) Associates (13) Algo Trading (13) AI Research (12) Analysts (12) Security Engineering (12) Quant Analytics (11) Product Portfolio & Delivery (11) Infrastructure Engineering (10) Architecture (9) Data & Analytics (8) Data Engineering (8) Technology Support (8) Risk Analytics/Modeling (7) CCOR LOB/CF/Country Coverage (7) Client Service (6) Strategy (6) Cybersecurity Operations (6) Client Solutions (6) Financial Analysis (5) Portfolio Management (5) Project Management (4) Process Improvement (4) User Experience Design (4) Risk Support (3) Controller (3) Data & Analytics Rotation (3) Marketing Delivery (3) Firmwide Risk and Compliance (3) Technology Risk & Services (3) Auditing (2) Business Management (2) Workforce Analytics (2) Business Transformation (2) Posting Dates 0 Less than 30 days (340) Greater than 30 days (266) Less than 7 days (109) Software Engineering (153) Predictive Science (89) Product Management (34) Analytics Solutions & Delivery (31) Data Management (27) Seasonal Employee (17) Technical Program Delivery (16) Associates (13) Algo Trading (13) AI Research (12) Analysts (12) Security Engineering (12) Quant Analytics (11) Product Portfolio & Delivery (11) Infrastructure Engineering (10) Architecture (9) Data & Analytics (8) Data Engineering (8) Technology Support (8) Risk Analytics/Modeling (7) CCOR LOB/CF/Country Coverage (7) Client Service (6) Strategy (6) Cybersecurity Operations (6) Client Solutions (6) Financial Analysis (5) Portfolio Management (5) Project Management (4) Process Improvement (4) User Experience Design (4) Risk Support (3) Controller (3) Data & Analytics Rotation (3) Marketing Delivery (3) Firmwide Risk and Compliance (3) Technology Risk & Services (3) Auditing (2) Business Management (2) Workforce Analytics (2) Business Transformation (2) Categories 0 Software Engineering (153) Predictive Science (89) Product Management (34) Analytics Solutions & Delivery (31) Data Management (27) Seasonal Employee (17) Technical Program Delivery (16) Associates (13) Algo Trading (13) AI Research (12) Analysts (12) Security Engineering (12) Quant Analytics (11) Product Portfolio & Delivery (11) Infrastructure Engineering (10) Architecture (9) Data & Analytics (8) Data Engineering (8) Technology Support (8) Risk Analytics/Modeling (7) CCOR LOB/CF/Country Coverage (7) Client Service (6) Strategy (6) Cybersecurity Operations (6) Client Solutions (6) Financial Analysis (5) Portfolio Management (5) Project Management (4) Process Improvement (4) User Experience Design (4) Risk Support (3) Controller (3) Data & Analytics Rotation (3) Marketing Delivery (3) Firmwide Risk and Compliance (3) Technology Risk & Services (3) Auditing (2) Business Management (2) Workforce Analytics (2) Business Transformation (2) Posting Dates 0 Less than 30 days (340) Greater than 30 days (266) Less than 7 days (109) Software Engineering (153) Predictive Science (89) Product Management (34) Analytics Solutions & Delivery (31) Data Management (27) Seasonal Employee (17) Technical Program Delivery (16) Associates (13) Algo Trading (13) AI Research (12) Analysts (12) Security Engineering (12) Quant Analytics (11) Product Portfolio & Delivery (11) Infrastructure Engineering (10) Architecture (9) Data & Analytics (8) Data Engineering (8) Technology Support (8) Risk Analytics/Modeling (7) CCOR LOB/CF/Country Coverage (7) Client Service (6) Strategy (6) Cybersecurity Operations (6) Client Solutions (6) Financial Analysis (5) Portfolio Management (5) Project Management (4) Process Improvement (4) User Experience Design (4) Risk Support (3) Controller (3) Data & Analytics Rotation (3) Marketing Delivery (3) Firmwide Risk and Compliance (3) Technology Risk & Services (3) Auditing (2) Business Management (2) Workforce Analytics (2) Business Transformation (2) Architect [Multiple Positions Available] Wilmington, DE, United States Posted on 10/13/2025 Interact with the Product Owner and the Tech Partner.\n• Executive Director, Data Science Jersey City, NJ, United States TechnologySoftware Engineering Executive Director, Data Science for the Applied AI & Analytics Solutions Vice President – Data Science / Applied AI ML Bengaluru, Karnataka, India Data & AnalyticsPredictive Science Vice President – Data Science / Applied AI ML 2026 Data Science Analyst Program - Full-Time Analyst Chicago, IL, United States and 4 more Data & AnalyticsData & Analytics Rotation Delivering excellence at the intersection of data science and industry expertise, our teams go beyond where any bank has gone before.\n• 2026 Data Science Analyst Program - Summer Analyst Chicago, IL, United States and 4 more Data & AnalyticsSeasonal Employee We are looking for innovative problem-solvers with a passion for developing complex solutions that support our global business.\n• Data Science Senior Associate - LLM/NLQ - Asset Management Data Analytics LONDON, LONDON, United Kingdom Data & AnalyticsPredictive Science Empower investment decisions by designing natural language solutions and deploying advanced machine learning models.\n• Talent Network Didn't find the perfect job.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com",
-    "id": "jpmorgan-chase-analytics-solutions-multiple-positions-available-wilmington"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Rates Systematic Trading - Analyst / Associate",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "1d",
-    "job_description": "• Applied AIML Data Scientist Lead - Vice President Plano, TX, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Lead who applies quantitative, data science and analytical skills to complex problems.\n• Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems 2026 Asset Management Data Scientist - Summer Associate Hong Kong Data & AnalyticsSeasonal Employee Leverage NLP and AI expertise to develop innovative solutions that drive investment insights and process automation.\n• Quantitative Research – Associate/Vice President - Mumbai/Bengaluru India RiskRisk Analytics/Modeling We are looking for an experienced quant to join our team in Mumbai/Bengaluru.\n• 606 Open Jobs Categories 0 Software Engineering (153) Predictive Science (89) Product Management (34) Analytics Solutions & Delivery (31) Data Management (27) Seasonal Employee (17) Technical Program Delivery (16) Associates (13) Algo Trading (13) AI Research (12) Analysts (12) Security Engineering (12) Quant Analytics (11) Product Portfolio & Delivery (11) Infrastructure Engineering (10) Architecture (9) Data & Analytics (8) Data Engineering (8) Technology Support (8) Risk Analytics/Modeling (7) CCOR LOB/CF/Country Coverage (7) Client Service (6) Strategy (6) Cybersecurity Operations (6) Client Solutions (6) Financial Analysis (5) Portfolio Management (5) Project Management (4) Process Improvement (4) User Experience Design (4) Risk Support (3) Controller (3) Data & Analytics Rotation (3) Marketing Delivery (3) Firmwide Risk and Compliance (3) Technology Risk & Services (3) Auditing (2) Business Management (2) Workforce Analytics (2) Business Transformation (2) Posting Dates 0 Less than 30 days (340) Greater than 30 days (266) Less than 7 days (109) Software Engineering (153) Predictive Science (89) Product Management (34) Analytics Solutions & Delivery (31) Data Management (27) Seasonal Employee (17) Technical Program Delivery (16) Associates (13) Algo Trading (13) AI Research (12) Analysts (12) Security Engineering (12) Quant Analytics (11) Product Portfolio & Delivery (11) Infrastructure Engineering (10) Architecture (9) Data & Analytics (8) Data Engineering (8) Technology Support (8) Risk Analytics/Modeling (7) CCOR LOB/CF/Country Coverage (7) Client Service (6) Strategy (6) Cybersecurity Operations (6) Client Solutions (6) Financial Analysis (5) Portfolio Management (5) Project Management (4) Process Improvement (4) User Experience Design (4) Risk Support (3) Controller (3) Data & Analytics Rotation (3) Marketing Delivery (3) Firmwide Risk and Compliance (3) Technology Risk & Services (3) Auditing (2) Business Management (2) Workforce Analytics (2) Business Transformation (2) Categories 0 Software Engineering (153) Predictive Science (89) Product Management (34) Analytics Solutions & Delivery (31) Data Management (27) Seasonal Employee (17) Technical Program Delivery (16) Associates (13) Algo Trading (13) AI Research (12) Analysts (12) Security Engineering (12) Quant Analytics (11) Product Portfolio & Delivery (11) Infrastructure Engineering (10) Architecture (9) Data & Analytics (8) Data Engineering (8) Technology Support (8) Risk Analytics/Modeling (7) CCOR LOB/CF/Country Coverage (7) Client Service (6) Strategy (6) Cybersecurity Operations (6) Client Solutions (6) Financial Analysis (5) Portfolio Management (5) Project Management (4) Process Improvement (4) User Experience Design (4) Risk Support (3) Controller (3) Data & Analytics Rotation (3) Marketing Delivery (3) Firmwide Risk and Compliance (3) Technology Risk & Services (3) Auditing (2) Business Management (2) Workforce Analytics (2) Business Transformation (2) Posting Dates 0 Less than 30 days (340) Greater than 30 days (266) Less than 7 days (109) Software Engineering (153) Predictive Science (89) Product Management (34) Analytics Solutions & Delivery (31) Data Management (27) Seasonal Employee (17) Technical Program Delivery (16) Associates (13) Algo Trading (13) AI Research (12) Analysts (12) Security Engineering (12) Quant Analytics (11) Product Portfolio & Delivery (11) Infrastructure Engineering (10) Architecture (9) Data & Analytics (8) Data Engineering (8) Technology Support (8) Risk Analytics/Modeling (7) CCOR LOB/CF/Country Coverage (7) Client Service (6) Strategy (6) Cybersecurity Operations (6) Client Solutions (6) Financial Analysis (5) Portfolio Management (5) Project Management (4) Process Improvement (4) User Experience Design (4) Risk Support (3) Controller (3) Data & Analytics Rotation (3) Marketing Delivery (3) Firmwide Risk and Compliance (3) Technology Risk & Services (3) Auditing (2) Business Management (2) Workforce Analytics (2) Business Transformation (2) Proficiency in programming with Java, C++, or another object-oriented languageExperience performing data analysis in Python, with proficiency in relevant data science libraries (e.\n• ) and visualization toolsStrong interpersonal and communication skills.\n• Ability to collaborate effectively with traders, quantitative researchers, and software developersExceptional attention to detail and outstanding work ethicDemonstrated interest in financial markets and systematic tradingBachelor’s or Master’s degree in Computer Science, Mathematics, Physics, Engineering, or another quantitative field Knowledge of Fixed Income / RatesExperience with high-frequency trading, algorithmic trading, or electronic trading Systematic Trading - Associate New York, NY, United States Posted on 03/20/2025 The Automated Trading Strategies (ATS) group is responsible for systematic trading across FX, Rates, Commodities, and Credit markets.\n• Executive Director, Data Science Jersey City, NJ, United States TechnologySoftware Engineering Executive Director, Data Science for the Applied AI & Analytics Solutions Vice President – Data Science / Applied AI ML Bengaluru, Karnataka, India Data & AnalyticsPredictive Science Vice President – Data Science / Applied AI ML 2026 Data Science Analyst Program - Full-Time Analyst Chicago, IL, United States and 4 more Data & AnalyticsData & Analytics Rotation Delivering excellence at the intersection of data science and industry expertise, our teams go beyond where any bank has gone before.\n• 2026 Data Science Analyst Program - Summer Analyst Chicago, IL, United States and 4 more Data & AnalyticsSeasonal Employee We are looking for innovative problem-solvers with a passion for developing complex solutions that support our global business.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com",
-    "id": "jpmorgan-chase-rates-systematic-trading-analyst-associate-new-york"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Business Analyst [Multiple Positions Available]",
-    "job_city": "Chicago",
-    "job_state": "IL",
-    "job_posted_at": "1d",
-    "job_description": "• Applied AIML Data Scientist Lead - Vice President Plano, TX, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Lead who applies quantitative, data science and analytical skills to complex problems.\n• Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems 2026 Asset Management Data Scientist - Summer Associate Hong Kong Data & AnalyticsSeasonal Employee Leverage NLP and AI expertise to develop innovative solutions that drive investment insights and process automation.\n• Quantitative Research – Associate/Vice President - Mumbai/Bengaluru India RiskRisk Analytics/Modeling We are looking for an experienced quant to join our team in Mumbai/Bengaluru.\n• 606 Open Jobs Categories 0 Software Engineering (153) Predictive Science (89) Product Management (34) Analytics Solutions & Delivery (31) Data Management (27) Seasonal Employee (17) Technical Program Delivery (16) Associates (13) Algo Trading (13) AI Research (12) Analysts (12) Security Engineering (12) Quant Analytics (11) Product Portfolio & Delivery (11) Infrastructure Engineering (10) Architecture (9) Data & Analytics (8) Data Engineering (8) Technology Support (8) Risk Analytics/Modeling (7) CCOR LOB/CF/Country Coverage (7) Client Service (6) Strategy (6) Cybersecurity Operations (6) Client Solutions (6) Financial Analysis (5) Portfolio Management (5) Project Management (4) Process Improvement (4) User Experience Design (4) Risk Support (3) Controller (3) Data & Analytics Rotation (3) Marketing Delivery (3) Firmwide Risk and Compliance (3) Technology Risk & Services (3) Auditing (2) Business Management (2) Workforce Analytics (2) Business Transformation (2) Posting Dates 0 Less than 30 days (340) Greater than 30 days (266) Less than 7 days (109) Software Engineering (153) Predictive Science (89) Product Management (34) Analytics Solutions & Delivery (31) Data Management (27) Seasonal Employee (17) Technical Program Delivery (16) Associates (13) Algo Trading (13) AI Research (12) Analysts (12) Security Engineering (12) Quant Analytics (11) Product Portfolio & Delivery (11) Infrastructure Engineering (10) Architecture (9) Data & Analytics (8) Data Engineering (8) Technology Support (8) Risk Analytics/Modeling (7) CCOR LOB/CF/Country Coverage (7) Client Service (6) Strategy (6) Cybersecurity Operations (6) Client Solutions (6) Financial Analysis (5) Portfolio Management (5) Project Management (4) Process Improvement (4) User Experience Design (4) Risk Support (3) Controller (3) Data & Analytics Rotation (3) Marketing Delivery (3) Firmwide Risk and Compliance (3) Technology Risk & Services (3) Auditing (2) Business Management (2) Workforce Analytics (2) Business Transformation (2) Categories 0 Software Engineering (153) Predictive Science (89) Product Management (34) Analytics Solutions & Delivery (31) Data Management (27) Seasonal Employee (17) Technical Program Delivery (16) Associates (13) Algo Trading (13) AI Research (12) Analysts (12) Security Engineering (12) Quant Analytics (11) Product Portfolio & Delivery (11) Infrastructure Engineering (10) Architecture (9) Data & Analytics (8) Data Engineering (8) Technology Support (8) Risk Analytics/Modeling (7) CCOR LOB/CF/Country Coverage (7) Client Service (6) Strategy (6) Cybersecurity Operations (6) Client Solutions (6) Financial Analysis (5) Portfolio Management (5) Project Management (4) Process Improvement (4) User Experience Design (4) Risk Support (3) Controller (3) Data & Analytics Rotation (3) Marketing Delivery (3) Firmwide Risk and Compliance (3) Technology Risk & Services (3) Auditing (2) Business Management (2) Workforce Analytics (2) Business Transformation (2) Posting Dates 0 Less than 30 days (340) Greater than 30 days (266) Less than 7 days (109) Software Engineering (153) Predictive Science (89) Product Management (34) Analytics Solutions & Delivery (31) Data Management (27) Seasonal Employee (17) Technical Program Delivery (16) Associates (13) Algo Trading (13) AI Research (12) Analysts (12) Security Engineering (12) Quant Analytics (11) Product Portfolio & Delivery (11) Infrastructure Engineering (10) Architecture (9) Data & Analytics (8) Data Engineering (8) Technology Support (8) Risk Analytics/Modeling (7) CCOR LOB/CF/Country Coverage (7) Client Service (6) Strategy (6) Cybersecurity Operations (6) Client Solutions (6) Financial Analysis (5) Portfolio Management (5) Project Management (4) Process Improvement (4) User Experience Design (4) Risk Support (3) Controller (3) Data & Analytics Rotation (3) Marketing Delivery (3) Firmwide Risk and Compliance (3) Technology Risk & Services (3) Auditing (2) Business Management (2) Workforce Analytics (2) Business Transformation (2) LONDON, LONDON, United Kingdom and 1 more Program Analysts & AssociateSeasonal Employee LONDON, LONDON, United Kingdom and 1 more Program Analysts & AssociateAnalysts New York, NY, United States Program Analysts & AssociateAnalysts.\n• Executive Director, Data Science Jersey City, NJ, United States TechnologySoftware Engineering Executive Director, Data Science for the Applied AI & Analytics Solutions Vice President – Data Science / Applied AI ML Bengaluru, Karnataka, India Data & AnalyticsPredictive Science Vice President – Data Science / Applied AI ML 2026 Data Science Analyst Program - Full-Time Analyst Chicago, IL, United States and 4 more Data & AnalyticsData & Analytics Rotation Delivering excellence at the intersection of data science and industry expertise, our teams go beyond where any bank has gone before.\n• 2026 Data Science Analyst Program - Summer Analyst Chicago, IL, United States and 4 more Data & AnalyticsSeasonal Employee We are looking for innovative problem-solvers with a passion for developing complex solutions that support our global business.\n• Data Science Senior Associate - LLM/NLQ - Asset Management Data Analytics LONDON, LONDON, United Kingdom Data & AnalyticsPredictive Science Empower investment decisions by designing natural language solutions and deploying advanced machine learning models.\n• Talent Network Didn't find the perfect job.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com",
-    "id": "jpmorgan-chase-business-analyst-multiple-positions-available-chicago"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "2026 Applied AI/ML Associate Program - Internship",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "1d",
-    "job_description": "• Applied AIML Data Scientist Lead - Vice President Plano, TX, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Lead who applies quantitative, data science and analytical skills to complex problems.\n• Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems 2026 Asset Management Data Scientist - Summer Associate Hong Kong Data & AnalyticsSeasonal Employee Leverage NLP and AI expertise to develop innovative solutions that drive investment insights and process automation.\n• Quantitative Research – Associate/Vice President - Mumbai/Bengaluru India RiskRisk Analytics/Modeling We are looking for an experienced quant to join our team in Mumbai/Bengaluru.\n• Marketing Delivery Senior Associate Newark, DE, United States Marketing & CommunicationsMarketing Delivery Senior Marketing Delivery Associate: Use data skills to build audiences and drive omni-channel marketing.\n• Software Engineer III - iOS Developer Plano, TX, United States TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Analytics Solution Manager, Vice President OH, United States Data & AnalyticsAnalytics Solutions & Delivery Opportunity to use the power of data to drive customer and employee experiences across Consumer and Community Banking.\n• Software Engineer II - Python Full Stack Developer Bengaluru, Karnataka, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Applied AI ML Associate - Fusion LONDON, United Kingdom Data & AnalyticsPredictive Science Solve complex problems, build models and grow technical skills in a fast-paced, client-focused applied ML role.\n• Identity and Access Management Technical Product Manager Jersey City, NJ, United States and 1 more ProductProduct Management Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Lead Data Scientist - Home Lending Plano, TX, United States and 2 more Data & AnalyticsPredictive Science Lead a Home Lending Data team, partnering with Product, Marketing, Sales to solve key business challenges.\n• Workforce Planning - Time Series Forecasting Strategist -Quant Analytics Associate Wilmington, DE, United States and 1 more Data & AnalyticsQuant Analytics Time Series Demand Forecasting Associate in Workforce Planning, focused on Daily and Monthly Intervals Principal Data Architect Plano, TX, United States TechnologyArchitecture Lead scalable, high-quality data solutions and governance to fulfill advanced analytics needs.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com",
-    "id": "jpmorgan-chase-2026-applied-ai-ml-associate-program-internship-new-york"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III - Java/Spark/AWS",
-    "job_city": "Plano",
-    "job_state": "TX",
-    "job_posted_at": "1d",
-    "job_description": "• Applied AIML Data Scientist Lead - Vice President Plano, TX, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Lead who applies quantitative, data science and analytical skills to complex problems.\n• Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems 2026 Asset Management Data Scientist - Summer Associate Hong Kong Data & AnalyticsSeasonal Employee Leverage NLP and AI expertise to develop innovative solutions that drive investment insights and process automation.\n• Quantitative Research – Associate/Vice President - Mumbai/Bengaluru India RiskRisk Analytics/Modeling We are looking for an experienced quant to join our team in Mumbai/Bengaluru.\n• Marketing Delivery Senior Associate Newark, DE, United States Marketing & CommunicationsMarketing Delivery Senior Marketing Delivery Associate: Use data skills to build audiences and drive omni-channel marketing.\n• Software Engineer III - iOS Developer Plano, TX, United States TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Analytics Solution Manager, Vice President OH, United States Data & AnalyticsAnalytics Solutions & Delivery Opportunity to use the power of data to drive customer and employee experiences across Consumer and Community Banking.\n• Software Engineer II - Python Full Stack Developer Bengaluru, Karnataka, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Applied AI ML Associate - Fusion LONDON, United Kingdom Data & AnalyticsPredictive Science Solve complex problems, build models and grow technical skills in a fast-paced, client-focused applied ML role.\n• Identity and Access Management Technical Product Manager Jersey City, NJ, United States and 1 more ProductProduct Management Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Lead Data Scientist - Home Lending Plano, TX, United States and 2 more Data & AnalyticsPredictive Science Lead a Home Lending Data team, partnering with Product, Marketing, Sales to solve key business challenges.\n• Workforce Planning - Time Series Forecasting Strategist -Quant Analytics Associate Wilmington, DE, United States and 1 more Data & AnalyticsQuant Analytics Time Series Demand Forecasting Associate in Workforce Planning, focused on Daily and Monthly Intervals Principal Data Architect Plano, TX, United States TechnologyArchitecture Lead scalable, high-quality data solutions and governance to fulfill advanced analytics needs.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com",
-    "id": "jpmorgan-chase-software-engineer-iii-java-spark-aws-plano"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III - iOS Developer",
-    "job_city": "Plano",
-    "job_state": "TX",
-    "job_posted_at": "1d",
-    "job_description": "• Applied AIML Data Scientist Lead - Vice President Plano, TX, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Lead who applies quantitative, data science and analytical skills to complex problems.\n• Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems 2026 Asset Management Data Scientist - Summer Associate Hong Kong Data & AnalyticsSeasonal Employee Leverage NLP and AI expertise to develop innovative solutions that drive investment insights and process automation.\n• Quantitative Research – Associate/Vice President - Mumbai/Bengaluru India RiskRisk Analytics/Modeling We are looking for an experienced quant to join our team in Mumbai/Bengaluru.\n• Marketing Delivery Senior Associate Newark, DE, United States Marketing & CommunicationsMarketing Delivery Senior Marketing Delivery Associate: Use data skills to build audiences and drive omni-channel marketing.\n• Software Engineer III - iOS Developer Plano, TX, United States TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Analytics Solution Manager, Vice President OH, United States Data & AnalyticsAnalytics Solutions & Delivery Opportunity to use the power of data to drive customer and employee experiences across Consumer and Community Banking.\n• Software Engineer II - Python Full Stack Developer Bengaluru, Karnataka, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Applied AI ML Associate - Fusion LONDON, United Kingdom Data & AnalyticsPredictive Science Solve complex problems, build models and grow technical skills in a fast-paced, client-focused applied ML role.\n• Identity and Access Management Technical Product Manager Jersey City, NJ, United States and 1 more ProductProduct Management Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Lead Data Scientist - Home Lending Plano, TX, United States and 2 more Data & AnalyticsPredictive Science Lead a Home Lending Data team, partnering with Product, Marketing, Sales to solve key business challenges.\n• Workforce Planning - Time Series Forecasting Strategist -Quant Analytics Associate Wilmington, DE, United States and 1 more Data & AnalyticsQuant Analytics Time Series Demand Forecasting Associate in Workforce Planning, focused on Daily and Monthly Intervals Principal Data Architect Plano, TX, United States TechnologyArchitecture Lead scalable, high-quality data solutions and governance to fulfill advanced analytics needs.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com",
-    "id": "jpmorgan-chase-software-engineer-iii-ios-developer-plano"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Vulnerability Researcher - Assessments & Exercises",
-    "job_city": "Wilmington",
-    "job_state": "DE",
-    "job_posted_at": "1d",
-    "job_description": "• Applied AIML Data Scientist Lead - Vice President Plano, TX, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Lead who applies quantitative, data science and analytical skills to complex problems.\n• Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems 2026 Asset Management Data Scientist - Summer Associate Hong Kong Data & AnalyticsSeasonal Employee Leverage NLP and AI expertise to develop innovative solutions that drive investment insights and process automation.\n• Quantitative Research – Associate/Vice President - Mumbai/Bengaluru India RiskRisk Analytics/Modeling We are looking for an experienced quant to join our team in Mumbai/Bengaluru.\n• Marketing Delivery Senior Associate Newark, DE, United States Marketing & CommunicationsMarketing Delivery Senior Marketing Delivery Associate: Use data skills to build audiences and drive omni-channel marketing.\n• Software Engineer III - iOS Developer Plano, TX, United States TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Analytics Solution Manager, Vice President OH, United States Data & AnalyticsAnalytics Solutions & Delivery Opportunity to use the power of data to drive customer and employee experiences across Consumer and Community Banking.\n• Software Engineer II - Python Full Stack Developer Bengaluru, Karnataka, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Applied AI ML Associate - Fusion LONDON, United Kingdom Data & AnalyticsPredictive Science Solve complex problems, build models and grow technical skills in a fast-paced, client-focused applied ML role.\n• Identity and Access Management Technical Product Manager Jersey City, NJ, United States and 1 more ProductProduct Management Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Lead Data Scientist - Home Lending Plano, TX, United States and 2 more Data & AnalyticsPredictive Science Lead a Home Lending Data team, partnering with Product, Marketing, Sales to solve key business challenges.\n• Workforce Planning - Time Series Forecasting Strategist -Quant Analytics Associate Wilmington, DE, United States and 1 more Data & AnalyticsQuant Analytics Time Series Demand Forecasting Associate in Workforce Planning, focused on Daily and Monthly Intervals Principal Data Architect Plano, TX, United States TechnologyArchitecture Lead scalable, high-quality data solutions and governance to fulfill advanced analytics needs.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com",
-    "id": "jpmorgan-chase-vulnerability-researcher-assessments-exercises-wilmington"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Asset Management - Junior Quantitative Developer - Associate",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "1d",
-    "job_description": "• Applied AIML Data Scientist Lead - Vice President Plano, TX, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Lead who applies quantitative, data science and analytical skills to complex problems.\n• Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems 2026 Asset Management Data Scientist - Summer Associate Hong Kong Data & AnalyticsSeasonal Employee Leverage NLP and AI expertise to develop innovative solutions that drive investment insights and process automation.\n• Quantitative Research – Associate/Vice President - Mumbai/Bengaluru India RiskRisk Analytics/Modeling We are looking for an experienced quant to join our team in Mumbai/Bengaluru.\n• Marketing Delivery Senior Associate Newark, DE, United States Marketing & CommunicationsMarketing Delivery Senior Marketing Delivery Associate: Use data skills to build audiences and drive omni-channel marketing.\n• Software Engineer III - iOS Developer Plano, TX, United States TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Analytics Solution Manager, Vice President OH, United States Data & AnalyticsAnalytics Solutions & Delivery Opportunity to use the power of data to drive customer and employee experiences across Consumer and Community Banking.\n• Software Engineer II - Python Full Stack Developer Bengaluru, Karnataka, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Applied AI ML Associate - Fusion LONDON, United Kingdom Data & AnalyticsPredictive Science Solve complex problems, build models and grow technical skills in a fast-paced, client-focused applied ML role.\n• Identity and Access Management Technical Product Manager Jersey City, NJ, United States and 1 more ProductProduct Management Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Lead Data Scientist - Home Lending Plano, TX, United States and 2 more Data & AnalyticsPredictive Science Lead a Home Lending Data team, partnering with Product, Marketing, Sales to solve key business challenges.\n• Workforce Planning - Time Series Forecasting Strategist -Quant Analytics Associate Wilmington, DE, United States and 1 more Data & AnalyticsQuant Analytics Time Series Demand Forecasting Associate in Workforce Planning, focused on Daily and Monthly Intervals Principal Data Architect Plano, TX, United States TechnologyArchitecture Lead scalable, high-quality data solutions and governance to fulfill advanced analytics needs.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com",
-    "id": "jpmorgan-chase-asset-management-junior-quantitative-developer-associate-new-york"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "PricingDirect - Securities Valuation - Analyst",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "1d",
-    "job_description": "• Applied AIML Data Scientist Lead - Vice President Plano, TX, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Lead who applies quantitative, data science and analytical skills to complex problems.\n• Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems 2026 Asset Management Data Scientist - Summer Associate Hong Kong Data & AnalyticsSeasonal Employee Leverage NLP and AI expertise to develop innovative solutions that drive investment insights and process automation.\n• Quantitative Research – Associate/Vice President - Mumbai/Bengaluru India RiskRisk Analytics/Modeling We are looking for an experienced quant to join our team in Mumbai/Bengaluru.\n• Marketing Delivery Senior Associate Newark, DE, United States Marketing & CommunicationsMarketing Delivery Senior Marketing Delivery Associate: Use data skills to build audiences and drive omni-channel marketing.\n• Software Engineer III - iOS Developer Plano, TX, United States TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Analytics Solution Manager, Vice President OH, United States Data & AnalyticsAnalytics Solutions & Delivery Opportunity to use the power of data to drive customer and employee experiences across Consumer and Community Banking.\n• Software Engineer II - Python Full Stack Developer Bengaluru, Karnataka, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Applied AI ML Associate - Fusion LONDON, United Kingdom Data & AnalyticsPredictive Science Solve complex problems, build models and grow technical skills in a fast-paced, client-focused applied ML role.\n• Identity and Access Management Technical Product Manager Jersey City, NJ, United States and 1 more ProductProduct Management Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Lead Data Scientist - Home Lending Plano, TX, United States and 2 more Data & AnalyticsPredictive Science Lead a Home Lending Data team, partnering with Product, Marketing, Sales to solve key business challenges.\n• Workforce Planning - Time Series Forecasting Strategist -Quant Analytics Associate Wilmington, DE, United States and 1 more Data & AnalyticsQuant Analytics Time Series Demand Forecasting Associate in Workforce Planning, focused on Daily and Monthly Intervals Principal Data Architect Plano, TX, United States TechnologyArchitecture Lead scalable, high-quality data solutions and governance to fulfill advanced analytics needs.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com",
-    "id": "jpmorgan-chase-pricingdirect-securities-valuation-analyst-new-york"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer II - Java",
-    "job_city": "Ciudad Autónoma de Buenos Aires",
-    "job_state": "Argentina",
-    "job_posted_at": "1d",
-    "job_description": "• Applied AIML Data Scientist Lead - Vice President Plano, TX, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Lead who applies quantitative, data science and analytical skills to complex problems.\n• Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems 2026 Asset Management Data Scientist - Summer Associate Hong Kong Data & AnalyticsSeasonal Employee Leverage NLP and AI expertise to develop innovative solutions that drive investment insights and process automation.\n• Quantitative Research – Associate/Vice President - Mumbai/Bengaluru India RiskRisk Analytics/Modeling We are looking for an experienced quant to join our team in Mumbai/Bengaluru.\n• Marketing Delivery Senior Associate Newark, DE, United States Marketing & CommunicationsMarketing Delivery Senior Marketing Delivery Associate: Use data skills to build audiences and drive omni-channel marketing.\n• Software Engineer III - iOS Developer Plano, TX, United States TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Analytics Solution Manager, Vice President OH, United States Data & AnalyticsAnalytics Solutions & Delivery Opportunity to use the power of data to drive customer and employee experiences across Consumer and Community Banking.\n• Software Engineer II - Python Full Stack Developer Bengaluru, Karnataka, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Applied AI ML Associate - Fusion LONDON, United Kingdom Data & AnalyticsPredictive Science Solve complex problems, build models and grow technical skills in a fast-paced, client-focused applied ML role.\n• Identity and Access Management Technical Product Manager Jersey City, NJ, United States and 1 more ProductProduct Management Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Lead Data Scientist - Home Lending Plano, TX, United States and 2 more Data & AnalyticsPredictive Science Lead a Home Lending Data team, partnering with Product, Marketing, Sales to solve key business challenges.\n• Workforce Planning - Time Series Forecasting Strategist -Quant Analytics Associate Wilmington, DE, United States and 1 more Data & AnalyticsQuant Analytics Time Series Demand Forecasting Associate in Workforce Planning, focused on Daily and Monthly Intervals Principal Data Architect Plano, TX, United States TechnologyArchitecture Lead scalable, high-quality data solutions and governance to fulfill advanced analytics needs.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com",
-    "id": "jpmorgan-chase-software-engineer-ii-java-ciudad-aut-noma-de-buenos-aires"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Business Process Analyst, Reconciliation Change Management",
-    "job_city": "Metro Manila",
-    "job_state": "Capital Region",
-    "job_posted_at": "1d",
-    "job_description": "• Applied AIML Data Scientist Lead - Vice President Plano, TX, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Lead who applies quantitative, data science and analytical skills to complex problems.\n• Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems 2026 Asset Management Data Scientist - Summer Associate Hong Kong Data & AnalyticsSeasonal Employee Leverage NLP and AI expertise to develop innovative solutions that drive investment insights and process automation.\n• Quantitative Research – Associate/Vice President - Mumbai/Bengaluru India RiskRisk Analytics/Modeling We are looking for an experienced quant to join our team in Mumbai/Bengaluru.\n• Marketing Delivery Senior Associate Newark, DE, United States Marketing & CommunicationsMarketing Delivery Senior Marketing Delivery Associate: Use data skills to build audiences and drive omni-channel marketing.\n• Software Engineer III - iOS Developer Plano, TX, United States TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Analytics Solution Manager, Vice President OH, United States Data & AnalyticsAnalytics Solutions & Delivery Opportunity to use the power of data to drive customer and employee experiences across Consumer and Community Banking.\n• Software Engineer II - Python Full Stack Developer Bengaluru, Karnataka, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Applied AI ML Associate - Fusion LONDON, United Kingdom Data & AnalyticsPredictive Science Solve complex problems, build models and grow technical skills in a fast-paced, client-focused applied ML role.\n• Identity and Access Management Technical Product Manager Jersey City, NJ, United States and 1 more ProductProduct Management Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Lead Data Scientist - Home Lending Plano, TX, United States and 2 more Data & AnalyticsPredictive Science Lead a Home Lending Data team, partnering with Product, Marketing, Sales to solve key business challenges.\n• Workforce Planning - Time Series Forecasting Strategist -Quant Analytics Associate Wilmington, DE, United States and 1 more Data & AnalyticsQuant Analytics Time Series Demand Forecasting Associate in Workforce Planning, focused on Daily and Monthly Intervals Principal Data Architect Plano, TX, United States TechnologyArchitecture Lead scalable, high-quality data solutions and governance to fulfill advanced analytics needs.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com",
-    "id": "jpmorgan-chase-business-process-analyst-reconciliation-change-management-metro-manila"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Client Onboarding Card Product Implementation",
-    "job_city": "Charlotte",
-    "job_state": "NC",
-    "job_posted_at": "1d",
-    "job_description": "• Applied AIML Data Scientist Lead - Vice President Plano, TX, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Lead who applies quantitative, data science and analytical skills to complex problems.\n• Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems 2026 Asset Management Data Scientist - Summer Associate Hong Kong Data & AnalyticsSeasonal Employee Leverage NLP and AI expertise to develop innovative solutions that drive investment insights and process automation.\n• Quantitative Research – Associate/Vice President - Mumbai/Bengaluru India RiskRisk Analytics/Modeling We are looking for an experienced quant to join our team in Mumbai/Bengaluru.\n• Marketing Delivery Senior Associate Newark, DE, United States Marketing & CommunicationsMarketing Delivery Senior Marketing Delivery Associate: Use data skills to build audiences and drive omni-channel marketing.\n• Software Engineer III - iOS Developer Plano, TX, United States TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Analytics Solution Manager, Vice President OH, United States Data & AnalyticsAnalytics Solutions & Delivery Opportunity to use the power of data to drive customer and employee experiences across Consumer and Community Banking.\n• Software Engineer II - Python Full Stack Developer Bengaluru, Karnataka, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Applied AI ML Associate - Fusion LONDON, United Kingdom Data & AnalyticsPredictive Science Solve complex problems, build models and grow technical skills in a fast-paced, client-focused applied ML role.\n• Identity and Access Management Technical Product Manager Jersey City, NJ, United States and 1 more ProductProduct Management Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Lead Data Scientist - Home Lending Plano, TX, United States and 2 more Data & AnalyticsPredictive Science Lead a Home Lending Data team, partnering with Product, Marketing, Sales to solve key business challenges.\n• Workforce Planning - Time Series Forecasting Strategist -Quant Analytics Associate Wilmington, DE, United States and 1 more Data & AnalyticsQuant Analytics Time Series Demand Forecasting Associate in Workforce Planning, focused on Daily and Monthly Intervals Principal Data Architect Plano, TX, United States TechnologyArchitecture Lead scalable, high-quality data solutions and governance to fulfill advanced analytics needs.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com",
-    "id": "jpmorgan-chase-client-onboarding-card-product-implementation-charlotte"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Financial Analyst: Full-time Opportunities - Finance Rotation Program",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "4d",
-    "job_description": "Data Science job for the role Financial Analyst: Full-time Opportunities - Finance Rotation Program",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892506/Financial-Analyst%3A-Full-time-Opportunities---Finance-Rotation-Program",
-    "id": "microsoft-financial-analyst-full-time-opportunities-finance-rotation-program-redmond"
+    "job_description": "• Applied AIML Data Scientist Lead - Vice President Plano, TX, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Lead who applies quantitative, data science and analytical skills to complex problems.\n• Applied AI ML Engineer-Vice President New York, NY, United States Data & AnalyticsPredictive Science The Applied AI Machine learning Scientist who applies quantitative, data science and analytical skills to complex problems Associate Data Scientist, Payments Data & Analytics Plano, TX, United States Data & AnalyticsPredictive Science Transform payments data into actionable insights and new agentic capabilities through advanced analytics and artificial intelligence.\n• Quantitative Research – Associate/Vice President - Mumbai/Bengaluru India RiskRisk Analytics/Modeling We are looking for an experienced quant to join our team in Mumbai/Bengaluru.\n• Marketing Delivery Senior Associate Newark, DE, United States Marketing & CommunicationsMarketing Delivery Senior Marketing Delivery Associate: Use data skills to build audiences and drive omni-channel marketing.\n• Software Engineer III - iOS Developer Plano, TX, United States TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Analytics Solution Manager, Vice President OH, United States Data & AnalyticsAnalytics Solutions & Delivery Opportunity to use the power of data to drive customer and employee experiences across Consumer and Community Banking.\n• Software Engineer II - Python Full Stack Developer Bengaluru, Karnataka, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Applied AI ML Associate - Fusion LONDON, United Kingdom Data & AnalyticsPredictive Science Solve complex problems, build models and grow technical skills in a fast-paced, client-focused applied ML role.\n• Identity and Access Management Technical Product Manager Jersey City, NJ, United States and 1 more ProductProduct Management Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics Lead Data Scientist - Home Lending Plano, TX, United States and 2 more Data & AnalyticsPredictive Science Lead a Home Lending Data team, partnering with Product, Marketing, Sales to solve key business challenges.\n• Workforce Planning - Time Series Forecasting Strategist -Quant Analytics Associate Wilmington, DE, United States and 1 more Data & AnalyticsQuant Analytics Time Series Demand Forecasting Associate in Workforce Planning, focused on Daily and Monthly Intervals Principal Data Architect Plano, TX, United States TechnologyArchitecture Lead scalable, high-quality data solutions and governance to fulfill advanced analytics needs.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210638229/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-iii-data-engineer-graph-db-jersey-city"
   }
 ]
