@@ -589,7 +589,6 @@ function isUSOnlyJob(job) {
     // Default to exclude if we can't determine (changed from include to be more selective)
     return false;
 }
-
 function getExperienceLevel(title, description = "") {
   const text = `${title} ${description}`.toLowerCase();
 
