@@ -855,7 +855,7 @@ module.exports = {
   normalizeCompanyName,
   getCompanyEmoji,
   getCompanyCareerUrl,
-  formatTimeAgo,
+ 
   isJobOlderThanWeek,
   isUSOnlyJob,
   getExperienceLevel,
