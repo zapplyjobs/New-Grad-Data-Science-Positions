@@ -394,17 +394,16 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     //done
     },
 
-    amazon: {
+  amazon: {
       name: "Amazon",
-      baseUrl: "https://amazon.jobs/en-gb/search",
-      url: `https://www.amazon.jobs/en-gb/search?offset=${
-        (pageNum - 1) * 10
-      }&result_limit=10&sort=relevant&distanceType=Mi&radius=24km&industry_experience=one_to_three_years&latitude=38.89036&longitude=-77.03196&loc_group_id=&loc_query=united%20states&base_query=${encodeURIComponent(
-        searchQuery
-      )}&city=&country=USA&region=&county=&query_options=&`,
+      baseUrl: "https://amazon.jobs",
+      url: `https://www.amazon.jobs/en-gb/search?offset=${(pageNum - 1) * 10
+        }&result_limit=10&sort=relevant&distanceType=Mi&radius=24km&industry_experience=one_to_three_years&latitude=38.89036&longitude=-77.03196&loc_group_id=&loc_query=united%20states&base_query=${encodeURIComponent(
+          searchQuery
+        )}&city=&country=USA&region=&county=&query_options=&`,
       selector: selectors.amazon,
       //filters applied
-     //done
+      //done
     },
     
            meta: {
@@ -418,15 +417,18 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     //filter applied
     //done
         },
-           microsoft: {
-          name: "Microsoft",
-          baseUrl: "https://jobs.careers.microsoft.com",
-          url: `https://jobs.careers.microsoft.com/global/en/search?q=hardware&lc=United%20States&exp=Students%20and%20graduates&l=en_us&pg=${pageNum}&pgSz=20&o=Relevance&flt=true`
-    ,
-          selector: selectors.microsoft,
-    // filter applied
-    //done
-        },
+          microsoft: {
+      name: "Microsoft",
+      baseUrl: "https://jobs.careers.microsoft.com",
+      url: `https://jobs.careers.microsoft.com/global/en/search?&q=${encodeURIComponent(
+        searchQuery
+      )}&lc=United%20States&exp=Students%20and%20graduates&l=en_us&pg=${pageNum}&pgSz=20&o=Relevance&flt=true`
+      ,
+      selector: selectors.microsoft,
+      // filter applied
+      //done
+      //https://jobs.careers.microsoft.com/global/en/job/1892746/Services-Account-Executive---Strategic-Account-IC4
+    },
   };
 }
 
