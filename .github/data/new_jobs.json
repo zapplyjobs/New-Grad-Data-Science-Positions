@@ -1,10 +1,20 @@
 [
   {
+    "employer_name": "IBM",
+    "job_title": "Federal Associate Data Engineer",
+    "job_city": "WASHINGTON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Federal Associate Data Engineer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65399&source=WEB_Search_NA",
+    "id": "ibm-federal-associate-data-engineer-washington"
+  },
+  {
     "employer_name": "10x Genomics",
     "job_title": "Scientist 1, Assay Productization (P-4386)",
     "job_city": "Pleasanton",
     "job_state": "California",
-    "job_posted_at": "15 hours",
+    "job_posted_at": "17 hours",
     "job_description": "• , 4+ years of relevant biotechnology or pharmaceutical industry experience.\n• Experience in a process or product development role, especially technology transfer to manufacturing and/or QC groups.\n• Proficient in standard molecular biology techniques such as sample preparation, nucleic acid amplification and purification (RNA/DNA), and DNA/RNA in situ hybridization experience.\n• Light and fluorescent microscopy experience.\n• Experience with experimental design and statistical data analysis.\n• Experience troubleshooting molecular biology-based assays and issues with reagent quality (manufacturing process, QC and stability).\n• Experience generating reports/presentations and forecasting reagent usage and costs.\n• Strong collaboration and communication skills.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171837195797",
     "id": "10x-genomics-scientist-1-assay-productization-p-4386-pleasanton"
