@@ -134,7 +134,7 @@ function generateJobTable(jobs) {
         companyJobs.forEach((job) => {
           const role = job.job_title;
           const location = formatLocation(job.job_city, job.job_state);
-          const posted = formatTimeAgo(job.job_posted_at_datetime_utc || job.job_posted_at);
+          const posted = job.job_posted_at;
           const applyLink =
             job.job_apply_link || getCompanyCareerUrl(job.employer_name);
 
@@ -252,7 +252,7 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 
   return `# 📊 Data Science & Analytics Jobs & Internships 2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from ${totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with ${currentJobs.length}+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from ${totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with ${currentJobs.length}+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -260,13 +260,13 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 
 ---
 
-## **Join Community**
+## **Join Our Community**
 
 Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities.. Join our community of analytics students and data enthusiasts navigating their career journey together!
 
  <div align="center">
   <a href="https://discord.gg/yKWw28q7Yq" target="_blank">
-    <img src="./discord-button.png" width="600" alt="Join Discord - Job Finder & Career Hub by Zapply">
+    <img src="./discord-button.png" width="400" alt="Join Discord - Job Finder & Career Hub by Zapply">
   </a>
 </div>
 
@@ -364,7 +364,7 @@ ${stats ? Object.entries(stats.byLocation)
 
 ✅ **100% Real Jobs:** ${currentJobs.length}+ verified roles for data analysts and scientists from ${totalCompanies} elite tech companies.
 
-✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
+✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
 ✅ **Entry-Level Focused:** Smart filtering for internship and entry-level analytics roles.
 
