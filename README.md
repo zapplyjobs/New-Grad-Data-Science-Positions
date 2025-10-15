@@ -1,6 +1,6 @@
 # 📊 Data Science & Analytics Jobs & Internships 2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 18+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 135+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 19+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 136+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -21,9 +21,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 135 hot data-focused jobs
-- 🏢 **Top Companies:** 18 elite tech including Tesla, NVIDIA, Raytheon
-- ⭐ **FAANG+ Jobs & Internships:** 41 premium opportunities
+- 🔥 **Current Positions:** 136 hot data-focused jobs
+- 🏢 **Top Companies:** 19 elite tech including Tesla, NVIDIA, Raytheon
+- ⭐ **FAANG+ Jobs & Internships:** 42 premium opportunities
 - 📅 **Last Updated:** October 15, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 - 📁 **Archived Developer Jobs:** 0 (older than 1 week)
@@ -66,13 +66,13 @@ Top internships for students in data science, statistics, analytics, and related
 
 ## 🎯 Fresh Data Science Job Listings 2026 (under 1 week)
 
-### 🏢 **FAANG+** (41 positions)
+### 🏢 **FAANG+** (42 positions)
 
 #### 📦 **Amazon** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Engineer, PXT Central Science | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3109133/data-engineer-pxt-central-science) | 20h |
+| Data Engineer, PXT Central Science | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3109133/data-engineer-pxt-central-science) | 21h |
 
 #### 🟦 **Microsoft** (1 position)
 
@@ -127,6 +127,12 @@ Top internships for students in data science, statistics, analytics, and related
 
 </details>
 
+#### 🍎 **Apple** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Data Engineer | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-3543/data-engineer?team=HRDWR) | 6d |
+
 ### 🏢 **Top Tech** (13 positions)
 
 #### 🔷 **Intel** (1 position)
@@ -142,9 +148,9 @@ Top internships for students in data science, statistics, analytics, and related
 | ML/AI Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/72468/login) | 1d |
 | Customer Quality Engineer | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/70801/login) | 1d |
 | Product Development Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/67110/login) | 1d |
+| ATE Product Development Engineer | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/72634/login) | 1d |
 | Summer 2026 Undergrad Finance Intern 🏠 | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/69955/login) | 1d |
 | Power Attainment Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/72181/login) | 1d |
-| NPI Product Development Engineer | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/72634/login) | 1d |
 | AI/ML Compiler Development Engineer | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/57214/login) | 1d |
 | ATE Test & Product Development Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/71235/login) | 1d |
 | Product Operations Engineer - PCBA & SMT Manufacturing | US, NJ | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/62519/login) | 1d |
@@ -321,8 +327,8 @@ Top internships for students in data science, statistics, analytics, and related
 
 ### 🏢 **Top Companies**
 
-#### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (39 positions) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+#### ⭐ **FAANG+** (4 companies)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (39 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
 #### 💰 **Fintech Leaders** (1 company)
@@ -339,7 +345,7 @@ Top internships for students in data science, statistics, analytics, and related
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
 | 🟢 Entry Level & New Grad | 22 | 16% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 51 | 38% | 1-2 years of experience. |
+| 🟡 Beginner & Early Career | 52 | 38% | 1-2 years of experience. |
 | 🔴 Manager | 62 | 46% | 2+ years of experience. |
 
 ### 🌍 Top Locations
@@ -359,7 +365,7 @@ List of top locations and number of positions.
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 135+ verified roles for data analysts and scientists from 18 elite tech companies.
+✅ **100% Real Jobs:** 136+ verified roles for data analysts and scientists from 19 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -424,7 +430,7 @@ List of top locations and number of positions.
 
 <div align="center">
 
-**🎯 135 current opportunities from 18 elite companies.**
+**🎯 136 current opportunities from 19 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
