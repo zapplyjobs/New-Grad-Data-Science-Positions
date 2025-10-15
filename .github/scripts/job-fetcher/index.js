@@ -46,7 +46,9 @@ async function main() {
         } else {
             console.log(`\nℹ️ No new jobs found - all positions already processed`);
         }
-        
+
+        // Force exit after completion
+        process.exit(0);
     } catch (error) {
         console.error('\n❌ Fatal error in job fetching system:', error);
         console.error('Stack trace:', error.stack);
