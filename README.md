@@ -314,9 +314,9 @@ Top internships for students in data science, statistics, analytics, and related
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 24 | 18% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 47 | 36% | 1-2 years of experience. |
-| 🔴 Manager | 60 | 46% | 2+ years of experience. |
+| 🟢 Entry Level & New Grad | 22 | 17% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 48 | 37% | 1-2 years of experience. |
+| 🔴 Manager | 61 | 47% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
