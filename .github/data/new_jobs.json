@@ -8,25 +8,5 @@
     "job_description": "• , 4+ years of relevant biotechnology or pharmaceutical industry experience.\n• Experience in a process or product development role, especially technology transfer to manufacturing and/or QC groups.\n• Proficient in standard molecular biology techniques such as sample preparation, nucleic acid amplification and purification (RNA/DNA), and DNA/RNA in situ hybridization experience.\n• Light and fluorescent microscopy experience.\n• Experience with experimental design and statistical data analysis.\n• Experience troubleshooting molecular biology-based assays and issues with reagent quality (manufacturing process, QC and stability).\n• Experience generating reports/presentations and forecasting reagent usage and costs.\n• Strong collaboration and communication skills.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171837195797",
     "id": "10x-genomics-scientist-1-assay-productization-p-4386-pleasanton"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Power Attainment Engineer - Data Center GPU",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "1d",
-    "job_description": "• Configure and setup ML/AI Datacenter GPU systems for data collection, experiments and test plan executionUtilize lab equipment such as oscilloscope, high speed probes, function generator and data acquisition equipment to gather required electrical characterization data for power and performance optimization.\n• Troubleshoot system-level issues that may occur in test environments and platformsProactively drive continuous improvement for post-silicon power attainment activitiesParticipate in development of automation environment in developing scripts automating workloads, enhancing capabilities of execution capabilities in Linux, Python and other support software support toolsWork in a fast-paced resource constrained environment to build top of the line HPC & AI GPU products 8+ years of hands-on experience as an engineer in semiconductor industry.\n• Excellent grasp of computer organization/architecture, GPU architecture and power managementKnowledge in power limited performance methodologies and control theoryExtensive experience in platform optimization.\n• Experience with tools for power and performance analysisStrong programming skills, scripting experience in Python preferredFamiliarity with HPC/AI applications, benchmarks would be a big plus.\n• Desirable to be proficient in Linux command line environment and Shell scriptingDeep knowledge of power management techniques like deep sleep, clock gating, pstates etcExperience with container technologies (ex.\n• Docker)Strong analytical and problem-solving skills with a key attention to detailExperience in data analysis, summarization, and presentationExcellent presentation and communication skillsExperience in use and debug of lab tools such as oscilloscopes, DAQs, power measurement capabilities Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Execute Power Attainment test plans in post-silicon phases in support of Data Center GPU product roadmap optimizing for power, perf/watt and performance.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/72180/login",
-    "id": "amd-power-attainment-engineer-data-center-gpu-us"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Health Sensing Data Engineer",
-    "job_city": "San Diego",
-    "job_state": "",
-    "job_posted_at": "23h",
-    "job_description": "• Minimum QualificationsExperience writing, debugging, and maintaining computer simulation code with strong software development skills, with proficiency in Python.\n• Experience developing data analytics systems for early-stage projects to help team learn about unknown dependencies.\n• BS and a minimum of 3 years relevant industry experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200626165-3543/health-sensing-data-engineer?team=HRDWR",
-    "id": "apple-health-sensing-data-engineer-san-diego"
   }
 ]
