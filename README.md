@@ -1,6 +1,6 @@
 # 📊 Data Science & Analytics Jobs & Internships 2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 19+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 135+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 19+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 126+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -21,7 +21,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 135 hot data-focused jobs
+- 🔥 **Current Positions:** 126 hot data-focused jobs
 - 🏢 **Top Companies:** 19 elite tech including Tesla, NVIDIA, Raytheon
 - ⭐ **FAANG+ Jobs & Internships:** 42 premium opportunities
 - 📅 **Last Updated:** October 16, 2025
@@ -133,7 +133,7 @@ Top internships for students in data science, statistics, analytics, and related
 |------|----------|-----------|-----|
 | Health Sensing Data Engineer | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626165-3543/health-sensing-data-engineer?team=HRDWR) | 1d |
 
-### 🏢 **Top Tech** (14 positions)
+### 🏢 **Top Tech** (6 positions)
 
 #### 🔷 **Intel** (1 position)
 
@@ -141,27 +141,19 @@ Top internships for students in data science, statistics, analytics, and related
 |------|----------|-----------|-----|
 | Process Integration and Yield Development System Engineer | US, Arizona | [<img src="./image.png" width="100" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Process-Integration-and-Yield-Development-System-Engineer_JR0277779?q=Data+Science&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf) | 5d |
 
-#### 🔶 **AMD** (13 positions)
+#### 🔶 **AMD** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | ML/AI Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/72468/login) | 1d |
-| Customer Quality Engineer | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/70801/login) | 1d |
-| Product Development Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/67110/login) | 1d |
-| ATE Product Development Engineer | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/72634/login) | 1d |
 | Summer 2026 Undergrad Finance Intern 🏠 | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/69955/login) | 1d |
 | Power Attainment Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/72181/login) | 1d |
 | Power Attainment Engineer - Data Center GPU | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/72180/login) | 1d |
 | AI/ML Compiler Development Engineer | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/57214/login) | 1d |
-| ATE Test & Product Development Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/71235/login) | 1d |
-| Product Operations Engineer - PCBA & SMT Manufacturing | US, NJ | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/62519/login) | 1d |
-| Post-Silicon Software Tools Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/71909/login) | 1d |
-| Post-Silicon System Debug Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/71794/login) | 1d |
-| Post Silicon Data Fabric Validation Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/72552/login) | 1d |
 
-### 💻 **Enterprise Software** (16 positions)
+### 💻 **Enterprise Software** (15 positions)
 
-#### 🔵 **IBM** (12 positions)
+#### 🔵 **IBM** (11 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -171,12 +163,11 @@ Top internships for students in data science, statistics, analytics, and related
 | Data Engineer - Entry Level (Buffalo, NY) | Buffalo | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65757&source=WEB_Search_NA) | 1d |
 | Postdoctoral Researcher | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA) | 1d |
 | Entry Level Hardware Developer | TUCSON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58486&source=WEB_Search_NA) | 1d |
-| IBM DS8000 Back-End Developer Co-op | shipTUCSON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63092&source=WEB_Search_NA) | 1d |
+| Back-End Developer Co-op | shipTUCSON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63092&source=WEB_Search_NA) | 1d |
 | Z Systems Support Intern | shipTUCSON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58627&source=WEB_Search_NA) | 1d |
 | Firmware Developer | ROCHESTER | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52293&source=WEB_Search_NA) | 1d |
 | Technical Support Engineer | TUCSON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63043&source=WEB_Search_NA) | 1d |
 | Support Engineer - HashiCorp | Austin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60266&source=WEB_Search_NA) | 1d |
-| Entry level 2026 - Site Reliability Engineer (SRE) | TUCSON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60973&source=WEB_Search_NA) | 1d |
 
 #### 🖥️ **Hewlett Packard Enterprise** (3 positions)
 
@@ -246,8 +237,8 @@ Top internships for students in data science, statistics, analytics, and related
 | 2026 Data Science Analyst Program - Summer Analyst | Chicago, IL | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210648373/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Applied Artificial Intelligence Machine Learning, Associate | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677015/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Associate Data Scientist, Payments Data & Analytics | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210673274/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
-| Analytics Solutions [Multiple Positions Available] | Wilmington, DE | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210674377/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | 2026 Focused Analytics Solutions Team (FAST) Summer Associate - Analytics Solutions | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649056/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
+| Analytics Solutions [Multiple Positions Available] | Wilmington, DE | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210674377/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Data Scientist [Multiple Positions Available] | Chicago, IL | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210675322/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Rates Systematic Trading - Analyst / Associate | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210676802/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Business Analyst [Multiple Positions Available] | Chicago, IL | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210672305/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
@@ -335,7 +326,7 @@ Top internships for students in data science, statistics, analytics, and related
 
 
 #### ☁️ **Enterprise & Cloud** (5 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (3 positions) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (1) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (13) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (12)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (3 positions) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (1) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (5) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (11)
 
 ---
 
@@ -343,28 +334,28 @@ Top internships for students in data science, statistics, analytics, and related
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 24 | 18% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 50 | 37% | 1-2 years of experience. |
-| 🔴 Manager | 61 | 45% | 2+ years of experience. |
+| 🟢 Entry Level & New Grad | 19 | 15% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 48 | 38% | 1-2 years of experience. |
+| 🔴 Manager | 59 | 47% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
 List of top locations and number of positions.
 
 - **Mountain View, CA**: 24 positions
-- **US, TX**: 9 positions
 - **Plano, TX**: 9 positions
 - **New York, NY**: 6 positions
 - **Boise, Idaho**: 5 positions
 - **Jersey City, NJ**: 5 positions
 - **San Bruno, CA**: 5 positions
+- **US, TX**: 4 positions
 - **Chicago, IL**: 4 positions
 
 ---
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 135+ verified roles for data analysts and scientists from 19 elite tech companies.
+✅ **100% Real Jobs:** 126+ verified roles for data analysts and scientists from 19 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -429,7 +420,7 @@ List of top locations and number of positions.
 
 <div align="center">
 
-**🎯 135 current opportunities from 19 elite companies.**
+**🎯 126 current opportunities from 19 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 

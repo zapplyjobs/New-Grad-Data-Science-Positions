@@ -1,5 +1,15 @@
 [
   {
+    "employer_name": "IBM",
+    "job_title": "Back-End Developer Co-op",
+    "job_city": "shipTUCSON",
+    "job_state": "",
+    "job_posted_at": "1d",
+    "job_description": "Data Science job for the role Back-End Developer Co-op",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63092&source=WEB_Search_NA",
+    "id": "ibm-back-end-developer-co-op-shiptucson"
+  },
+  {
     "employer_name": "10x Genomics",
     "job_title": "Scientist 1, Assay Productization (P-4386)",
     "job_city": "Pleasanton",
