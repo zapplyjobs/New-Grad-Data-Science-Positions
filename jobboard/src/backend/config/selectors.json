@@ -114,7 +114,7 @@
     "postedSelector": "td[data-th=\"Date Posted\"]",
     "categorySelector": "td[data-th=\"Category\"]",
     "pagination": {
-      "type": "url-offset",
+      "type": "url-page",
       "offsetParam": "projectOffset",
       "itemsPerPage": 25,
       "nextPageSelector": "a.pagination-next:not(.disabled)"
