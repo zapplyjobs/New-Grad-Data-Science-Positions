@@ -3,9 +3,9 @@
  */
 const NAVIGATION_CONSTANTS = {
   WAIT_UNTIL: 'domcontentloaded',
-  TIMEOUT: 30000,        // Reduced from 60s to 30s
-  SELECTOR_TIMEOUT: 15000, // Reduced from 30s to 15s
-  SCROLL_WAIT: 1000,     // Reduced from 2s to 1s
+  TIMEOUT: 60000,
+  SELECTOR_TIMEOUT: 30000,
+  SCROLL_WAIT: 2000,
 };
 
 /**
@@ -19,9 +19,9 @@ const EXTRACTION_CONSTANTS = {
  * Pagination-related constants
  */
 const PAGINATION_CONSTANTS = {
-  DEFAULT_MAX_PAGES: 3,    // Reduced from 4 to 3 pages
-  SCROLL_DELAY: 500,       // Reduced from 1s to 0.5s
-  CLICK_DELAY: 1000,       // Reduced from 2s to 1s
+  DEFAULT_MAX_PAGES: 4,
+  SCROLL_DELAY: 1000,
+  CLICK_DELAY: 2000,
 };
 
 /**
