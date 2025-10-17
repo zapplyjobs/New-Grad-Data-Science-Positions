@@ -3,78 +3,12 @@ const { buildApplyLink, convertToDescriptionLink } = require('../utils/urlBuilde
 const { EXTRACTION_CONSTANTS } = require('../utils/constants.js');
 
 /**
- * OPTIMIZED COMPANY GROUPING BY SELECTOR PATTERNS
- * 
- * GROUP A - WORKDAY PATTERN (Same-page modal):
- *   Analog Devices, BAE Systems, Broadcom, GDIT, Guidehouse, HPE, 
- *   Illumina, Intel, Magna, Marvel, NVIDIA, Verizon, Workday
- *   Pattern: li.css-1q2dra3 with same-page descriptions
- * 
- * GROUP B - PHENOM PATTERN (Next-page navigation):
- *   AMD, Apple, Rivian
- *   Pattern: mat-expansion-panel or similar with next-page descriptions
- * 
- * GROUP C - CUSTOM CARD PATTERN (Same-page modal):
- *   Applied Materials, Infineon, Micron
- *   Pattern: div.cardContainer with same-page descriptions
- * 
- * GROUP D - PHENOM INLINE PATTERN (Same-page modal):
- *   10x Genomics, Honeywell, JPMorgan Chase, Texas Instruments
- *   Pattern: Custom job tiles with infinite scroll and same-page modal
- * 
- * GROUP E - SPECIAL CASES:
- *   Microsoft (Click URL extraction)
- *   Cisco (Table-based layout)
- *   ABB, Arm, AI Jobs, Synopsys (Next-page with unique patterns)
- */
-
-const COMPANY_GROUPS = {
-  WORKDAY_MODAL: [
-    'Analog Devices', 'BAE Systems', 'Broadcom', 'General Dynamics',
-    'Guidehouse', 'Hewlett Packard Enterprise', 'Illumina', 'Intel',
-    'Magna International', 'Marvel Technology', 'NVIDIA', 'Verizon', 'Workday'
-  ],
-  PHENOM_NEXT_PAGE: ['AMD', 'Apple', 'RIVIAN'],
-  CARD_MODAL: ['Applied Materials', 'Infineon Technologies', 'Micron Technology'],
-  TILE_MODAL: ['10x Genomics', 'Honeywell', 'JPMorgan Chase', 'Texas Instruments'],
-  NEXT_PAGE_UNIQUE: ['ABB', 'Arm', 'AI Jobs', 'Synopsys'],
-  CLICK_URL: ['Microsoft'],
-  TABLE_LAYOUT: ['Cisco'],
-  NO_DESCRIPTION: ['Amazon', 'Google', 'Meta', 'IBM', 'Waymo']
-};
-
-/**
- * Get company group for optimized processing
- */
-function getCompanyGroup(companyName) {
-  for (const [group, companies] of Object.entries(COMPANY_GROUPS)) {
-    if (companies.includes(companyName)) {
-      return group;
-    }
-  }
-  return 'UNKNOWN';
-}
-
-/**
- * Apply company-specific slicing
- */
-function applyCompanySlicing(jobElements, companyName) {
-  const originalCount = jobElements.length;
-  let slicedElements = jobElements;
-  
-  if (companyName === 'Applied Materials') {
-    slicedElements = jobElements.slice(-EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
-    console.log(`[${companyName}] Keeping last ${EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT} jobs (${originalCount} -> ${slicedElements.length})`);
-  } else if (companyName === 'Infineon Technologies' || companyName === 'Arm') {
-    slicedElements = jobElements.slice(0, 15);
-    console.log(`[${companyName}] Keeping first 15 jobs (${originalCount} -> ${slicedElements.length})`);
-  }
-  
-  return slicedElements;
-}
-
-/**
- * Main extraction function with optimized group routing
+ * Extract job data for a single page with integrated description extraction
+ * @param {Object} page - Puppeteer page instance
+ * @param {Object} selector - Selector configuration
+ * @param {Object} company - Company configuration
+ * @param {number} pageNum - Current page number
+ * @returns {Array} Array of job objects
  */
 async function extractJobData(page, selector, company, pageNum) {
   const jobs = [];
@@ -84,8 +18,11 @@ async function extractJobData(page, selector, company, pageNum) {
     await preparePageForExtraction(page);
 
     let jobElements = await page.$$(selector.jobSelector);
-    jobElements = applyCompanySlicing(jobElements, selector.name);
-    
+
+    if (selector.name === 'Applied Materials') {
+      jobElements = jobElements.slice(-EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
+    }
+
     console.log(`Found ${jobElements.length} job elements for ${company.name} on page ${pageNum}`);
 
     if (jobElements.length === 0) {
@@ -93,38 +30,61 @@ async function extractJobData(page, selector, company, pageNum) {
       return jobs;
     }
 
-    const companyGroup = getCompanyGroup(selector.name);
-    console.log(`🎯 Company Group: ${companyGroup} for ${selector.name}`);
+    // Check description type and extract accordingly
+    const descriptionType = selector.descriptionType || 'same-page';
+    const currentUrl = page.url();
 
-    // Route to optimized extraction based on company group
-    switch (companyGroup) {
-      case 'WORKDAY_MODAL':
-        return await extractWorkdayModal(page, jobElements, selector, company, pageNum);
+    if (descriptionType === 'next-page') {
+      // Extract basic data first, then navigate to each job page
+      for (let i = 0; i < jobElements.length; i++) {
+        // Re-fetch job elements to avoid stale references after navigation
+        jobElements = await page.$$(selector.jobSelector);
+        if (selector.name === 'Applied Materials') {
+          jobElements = jobElements.slice(-EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
+        }
+        
+        if (i >= jobElements.length) {
+          console.warn(`Job element ${i} no longer exists, skipping...`);
+          continue;
+        }
+
+        const jobData = await extractSingleJobData(page, jobElements[i], selector, company, i, pageNum);
+        
+        if (jobData.title || jobData.applyLink) {
+          // Extract description by navigating to job page
+          if (selector.descriptionSelector && jobData.applyLink) {
+            jobData.description = await extractDescriptionNextPage(page, jobData.applyLink, selector, currentUrl, i + 1);
+          }
+          jobs.push(jobData);
+        }
+      }
       
-      case 'PHENOM_NEXT_PAGE':
-        return await extractPhenomNextPage(page, jobElements, selector, company, pageNum);
+    } else {
+      // Same-page extraction - FIXED VERSION
+      const jobCount = await page.$$eval(selector.jobSelector, els => els.length);
       
-      case 'CARD_MODAL':
-        return await extractCardModal(page, jobElements, selector, company, pageNum);
-      
-      case 'TILE_MODAL':
-        return await extractTileModal(page, jobElements, selector, company, pageNum);
-      
-      case 'NEXT_PAGE_UNIQUE':
-        return await extractNextPageUnique(page, jobElements, selector, company, pageNum);
-      
-      case 'CLICK_URL':
-        return await extractClickUrl(page, jobElements, selector, company, pageNum);
-      
-      case 'TABLE_LAYOUT':
-        return await extractTableLayout(page, jobElements, selector, company, pageNum);
-      
-      case 'NO_DESCRIPTION':
-        return await extractNoDescription(page, jobElements, selector, company, pageNum);
-      
-      default:
-        console.warn(`Unknown group: ${companyGroup}, using fallback`);
-        return await extractGenericModal(page, jobElements, selector, company, pageNum);
+      for (let i = 0; i < jobCount; i++) {
+        // Re-select job elements fresh each time to avoid detached nodes
+        const currentJobElements = await page.$$(selector.jobSelector);
+        if (selector.name === 'Applied Materials') {
+          currentJobElements = currentJobElements.slice(-EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
+        }
+        
+        if (i >= currentJobElements.length) {
+          console.warn(`Job element ${i} no longer exists, skipping...`);
+          continue;
+        }
+
+        const jobData = await extractSingleJobData(page, currentJobElements[i], selector, company, i, pageNum);
+        
+        if (jobData.title || jobData.applyLink) {
+          // Extract description on same page if selector exists - FIXED TO USE INDEX
+          if (selector.descriptionSelector) {
+            jobData.description = await extractDescriptionSamePage(page, i, selector, i + 1);
+          }
+          jobs.push(jobData);
+        }
+      }
     }
 
   } catch (error) {
@@ -135,339 +95,19 @@ async function extractJobData(page, selector, company, pageNum) {
 }
 
 /**
- * GROUP A: Workday Modal Pattern (13 companies)
- * Optimized for: li.css-1q2dra3 with chevron pagination
- * Strategy: Batch extract basic data, then modal descriptions
+ * Extract job data from a single job element
+ * @param {Object} page - Puppeteer page instance
+ * @param {Object} jobElement - Puppeteer element handle
+ * @param {Object} selector - Selector configuration
+ * @param {Object} company - Company configuration
+ * @param {number} index - Job element index
+ * @param {number} pageNum - Current page number
+ * @returns {Object} Job data object
  */
-async function extractWorkdayModal(page, jobElements, selector, company, pageNum) {
-  console.log(`⚡ WORKDAY_MODAL: Processing ${jobElements.length} jobs...`);
-  return await extractWithSamePageModal(page, jobElements, selector, company, pageNum);
-}
-
-/**
- * GROUP B: Phenom Next Page Pattern (3 companies)
- * AMD, Apple, Rivian - require page navigation for descriptions
- */
-async function extractPhenomNextPage(page, jobElements, selector, company, pageNum) {
-  console.log(`🔄 PHENOM_NEXT_PAGE: Processing ${jobElements.length} jobs...`);
-  return await extractWithNextPageNavigation(page, jobElements, selector, company, pageNum);
-}
-
-/**
- * GROUP C: Card Modal Pattern (3 companies)
- * Applied Materials, Infineon, Micron - card-based with same-page modal
- */
-async function extractCardModal(page, jobElements, selector, company, pageNum) {
-  console.log(`⚡ CARD_MODAL: Processing ${jobElements.length} jobs...`);
-  return await extractWithSamePageModal(page, jobElements, selector, company, pageNum);
-}
-
-/**
- * GROUP D: Tile Modal Pattern (4 companies)
- * JPMC, Honeywell, TI, 10x Genomics - custom tiles with infinite scroll
- * SPECIAL: JPMC has next-page posted date extraction
- */
-async function extractTileModal(page, jobElements, selector, company, pageNum) {
-  console.log(`⚡ TILE_MODAL: Processing ${jobElements.length} jobs...`);
-  
-  // Check if JPMC needs next-page posted date
-  if (selector.name === 'JPMorgan Chase' && selector.postedType === 'next-page') {
-    return await extractTileWithNextPagePosted(page, jobElements, selector, company, pageNum);
-  }
-  
-  return await extractWithSamePageModal(page, jobElements, selector, company, pageNum);
-}
-
-/**
- * GROUP E: Next Page Unique (4 companies)
- * ABB, Arm, AI Jobs, Synopsys - unique patterns requiring navigation
- */
-async function extractNextPageUnique(page, jobElements, selector, company, pageNum) {
-  console.log(`🔄 NEXT_PAGE_UNIQUE: Processing ${jobElements.length} jobs...`);
-  return await extractWithNextPageNavigation(page, jobElements, selector, company, pageNum);
-}
-
-/**
- * CLICK URL: Microsoft (1 company)
- * Extracts URL by clicking each job
- */
-async function extractClickUrl(page, jobElements, selector, company, pageNum) {
-  console.log(`🖱️ CLICK_URL: Processing ${jobElements.length} jobs...`);
-  const jobs = [];
-  
-  for (let i = 0; i < jobElements.length; i++) {
-    try {
-      // Re-query to avoid stale references
-      const freshElements = await page.$$(selector.jobSelector);
-      
-      if (i >= freshElements.length) {
-        console.warn(`[${i + 1}] Job element no longer exists`);
-        continue;
-      }
-      
-      const jobData = await extractBasicJobData(page, freshElements[i], selector, company, i, pageNum);
-      
-      // Extract URL by clicking
-      try {
-        await freshElements[i].click();
-        await new Promise(resolve => setTimeout(resolve, 1200));
-        jobData.applyLink = page.url();
-        console.log(`[${i + 1}] ✅ URL: ${jobData.applyLink}`);
-      } catch (error) {
-        console.warn(`[${i + 1}] Click failed: ${error.message}`);
-        jobData.applyLink = company.baseUrl || '';
-      }
-      
-      if (jobData.title || jobData.applyLink) {
-        jobs.push(jobData);
-      }
-    } catch (error) {
-      console.warn(`[${i + 1}] Extraction failed: ${error.message}`);
-    }
-  }
-  
-  console.log(`✅ CLICK_URL completed: ${jobs.length} jobs`);
-  return jobs;
-}
-
-/**
- * TABLE LAYOUT: Cisco (1 company)
- * Table-based layout with offset pagination
- */
-async function extractTableLayout(page, jobElements, selector, company, pageNum) {
-  console.log(`📊 TABLE_LAYOUT: Processing ${jobElements.length} jobs...`);
-  return await extractNoDescription(page, jobElements, selector, company, pageNum);
-}
-
-/**
- * NO DESCRIPTION: Fast extraction (5 companies)
- * Amazon, Google, Meta, IBM, Waymo - basic data only
- */
-async function extractNoDescription(page, jobElements, selector, company, pageNum) {
-  console.log(`⚡⚡ NO_DESCRIPTION: Processing ${jobElements.length} jobs...`);
-  const jobs = [];
-  
-  for (let i = 0; i < jobElements.length; i++) {
-    try {
-      const jobData = await extractBasicJobData(page, jobElements[i], selector, company, i, pageNum);
-      
-      if (jobData.title || jobData.applyLink) {
-        jobData.description = 'No description available';
-        jobs.push(jobData);
-      }
-    } catch (error) {
-      console.warn(`[${i + 1}] Basic extraction failed: ${error.message}`);
-    }
-  }
-  
-  console.log(`✅ NO_DESCRIPTION completed: ${jobs.length} jobs`);
-  return jobs;
-}
-
-/**
- * CORE: Same-page modal extraction (FASTEST for most companies)
- * Used by: Workday Modal (13), Card Modal (3), Tile Modal (3-4)
- */
-async function extractWithSamePageModal(page, jobElements, selector, company, pageNum) {
-  const jobs = [];
-  const jobCount = jobElements.length;
-  
-  // PHASE 1: Extract ALL basic data first (FAST)
-  const basicJobDataList = [];
-  for (let i = 0; i < jobCount; i++) {
-    try {
-      const jobData = await extractBasicJobData(page, jobElements[i], selector, company, i, pageNum);
-      if (jobData.title || jobData.applyLink) {
-        basicJobDataList.push({ jobData, index: i });
-      }
-    } catch (error) {
-      console.warn(`[${i + 1}] Basic data failed: ${error.message}`);
-    }
-  }
-  
-  console.log(`✅ Extracted ${basicJobDataList.length} basic entries`);
-  
-  // PHASE 2: Extract descriptions via modal (if selector exists)
-  if (selector.descriptionSelector) {
-    for (const entry of basicJobDataList) {
-      const { jobData, index } = entry;
-      
-      try {
-        jobData.description = await extractDescriptionModal(
-          page, 
-          index, 
-          selector, 
-          index + 1
-        );
-      } catch (error) {
-        console.warn(`[${index + 1}] Description failed: ${error.message}`);
-        jobData.description = 'Description extraction failed';
-      }
-      
-      jobs.push(jobData);
-    }
-  } else {
-    // No description selector - add all jobs as-is
-    for (const entry of basicJobDataList) {
-      entry.jobData.description = 'No description selector provided';
-      jobs.push(entry.jobData);
-    }
-  }
-  
-  console.log(`✅ Same-page modal completed: ${jobs.length} jobs`);
-  return jobs;
-}
-
-/**
- * CORE: Next-page navigation extraction (SLOWER)
- * Used by: Phenom (3), Next Page Unique (4)
- */
-async function extractWithNextPageNavigation(page, jobElements, selector, company, pageNum) {
-  const jobs = [];
-  const jobCount = jobElements.length;
-  const currentUrl = page.url();
-  
-  // PHASE 1: Extract ALL basic data upfront
-  const basicJobDataList = [];
-  for (let i = 0; i < jobCount; i++) {
-    try {
-      const jobData = await extractBasicJobData(page, jobElements[i], selector, company, i, pageNum);
-      if (jobData.title || jobData.applyLink) {
-        basicJobDataList.push({ jobData, index: i });
-      }
-    } catch (error) {
-      console.warn(`[${i + 1}] Basic data failed: ${error.message}`);
-    }
-  }
-  
-  console.log(`✅ Extracted ${basicJobDataList.length} basic entries`);
-  
-  // PHASE 2: Navigate to each job page
-  for (const entry of basicJobDataList) {
-    const { jobData, index } = entry;
-    
-    if (jobData.applyLink && (selector.descriptionSelector || selector.postedType === 'next-page')) {
-      try {
-        const { description, posted } = await extractFromNextPage(
-          page, 
-          jobData.applyLink, 
-          selector, 
-          currentUrl, 
-          index + 1,
-          jobData.posted
-        );
-        
-        if (selector.descriptionSelector) {
-          jobData.description = description;
-        }
-        
-        if (selector.postedType === 'next-page') {
-          jobData.posted = posted;
-        }
-      } catch (error) {
-        console.warn(`[${index + 1}] Next-page failed: ${error.message}`);
-        jobData.description = 'Next-page extraction failed';
-      }
-    }
-    
-    jobs.push(jobData);
-  }
-  
-  console.log(`✅ Next-page navigation completed: ${jobs.length} jobs`);
-  return jobs;
-}
-
-/**
- * SPECIAL: Tile with next-page posted date (JPMC only)
- * Extracts descriptions via modal, but posted date via navigation
- */
-async function extractTileWithNextPagePosted(page, jobElements, selector, company, pageNum) {
-  const jobs = [];
-  const jobCount = jobElements.length;
-  const currentUrl = page.url();
-  
-  console.log(`⚡🔄 TILE_MODAL with NEXT_PAGE_POSTED: Processing ${jobCount} jobs...`);
-  
-  // PHASE 1: Extract basic data
-  const basicJobDataList = [];
-  for (let i = 0; i < jobCount; i++) {
-    try {
-      const jobData = await extractBasicJobData(page, jobElements[i], selector, company, i, pageNum);
-      if (jobData.title || jobData.applyLink) {
-        basicJobDataList.push({ jobData, index: i });
-      }
-    } catch (error) {
-      console.warn(`[${i + 1}] Basic data failed: ${error.message}`);
-    }
-  }
-  
-  console.log(`✅ Extracted ${basicJobDataList.length} basic entries`);
-  
-  // PHASE 2: Extract descriptions via modal + posted via navigation
-  for (const entry of basicJobDataList) {
-    const { jobData, index } = entry;
-    
-    // Extract description via same-page modal
-    if (selector.descriptionSelector) {
-      try {
-        jobData.description = await extractDescriptionModal(
-          page, 
-          index, 
-          selector, 
-          index + 1
-        );
-      } catch (error) {
-        console.warn(`[${index + 1}] Modal description failed: ${error.message}`);
-        jobData.description = 'Modal description failed';
-      }
-    }
-    
-    // Extract posted date via next-page navigation
-    if (jobData.applyLink && selector.postedType === 'next-page' && selector.postedSelector) {
-      try {
-        const { posted } = await extractFromNextPage(
-          page, 
-          jobData.applyLink, 
-          selector, 
-          currentUrl, 
-          index + 1,
-          jobData.posted
-        );
-        jobData.posted = posted;
-      } catch (error) {
-        console.warn(`[${index + 1}] Posted date extraction failed: ${error.message}`);
-      }
-    }
-    
-    jobs.push(jobData);
-  }
-  
-  console.log(`✅ JPMC extraction completed: ${jobs.length} jobs`);
-  return jobs;
-}
-
-/**
- * GENERIC: Fallback for unknown patterns
- */
-async function extractGenericModal(page, jobElements, selector, company, pageNum) {
-  console.log(`⚠️ GENERIC: Using fallback for ${selector.name}...`);
-  
-  const descriptionType = selector.descriptionType || 'same-page';
-  const needsNextPage = descriptionType === 'next-page' || selector.postedType === 'next-page';
-  
-  if (needsNextPage) {
-    return await extractWithNextPageNavigation(page, jobElements, selector, company, pageNum);
-  } else {
-    return await extractWithSamePageModal(page, jobElements, selector, company, pageNum);
-  }
-}
-
-/**
- * Extract basic job data (title, location, posted, link)
- */
-async function extractBasicJobData(page, jobElement, selector, company, index, pageNum) {
+async function extractSingleJobData(page, jobElement, selector, company, index, pageNum) {
   const rawJobData = await jobElement.evaluate(
     (el, sel, jobIndex) => {
+      // Helper functions
       const getText = (selector) => {
         const elem = selector ? el.querySelector(selector) : null;
         return elem ? elem.textContent.trim() : '';
@@ -517,26 +157,24 @@ async function extractBasicJobData(page, jobElement, selector, company, index, p
         location = getText(sel.locationSelector);
       }
 
-      // Extract posted date (only if NOT next-page type)
-      let posted = 'Recently';
-      if (sel.postedType !== 'next-page') {
-        posted = sel.postedSelector ? getText(sel.postedSelector) : 'Recently';
+      // Extract posted date
+      let posted = sel.postedSelector ? getText(sel.postedSelector) : 'Recently';
 
-        if (sel.name === '10x Genomics' && sel.postedSelector) {
-          const dateElements = el.querySelectorAll(sel.postedSelector);
-          posted = 'Recently';
-          for (const div of dateElements) {
-            const text = div.textContent.trim();
-            if (
-              text.toLowerCase().includes('posted') ||
-              text.includes('ago') ||
-              text.includes('month') ||
-              text.includes('day') ||
-              text.includes('week')
-            ) {
-              posted = text;
-              break;
-            }
+      // Special handling for 10x Genomics
+      if (sel.name === '10x Genomics' && sel.postedSelector) {
+        const dateElements = el.querySelectorAll(sel.postedSelector);
+        posted = 'Recently';
+        for (const div of dateElements) {
+          const text = div.textContent.trim();
+          if (
+            text.toLowerCase().includes('posted') ||
+            text.includes('ago') ||
+            text.includes('month') ||
+            text.includes('day') ||
+            text.includes('week')
+          ) {
+            posted = text;
+            break;
           }
         }
       }
@@ -547,14 +185,40 @@ async function extractBasicJobData(page, jobElement, selector, company, index, p
     index
   );
 
-  // Build apply link
-  const finalApplyLink = buildApplyLink(rawJobData.applyLink, company.baseUrl || '');
+  // ============ EXTRACT URL FOR MICROSOFT (after click) ============
+  let finalApplyLink = '';
+  
+  if (selector.extractUrlAfterClick) {
+    try {
+      console.log(`[${selector.name} ${index + 1}] Clicking job to extract URL...`);
+      
+      // Click on the job element
+      await jobElement.click();
+      
+      // Wait for URL to update
+      await new Promise(resolve => setTimeout(resolve, 1200));
+      
+      // Get the current page URL
+      finalApplyLink = page.url();
+      
+      console.log(`[${selector.name} ${index + 1}] Extracted URL after click: ${finalApplyLink}`);
+    } catch (error) {
+      console.error(`[${selector.name} ${index + 1}] Failed to extract URL after click: ${error.message}`);
+      finalApplyLink = company.baseUrl || '';
+    }
+  } else {
+    // Standard link building for other companies
+    finalApplyLink = buildApplyLink(rawJobData.applyLink, company.baseUrl || '');
+    if (!finalApplyLink && company.baseUrl) {
+      finalApplyLink = company.baseUrl;
+    }
+  }
 
   // Build job object
   const job = {
     company: selector.name,
     title: rawJobData.title,
-    applyLink: finalApplyLink || company.baseUrl || '',
+    applyLink: finalApplyLink,
     location: rawJobData.location,
     posted: rawJobData.posted,
   };
@@ -578,167 +242,154 @@ async function extractBasicJobData(page, jobElement, selector, company, index, p
 }
 
 /**
- * Extract description using modal/sidebar (OPTIMIZED)
+ * FIXED: Extract description on same page by using job index instead of element reference
+ * @param {Object} page - Puppeteer page instance
+ * @param {number} jobIndex - Job element index (0-based)
+ * @param {Object} selector - Selector configuration
+ * @param {number} jobNumber - Job number for logging (1-based)
+ * @returns {string} Job description
  */
-async function extractDescriptionModal(page, jobIndex, selector, jobNumber) {
-  const MAX_RETRIES = 2;
-  let retries = MAX_RETRIES;
+async function extractDescriptionSamePage(page, jobIndex, selector, jobNumber) {
+  let retries = 1;
   
   while (retries > 0) {
     try {
-      console.log(`[${jobNumber}] Modal (${MAX_RETRIES - retries + 1}/${MAX_RETRIES})...`);
+      console.log(`[${jobNumber}] Same-page description extraction (attempt ${4 - retries})...`);
       
+      // Wait for job elements to be stable
       await page.waitForSelector(selector.jobSelector, { timeout: 5000 });
       
-      // Click using page.evaluate to avoid detached nodes
-      const clickResult = await page.evaluate((jobSelector, titleSelector, jobIdx, companyName) => {
-        let jobElements = document.querySelectorAll(jobSelector);
-        
-        // Apply slicing for specific companies
-        const LIMIT = 15;
-        if (companyName === 'Applied Materials') {
-          jobElements = Array.from(jobElements).slice(-LIMIT);
-        } else if (companyName === 'Infineon Technologies' || companyName === 'Arm') {
-          jobElements = Array.from(jobElements).slice(0, LIMIT);
-        }
+      // Use page.evaluate to handle clicking in a more robust way - avoids detached nodes
+      const clickResult = await page.evaluate((jobSelector, titleSelector, jobIdx) => {
+        const jobElements = document.querySelectorAll(jobSelector);
         
         if (!jobElements[jobIdx]) {
-          return { success: false, error: `Element ${jobIdx} not found` };
+          return { success: false, error: 'Job element not found' };
         }
         
         const titleElement = jobElements[jobIdx].querySelector(titleSelector);
         if (!titleElement) {
-          return { success: false, error: 'Title not found' };
+          return { success: false, error: 'Title element not found' };
         }
         
         titleElement.click();
         return { success: true };
-      }, selector.jobSelector, selector.titleSelector, jobIndex, selector.name);
+      }, selector.jobSelector, selector.titleSelector, jobIndex);
       
       if (!clickResult.success) {
         throw new Error(clickResult.error);
       }
       
-      // Wait for modal/description
-      await new Promise(resolve => setTimeout(resolve, 1500));
-      await page.waitForSelector(selector.descriptionSelector, { timeout: 8000 });
+      // Wait for description to load
+      await new Promise(resolve => setTimeout(resolve, 1200));
+      await page.waitForSelector(selector.descriptionSelector, { timeout: 6000 });
       
+      // Extract description
       const description = await extractAndFormatDescription(page, selector.descriptionSelector);
       
-      console.log(`[${jobNumber}] ✅ Modal extracted (${description.length} chars)`);
+      console.log(`[${jobNumber}] Same-page description extracted (${description.length} chars)`);
       return description;
       
     } catch (error) {
       retries--;
-      console.warn(`[${jobNumber}] ❌ Attempt ${MAX_RETRIES - retries} failed: ${error.message}`);
+      console.warn(`[${jobNumber}] Same-page attempt failed: ${error.message}${retries > 0 ? ' - Retrying...' : ''}`);
       
       if (retries > 0) {
-        await new Promise(resolve => setTimeout(resolve, 1500));
+        // Wait before retry and refresh page state if needed
+        await new Promise(resolve => setTimeout(resolve, 1000));
         try {
+          // Just wait for elements to be stable again, don't reload
           await waitForJobSelector(page, selector.jobSelector);
         } catch (waitError) {
-          console.warn(`[${jobNumber}] Wait failed: ${waitError.message}`);
+          console.warn(`[${jobNumber}] Wait for job selector failed: ${waitError.message}`);
         }
-      } else {
-        console.error(`[${jobNumber}] 🛑 All retries exhausted`);
-        break;
       }
     }
   }
   
-  return 'Modal description extraction failed';
+  return 'Same-page description extraction failed after retries';
 }
 
 /**
- * Extract description from next page
+ * Extract description by navigating to job details page
+ * @param {Object} page - Puppeteer page instance
+ * @param {string} applyLink - URL to job details page
+ * @param {Object} selector - Selector configuration
+ * @param {string} originalUrl - Original listing page URL to return to
+ * @param {number} jobNumber - Job number for logging
+ * @returns {string} Job description
  */
-async function extractFromNextPage(page, applyLink, selector, originalUrl, jobNumber, fallbackPosted = 'Recently') {
-  const MAX_RETRIES = 2;
-  let retries = MAX_RETRIES;
+async function extractDescriptionNextPage(page, applyLink, selector, originalUrl, jobNumber) {
+  let retries = 2;
   
   while (retries > 0) {
     try {
-      console.log(`[${jobNumber}] Next-page (${MAX_RETRIES - retries + 1}/${MAX_RETRIES})...`);
+      console.log(`[${jobNumber}] Next-page extraction (attempt ${3 - retries})...`);
       
+      // Convert apply link to description link and navigate
       const descriptionLink = convertToDescriptionLink(applyLink, selector.name);
+      console.log(`[${jobNumber}] Converting ${applyLink} to ${descriptionLink}`);
       
       await page.goto(descriptionLink, { 
         waitUntil: 'domcontentloaded', 
         timeout: 20000 
       });
-
-      let description = 'Description not available';
-      let posted = fallbackPosted;
-
-      // Extract description
-      if (selector.descriptionSelector) {
-        try {
-          await page.waitForSelector(selector.descriptionSelector, { timeout: 10000 });
-          description = await extractAndFormatDescription(page, selector.descriptionSelector);
-          console.log(`[${jobNumber}] ✅ Description (${description.length} chars)`);
-        } catch (descError) {
-          console.warn(`[${jobNumber}] Description failed: ${descError.message}`);
-        }
-      }
-
-      // Extract posted date
-      if (selector.postedType === 'next-page' && selector.postedSelector) {
-        try {
-          await page.waitForSelector(selector.postedSelector, { timeout: 5000 });
-          posted = await page.$eval(selector.postedSelector, el => el.textContent.trim());
-          console.log(`[${jobNumber}] Posted: ${posted}`);
-        } catch (postedError) {
-          console.warn(`[${jobNumber}] Posted failed: ${postedError.message}`);
-        }
-      }
       
-      // Navigate back
+      // Extract description
+      await page.waitForSelector(selector.descriptionSelector, { timeout: 10000 });
+      const description = await extractAndFormatDescription(page, selector.descriptionSelector);
+      
+      console.log(`[${jobNumber}] Next-page description extracted (${description.length} chars)`);
+      
+      // Navigate back to the original listing page
       try {
         await page.goto(originalUrl, { 
           waitUntil: 'domcontentloaded', 
-          timeout: 15000 
+          timeout: 115000 
         });
         await waitForJobSelector(page, selector.jobSelector);
-        await new Promise(resolve => setTimeout(resolve, 800));
-        console.log(`[${jobNumber}] ✅ Returned to listing`);
+        await new Promise(resolve => setTimeout(resolve, 500)); // Brief pause for page stability
+        console.log(`[${jobNumber}] Successfully returned to listing page`);
       } catch (backNavError) {
-        console.error(`[${jobNumber}] ❌ Nav back failed: ${backNavError.message}`);
+        console.error(`[${jobNumber}] Failed to navigate back to listing: ${backNavError.message}`);
+        // Still return the description even if navigation back fails
       }
       
-      return { description, posted };
+      return description;
       
     } catch (error) {
       retries--;
-      console.warn(`[${jobNumber}] ❌ Attempt ${MAX_RETRIES - retries} failed: ${error.message}`);
+      console.warn(`[${jobNumber}] Next-page attempt failed: ${error.message}${retries > 0 ? ' - Retrying...' : ''}`);
       
       if (retries > 0) {
+        // Try to go back to original URL before retrying
         try {
           await page.goto(originalUrl, { waitUntil: 'domcontentloaded', timeout: 10000 });
           await waitForJobSelector(page, selector.jobSelector);
         } catch (retryNavError) {
-          console.error(`Nav back for retry failed: ${retryNavError.message}`);
+          console.error(`Failed to navigate back for retry: ${retryNavError.message}`);
         }
-        await new Promise(resolve => setTimeout(resolve, 1500));
+        await new Promise(resolve => setTimeout(resolve, 1000));
       }
     }
   }
   
-  // Final nav back
+  // If all retries failed, make sure we're back on the listing page
   try {
     await page.goto(originalUrl, { waitUntil: 'domcontentloaded', timeout: 15000 });
     await waitForJobSelector(page, selector.jobSelector);
   } catch (finalNavError) {
-    console.error(`[${jobNumber}] Final nav failed: ${finalNavError.message}`);
+    console.error(`[${jobNumber}] Failed final navigation back to listing: ${finalNavError.message}`);
   }
   
-  return { 
-    description: 'Next-page extraction failed',
-    posted: fallbackPosted
-  };
+  return 'Next-page description extraction failed after retries';
 }
 
 /**
- * Extract and format description text
+ * Optimized description text extraction and formatting
+ * @param {Object} page - Puppeteer page instance
+ * @param {string} descriptionSelector - CSS selector for description
+ * @returns {string} Formatted job description
  */
 async function extractAndFormatDescription(page, descriptionSelector) {
   return await page.evaluate((descSelector) => {
@@ -746,11 +397,17 @@ async function extractAndFormatDescription(page, descriptionSelector) {
     
     if (descElements.length === 0) return 'No description found';
     
+    // Enhanced keywords for filtering relevant content - prioritizing experience/qualification mentions
     const highPriorityKeywords = [
+      // Experience and qualification keywords (highest priority)
       'experience', 'years', 'minimum', 'required', 'require', 'must have', 'need', 
       'prefer', 'qualification', 'background', 'track record', 'proven', 'demonstrated',
+      
+      // Education keywords
       'degree', 'bachelor', 'master', 'phd', 'doctorate', 'education', 'graduate',
       'university', 'college', 'certification', 'certified',
+      
+      // Skill and requirement keywords
       'skill', 'ability', 'knowledge', 'expertise', 'proficient', 'familiar',
       'essential', 'should', 'preferred', 'ideal', 'candidate', 'applicant'
     ];
@@ -760,6 +417,7 @@ async function extractAndFormatDescription(page, descriptionSelector) {
       'opportunity', 'team', 'company', 'department', 'organization'
     ];
     
+    // Level indicators that are important for filtering
     const levelKeywords = [
       'junior', 'senior', 'lead', 'principal', 'entry', 'entry-level', 'associate',
       'manager', 'director', 'head', 'chief', 'expert', 'specialist', 'consultant',
@@ -769,6 +427,7 @@ async function extractAndFormatDescription(page, descriptionSelector) {
     let relevantSections = [];
     let allText = '';
     
+    // First pass: collect high-priority content (experience, qualifications, requirements)
     Array.from(descElements).forEach(element => {
       const text = element.textContent.trim().toLowerCase();
       const hasHighPriority = highPriorityKeywords.some(keyword => text.includes(keyword));
@@ -777,12 +436,15 @@ async function extractAndFormatDescription(page, descriptionSelector) {
       if ((hasHighPriority || hasLevelKeyword) && text.length > 15) {
         relevantSections.push({
           text: element.textContent.trim(),
-          priority: hasHighPriority ? 'high' : 'medium'
+          priority: hasHighPriority ? 'high' : 'medium',
+          element: element
         });
       }
     });
     
+    // If we have high-priority content, prioritize it
     if (relevantSections.length > 0) {
+      // Sort by priority (high first), then by text length
       relevantSections.sort((a, b) => {
         if (a.priority !== b.priority) {
           return a.priority === 'high' ? -1 : 1;
@@ -793,6 +455,7 @@ async function extractAndFormatDescription(page, descriptionSelector) {
       allText = relevantSections.slice(0, 10).map(section => section.text).join(' ');
     }
     
+    // Fallback: if no high-priority content, look for medium priority
     if (!allText) {
       Array.from(descElements).forEach(element => {
         const text = element.textContent.trim().toLowerCase();
@@ -804,6 +467,7 @@ async function extractAndFormatDescription(page, descriptionSelector) {
       });
     }
     
+    // Final fallback: get all text if nothing else worked
     if (!allText) {
       allText = Array.from(descElements)
         .map(el => el.textContent.trim())
@@ -815,50 +479,145 @@ async function extractAndFormatDescription(page, descriptionSelector) {
       return 'Description content not available';
     }
     
-    const sentences = allText
-      .split(/[.!?;]+/)
-      .map(s => s.trim())
-      .filter(s => s.length > 20);
+    // Enhanced text processing for better experience extraction
+    function processTextForExperienceExtraction(text) {
+      // Split into sentences and filter for experience-related content
+      const sentences = text
+        .split(/[.!?;]+/)
+        .map(s => s.trim())
+        .filter(s => s.length > 20); // Longer sentences more likely to contain requirements
+      
+      // Prioritize sentences with experience keywords
+      const experienceKeywords = [
+        'year', 'experience', 'minimum', 'require', 'must', 'need', 'prefer',
+        'background', 'qualification', 'degree', 'education', 'skill'
+      ];
+      
+      const experienceRelatedSentences = sentences.filter(sentence => 
+        experienceKeywords.some(keyword => 
+          sentence.toLowerCase().includes(keyword)
+        )
+      );
+      
+      const otherSentences = sentences.filter(sentence => 
+        !experienceKeywords.some(keyword => 
+          sentence.toLowerCase().includes(keyword)
+        )
+      );
+      
+      // Combine experience-related sentences first, then others
+      const prioritizedSentences = [...experienceRelatedSentences, ...otherSentences];
+      
+      return prioritizedSentences.slice(0, 8); // Limit to 8 most relevant sentences
+    }
     
-    const experienceKeywords = [
-      'year', 'experience', 'minimum', 'require', 'must', 'need', 'prefer',
-      'background', 'qualification', 'degree', 'education', 'skill'
-    ];
+    const processedSentences = processTextForExperienceExtraction(allText);
     
-    const experienceRelated = sentences.filter(s => 
-      experienceKeywords.some(k => s.toLowerCase().includes(k))
-    );
-    
-    const otherSentences = sentences.filter(s => 
-      !experienceKeywords.some(k => s.toLowerCase().includes(k))
-    );
-    
-    const prioritizedSentences = [...experienceRelated, ...otherSentences].slice(0, 8);
-    
-    if (prioritizedSentences.length === 0) {
+    if (processedSentences.length === 0) {
+      // If no sentences, format the raw text
       let cleanText = allText.trim();
       cleanText = cleanText.charAt(0).toUpperCase() + cleanText.slice(1);
-      if (!cleanText.match(/[.!?]$/)) cleanText += '.';
+      
+      if (!cleanText.endsWith('.') && !cleanText.endsWith('!') && !cleanText.endsWith('?')) {
+        cleanText += '.';
+      }
+      
       return `• ${cleanText}`;
     }
     
-    return prioritizedSentences
+    // Format sentences with proper structure
+    return processedSentences
       .map(sentence => {
-        let clean = sentence.trim().replace(/\s+/g, ' ');
-        clean = clean.charAt(0).toUpperCase() + clean.slice(1);
-        if (!clean.match(/[.!?]$/)) clean += '.';
-        return `• ${clean}`;
+        // Clean up the sentence
+        let cleanSentence = sentence.trim();
+        
+        // Remove redundant spaces and normalize
+        cleanSentence = cleanSentence.replace(/\s+/g, ' ');
+        
+        // Capitalize first letter
+        cleanSentence = cleanSentence.charAt(0).toUpperCase() + cleanSentence.slice(1);
+        
+        // Ensure it ends with proper punctuation
+        if (!cleanSentence.endsWith('.') && !cleanSentence.endsWith('!') && !cleanSentence.endsWith('?')) {
+          cleanSentence += '.';
+        }
+        
+        // Add bullet point with proper indentation
+        return `• ${cleanSentence}`;
       })
       .join('\n');
       
   }, descriptionSelector);
 }
 
+// Helper function to validate if extracted description contains experience info
+function validateDescriptionForExperience(description) {
+  if (!description || description === 'Description content not available' || description === 'No description found') {
+    return { hasExperience: false, confidence: 0 };
+  }
+  
+  const experienceIndicators = [
+    /\d+\s*\+?\s*years?\s*(?:of\s*)?(?:experience|exp|work)/gi,
+    /(?:minimum|require|need|must have)\s*\d+\s*years?/gi,
+    /(?:experience|background|qualification).*?\d+\s*years?/gi,
+    /\d+\s*years?\s*(?:minimum|required|needed)/gi
+  ];
+  
+  const matches = experienceIndicators.reduce((count, pattern) => {
+    const found = (description.match(pattern) || []).length;
+    return count + found;
+  }, 0);
+  
+  return {
+    hasExperience: matches > 0,
+    confidence: Math.min(matches * 0.3, 1), // 0.3 per match, max 1.0
+    matchCount: matches
+  };
+}
+
+/**
+ * Extract descriptions in batch for multiple jobs (alternative approach)
+ * @param {Object} page - Puppeteer page instance
+ * @param {Array} jobs - Array of job objects with apply links
+ * @param {Object} selector - Selector configuration
+ * @returns {Array} Updated jobs array with descriptions
+ */
+async function extractDescriptionsInBatch(page, jobs, selector) {
+  console.log(`Batch description extraction for ${jobs.length} jobs...`);
+  
+  for (let i = 0; i < jobs.length; i++) {
+    const job = jobs[i];
+    
+    if (!job.applyLink || !selector.descriptionSelector) {
+      job.description = 'Description not available';
+      continue;
+    }
+
+    try {
+      console.log(`[${i + 1}/${jobs.length}] Batch extracting: ${job.title.substring(0, 40)}...`);
+      
+      await page.goto(job.applyLink, { 
+        waitUntil: 'domcontentloaded', 
+        timeout: 15000 
+      });
+      
+      await page.waitForSelector(selector.descriptionSelector, { timeout: 8000 });
+      job.description = await extractAndFormatDescription(page, selector.descriptionSelector);
+      
+      console.log(`Batch description extracted (${job.description.length} characters)`);
+      await new Promise(resolve => setTimeout(resolve, 500));
+      
+    } catch (error) {
+      console.error(`Batch extraction failed for "${job.title}": ${error.message}`);
+      job.description = 'Batch description extraction failed';
+    }
+  }
+  
+  return jobs;
+}
+
 module.exports = {
   extractJobData,
-  extractBasicJobData,
-  extractDescriptionModal,
-  extractFromNextPage,
-  getCompanyGroup,
-  COMPANY_GROUPS
+  extractSingleJobData,
+  extractDescriptionsInBatch
 };
