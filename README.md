@@ -230,8 +230,8 @@ Top internships for students in data science, statistics, analytics, and related
 | 2026 Data Science Analyst Program - Full-Time Analyst | Chicago, IL | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210646415/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | 2026 Data Science Analyst Program - Summer Analyst | Chicago, IL | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210648373/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Applied Artificial Intelligence Machine Learning, Associate | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677015/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
-| 2026 Focused Analytics Solutions Team (FAST) Summer Associate - Analytics Solutions | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649056/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Analytics Solutions [Multiple Positions Available] | Wilmington, DE | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210674377/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
+| 2026 Focused Analytics Solutions Team (FAST) Summer Associate - Analytics Solutions | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649056/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Data Scientist [Multiple Positions Available] | Chicago, IL | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210675322/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Rates Systematic Trading - Analyst / Associate | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210676802/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Software Engineer III - Data Engineer, Graph DB | Jersey City, NJ | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210638229/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
@@ -319,8 +319,8 @@ Top internships for students in data science, statistics, analytics, and related
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 25 | 19% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 48 | 37% | 1-2 years of experience. |
+| 🟢 Entry Level & New Grad | 23 | 18% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 50 | 38% | 1-2 years of experience. |
 | 🔴 Manager | 58 | 44% | 2+ years of experience. |
 
 ### 🌍 Top Locations
