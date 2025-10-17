@@ -12,7 +12,7 @@ async function applyUSAFilter(page, filterSelectors) {
       if (filterSelectors.accordionSelector) {
         console.log(`Looking for accordion selector: ${filterSelectors.accordionSelector}`);
         
-        await page.waitForSelector(filterSelectors.accordionSelector, { timeout: 10000 });
+        await page.waitForSelector(filterSelectors.accordionSelector, { timeout: 100000 });
         const accordionButton = await page.$(filterSelectors.accordionSelector);
         
         if (accordionButton) {
