@@ -323,34 +323,34 @@ function getCompanies(searchQuery = "", pageNum = 1) {
 
 
     //diff
-    // honeywell: {
-    //   name: "Honeywell",
-    //   baseUrl: "https://careers.honeywell.com",
-    //   url: `https://careers.honeywell.com/en/sites/Honeywell/jobs?keyword=${encodeURIComponent(
-    //     searchQuery
-    //   )}&location=United+States&locationId=300000000469866&locationLevel=country&mode=location`,
-    //   selector: selectors.honeywell,
+    honeywell: {
+      name: "Honeywell",
+      baseUrl: "https://careers.honeywell.com",
+      url: `https://careers.honeywell.com/en/sites/Honeywell/jobs?keyword=${encodeURIComponent(
+        searchQuery
+      )}&location=United+States&locationId=300000000469866&locationLevel=country&mode=location`,
+      selector: selectors.honeywell,
 
-    //   //   //"job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/108065/?keyword=data science+engineer&location=United+States&locationId=300000000469866&locationLevel=country&mode=location"
-    //   //   //https://careers.honeywell.com/en/sites/Honeywell/jobs/preview/108065/?keyword=data science+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location
-    //   //   //and use this selector #ui-id-30 > div > div.oj-dialog-content.oj-dialog-default-content > div > div.app-dialog__wrapper.app-dialog__wrapper--active.app-dialog__wrapper--align-center.oj-dialog-body > div > job-details-checker > job-details-loader > job-details-page > div > article > job-details-content > div > div.cc-page.cc-page--job-details-modal > div > div > div > div:nth-child(4) > div > div > div > div > div > div > ul:nth-child(2)
-    //   //done
-    // },
+      //   //"job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/108065/?keyword=data science+engineer&location=United+States&locationId=300000000469866&locationLevel=country&mode=location"
+      //   //https://careers.honeywell.com/en/sites/Honeywell/jobs/preview/108065/?keyword=data science+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location
+      //   //and use this selector #ui-id-30 > div > div.oj-dialog-content.oj-dialog-default-content > div > div.app-dialog__wrapper.app-dialog__wrapper--active.app-dialog__wrapper--align-center.oj-dialog-body > div > job-details-checker > job-details-loader > job-details-page > div > article > job-details-content > div > div.cc-page.cc-page--job-details-modal > div > div > div > div:nth-child(4) > div > div > div > div > div > div > ul:nth-child(2)
+      //done
+    },
 
     //diff same as honey well
-    // jpmc: {
-    //   name: "JPMorgan Chase",
-    //   baseUrl: "https://jpmc.fa.oraclecloud.com",
-    //   url: `https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?keyword=${encodeURIComponent(
-    //     searchQuery
-    //   )}&location=United+States&locationId=300000000469866&locationLevel=country&mode=location`,
-    //   selector: selectors.jpmc,
+    jpmc: {
+      name: "JPMorgan Chase",
+      baseUrl: "https://jpmc.fa.oraclecloud.com",
+      url: `https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?keyword=${encodeURIComponent(
+        searchQuery
+      )}&location=United+States&locationId=300000000469866&locationLevel=country&mode=location`,
+      selector: selectors.jpmc,
 
-    //   //      "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210629578/?keyword=data science+engineer&location=United+States&locationId=300000000469866&locationLevel=country&mode=location"
-    //   //https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/preview/210656130/?keyword=data science+engineering&location=United+States&locationId=300000000289738&locationLevel=country&mode=location
-    //   //use this selector #ui-id-15 > div.oj-dialog-container > div.oj-dialog-content.oj-dialog-default-content > div > div.app-dialog__wrapper.app-dialog__wrapper--active.app-dialog__wrapper--align-center.oj-dialog-body > div > job-details-checker > job-details-loader > job-details-page > div > article > job-details-content > div > div.cc-page.cc-page--job-details-modal > div > div > div > div:nth-child(2) > div > div > div > div > div > div > ul:nth-child(8)
-    //   //done
-    // },
+      //      "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210629578/?keyword=data science+engineer&location=United+States&locationId=300000000469866&locationLevel=country&mode=location"
+      //https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/preview/210656130/?keyword=data science+engineering&location=United+States&locationId=300000000289738&locationLevel=country&mode=location
+      //use this selector #ui-id-15 > div.oj-dialog-container > div.oj-dialog-content.oj-dialog-default-content > div > div.app-dialog__wrapper.app-dialog__wrapper--active.app-dialog__wrapper--align-center.oj-dialog-body > div > job-details-checker > job-details-loader > job-details-page > div > article > job-details-content > div > div.cc-page.cc-page--job-details-modal > div > div > div > div:nth-child(2) > div > div > div > div > div > div > ul:nth-child(8)
+      //done
+    },
     ti: {
       name: "Texas Instruments",
       baseUrl: "https://careers.ti.com",
