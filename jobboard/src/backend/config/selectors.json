@@ -138,7 +138,10 @@
       "parentButtonSelector": "button",
       "disabledAttribute": "aria-disabled"
     }
+
   },
+ 
+
   "10xgenomics": {
     "name": "10x Genomics",
     "jobSelector": "[data-test-id=\"job-listing\"]",
@@ -185,7 +188,7 @@
     "postedSelector": "div[data-automation-id='postedOn'] dd.css-129m7dg",
     "categorySelector": "div[data-automation-id='jobCategory'] dd.css-129m7dg",
     "reqIdSelector": "div[data-automation-id='jobReqId'] dd.css-129m7dg",
-    "descriptionSelector": "#mainContent > div > div.css-1142bqn > div > div > section > div > div.css-oa138a > div > div > div > div.css-1i27f3a > div > div.css-11ukcqc > p",
+    "descriptionSelector": "ul",
     "pagination": {
       "type": "chevron-click",
       "nextButtonSelector": "svg.wd-icon-chevron-right-small.wd-icon",
@@ -220,8 +223,8 @@
     "locationSelector": "div[data-automation-id='locations'] dd.css-129m7dg",
     "postedSelector": "div[data-automation-id='postedOn'] dd.css-129m7dg",
     "categorySelector": "div[data-automation-id='jobCategory'] dd.css-129m7dg",
-    "reqIdSelector": "ul[data-automation-id='subtitle'] li",
-    "descriptionType": "skip",
+    "reqIdSelector": "div[data-automation-id='jobReqId'] dd.css-129m7dg",
+    "descriptionSelector": "ul",
     "pagination": {
       "type": "chevron-click",
       "nextButtonSelector": "svg.wd-icon-chevron-right-small.wd-icon",
@@ -343,7 +346,8 @@
     "applyLinkSelector": "a",
     "linkAttribute": "href",
     "locationSelector": "span.job-tile__location",
-    "postedSelector": "span.job-tile__posted-date",
+    "postedType":"next-page",
+    "postedSelector": "#main > job-details-wrapper > div > div > job-details-checker > job-details-loader > job-details-page > div > article > job-details-content > div > div.cc-page.cc-page--job-details-fullscreen > div > div > div > div:nth-child(1) > div > div > div > div.component-styling-wrapper-89164 > div > div.job-details__info-section > div > div > ul > li:nth-child(4)>span.job-meta__subitem",
     "categorySelector": "span.job-tile__category",
     "descriptionSelector": "ul",
 
@@ -395,7 +399,8 @@
     "linkAttribute": "href",
     "locationSelector": "span.location",
     "categorySelector": "span.category",
-    "postedSelector": "span.posted-date",
+    "postedType": "next-page",
+    "postedSelector": "#ajd-header > div > div > div.ajd_header__job-heading.fs-m-7.fs-l-5.pb-l-1.pb-xl-0 > span.job-date.job-info",
     "descriptionType": "next-page",
     "descriptionSelector": "span",
     "pagination": {
@@ -437,17 +442,19 @@
   },
   "infineon": {
     "name": "Infineon Technologies",
-    "jobSelector": "div.job-card-container.list",
-    "titleSelector": "h3.job-card-title",
-    "locationSelector": "p.field-label",
-    "applyLinkSelector": "a.job-card-link",
+     "jobSelector": "div.cardContainer-GcY1a",
+    "titleSelector": "div.title-1aNJK",
+    "applyLinkSelector": "a[id*=\"job-card-\"][id*=\"-job-list\"]",
     "linkAttribute": "href",
-    "postedSelector": "span.job-posted-date",
-    "categorySelector": "span.job-category",
+    "locationSelector": "div.fieldValue-3kEar",
+    "postedSelector": "div.subData-13Lm1",
+    "categorySelector": "div.category",
+    "descriptionSelector": "li",
+
     "pagination": {
-      "type": "show-more-button",
-      "loadMoreSelector": "button.load-more-jobs",
-      "waitForNewJobs": "div.job-card-container.list"
+      "type": "url-page",
+      "startParam": "start",
+      "itemsPerPage": 10
     }
   },
   "micron": {
@@ -467,21 +474,7 @@
       "itemsPerPage": 10
     }
   },
-  "siemens": {
-    "name": "Siemens",
-    "jobSelector": "div.job-card-container.list",
-    "titleSelector": "h3.job-card-title",
-    "locationSelector": "p.field-label",
-    "applyLinkSelector": "a.job-card-link",
-    "linkAttribute": "href",
-    "postedSelector": "span.job-posted-date",
-    "categorySelector": "span.job-category",
-    "pagination": {
-      "type": "show-more-button",
-      "loadMoreSelector": "button.load-more-jobs",
-      "waitForNewJobs": "div.job-card-container.list"
-    }
-  },
+  
   "synopsys": {
     "name": "Synopsys",
     "jobSelector": "li.search-results-list__list-item",
@@ -502,7 +495,7 @@
   },
   "waymo": {
     "name": "Waymo",
-    "jobSelector": "div.col-12.job-search-results-card-col",
+    "jobSelector": "article",
     "titleSelector": "h3",
     "applyLinkSelector": "a",
     "linkAttribute": "href",
@@ -570,14 +563,13 @@
       "type": "url-page"
     }
   },
-  "microsoft": {
+    "microsoft": {
     "name": "Microsoft",
     "jobSelector": "div.ms-List-cell",
     "titleSelector": "h2.MZGzlrn8gfgSs8TZHhv2",
     "locationSelector": "i[data-icon-name='POI'] + span",
     "postedSelector": "span:nth-of-type(1)",
-    "linkSelector": "",
-    "linkAttribute": "",
+    "extractUrlAfterClick": true,
     "pagination": {
       "type": "url-page"
     }

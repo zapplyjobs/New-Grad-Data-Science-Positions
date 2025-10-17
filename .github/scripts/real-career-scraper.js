@@ -12,12 +12,12 @@ const companies = JSON.parse(
 const ALL_COMPANIES = Object.values(companies).flat();
 
 const BATCH_CONFIG = {
-  batchSize: 40,                    // Number of scrapers to run concurrently in each batch (8 companies)
-  delayBetweenBatches: 2000,       // Delay in milliseconds between batches (2 seconds)
+  batchSize: 60,                    // Number of scrapers to run concurrently in each batch (8 companies)
+  delayBetweenBatches: 1000,       // Delay in milliseconds between batches (2 seconds)
   maxRetries: 1,                   // Maximum retry attempts for failed scrapers
-  timeout: 900000,                 // Timeout for individual scrapers (3 minutes)
+  timeout: 600000,                 // Timeout for individual scrapers (3 minutes)
   enableProgressBar: true,          // Enable progress tracking
-  enableDetailedLogging: true      // Enable detailed logging for each scraper
+  enableDetailedLogging: false     // Disabled detailed logging for better performance
 };
 
 function safeISOString(dateValue) {
@@ -232,10 +232,10 @@ async function fetchAllRealJobs(searchQuery = 'Data Science', maxPages = 3, batc
               };
             }
 
-            // Exponential backoff with jitter for retry delay
-            const baseDelay = 2000 * Math.pow(2, attempt - 1);
-            const jitter = Math.random() * 1000; // Add jitter to avoid thundering herd
-            const retryDelay = Math.min(baseDelay + jitter, 10000); // Max 10s
+            // Optimized retry delay for faster processing
+            const baseDelay = 1000 * Math.pow(1.5, attempt - 1);
+            const jitter = Math.random() * 500; // Reduced jitter
+            const retryDelay = Math.min(baseDelay + jitter, 5000); // Max 5s
             if (config.enableDetailedLogging) {
               console.log(`⏳ Retrying ${scraperConfig.name} in ${retryDelay.toFixed(0)}ms...`);
             }
@@ -258,32 +258,26 @@ async function fetchAllRealJobs(searchQuery = 'Data Science', maxPages = 3, batc
       batchProgress.duration = Date.now() - batchStartTime;
       overallProgress.batchResults.push(batchProgress);
 
-      // Enhanced progress reporting after each batch
-      const progressPercent = ((overallProgress.processedCompanies / overallProgress.totalCompanies) * 100).toFixed(1);
-      const elapsedTime = Date.now() - overallProgress.startTime;
-      const avgTimePerCompany = overallProgress.processedCompanies > 0 ? elapsedTime / overallProgress.processedCompanies : 0;
-      const estimatedTimeRemaining = avgTimePerCompany * (overallProgress.totalCompanies - overallProgress.processedCompanies);
+      // Optimized progress reporting - reduced frequency for better performance
+      if (batchNumber % 2 === 0 || batchNumber === totalBatches) {
+        const progressPercent = ((overallProgress.processedCompanies / overallProgress.totalCompanies) * 100).toFixed(1);
+        const elapsedTime = Date.now() - overallProgress.startTime;
+        const avgTimePerCompany = overallProgress.processedCompanies > 0 ? elapsedTime / overallProgress.processedCompanies : 0;
+        const estimatedTimeRemaining = avgTimePerCompany * (overallProgress.totalCompanies - overallProgress.processedCompanies);
 
-      console.log(`\n🏁 Batch ${batchNumber}/${totalBatches} Completed in ${(batchProgress.duration/1000).toFixed(1)}s:`);
-      console.log(`   ✅ Successful: ${batchProgress.successful.length} companies`);
-      console.log(`   ❌ Failed: ${batchProgress.failed.length} companies`);
-      console.log(`   📊 Jobs collected in this batch: ${batchProgress.totalJobs}`);
+        console.log(`\n🏁 Batch ${batchNumber}/${totalBatches} Completed in ${(batchProgress.duration/1000).toFixed(1)}s:`);
+        console.log(`   ✅ Successful: ${batchProgress.successful.length} companies`);
+        console.log(`   ❌ Failed: ${batchProgress.failed.length} companies`);
+        console.log(`   📊 Jobs collected in this batch: ${batchProgress.totalJobs}`);
 
-      if (batchProgress.successful.length > 0) {
-        console.log(`   🎯 Successful companies: ${batchProgress.successful.map(s => `${s.name}(${s.jobs})`).join(', ')}`);
-      }
-
-      if (batchProgress.failed.length > 0) {
-        console.log(`   💥 Failed companies: ${batchProgress.failed.map(f => `${f.name}(${f.error.substring(0, 30)}...)`).join(', ')}`);
-      }
-
-      console.log(`\n📈 Overall Progress: ${overallProgress.processedCompanies}/${overallProgress.totalCompanies} (${progressPercent}%)`);
-      console.log(`   ✅ Total Successful: ${overallProgress.successfulCompanies}`);
-      console.log(`   ❌ Total Failed: ${overallProgress.failedCompanies}`);
-      console.log(`   ⏭️  Total Skipped: ${overallProgress.skippedCompanies}`);
-      console.log(`   📊 Total Jobs Collected: ${overallProgress.totalJobsCollected}`);
-      console.log(`   ⏱️  Elapsed Time: ${(elapsedTime/1000).toFixed(1)}s`);
-      console.log(`   🔮 Estimated Time Remaining: ${(estimatedTimeRemaining/1000).toFixed(1)}s`);
+        console.log(`\n📈 Overall Progress: ${overallProgress.processedCompanies}/${overallProgress.totalCompanies} (${progressPercent}%)`);
+        console.log(`   ✅ Total Successful: ${overallProgress.successfulCompanies}`);
+        console.log(`   ❌ Total Failed: ${overallProgress.failedCompanies}`);
+        console.log(`   ⏭️  Total Skipped: ${overallProgress.skippedCompanies}`);
+        console.log(`   📊 Total Jobs Collected: ${overallProgress.totalJobsCollected}`);
+        console.log(`   ⏱️  Elapsed Time: ${(elapsedTime/1000).toFixed(1)}s`);
+        console.log(`   🔮 Estimated Time Remaining: ${(estimatedTimeRemaining/1000).toFixed(1)}s`);
+      }
 
       // Add delay between batches (except for the last batch)
       if (i + config.batchSize < configs.length) {

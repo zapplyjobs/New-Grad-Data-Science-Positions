@@ -386,7 +386,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     google: {
       name: "Google",
       baseUrl:
-        "https://www.google.com/about/careers/applications/jobs/results/",
+        "https://www.google.com/about/careers/applications",
       url: `https://www.google.com/about/careers/applications/jobs/results/?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=${encodeURIComponent(
         searchQuery
       )}&page=${pageNum}`,
