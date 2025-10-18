@@ -122,6 +122,277 @@ function isJobOlderThanWeek(dateString) {
   return diffInDays >= 7;
 }
 
+/**
+ * Filter to keep ONLY data science, analytics, and ML engineering jobs
+ * Removes software engineering, hardware, and other technical roles
+ * @param {Array} jobs - Array of job objects
+ * @returns {Array} - Filtered array of data science jobs only
+ */
+function filterDataScienceJobs(jobs) {
+  console.log(`🔍 Starting data science job filtering for ${jobs.length} jobs...`);
+
+  // Keywords that indicate INTERNSHIP positions (to EXCLUDE)
+  const internshipKeywords = [
+    'intern', 'internship', 'co-op', 'coop', 'co op', 'co-op',
+    'summer program', 'training program', 'rotational program',
+    'student position', 'student program', 'campus hire',
+    'graduate intern', 'undergraduate intern', 'phd intern',
+    'apprentice', 'apprenticeship program', 'registered apprenticeship',
+    // Added common variations and missing terms based on sample:
+    'summer 2026', 'fall 2026', 'spring 2026', 'winter 2026', 'digital operations & logistics intern'
+  ];
+
+  // Keywords that CONFIRM data science roles (to INCLUDE)
+  const dataScienceKeywords = [
+    // Core Data Science
+    'data scientist', 'data science', 'research scientist', 'applied scientist',
+    'scientist', 'research engineer', 'computational scientist',
+    'psychometrist', // Added based on your sample (GDIT) - specialized data analysis role
+    
+    // Machine Learning & AI
+    'machine learning engineer', 'ml engineer', 'ai engineer', 'ai/ml', 'ml/ai',
+    'deep learning engineer', 'ai researcher', 'ml researcher',
+    'machine learning scientist', 'ai scientist', 'nlp engineer',
+    'computer vision engineer', 'cv engineer',
+    
+    // Data Analytics & Business Intelligence
+    'data analyst', 'data analytics', 'analytics engineer',
+    'business intelligence', 'bi analyst', 'quantitative analyst',
+    'quant analyst', 'data strategist', 'pricing analyst', 'revenue analyst',
+    'business operations support analyst', 'business functional analyst',
+    
+    // Data Engineering (Analytics focused)
+    'data engineer', 'data engineering', 'analytics engineer',
+    'big data engineer', 'data pipeline engineer',
+    
+    // Other Applied ML/AI Roles
+    'artificial intelligence', 'neural network',
+    'recommendation systems', 'personalization engineer',
+    'search relevance', 'ranking engineer', 'data integration' // Added data integration for precision
+  ];
+
+  // Keywords that indicate NON-DATA SCIENCE roles (to EXCLUDE)
+  const nonDataScienceKeywords = [
+    // Software Engineering (EXCLUDE) - Refined list
+    'software engineer', 'software developer', 'software development',
+    'backend engineer', 'backend developer', 'back-end',
+    'frontend engineer', 'frontend developer', 'front-end',
+    'full stack', 'fullstack', 'full-stack', 'stack developer',
+    'web developer', 'mobile developer', 'application developer',
+    'devops engineer', 'sre', 'site reliability',
+    'platform engineer', 'infrastructure software', 'systems software', 'system engineer',
+    'embedded software', 'firmware engineer', 'firmware developer', 'security firmware engineer',
+    'game developer', 'game engineer', 'graphics programmer',
+    'security engineer', 'cybersecurity engineer',
+    'cloud engineer', 'kubernetes engineer',
+    'android engineer', 'ios engineer',
+    
+    // Hardware & Electrical Engineering
+    'hardware engineer', 'hardware', 'electrical engineer', 'electronics engineer',
+    'circuit design', 'pcb design', 'fpga', 'asic', 'vlsi', 'eMotor design engineer',
+    'embedded hardware', 'rf engineer', 'antenna engineer',
+    'power engineer', 'analog design', 'digital design',
+    'gpu modeling', 'cpu performance', 'emulation engineer', 'benchmarking engineer',
+    'design automation engineer', 'fab equipment', 'esd', 'cad design', 'audio dsp engineer',
+    
+    // Testing & QA
+    'test engineer', 'testing engineer', 'qa tester', 'quality assurance tester',
+    'validation engineer', 'verification engineer', 'test technician',
+    'quality control', 'qc engineer', 'test analyst', 'qa engineer', 'validation engineer',
+    'test & product development engineer', 'customer quality engineer',
+    
+    // Technicians & Lab Roles
+    'technician', 'lab technician', 'laboratory technician',
+    'it technician', 'support technician', 'field technician',
+    'service technician', 'maintenance technician', 'repair technician',
+    'engineering technician', 'equipment technician', 'lab technician',
+    'metrology process development engineer', 'metrology engineer',
+    
+    // Manufacturing & Operations
+    'manufacturing engineer', 'production engineer', 'process engineer', 'process integration',
+    'industrial engineer', 'operations engineer', 'plant engineer',
+    'facilities engineer', 'equipment engineer', 'assembly engineer',
+    'mes engineer', 'shift equipment engineer', 'lean engineer', 'process quality engineer',
+    'product operations engineer', 'fab equipment engineer',
+    
+    // Mechanical & Materials
+    'mechanical engineer', 'materials engineer', 'metallurgical',
+    'structural engineer', 'civil engineer', 'aerospace engineer',
+    'mechanical design engineer', 'mechanical project engineer',
+    
+    // Product & Management
+    'product manager', 'program manager', 'project manager',
+    
+    // Systems & Network
+    'network engineer', 'systems administrator', 'sysadmin',
+    'network administrator', 'it administrator', 'system debug engineer', 'systems integration engineer',
+    
+    // Sales & Support
+    'sales engineer', 'solutions engineer', 'technical sales',
+    'customer success engineer', 'support engineer', 'technical support',
+    
+    // Controls & Automation
+    'controls engineer', 'automation engineer', 'control systems'
+  ];
+
+  function isInternship(title) {
+    if (!title) return false;
+    const lowerTitle = title.toLowerCase().trim();
+
+    for (const keyword of internshipKeywords) {
+      if (lowerTitle.includes(keyword.toLowerCase())) {
+        return true;
+      }
+    }
+    return false;
+  }
+
+  function isDataScience(title) {
+    if (!title) return false;
+    const lowerTitle = title.toLowerCase().trim();
+
+    // First, check if it explicitly contains data science keywords
+    const hasDataScienceKeyword = dataScienceKeywords.some(keyword =>
+      lowerTitle.includes(keyword.toLowerCase())
+    );
+
+    // If it has data science keywords, check it's not also a non-data-science role
+    if (hasDataScienceKeyword) {
+      // Check for strong non-data-science conflict keywords
+      const hasNonDataScienceKeyword = nonDataScienceKeywords.some(keyword =>
+        lowerTitle.includes(keyword.toLowerCase())
+      );
+
+      if (hasNonDataScienceKeyword) {
+        // --- CONFLICT RESOLUTION RULES ---
+
+        // 1. EXCLUDE: If it contains core software terms, it's NOT DS (e.g., Software Engineer, ML)
+        if (lowerTitle.includes('software engineer') ||
+          lowerTitle.includes('software developer') ||
+          lowerTitle.includes('backend') ||
+          lowerTitle.includes('frontend') ||
+          lowerTitle.includes('full stack') ||
+          lowerTitle.includes('stack developer')) {
+          return false;
+        }
+
+        // 2. EXCLUDE: If it contains core hardware terms, it's NOT DS
+        if (lowerTitle.includes('hardware') ||
+          lowerTitle.includes('electrical engineer') ||
+          lowerTitle.includes('mechanical engineer') ||
+          lowerTitle.includes('firmware')) {
+          return false;
+        }
+
+        // 3. INCLUDE: Prioritize core DS terms over ambiguous non-DS terms
+        // E.g., "Analytics Engineer" (INCLUDE) despite "engineer" (Non-DS list).
+        if (lowerTitle.includes('analytics engineer') || 
+            lowerTitle.includes('machine learning engineer') ||
+            lowerTitle.includes('data engineer') ||
+            lowerTitle.includes('data analyst')) {
+          return true;
+        }
+
+        // If the conflict is unresolved by the priority rules, exclude to be safe.
+        return false;
+      }
+
+      return true; // Has data science keyword and passes conflict checks
+    }
+
+    // If no data science keywords found, exclude the job
+    return false;
+  }
+
+  const filteredJobs = [];
+  const removedJobs = [];
+
+  jobs.forEach((job, index) => {
+    let shouldInclude = true;
+    let reason = '';
+
+    const title = job.job_title || '';
+
+    // console.log(`\n🔍 Job ${index + 1}/${jobs.length}: "${title}" at ${job.employer_name || 'Unknown'}`);
+
+    // Check 1: Internship Exclusion
+    if (isInternship(title)) {
+      shouldInclude = false;
+      reason = 'Internship position';
+      // console.log(`   ❌ EXCLUDED - ${reason}`);
+      removedJobs.push({ ...job, removal_reason: reason });
+    }
+    // Check 2: Data Science Inclusion
+    else if (!isDataScience(title)) {
+      shouldInclude = false;
+      reason = 'Non-data science role';
+      // console.log(`   ❌ EXCLUDED - ${reason}`);
+      removedJobs.push({ ...job, removal_reason: reason });
+    }
+    else {
+      // console.log(`   ✅ INCLUDED - Data science role`);
+      filteredJobs.push(job);
+    }
+  });
+
+  // Summary logging
+  const originalCount = jobs.length;
+  const filteredCount = filteredJobs.length;
+  const removedCount = removedJobs.length;
+  const safeDiv = (a, b) => b > 0 ? (a / b) * 100 : 0;
+
+  console.log(`\n${'='.repeat(50)}`);
+  console.log(`🎯 DATA SCIENCE JOB FILTERING SUMMARY`);
+  console.log(`${'='.repeat(50)}`);
+  console.log(`📊 Original jobs: ${originalCount}`);
+  console.log(`✅ Data science jobs: ${filteredCount} (${safeDiv(filteredCount, originalCount).toFixed(1)}%)`);
+  console.log(`❌ Removed jobs: ${removedCount} (${safeDiv(removedCount, originalCount).toFixed(1)}%)`);
+
+  const internshipCount = removedJobs.filter(j => j.removal_reason === 'Internship position').length;
+  const nonDataScienceCount = removedJobs.filter(j => j.removal_reason === 'Non-data science role').length;
+
+  console.log(`\n📈 REMOVAL REASONS BREAKDOWN:`);
+  if (removedJobs.length > 0) {
+    console.log(`   • Internship positions: ${internshipCount} jobs (${safeDiv(internshipCount, removedCount).toFixed(1)}%)`);
+    console.log(`   • Non-data science roles: ${nonDataScienceCount} jobs (${safeDiv(nonDataScienceCount, removedCount).toFixed(1)}%)`);
+  }
+
+  // Show what types of jobs were kept
+  if (filteredJobs.length > 0) {
+    console.log(`\n📊 DATA SCIENCE JOB CATEGORIES FOUND:`);
+    const categories = {
+      'Data Scientist': 0,
+      'ML Engineer': 0,
+      'Data Analyst': 0,
+      'Data Engineer': 0,
+      'Research Scientist': 0,
+      'Other': 0
+    };
+
+    filteredJobs.forEach(job => {
+      const title = (job.job_title || '').toLowerCase();
+      if (title.includes('data scientist')) categories['Data Scientist']++;
+      else if (title.includes('machine learning') || title.includes('ml engineer') || title.includes('ai engineer')) categories['ML Engineer']++;
+      else if (title.includes('data analyst') || title.includes('business analyst') || title.includes('analyst')) categories['Data Analyst']++;
+      else if (title.includes('data engineer')) categories['Data Engineer']++;
+      else if (title.includes('research scientist') || title.includes('applied scientist') || title.includes('scientist') || title.includes('researcher')) categories['Research Scientist']++;
+      else categories['Other']++;
+    });
+
+    Object.entries(categories).forEach(([category, count]) => {
+      if (count > 0) {
+        console.log(`   • ${category}: ${count} jobs`);
+      }
+    });
+  }
+
+  console.log(`\n${'='.repeat(50)}`);
+
+  return filteredJobs;
+}
+
+
+
 function filterJobsByLevel(jobs) {
   console.log(`🔍 Starting job level filtering for ${jobs.length} jobs...`);
   
@@ -863,4 +1134,5 @@ module.exports = {
   formatLocation,
   filterJobsByLevel,
   fetchInternshipData,
+  filterDataScienceJobs
 };

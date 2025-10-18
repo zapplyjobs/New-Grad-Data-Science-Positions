@@ -169,41 +169,41 @@ function generateJobTable(jobs) {
   );
   return output;
 }
-function generateInternshipSection(internshipData) {
-  if (!internshipData) 
-    return ''
+// function generateInternshipSection(internshipData) {
+//   if (!internshipData) 
+//     return ''
 
- return `
----
+//  return `
+// ---
 
-## 🎓 **Data Internships 2026**
+// ## 🎓 **Data Internships 2026**
 
-Top internships for students in data science, statistics, analytics, and related majors.
+// Top internships for students in data science, statistics, analytics, and related majors.
 
-### 🏢 **FAANG+ Internship Programs**
+// ### 🏢 **FAANG+ Internship Programs**
 
-| Company | Program | Apply Now |
-|---------|---------|-----------|
-${internshipData.companyPrograms
-  .map((program) => {
+// | Company | Program | Apply Now |
+// |---------|---------|-----------|
+// ${internshipData.companyPrograms
+//   .map((program) => {
   
-    return `| ${program.emogi} **${program.company}** | ${program.program} |<a href="${program.url}"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|`;
-  })
-  .join("\n")}
+//     return `| ${program.emogi} **${program.company}** | ${program.program} |<a href="${program.url}"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|`;
+//   })
+//   .join("\n")}
 
-### 📚 **Top Data Internship Resources**
+// ### 📚 **Top Data Internship Resources**
 
-| Platform | Description | Visit Now |
-|----------|-------------|-----------|
-${internshipData.sources
-  .map(
-    (source) =>
-      `| **${source.emogi} ${source.name}** | ${source.description} | <a href="${source.url}"  target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|`
-  )
-  .join("\n")}
+// | Platform | Description | Visit Now |
+// |----------|-------------|-----------|
+// ${internshipData.sources
+//   .map(
+//     (source) =>
+//       `| **${source.emogi} ${source.name}** | ${source.description} | <a href="${source.url}"  target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|`
+//   )
+//   .join("\n")}
 
-`;
-}
+// `;
+// }
 
 function generateArchivedSection(archivedJobs, stats) {
   if (archivedJobs.length === 0) {
@@ -227,7 +227,6 @@ Either still hiring or useful for research.
 
 🏢 **Companies:** ${Object.keys(stats.totalByCompany).length} companies
 
-⭐ **FAANG+ Jobs & Internships:** ${archivedFaangJobs} roles
 
 ${archivedJobTable}
 
@@ -247,10 +246,9 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
   ).length;
 
   const jobTable = generateJobTable(currentJobs);
-  const internshipSection = generateInternshipSection(internshipData);
   const archivedSection = generateArchivedSection(archivedJobs, stats);
 
-  return `# 📊 Data Science & Analytics Jobs & Internships 2026 by Zapply
+  return `# 📊 Data Science & Analytics Jobs  2026 by Zapply
 
 🚀 Real-time data science and data analysis jobs from ${totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with ${currentJobs.length}+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
@@ -275,12 +273,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 - 🔥 **Current Positions:** ${currentJobs.length} hot data-focused jobs
 - 🏢 **Top Companies:** ${totalCompanies} elite tech including Tesla, NVIDIA, Raytheon
-- ⭐ **FAANG+ Jobs & Internships:** ${faangJobs} premium opportunities
 - 📅 **Last Updated:** ${currentDate}
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 - 📁 **Archived Developer Jobs:** ${archivedJobs.length} (older than 1 week)
 
-${internshipData ? generateInternshipSection(internshipData) : ""}
 ---
 
 
@@ -468,7 +464,7 @@ async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
 
 module.exports = {
   generateJobTable,
-  generateInternshipSection,
+  
   generateArchivedSection,
   generateReadme,
   updateReadme,
