@@ -194,8 +194,8 @@ function filterTargetCompanyJobs(jobs) {
         if (!aIsFAANG && bIsFAANG) return 1;
         
         // Then by recency
-        const aDate = new Date(a.job_posted_at_datetime_utc || 0);
-        const bDate = new Date(b.job_posted_at_datetime_utc || 0);
+        const aDate = new Date(a.job_posted_at || 0);
+        const bDate = new Date(b.job_posted_at || 0);
         return bDate - aDate;
     });
     
@@ -429,7 +429,7 @@ async function processJobs() {
         }
         
         // Calculate archived jobs
-        const archivedJobs = usJobs.filter(j => isJobOlderThanWeek(j.job_posted_at_datetime_utc));
+        const archivedJobs = usJobs.filter(j => isJobOlderThanWeek(j.job_posted_at));
         
         console.log(`✅ Job processing complete - ${currentJobs.length} current, ${archivedJobs.length} archived`);
         

@@ -12,7 +12,7 @@ const companies = JSON.parse(
 const ALL_COMPANIES = Object.values(companies).flat();
 
 const BATCH_CONFIG = {
-  batchSize: 60,                    // Number of scrapers to run concurrently in each batch (8 companies)
+  batchSize: 20,                    // Number of scrapers to run concurrently in each batch (8 companies)
   delayBetweenBatches: 1000,       // Delay in milliseconds between batches (2 seconds)
   maxRetries: 1,                   // Maximum retry attempts for failed scrapers
   timeout: 600000,                 // Timeout for individual scrapers (3 minutes)
