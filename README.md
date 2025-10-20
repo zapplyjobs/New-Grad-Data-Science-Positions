@@ -1,6 +1,6 @@
 # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 13+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 38+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 13+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 39+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -21,18 +21,18 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 38 hot data-focused jobs
+- 🔥 **Current Positions:** 39 hot data-focused jobs
 - 🏢 **Top Companies:** 13 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** October 20, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 23 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 25 (older than 1 week)
 
 ---
 
 
 ## 🎯 Fresh Data Science Job Listings 2026 (under 1 week)
 
-### 🏢 **FAANG+** (16 positions)
+### 🏢 **FAANG+** (17 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -59,10 +59,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Business Data Scientist, Google Customer Solutions Ads Finance | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/94959551333180102-business-data-scientist-google-customer-solutions-ads-finance?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 1h |
 | Customer Engineer, Data Analytics, Google Cloud | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135298308305232582-customer-engineer-data-analytics-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 1h |
 
-#### 🍎 **Apple** (1 position)
+#### 🍎 **Apple** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| AppleCare Data Scientist | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200619185-0157/applecare-data-scientist?team=CUST) | 17h |
 | Health Sensing Data Engineer | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626165-3543/health-sensing-data-engineer?team=HRDWR) | 5d |
 
 ### 🏢 **Top Tech** (2 positions)
@@ -115,7 +116,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Applied Artificial Intelligence Machine Learning, Associate | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677015/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 6d |
-| Associate Data Scientist, Payments Data & Analytics | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210673274/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1h |
+| Associate Data Scientist, Payments Data & Analytics | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210673274/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2h |
 | Data Scientist [Multiple Positions Available] | Chicago, IL | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210675322/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 5d |
 
 ### 🛡️ **Autonomous & Aerospace** (1 position)
@@ -158,7 +159,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (14 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (14 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
 #### 💰 **Fintech Leaders** (1 company)
@@ -175,8 +176,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
 | 🟢 Entry Level & New Grad | 7 | 18% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 22 | 58% | 1-2 years of experience. |
-| 🔴 Manager | 9 | 24% | 2+ years of experience. |
+| 🟡 Beginner & Early Career | 22 | 56% | 1-2 years of experience. |
+| 🔴 Manager | 10 | 26% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -195,7 +196,7 @@ List of top locations and number of positions.
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 38+ verified roles for data analysts and scientists from 13 elite tech companies.
+✅ **100% Real Jobs:** 39+ verified roles for data analysts and scientists from 13 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -256,24 +257,26 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 23 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 25 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 23 positions
+📁 **Total Jobs:** 25 positions
 
 🏢 **Companies:** 13 companies
 
 
-### 🏢 **FAANG+** (3 positions)
+### 🏢 **FAANG+** (5 positions)
 
-#### 📦 **Amazon** (1 position)
+#### 📦 **Amazon** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Applied Scientist, AWS Neuron Science Team | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3102580/applied-scientist-aws-neuron-science-team) | 2w |
+| Data Engineer, AWS Infrastructure Supply Chain Automation | Herndon, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3100406/data-engineer-aws-infrastructure-supply-chain-automation) | 2w |
+| Data Engineer, AWS DC Central Operations | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3103409/data-engineer-aws-dc-central-operations) | 1w |
 
 #### 🍎 **Apple** (2 positions)
 
@@ -347,7 +350,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 38 current opportunities from 13 elite companies.**
+**🎯 39 current opportunities from 13 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
