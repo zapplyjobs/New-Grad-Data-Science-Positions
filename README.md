@@ -63,8 +63,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Cellular Data Science & Machine Learning Engineer | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626568-3543/cellular-data-science-machine-learning-engineer?team=HRDWR) | 19h |
-| AppleCare Data Scientist | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200619185-0157/applecare-data-scientist?team=CUST) | 19h |
+| Cellular Data Science & Machine Learning Engineer | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626568-3543/cellular-data-science-machine-learning-engineer?team=HRDWR) | 20h |
+| AppleCare Data Scientist | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200619185-0157/applecare-data-scientist?team=CUST) | 20h |
 | Health Sensing Data Engineer | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626165-3543/health-sensing-data-engineer?team=HRDWR) | 5d |
 
 ### 🏢 **Top Tech** (2 positions)
@@ -118,8 +118,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Applied Artificial Intelligence Machine Learning, Associate | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677015/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 6d |
 | Asset Management Investment Platform - Data Scientist Associate | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649020/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1h |
-| Associate Data Scientist, Payments Data & Analytics | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210673274/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 4h |
-| Data Scientist [Multiple Positions Available] | Chicago, IL | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210675322/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 5d |
+| Associate Data Scientist, Payments Data & Analytics | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210673274/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 5h |
+| Data Scientist [Multiple Positions Available] | Chicago, IL | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210675322/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 6d |
 
 ### 🛡️ **Autonomous & Aerospace** (1 position)
 
@@ -149,8 +149,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Business Functional Analyst | Location Mebane, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96937752/Business-Functional-Analyst) | 1h |
 | Business Operations Support Analyst | Location Phoenix, Arizona | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012734/Business-Operations-Support-Analyst) | 1h |
+| Business Functional Analyst | Location Mebane, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96937752/Business-Functional-Analyst) | 1h |
 
 
 
@@ -177,9 +177,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 6 | 15% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 23 | 56% | 1-2 years of experience. |
-| 🔴 Manager | 12 | 29% | 2+ years of experience. |
+| 🟢 Entry Level & New Grad | 7 | 17% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 24 | 59% | 1-2 years of experience. |
+| 🔴 Manager | 10 | 24% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
