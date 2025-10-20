@@ -131,8 +131,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Business Intelligence Analyst | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312485766?domain=appliedmaterials.com&triggerGoButton=false) | 5d |
-| HI Pricing & Revenue Analyst IV (B4) | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312349939?domain=appliedmaterials.com&triggerGoButton=false) | 4d |
+| Business Intelligence Analyst | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312485766?domain=appliedmaterials.com&triggerGoButton=false) | 6d |
+| HI Pricing & Revenue Analyst IV (B4) | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312349939?domain=appliedmaterials.com&triggerGoButton=false) | 5d |
 
 #### 💾 **Micron Technology** (2 positions)
 
@@ -173,9 +173,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 6 | 16% | No or minimal experience. |
+| 🟢 Entry Level & New Grad | 5 | 14% | No or minimal experience. |
 | 🟡 Beginner & Early Career | 22 | 59% | 1-2 years of experience. |
-| 🔴 Manager | 9 | 24% | 2+ years of experience. |
+| 🔴 Manager | 10 | 27% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
