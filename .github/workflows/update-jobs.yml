@@ -77,6 +77,10 @@ jobs:
         Updated categories, locations, and experience levels
         Next update tomorrow"
         
+    - name: Pull changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: git pull origin main
+
     - name: Push changes
       if: steps.verify-changed-files.outputs.changed == 'true'
       run: git push origin main
