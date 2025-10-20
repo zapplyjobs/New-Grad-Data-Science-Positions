@@ -3,7 +3,7 @@ name: Update Zapply Jobs
 on:
   schedule:
     # Run every hour
-    - cron: '15 * * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch: # Allow manual triggering
   push:
     branches: [ main ]
