@@ -63,8 +63,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Cellular Data Science & Machine Learning Engineer | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626568-3543/cellular-data-science-machine-learning-engineer?team=HRDWR) | 21h |
-| AppleCare Data Scientist | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200619185-0157/applecare-data-scientist?team=CUST) | 21h |
+| Cellular Data Science & Machine Learning Engineer | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626568-3543/cellular-data-science-machine-learning-engineer?team=HRDWR) | 22h |
+| AppleCare Data Scientist | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200619185-0157/applecare-data-scientist?team=CUST) | 22h |
 | Health Sensing Data Engineer | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626165-3543/health-sensing-data-engineer?team=HRDWR) | 5d |
 
 ### 🏢 **Top Tech** (2 positions)
@@ -178,9 +178,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 8 | 19% | No or minimal experience. |
+| 🟢 Entry Level & New Grad | 6 | 14% | No or minimal experience. |
 | 🟡 Beginner & Early Career | 23 | 55% | 1-2 years of experience. |
-| 🔴 Manager | 11 | 26% | 2+ years of experience. |
+| 🔴 Manager | 13 | 31% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
