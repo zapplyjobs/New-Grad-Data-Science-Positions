@@ -1,6 +1,6 @@
 # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 13+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 39+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 13+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 41+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -21,7 +21,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 39 hot data-focused jobs
+- 🔥 **Current Positions:** 41 hot data-focused jobs
 - 🏢 **Top Companies:** 13 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** October 20, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -32,7 +32,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🎯 Fresh Data Science Job Listings 2026 (under 1 week)
 
-### 🏢 **FAANG+** (17 positions)
+### 🏢 **FAANG+** (18 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -59,11 +59,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Business Data Scientist, Google Customer Solutions Ads Finance | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/94959551333180102-business-data-scientist-google-customer-solutions-ads-finance?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 1h |
 | Customer Engineer, Data Analytics, Google Cloud | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135298308305232582-customer-engineer-data-analytics-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 1h |
 
-#### 🍎 **Apple** (2 positions)
+#### 🍎 **Apple** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| AppleCare Data Scientist | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200619185-0157/applecare-data-scientist?team=CUST) | 17h |
+| Cellular Data Science & Machine Learning Engineer | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626568-3543/cellular-data-science-machine-learning-engineer?team=HRDWR) | 19h |
+| AppleCare Data Scientist | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200619185-0157/applecare-data-scientist?team=CUST) | 19h |
 | Health Sensing Data Engineer | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626165-3543/health-sensing-data-engineer?team=HRDWR) | 5d |
 
 ### 🏢 **Top Tech** (2 positions)
@@ -109,14 +110,15 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Psychometrist (Traumatic Brain Injury studies) | USA CA San Diego | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/Psychometrist--Traumatic-Brain-Injury-studies-_RQ209043-1?q=data+science) | 3d |
 
-### 💰 **Financial & Fintech** (3 positions)
+### 💰 **Financial & Fintech** (4 positions)
 
-#### 🏦 **JPMorgan Chase** (3 positions)
+#### 🏦 **JPMorgan Chase** (4 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Applied Artificial Intelligence Machine Learning, Associate | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677015/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 6d |
-| Associate Data Scientist, Payments Data & Analytics | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210673274/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2h |
+| Applied Artificial Intelligence Machine Learning, Associate | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677015/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1h |
+| Asset Management Investment Platform - Data Scientist Associate | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649020/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1h |
+| Associate Data Scientist, Payments Data & Analytics | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210673274/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 4h |
 | Data Scientist [Multiple Positions Available] | Chicago, IL | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210675322/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 5d |
 
 ### 🛡️ **Autonomous & Aerospace** (1 position)
@@ -147,8 +149,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Business Functional Analyst | Location Mebane, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96937752/Business-Functional-Analyst) | 1h |
 | Business Operations Support Analyst | Location Phoenix, Arizona | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012734/Business-Operations-Support-Analyst) | 1h |
+| Business Functional Analyst | Location Mebane, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96937752/Business-Functional-Analyst) | 1h |
 
 
 
@@ -159,11 +161,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (14 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (14 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (3) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
 #### 💰 **Fintech Leaders** (1 company)
-🏦 **[JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs)** (3 positions)
+🏦 **[JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs)** (4 positions)
 
 
 #### ☁️ **Enterprise & Cloud** (2 companies)
@@ -175,9 +177,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 7 | 18% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 22 | 56% | 1-2 years of experience. |
-| 🔴 Manager | 10 | 26% | 2+ years of experience. |
+| 🟢 Entry Level & New Grad | 7 | 17% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 24 | 59% | 1-2 years of experience. |
+| 🔴 Manager | 10 | 24% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -188,15 +190,15 @@ List of top locations and number of positions.
 - **Buffalo**: 2 positions
 - **Boise, Idaho**: 2 positions
 - **McLean, VA**: 2 positions
+- **San Diego**: 2 positions
 - **Washington**: 1 positions
 - **Austin, TX**: 1 positions
-- **Santa Clara, CA**: 1 positions
 
 ---
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 39+ verified roles for data analysts and scientists from 13 elite tech companies.
+✅ **100% Real Jobs:** 41+ verified roles for data analysts and scientists from 13 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -350,7 +352,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 39 current opportunities from 13 elite companies.**
+**🎯 41 current opportunities from 13 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
