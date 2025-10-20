@@ -145,8 +145,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Business Functional Analyst | Location Mebane, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96937752/Business-Functional-Analyst) | 1h |
 | Business Operations Support Analyst | Location Phoenix, Arizona | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012734/Business-Operations-Support-Analyst) | 1h |
+| Business Functional Analyst | Location Mebane, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96937752/Business-Functional-Analyst) | 1h |
 
 
 
@@ -173,9 +173,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 5 | 14% | No or minimal experience. |
+| 🟢 Entry Level & New Grad | 6 | 16% | No or minimal experience. |
 | 🟡 Beginner & Early Career | 22 | 59% | 1-2 years of experience. |
-| 🔴 Manager | 10 | 27% | 2+ years of experience. |
+| 🔴 Manager | 9 | 24% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
