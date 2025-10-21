@@ -1,6 +1,6 @@
 # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 12+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 37+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 13+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 36+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -21,11 +21,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 37 hot data-focused jobs
-- 🏢 **Top Companies:** 12 elite tech including Tesla, NVIDIA, Raytheon
+- 🔥 **Current Positions:** 36 hot data-focused jobs
+- 🏢 **Top Companies:** 13 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** October 21, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 28 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 29 (older than 1 week)
 
 ---
 
@@ -85,16 +85,15 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Data Scientist - Entry Level (Buffalo, NY) | Buffalo | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65752&source=WEB_Search_NA) | 1d |
 | Data Engineer - Entry Level (Buffalo, NY) | Buffalo | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65757&source=WEB_Search_NA) | 1d |
 
-### 🚀 **Consulting & Services** (8 positions)
+### 🚀 **Consulting & Services** (7 positions)
 
-#### 🛡️ **BAE Systems** (6 positions)
+#### 🛡️ **BAE Systems** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Scientist | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0221949?q=data+science) | 5d |
 | Data Scientist | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Scientist_R0228330?q=data+science) | 4d |
 | Data Scientist | Alexandria, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist_R0228335?q=data+science) | 4d |
-| Data Scientist | Springfield, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist_R0227660?q=data+science) | 1d |
 | Interoperability Data Scientist | Lorton, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Interoperability-Data-Scientist_R0223517?q=data+science) | 5d |
 | Supply Chain AI Engineer and Data Scientist | Bethesda, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Supply-Chain-AI-Engineer-and-Data-Scientist_R0228154?q=data+science) | 6d |
 
@@ -110,15 +109,14 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Psychometrist (Traumatic Brain Injury studies) | USA CA San Diego | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/Psychometrist--Traumatic-Brain-Injury-studies-_RQ209043-1?q=data+science) | 4d |
 
-### 💰 **Financial & Fintech** (3 positions)
+### 💰 **Financial & Fintech** (2 positions)
 
-#### 🏦 **JPMorgan Chase** (3 positions)
+#### 🏦 **JPMorgan Chase** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Asset Management Investment Platform - Data Scientist Associate | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649020/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Associate Data Scientist, Payments Data & Analytics | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210673274/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
-| Experience Research Leveraging Artificial Intelligence - Global Client Experience | Charlotte, NC | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210674529/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 
 ### 🛡️ **Autonomous & Aerospace** (1 position)
 
@@ -128,7 +126,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Data Scientist | Mountain View, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/data-scientist-mountain-view-california-united-states-san-francisco) | 1d |
 
-### 🏭 **Manufacturing & Industrial** (3 positions)
+### 🏭 **Manufacturing & Industrial** (4 positions)
+
+#### ⚗️ **Applied Materials** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| HI Pricing & Revenue Analyst IV (B4) | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312349939?domain=appliedmaterials.com&triggerGoButton=false) | 6d |
 
 #### 💾 **Micron Technology** (2 positions)
 
@@ -156,7 +160,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 
 #### 💰 **Fintech Leaders** (1 company)
-🏦 **[JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs)** (3 positions)
+🏦 **[JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs)** (2 positions)
 
 
 #### ☁️ **Enterprise & Cloud** (2 companies)
@@ -168,9 +172,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 6 | 16% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 22 | 59% | 1-2 years of experience. |
-| 🔴 Manager | 9 | 24% | 2+ years of experience. |
+| 🟢 Entry Level & New Grad | 5 | 14% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 23 | 64% | 1-2 years of experience. |
+| 🔴 Manager | 8 | 22% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -182,14 +186,14 @@ List of top locations and number of positions.
 - **Boise, Idaho**: 2 positions
 - **San Diego**: 2 positions
 - **Washington**: 1 positions
+- **Santa Clara, CA**: 1 positions
 - **McLean, VA**: 1 positions
-- **Honolulu, HI**: 1 positions
 
 ---
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 37+ verified roles for data analysts and scientists from 12 elite tech companies.
+✅ **100% Real Jobs:** 36+ verified roles for data analysts and scientists from 13 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -250,15 +254,15 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 28 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 29 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 28 positions
+📁 **Total Jobs:** 29 positions
 
-🏢 **Companies:** 12 companies
+🏢 **Companies:** 13 companies
 
 
 ### 🏢 **FAANG+** (5 positions)
@@ -275,8 +279,8 @@ Either still hiring or useful for research.
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Engineer | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0157/data-engineer?team=HRDWR) | 1w |
 | Data Engineer | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-3543/data-engineer?team=HRDWR) | 1w |
+| Data Engineer | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0157/data-engineer?team=HRDWR) | 1w |
 
 ### 🏢 **Top Tech** (1 position)
 
@@ -339,6 +343,14 @@ Either still hiring or useful for research.
 |------|----------|-----------|-----|
 | Scientist 1, Assay Productization (P-4386) | Pleasanton, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.10xgenomics.com/careers/job/171837195797) | 1w |
 
+### 🏭 **Manufacturing & Industrial** (1 position)
+
+#### ⚗️ **Applied Materials** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Business Intelligence Analyst | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312485766?domain=appliedmaterials.com&triggerGoButton=false) | 1w |
+
 
 
 </details>
@@ -346,7 +358,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 37 current opportunities from 12 elite companies.**
+**🎯 36 current opportunities from 13 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
