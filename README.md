@@ -174,9 +174,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 7 | 18% | No or minimal experience. |
+| 🟢 Entry Level & New Grad | 5 | 13% | No or minimal experience. |
 | 🟡 Beginner & Early Career | 24 | 63% | 1-2 years of experience. |
-| 🔴 Manager | 7 | 18% | 2+ years of experience. |
+| 🔴 Manager | 9 | 24% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -281,8 +281,8 @@ Either still hiring or useful for research.
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Engineer | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-3543/data-engineer?team=HRDWR) | 1w |
 | Data Engineer | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0157/data-engineer?team=HRDWR) | 1w |
+| Data Engineer | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-3543/data-engineer?team=HRDWR) | 1w |
 
 ### 🏢 **Top Tech** (1 position)
 
