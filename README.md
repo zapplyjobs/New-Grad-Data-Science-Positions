@@ -133,6 +133,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | ENG, TPG IE DATA INTEGRATION | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30299613) | 1d |
+| Machine Learning Engineer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/37816467) | 1d |
 
 #### ⚡ **ABB** (1 position)
 
@@ -176,6 +177,7 @@ List of top locations and number of positions.
 - **Mountain View, CA**: 9 positions
 - **San Bruno, CA**: 3 positions
 - **Buffalo**: 2 positions
+- **Boise, Idaho**: 2 positions
 - **San Diego**: 2 positions
 - **Washington**: 1 positions
 - **McLean, VA**: 1 positions
