@@ -38,7 +38,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Scientist II, Workforce Intelligence | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3113472/data-scientist-ii-workforce-intelligence) | 15h |
+| Data Scientist II, Workforce Intelligence | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3113472/data-scientist-ii-workforce-intelligence) | 16h |
 
 #### 🟢 **Google** (13 positions)
 
@@ -166,8 +166,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
 | 🟢 Entry Level & New Grad | 4 | 12% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 21 | 62% | 1-2 years of experience. |
-| 🔴 Manager | 9 | 26% | 2+ years of experience. |
+| 🟡 Beginner & Early Career | 22 | 65% | 1-2 years of experience. |
+| 🔴 Manager | 8 | 24% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
