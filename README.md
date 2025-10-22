@@ -38,7 +38,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Scientist II, Workforce Intelligence | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3113472/data-scientist-ii-workforce-intelligence) | 14h |
+| Data Scientist II, Workforce Intelligence | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3113472/data-scientist-ii-workforce-intelligence) | 15h |
 
 #### 🟢 **Google** (13 positions)
 
@@ -73,16 +73,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | ML/AI Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/72468/login) | 1d |
 | AI/ML Compiler Development Engineer | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/57214/login) | 1d |
-
-### 💻 **Enterprise Software** (3 positions)
-
-#### 🔵 **IBM** (3 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Federal Associate Data Engineer | Washington | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65399&source=WEB_Search_NA) | 1d |
-| Data Scientist - Entry Level (Buffalo, NY) | Buffalo | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65752&source=WEB_Search_NA) | 1d |
-| Data Engineer - Entry Level (Buffalo, NY) | Buffalo | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65757&source=WEB_Search_NA) | 1d |
 
 ### 🚀 **Consulting & Services** (7 positions)
 
@@ -155,8 +145,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 🏦 **[JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs)** (1 position)
 
 
-#### ☁️ **Enterprise & Cloud** (2 companies)
-🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (2 positions) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (3)
+#### ☁️ **Enterprise & Cloud** (1 company)
+🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (2 positions)
 
 ---
 
@@ -174,12 +164,12 @@ List of top locations and number of positions.
 
 - **Mountain View, CA**: 9 positions
 - **San Bruno, CA**: 3 positions
-- **Buffalo**: 2 positions
 - **Boise, Idaho**: 2 positions
-- **Washington**: 1 positions
 - **McLean, VA**: 1 positions
 - **Honolulu, HI**: 1 positions
 - **Alexandria, VA**: 1 positions
+- **Springfield, VA**: 1 positions
+- **Lorton, VA**: 1 positions
 
 ---
 
@@ -254,7 +244,7 @@ Either still hiring or useful for research.
 
 📁 **Total Jobs:** 32 positions
 
-🏢 **Companies:** 12 companies
+🏢 **Companies:** 11 companies
 
 
 ### 🏢 **FAANG+** (7 positions)
