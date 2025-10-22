@@ -1,6 +1,6 @@
 # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 12+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 33+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 12+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 34+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -21,7 +21,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 33 hot data-focused jobs
+- 🔥 **Current Positions:** 34 hot data-focused jobs
 - 🏢 **Top Companies:** 12 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** October 22, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -86,11 +86,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Data Scientist | Springfield, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist_R0227660?q=data+science) | 1d |
 | Interoperability Data Scientist | Lorton, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Interoperability-Data-Scientist_R0223517?q=data+science) | 6d |
 
-#### 📊 **Guidehouse** (1 position)
+#### 📊 **Guidehouse** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Scientist 🏠 | US VA, Springfield | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Springfield/Data-Scientist_32224?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 6d |
+| Data Scientist 🏠 | US DC, Washington | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---DC-Washington/Data-Scientist_33189?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 
 #### ⚙️ **General Dynamics** (1 position)
 
@@ -154,8 +155,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 4 | 12% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 21 | 64% | 1-2 years of experience. |
+| 🟢 Entry Level & New Grad | 5 | 15% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 21 | 62% | 1-2 years of experience. |
 | 🔴 Manager | 8 | 24% | 2+ years of experience. |
 
 ### 🌍 Top Locations
@@ -175,7 +176,7 @@ List of top locations and number of positions.
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 33+ verified roles for data analysts and scientists from 12 elite tech companies.
+✅ **100% Real Jobs:** 34+ verified roles for data analysts and scientists from 12 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -343,7 +344,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 33 current opportunities from 12 elite companies.**
+**🎯 34 current opportunities from 12 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
