@@ -165,8 +165,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
 | 🟢 Entry Level & New Grad | 5 | 15% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 22 | 67% | 1-2 years of experience. |
-| 🔴 Manager | 6 | 18% | 2+ years of experience. |
+| 🟡 Beginner & Early Career | 21 | 64% | 1-2 years of experience. |
+| 🔴 Manager | 7 | 21% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
