@@ -152,6 +152,11 @@ function removeAddressComponents(text) {
  * Returns format: { city: string, state: string (abbreviation) }
  * Remote positions will have city: 'US - Remote', state: ''
  */
+/**
+ * Parse and clean location text to extract city and state
+ * Returns format: { city: string, state: string (abbreviation) }
+ * Remote positions will have city: 'US - Remote', state: ''
+ */
 function parseLocation(locationText) {
   // Handle null/empty cases
   if (!locationText || 
@@ -226,6 +231,35 @@ function parseLocation(locationText) {
     return { city: 'Multiple Cities', state: '' };
   }
 
+  // Handle "US, State, City" or "USA, State, City" format - FIXED VERSION
+  const usStateCity = cleanLocation.match(/^(US|USA)[,\s]+([^,]+)[,\s]+(.+)$/i);
+  if (usStateCity) {
+    const part1 = usStateCity[2].trim();
+    const part2 = usStateCity[3].trim();
+    
+    const state1 = normalizeState(part1);
+    
+    // If part1 is a valid state (like "CA"), then part2 is the city
+    if (state1) {
+      return { city: part2, state: state1 };
+    }
+    
+    // If part1 is not a state, check if part2 is a state
+    const state2 = normalizeState(part2);
+    if (state2) {
+      return { city: part1, state: state2 };
+    }
+    
+    // If neither is a recognized state, try to find state for the city
+    const autoState = getStateForCity(part2) || getStateForCity(part1);
+    if (autoState) {
+      return { city: part2, state: autoState };
+    }
+    
+    // Default: use part2 as city, part1 as state (even if not recognized)
+    return { city: part2, state: part1 };
+  }
+
   // Handle "US, State" or "USA, State" format BEFORE removing country
   const usStateMatch = cleanLocation.match(/^(US|USA)[,\s]+(.+)$/i);
   if (usStateMatch) {
@@ -242,30 +276,6 @@ function parseLocation(locationText) {
     }
     // Return as city without state
     return { city: statePart, state: '' };
-  }
-
-  // Handle "US, State, City" or "USA, State, City" format
-  const usStateCity = cleanLocation.match(/^(US|USA)[,\s]+([^,]+)[,\s]+(.+)$/i);
-  if (usStateCity) {
-    const part1 = usStateCity[2].trim();
-    const part2 = usStateCity[3].trim();
-    
-    const state1 = normalizeState(part1);
-    const state2 = normalizeState(part2);
-    
-    if (state1 && !state2) {
-      return { city: part2, state: state1 };
-    } else if (!state1 && state2) {
-      return { city: part1, state: state2 };
-    } else if (state1 && state2) {
-      return { city: '', state: state1 };
-    } else {
-      const autoState = getStateForCity(part1);
-      if (autoState) {
-        return { city: part1, state: autoState };
-      }
-      return { city: part1, state: '' };
-    }
   }
 
   // Handle patterns like "United States + 1 more, NY"
