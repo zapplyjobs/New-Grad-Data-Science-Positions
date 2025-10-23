@@ -1,6 +1,6 @@
 # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 12+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 35+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 12+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 36+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -21,7 +21,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 35 hot data-focused jobs
+- 🔥 **Current Positions:** 36 hot data-focused jobs
 - 🏢 **Top Companies:** 12 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** October 23, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -84,11 +84,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🚀 **Consulting & Services** (12 positions)
 
-#### 🛡️ **BAE Systems** (7 positions)
+#### 🛡️ **BAE Systems** (8 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Scientist | DC, WA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0225728-1?q=data+science) | 1d |
+| Data Scientist | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0225955?q=data+science) | 1d |
 | Data Scientist | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Scientist_R0228330?q=data+science) | 6d |
 | Data Scientist | Alexandria, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist_R0228335?q=data+science) | 6d |
 | Data Scientist | Springfield, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist_R0227660?q=data+science) | 2d |
@@ -187,7 +188,7 @@ List of top locations and number of positions.
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 35+ verified roles for data analysts and scientists from 12 elite tech companies.
+✅ **100% Real Jobs:** 36+ verified roles for data analysts and scientists from 12 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -300,7 +301,6 @@ Either still hiring or useful for research.
 | Data Scientist | Annapolis Junction, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Data-Scientist_R0221768?q=data+science) | 3w |
 | Data Scientist | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0221949?q=data+science) | 1w |
 | Data Scientist | cDill AFB, FL | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/MacDill-AFB-FL/Data-Scientist_R0226861-1?q=data+science) | 4w |
-| Data Scientist | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0226843?q=data+science) | 3w |
 | Data Scientist | Chantilly, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Data-Scientist_R0226646?q=data+science) | 3w |
 | Data Scientist | Norfolk, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Data-Scientist_R0227443?q=data+science) | 3w |
 | Data Engineer | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0227894?q=data+science) | 1w |
@@ -309,6 +309,7 @@ Either still hiring or useful for research.
 | Data Scientist, Mid | Alexandria, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist--Mid_R0227314?q=data+science) | 3w |
 | Data Scientist, Mid | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist--Mid_R0228064?q=data+science) | 1w |
 | Data Scientist, Mid | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist--Mid_R0228089?q=data+science) | 1w |
+| Supply Chain AI Engineer and Data Scientist | Bethesda, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Supply-Chain-AI-Engineer-and-Data-Scientist_R0228154?q=data+science) | 1w |
 
 #### 📊 **Guidehouse** (5 positions)
 
@@ -360,7 +361,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 35 current opportunities from 12 elite companies.**
+**🎯 36 current opportunities from 12 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
