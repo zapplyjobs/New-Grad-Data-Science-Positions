@@ -1,4 +1,4 @@
-  // src/backend/output/jobTransformers.js
+// src/backend/output/jobTransformers.js
 
 /**
  * State name to abbreviation mapping
