@@ -1,6 +1,6 @@
 # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 11+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 35+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 12+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 33+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -21,11 +21,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 35 hot data-focused jobs
-- 🏢 **Top Companies:** 11 elite tech including Tesla, NVIDIA, Raytheon
+- 🔥 **Current Positions:** 33 hot data-focused jobs
+- 🏢 **Top Companies:** 12 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** October 23, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 46 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 42 (older than 1 week)
 
 ---
 
@@ -33,6 +33,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ## 🎯 Fresh Data Science Job Listings 2026 (under 1 week)
 
 ### 🏢 **FAANG+** (14 positions)
+
+#### 📦 **Amazon** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Data Scientist II, Workforce Intelligence | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3113472/data-scientist-ii-workforce-intelligence) | 1d |
 
 #### 🟢 **Google** (11 positions)
 
@@ -50,13 +56,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Data Scientist - Product, Play Monetization, Fraud and Abuse | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/116838310160016070-data-scientist-product-play-monetization-fraud-and-abuse?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 1h |
 | Customer Engineer, Data Analytics, Google Cloud | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135298308305232582-customer-engineer-data-analytics-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 1h |
 
-#### 🍎 **Apple** (3 positions)
+#### 🍎 **Apple** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Cellular Data Science & Machine Learning Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626568-3543/cellular-data-science-machine-learning-engineer?team=HRDWR) | 3d |
 | AppleCare Data Scientist | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200619185-0157/applecare-data-scientist?team=CUST) | 3d |
-| Machine Learning Data Scientist | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627120-0836/machine-learning-data-scientist?team=SFTWR) | 3d |
 
 ### 🏢 **Top Tech** (2 positions)
 
@@ -76,7 +81,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Federal Associate Data Engineer | US, WA | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65399&source=WEB_Search_NA) | 1d |
 | Associate Data Scientist - Entry Level (Baton Rouge, LA) | BATON ROUGE | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65753&source=WEB_Search_NA) | 1d |
 
-### 🚀 **Consulting & Services** (12 positions)
+### 🚀 **Consulting & Services** (11 positions)
 
 #### 🛡️ **BAE Systems** (7 positions)
 
@@ -96,23 +101,21 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Data Scientist 🏠 | - DC, WA | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---DC-Washington/Data-Scientist_33189?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 
-#### ⚙️ **General Dynamics** (4 positions)
+#### ⚙️ **General Dynamics** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Scientist | (FLC017), FL Hurlburt Field - Hurlburt Fld | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-Hurlburt-Field---Hurlburt-Fld-FLC017/Data-Scientist-I_RQ209128?q=data+science) | 1d |
 | Data Engineer SME | Church, VA Falls | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Data-Engineer-SME_RQ209151?q=data+science) | 1d |
-| AI Engineer | Church, VA Falls | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/AI-Engineer_RQ209147-2?q=data+science) | 1d |
 | Psychometrist (Traumatic Brain Injury studies) | Diego, CA San | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/Psychometrist--Traumatic-Brain-Injury-studies-_RQ209043-1?q=data+science) | 1d |
 
-### 💰 **Financial & Fintech** (2 positions)
+### 💰 **Financial & Fintech** (1 position)
 
-#### 🏦 **JPMorgan Chase** (2 positions)
+#### 🏦 **JPMorgan Chase** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Asset Management Investment Platform - Data Scientist Associate | NY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649020/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2d |
-| Experience Research Leveraging Artificial Intelligence - Global Client Experience | Charlotte, NC | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210674529/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3d |
+| Asset Management Investment Platform - Data Scientist Associate | NY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649020/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3d |
 
 ### 🛡️ **Autonomous & Aerospace** (1 position)
 
@@ -144,12 +147,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🏢 **Top Companies**
 
-#### ⭐ **FAANG+** (2 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (11 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (3)
+#### ⭐ **FAANG+** (3 companies)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (11 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
 #### 💰 **Fintech Leaders** (1 company)
-🏦 **[JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs)** (2 positions)
+🏦 **[JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs)** (1 position)
 
 
 #### ☁️ **Enterprise & Cloud** (2 companies)
@@ -161,28 +164,28 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 4 | 11% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 18 | 51% | 1-2 years of experience. |
-| 🔴 Manager | 13 | 37% | 2+ years of experience. |
+| 🟢 Entry Level & New Grad | 3 | 9% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 19 | 58% | 1-2 years of experience. |
+| 🔴 Manager | 11 | 33% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
 List of top locations and number of positions.
 
 - **Mountain View, CA**: 9 positions
-- **Church, VA Falls**: 2 positions
 - **San Diego, CA**: 2 positions
 - **San Bruno, CA**: 2 positions
 - **US, WA**: 1 positions
 - **BATON ROUGE**: 1 positions
 - **Boise, ID**: 1 positions
 - **DC, WA**: 1 positions
+- **Honolulu, HI**: 1 positions
 
 ---
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 35+ verified roles for data analysts and scientists from 11 elite tech companies.
+✅ **100% Real Jobs:** 33+ verified roles for data analysts and scientists from 12 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -243,20 +246,20 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 46 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 42 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 46 positions
+📁 **Total Jobs:** 42 positions
 
-🏢 **Companies:** 11 companies
+🏢 **Companies:** 12 companies
 
 
-### 🏢 **FAANG+** (13 positions)
+### 🏢 **FAANG+** (9 positions)
 
-#### 📦 **Amazon** (6 positions)
+#### 📦 **Amazon** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -265,9 +268,8 @@ Either still hiring or useful for research.
 | Applied Scientist, AWS Neuron Science Team | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3102580/applied-scientist-aws-neuron-science-team) | 2w |
 | Data Engineer, AWS DC Central Operations | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3103409/data-engineer-aws-dc-central-operations) | 2w |
 | Data Scientist I, SAMBA | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3098481/data-scientist-i-samba) | 3w |
-| Data Scientist, Amazon Music - DISCO | NY | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3093743/data-scientist-amazon-music-disco) | 3w |
 
-#### 🍎 **Apple** (7 positions)
+#### 🍎 **Apple** (4 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -275,9 +277,6 @@ Either still hiring or useful for research.
 | Data Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-3543/data-engineer?team=HRDWR) | 2w |
 | Data Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0157/data-engineer?team=HRDWR) | 2w |
 | Data Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0836/data-engineer?team=HRDWR) | 2w |
-| Health Sensing Data Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626165-3543/health-sensing-data-engineer?team=HRDWR) | 1w |
-| AIML - Data Scientist, Evaluation | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200612947-3337/aiml-data-scientist-evaluation?team=MLAI) | 3w |
-| AIML - Data Scientist, Evaluation | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200612947-3956/aiml-data-scientist-evaluation?team=MLAI) | 3w |
 
 ### 🏢 **Top Tech** (1 position)
 
@@ -364,7 +363,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 35 current opportunities from 11 elite companies.**
+**🎯 33 current opportunities from 12 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
