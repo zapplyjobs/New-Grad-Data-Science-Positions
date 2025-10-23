@@ -297,15 +297,14 @@ Either still hiring or useful for research.
 | AI/ML Engineer (Tactical Networks - CANES) - Active Secret clearance | USA CA San Diego | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/Senior-AI-ML-Engineer---Active-Secret-clearance_RQ207956-1?q=data+science) | 1w |
 | HPC Computational Scientist | USA OH Dayton | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-OH-Dayton/HPC-Computational-Scientist_RQ204726?q=data+science) | 3w |
 
-### 💰 **Financial & Fintech** (3 positions)
+### 💰 **Financial & Fintech** (2 positions)
 
-#### 🏦 **JPMorgan Chase** (3 positions)
+#### 🏦 **JPMorgan Chase** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | 2026 Data Science Analyst Program - Full-Time Analyst | Chicago, IL | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210646415/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3w |
 | Applied Artificial Intelligence Machine Learning, Associate | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677015/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
-| Data Scientist [Multiple Positions Available] | Chicago, IL | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210675322/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
 
 ### 🏥 **Healthcare & Life Sciences** (1 position)
 
