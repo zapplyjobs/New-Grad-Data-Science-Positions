@@ -25,7 +25,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - 🏢 **Top Companies:** 12 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** October 24, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 39 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 40 (older than 1 week)
 
 ---
 
@@ -248,13 +248,13 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 39 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 40 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 39 positions
+📁 **Total Jobs:** 40 positions
 
 🏢 **Companies:** 12 companies
 
@@ -339,6 +339,14 @@ Either still hiring or useful for research.
 |------|----------|-----------|-----|
 | 2026 Data Science Analyst Program - Full-Time Analyst | Chicago, IL | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210646415/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 4w |
 | Applied Artificial Intelligence Machine Learning, Associate | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677015/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
+
+### 🏥 **Healthcare & Life Sciences** (1 position)
+
+#### 🔬 **10x Genomics** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Scientist 1, Assay Productization (P-4386) | Pleasanton, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.10xgenomics.com/careers/job/171837195797) | 1w |
 
 ### 🏭 **Manufacturing & Industrial** (1 position)
 
