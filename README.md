@@ -169,13 +169,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 List of top locations and number of positions.
 
 - **Mountain View, CA**: 9 positions
+- **Church, VA Falls**: 2 positions
 - **San Diego, CA**: 2 positions
 - **San Bruno, CA**: 2 positions
 - **US, WA**: 1 positions
 - **BATON ROUGE**: 1 positions
 - **Boise, ID**: 1 positions
 - **DC, WA**: 1 positions
-- **Arlington, VA**: 1 positions
 
 ---
 
