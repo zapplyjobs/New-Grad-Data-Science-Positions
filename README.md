@@ -105,13 +105,14 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | AI Engineer | Church, VA Falls | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/AI-Engineer_RQ209147-2?q=data+science) | 1d |
 | Psychometrist (Traumatic Brain Injury studies) | Diego, CA San | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/Psychometrist--Traumatic-Brain-Injury-studies-_RQ209043-1?q=data+science) | 2d |
 
-### 💰 **Financial & Fintech** (1 position)
+### 💰 **Financial & Fintech** (2 positions)
 
-#### 🏦 **JPMorgan Chase** (1 position)
+#### 🏦 **JPMorgan Chase** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Asset Management Investment Platform - Data Scientist Associate | NY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649020/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 4d |
+| Experience Research Leveraging Artificial Intelligence - Global Client Experience | Charlotte, NC | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210674529/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 4d |
 
 ### 🛡️ **Autonomous & Aerospace** (1 position)
 
@@ -148,7 +149,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 
 #### 💰 **Fintech Leaders** (1 company)
-🏦 **[JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs)** (1 position)
+🏦 **[JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs)** (2 positions)
 
 
 #### ☁️ **Enterprise & Cloud** (2 companies)
@@ -160,9 +161,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 3 | 9% | No or minimal experience. |
+| 🟢 Entry Level & New Grad | 4 | 11% | No or minimal experience. |
 | 🟡 Beginner & Early Career | 17 | 49% | 1-2 years of experience. |
-| 🔴 Manager | 15 | 43% | 2+ years of experience. |
+| 🔴 Manager | 14 | 40% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
