@@ -183,6 +183,7 @@ List of top locations and number of positions.
 - **US, WA**: 1 positions
 - **BATON ROUGE**: 1 positions
 - **Boise, ID**: 1 positions
+- **DC, WA**: 1 positions
 
 ---
 
