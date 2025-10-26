@@ -1,6 +1,6 @@
 # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 12+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 37+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 11+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 35+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -21,24 +21,18 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 37 hot data-focused jobs
-- 🏢 **Top Companies:** 12 elite tech including Tesla, NVIDIA, Raytheon
+- 🔥 **Current Positions:** 35 hot data-focused jobs
+- 🏢 **Top Companies:** 11 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** October 26, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 39 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 41 (older than 1 week)
 
 ---
 
 
 ## 🎯 Fresh Data Science Job Listings 2026 (under 1 week)
 
-### 🏢 **FAANG+** (15 positions)
-
-#### 📦 **Amazon** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Data Scientist II, Workforce Intelligence | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3113472/data-scientist-ii-workforce-intelligence) | 4d |
+### 🏢 **FAANG+** (14 positions)
 
 #### 🟢 **Google** (11 positions)
 
@@ -82,7 +76,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Federal Associate Data Engineer | US, WA | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65399&source=WEB_Search_NA) | 1d |
 | Associate Data Scientist - Entry Level (Baton Rouge, LA) | BATON ROUGE | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65753&source=WEB_Search_NA) | 1d |
 
-### 🚀 **Consulting & Services** (14 positions)
+### 🚀 **Consulting & Services** (13 positions)
 
 #### 🛡️ **BAE Systems** (7 positions)
 
@@ -102,7 +96,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Data Scientist 🏠 | - DC, WA | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---DC-Washington/Data-Scientist_33189?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 3d |
 
-#### ⚙️ **General Dynamics** (6 positions)
+#### ⚙️ **General Dynamics** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -110,7 +104,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Data Scientist | (FLC017), FL Hurlburt Field - Hurlburt Fld | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-Hurlburt-Field---Hurlburt-Fld-FLC017/Data-Scientist-I_RQ209128?q=data+science) | 3d |
 | Data Engineer SME | Church, VA Falls | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Data-Engineer-SME_RQ209151?q=data+science) | 3d |
 | AI Engineer | Church, VA Falls | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/AI-Engineer_RQ209147-2?q=data+science) | 2d |
-| Associate AI/ML Engineer - Active Secret clearance preferred | Any / Remote | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Associate-AI-ML-Engineer---Active-Secret-clearance-preferred_RQ209304?q=data+science) | 1d |
 | Psychometrist (Traumatic Brain Injury studies) | Diego, CA San | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/Psychometrist--Traumatic-Brain-Injury-studies-_RQ209043-1?q=data+science) | 3d |
 
 ### 💰 **Financial & Fintech** (1 position)
@@ -151,8 +144,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🏢 **Top Companies**
 
-#### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (11 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (3) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+#### ⭐ **FAANG+** (2 companies)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (11 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (3)
 
 
 #### 💰 **Fintech Leaders** (1 company)
@@ -168,28 +161,28 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 3 | 8% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 18 | 49% | 1-2 years of experience. |
-| 🔴 Manager | 16 | 43% | 2+ years of experience. |
+| 🟢 Entry Level & New Grad | 3 | 9% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 17 | 49% | 1-2 years of experience. |
+| 🔴 Manager | 15 | 43% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
 List of top locations and number of positions.
 
 - **Mountain View, CA**: 9 positions
-- **Arlington, VA**: 2 positions
-- **Any / Remote**: 2 positions
 - **Church, VA Falls**: 2 positions
 - **San Diego, CA**: 2 positions
 - **San Bruno, CA**: 2 positions
 - **US, WA**: 1 positions
 - **BATON ROUGE**: 1 positions
+- **Boise, ID**: 1 positions
+- **DC, WA**: 1 positions
 
 ---
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 37+ verified roles for data analysts and scientists from 12 elite tech companies.
+✅ **100% Real Jobs:** 35+ verified roles for data analysts and scientists from 11 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -250,20 +243,20 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 39 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 41 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 39 positions
+📁 **Total Jobs:** 41 positions
 
-🏢 **Companies:** 12 companies
+🏢 **Companies:** 11 companies
 
 
-### 🏢 **FAANG+** (9 positions)
+### 🏢 **FAANG+** (11 positions)
 
-#### 📦 **Amazon** (4 positions)
+#### 📦 **Amazon** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -271,6 +264,8 @@ Either still hiring or useful for research.
 | Data Engineer, AWS Infrastructure Supply Chain Automation | Herndon, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3100406/data-engineer-aws-infrastructure-supply-chain-automation) | 3w |
 | Applied Scientist, AWS Neuron Science Team | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3102580/applied-scientist-aws-neuron-science-team) | 2w |
 | Data Engineer, AWS DC Central Operations | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3103409/data-engineer-aws-dc-central-operations) | 2w |
+| Data Scientist, WWPS ProServe Data and Machine Learning | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3097775/data-scientist-wwps-proserve-data-and-machine-learning) | 3w |
+| Data Scientist | Newark, NJ | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3097276/data-scientist) | 3w |
 
 #### 🍎 **Apple** (5 positions)
 
@@ -364,7 +359,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 37 current opportunities from 12 elite companies.**
+**🎯 35 current opportunities from 11 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
