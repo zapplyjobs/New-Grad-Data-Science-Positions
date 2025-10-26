@@ -178,7 +178,6 @@ List of top locations and number of positions.
 - **San Bruno, CA**: 2 positions
 - **US, WA**: 1 positions
 - **BATON ROUGE**: 1 positions
-- **Boise, ID**: 1 positions
 
 ---
 
