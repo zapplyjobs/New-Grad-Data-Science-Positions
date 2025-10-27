@@ -25,7 +25,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - 🏢 **Top Companies:** 9 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** October 27, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 42 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 44 (older than 1 week)
 
 ---
 
@@ -34,13 +34,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🏢 **FAANG+** (12 positions)
 
-#### 📦 **Amazon** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Data Scientist II, Workforce Intelligence | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3113472/data-scientist-ii-workforce-intelligence) | 5d |
-
-#### 🟢 **Google** (11 positions)
+#### 🟢 **Google** (12 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -50,6 +44,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Data Scientist III, Research, Search AI Mode | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120234078807958214-data-scientist-iii-research-search-ai-mode?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1h |
 | Data Scientist, Research | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/108742954339705542-data-scientist-research?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1h |
 | Data Scientist, Research, Search Experiments | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/101033997668098758-data-scientist-research-search-experiments?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1h |
+| Data Scientist, Research, YouTube Gaming Discovery | San Bruno, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/129005519120540358-data-scientist-research-youtube-gaming-discovery?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1h |
 | Data Scientist, Brand Bidding Optimization, YouTube | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/137400608226190022-data-scientist-brand-bidding-optimization-youtube?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 1h |
 | Business Data Scientist, Impact Measurement | San Bruno, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/84584085019599558-business-data-scientist-impact-measurement?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 1h |
 | Business Data Scientist, YouTube Music Partners | San Bruno, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/83449842138784454-business-data-scientist-youtube-music-partners?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 1h |
@@ -80,30 +75,30 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Scientist | DC, WA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0225728-1?q=data+science) | 4d |
-| Data Scientist | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0225955?q=data+science) | 3d |
-| Data Scientist | Springfield, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist_R0227660?q=data+science) | 5d |
-| Data Scientist | Clearfield, UT | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Clearfield-UT/Data-Scientist_R0228722?q=data+science) | 2d |
-| Training Assessment Data Scientist | Twenty-Nine Palms, CA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Twenty-Nine-Palms-CA/Training-Assessment-Data-Scientist_R0228486?q=data+science) | 4d |
-| Training Assessment Data Scientist | Camp Lejeune, NC | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Lejeune-NC/Training-Assessment-Data-Scientist_R0228481?q=data+science) | 4d |
-| Training Assessment Data Scientist | Camp Pendleton, CA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Pendleton-CA/Training-Assessment-Data-Scientist_R0228485?q=data+science) | 4d |
+| Data Scientist | DC, WA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0225728-1?q=data+science) | 5d |
+| Data Scientist | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0225955?q=data+science) | 4d |
+| Data Scientist | Springfield, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist_R0227660?q=data+science) | 6d |
+| Data Scientist | Clearfield, UT | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Clearfield-UT/Data-Scientist_R0228722?q=data+science) | 3d |
+| Training Assessment Data Scientist | Twenty-Nine Palms, CA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Twenty-Nine-Palms-CA/Training-Assessment-Data-Scientist_R0228486?q=data+science) | 5d |
+| Training Assessment Data Scientist | Camp Lejeune, NC | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Lejeune-NC/Training-Assessment-Data-Scientist_R0228481?q=data+science) | 5d |
+| Training Assessment Data Scientist | Camp Pendleton, CA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Pendleton-CA/Training-Assessment-Data-Scientist_R0228485?q=data+science) | 5d |
 
 #### 📊 **Guidehouse** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Scientist 🏠 | - DC, WA | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---DC-Washington/Data-Scientist_33189?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 4d |
+| Data Scientist 🏠 | - DC, WA | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---DC-Washington/Data-Scientist_33189?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 5d |
 
 #### ⚙️ **General Dynamics** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Scientist (CMS) | Any / Remote | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Data-Scientist--CMS-_RQ209139-1?q=data+science) | 2d |
-| Data Scientist | (FLC017), FL Hurlburt Field - Hurlburt Fld | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-Hurlburt-Field---Hurlburt-Fld-FLC017/Data-Scientist-I_RQ209128?q=data+science) | 4d |
-| Data Engineer SME | Church, VA Falls | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Data-Engineer-SME_RQ209151?q=data+science) | 4d |
-| AI Engineer | Church, VA Falls | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/AI-Engineer_RQ209147-2?q=data+science) | 3d |
-| Associate AI/ML Engineer - Active Secret clearance preferred | Any / Remote | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Associate-AI-ML-Engineer---Active-Secret-clearance-preferred_RQ209304?q=data+science) | 1d |
-| Psychometrist (Traumatic Brain Injury studies) | Diego, CA San | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/Psychometrist--Traumatic-Brain-Injury-studies-_RQ209043-1?q=data+science) | 4d |
+| Data Scientist (CMS) | Any / Remote | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Data-Scientist--CMS-_RQ209139-1?q=data+science) | 3d |
+| Data Scientist | (FLC017), FL Hurlburt Field - Hurlburt Fld | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-Hurlburt-Field---Hurlburt-Fld-FLC017/Data-Scientist-I_RQ209128?q=data+science) | 5d |
+| Data Engineer SME | Church, VA Falls | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Data-Engineer-SME_RQ209151?q=data+science) | 5d |
+| AI Engineer | Church, VA Falls | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/AI-Engineer_RQ209147-2?q=data+science) | 4d |
+| Associate AI/ML Engineer - Active Secret clearance preferred | Any / Remote | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Associate-AI-ML-Engineer---Active-Secret-clearance-preferred_RQ209304?q=data+science) | 2d |
+| Psychometrist (Traumatic Brain Injury studies) | Diego, CA San | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/Psychometrist--Traumatic-Brain-Injury-studies-_RQ209043-1?q=data+science) | 5d |
 
 ### 🛡️ **Autonomous & Aerospace** (1 position)
 
@@ -135,8 +130,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🏢 **Top Companies**
 
-#### ⭐ **FAANG+** (2 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (11 positions) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+#### ⭐ **FAANG+** (1 company)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (12 positions)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -161,13 +156,13 @@ No companies available
 List of top locations and number of positions.
 
 - **Mountain View, CA**: 9 positions
-- **Arlington, VA**: 2 positions
+- **San Bruno, CA**: 3 positions
 - **Any / Remote**: 2 positions
 - **Church, VA Falls**: 2 positions
-- **San Bruno, CA**: 2 positions
 - **US, WA**: 1 positions
 - **BATON ROUGE**: 1 positions
 - **Boise, ID**: 1 positions
+- **DC, WA**: 1 positions
 
 ---
 
@@ -234,27 +229,29 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 42 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 44 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 42 positions
+📁 **Total Jobs:** 44 positions
 
 🏢 **Companies:** 9 companies
 
 
-### 🏢 **FAANG+** (12 positions)
+### 🏢 **FAANG+** (14 positions)
 
-#### 📦 **Amazon** (4 positions)
+#### 📦 **Amazon** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Engineer, PXT Central Science | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3109133/data-engineer-pxt-central-science) | 1w |
 | Data Engineer, AWS Infrastructure Supply Chain Automation | Herndon, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3100406/data-engineer-aws-infrastructure-supply-chain-automation) | 3w |
-| Applied Scientist, AWS Neuron Science Team | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3102580/applied-scientist-aws-neuron-science-team) | 3w |
 | Data Engineer, AWS DC Central Operations | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3103409/data-engineer-aws-dc-central-operations) | 2w |
+| Applied Scientist, AWS Neuron Science Team | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3102580/applied-scientist-aws-neuron-science-team) | 3w |
+| Data Scientist, WWPS ProServe Data and Machine Learning | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3097775/data-scientist-wwps-proserve-data-and-machine-learning) | 4w |
+| Data Scientist | Newark, NJ | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3097276/data-scientist) | 4w |
 
 #### 🍎 **Apple** (8 positions)
 
@@ -302,8 +299,8 @@ Either still hiring or useful for research.
 |------|----------|-----------|-----|
 | Data Scientist 🏠 | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Springfield/Data-Scientist_32224?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 | Data Analyst 🏠 | Norfolk, VA | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Norfolk/Data-Analyst_33119-1?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 2w |
-| AI/ML Ops Data Scientist – Jr. 🏠 | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/AI-ML-Ops-Data-Scientist---Jr_32443?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 2w |
-| DoD Business Analytics Engineer 🏠 | Tampa, FL | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---FL-Tampa/DoD-Business-Analytics-Engineer_32570?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 2w |
+| AI/ML Ops Data Scientist – Jr. 🏠 | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/AI-ML-Ops-Data-Scientist---Jr_32443?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 3w |
+| DoD Business Analytics Engineer 🏠 | Tampa, FL | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---FL-Tampa/DoD-Business-Analytics-Engineer_32570?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 | Regulatory Data Analyst 🏠 | ), - Remote (Any | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Regulatory-Data-Analyst_31897?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 2w |
 
 #### ⚙️ **General Dynamics** (9 positions)
