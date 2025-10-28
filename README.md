@@ -56,14 +56,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Data Analyst | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200615676-3956/data-analyst?team=MKTG) | 1d |
 
-### 🏢 **Top Tech** (1 position)
-
-#### 🔶 **AMD** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| AI/ML Compiler Development Engineer | San Jose  San Jose, California US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/57214/login) | 1d |
-
 ### 💻 **Enterprise Software** (2 positions)
 
 #### 🔵 **IBM** (2 positions)
@@ -151,8 +143,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 🏦 **[JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs)** (1 position)
 
 
-#### ☁️ **Enterprise & Cloud** (2 companies)
-🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (1 position) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (2)
+#### ☁️ **Enterprise & Cloud** (1 company)
+🔵 **[IBM](https://www.ibm.com/careers/search)** (2 positions)
 
 ---
 
@@ -160,9 +152,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 3 | 9% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 17 | 49% | 1-2 years of experience. |
-| 🔴 Manager | 15 | 43% | 2+ years of experience. |
+| 🟢 Entry Level & New Grad | 4 | 12% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 15 | 45% | 1-2 years of experience. |
+| 🔴 Manager | 14 | 42% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
