@@ -1,6 +1,6 @@
 # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 12+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 36+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 12+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 35+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -21,7 +21,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 36 hot data-focused jobs
+- 🔥 **Current Positions:** 35 hot data-focused jobs
 - 🏢 **Top Companies:** 12 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** October 28, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -80,7 +80,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Federal Associate Data Engineer | US, WA | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65399&source=WEB_Search_NA) | 1d |
 | Associate Data Scientist - Entry Level (Baton Rouge, LA) | BATON ROUGE | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65753&source=WEB_Search_NA) | 1d |
 
-### 🚀 **Consulting & Services** (15 positions)
+### 🚀 **Consulting & Services** (14 positions)
 
 #### 🛡️ **BAE Systems** (8 positions)
 
@@ -101,13 +101,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Data Scientist 🏠 | - DC, WA | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---DC-Washington/Data-Scientist_33189?q=data+science&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 6d |
 
-#### ⚙️ **General Dynamics** (6 positions)
+#### ⚙️ **General Dynamics** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Scientist (CMS) | Any / Remote | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Data-Scientist--CMS-_RQ209139-1?q=data+science) | 4d |
 | Data Engineer SME | Church, VA Falls | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Data-Engineer-SME_RQ209151?q=data+science) | 6d |
-| Junior Data Engineer | Any / Remote | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Junior-Data-Engineer_RQ209469?q=data+science) | 1d |
 | AI Engineer | Church, VA Falls | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/AI-Engineer_RQ209147-2?q=data+science) | 5d |
 | Secure AI/ML Delivery | AFB, NE Offutt | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NE-Offutt-AFB/Secure-AI-ML-Delivery_RQ209510-1?q=data+science) | 1d |
 | Psychometrist (Traumatic Brain Injury studies) | Diego, CA San | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/Psychometrist--Traumatic-Brain-Injury-studies-_RQ209043-1?q=data+science) | 6d |
@@ -167,9 +166,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 3 | 8% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 18 | 50% | 1-2 years of experience. |
-| 🔴 Manager | 15 | 42% | 2+ years of experience. |
+| 🟢 Entry Level & New Grad | 3 | 9% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 18 | 51% | 1-2 years of experience. |
+| 🔴 Manager | 14 | 40% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -178,17 +177,17 @@ List of top locations and number of positions.
 - **Mountain View, CA**: 7 positions
 - **NY**: 3 positions
 - **Arlington, VA**: 2 positions
-- **Any / Remote**: 2 positions
 - **Church, VA Falls**: 2 positions
 - **Sunnyvale, CA**: 2 positions
 - **San Bruno, CA**: 2 positions
 - **US, WA**: 1 positions
+- **BATON ROUGE**: 1 positions
 
 ---
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 36+ verified roles for data analysts and scientists from 12 elite tech companies.
+✅ **100% Real Jobs:** 35+ verified roles for data analysts and scientists from 12 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -278,8 +277,8 @@ Either still hiring or useful for research.
 | Cellular Data Science & Machine Learning Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626568-3543/cellular-data-science-machine-learning-engineer?team=HRDWR) | 1w |
 | Data Scientist | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625612-1124/data-scientist?team=SFTWR) | 1w |
 | Data Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0157/data-engineer?team=HRDWR) | 2w |
-| Data Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0836/data-engineer?team=HRDWR) | 2w |
 | Data Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-3543/data-engineer?team=HRDWR) | 2w |
+| Data Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0836/data-engineer?team=HRDWR) | 2w |
 | AppleCare Data Scientist | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200619185-0157/applecare-data-scientist?team=CUST) | 1w |
 | Health Sensing Data Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626165-3543/health-sensing-data-engineer?team=HRDWR) | 1w |
 
@@ -356,7 +355,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 36 current opportunities from 12 elite companies.**
+**🎯 35 current opportunities from 12 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
