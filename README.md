@@ -1,6 +1,6 @@
 # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 11+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 32+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 11+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 33+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -21,7 +21,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 32 hot data-focused jobs
+- 🔥 **Current Positions:** 33 hot data-focused jobs
 - 🏢 **Top Companies:** 11 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** October 28, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -80,7 +80,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Federal Associate Data Engineer | US, WA | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65399&source=WEB_Search_NA) | 1d |
 | Associate Data Scientist - Entry Level (Baton Rouge, LA) | BATON ROUGE | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65753&source=WEB_Search_NA) | 1d |
 
-### 🚀 **Consulting & Services** (12 positions)
+### 🚀 **Consulting & Services** (13 positions)
 
 #### 🛡️ **BAE Systems** (6 positions)
 
@@ -116,7 +116,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Scientist [Multiple Positions Available] | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210679354/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 18h |
+| Data Scientist [Multiple Positions Available] | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210679354/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 19h |
 
 ### 🛡️ **Autonomous & Aerospace** (1 position)
 
@@ -165,9 +165,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 4 | 13% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 17 | 53% | 1-2 years of experience. |
-| 🔴 Manager | 11 | 34% | 2+ years of experience. |
+| 🟢 Entry Level & New Grad | 4 | 12% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 17 | 52% | 1-2 years of experience. |
+| 🔴 Manager | 12 | 36% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -186,7 +186,7 @@ List of top locations and number of positions.
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 32+ verified roles for data analysts and scientists from 11 elite tech companies.
+✅ **100% Real Jobs:** 33+ verified roles for data analysts and scientists from 11 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -354,7 +354,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 32 current opportunities from 11 elite companies.**
+**🎯 33 current opportunities from 11 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
