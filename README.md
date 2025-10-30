@@ -38,7 +38,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Research Scientist, Materials Team, AWS Center for Quantum Computing | Pasadena, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3118308/research-scientist-materials-team-aws-center-for-quantum-computing) | 11h |
+| Research Scientist, Materials Team, AWS Center for Quantum Computing | Pasadena, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3118308/research-scientist-materials-team-aws-center-for-quantum-computing) | 12h |
 | Applied Scientist II, AWS Agentic AI | NY | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3117028/applied-scientist-ii-aws-agentic-ai) | 2d |
 
 #### 🟢 **Google** (14 positions)
@@ -102,8 +102,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| 2026 Asset Management Data Scientist - Summer Associate | NY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210669358/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 19h |
-| Associate Data Scientist, Payments Data & Analytics | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210673274/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 21h |
+| 2026 Asset Management Data Scientist - Summer Associate | NY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210669358/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 20h |
+| Associate Data Scientist, Payments Data & Analytics | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210673274/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 22h |
 | Data Scientist [Multiple Positions Available] | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210679354/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2d |
 
 ### 🛡️ **Autonomous & Aerospace** (1 position)
