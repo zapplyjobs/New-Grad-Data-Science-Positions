@@ -1,6 +1,6 @@
 # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 10+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 35+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 9+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 31+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -21,8 +21,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 35 hot data-focused jobs
-- 🏢 **Top Companies:** 10 elite tech including Tesla, NVIDIA, Raytheon
+- 🔥 **Current Positions:** 31 hot data-focused jobs
+- 🏢 **Top Companies:** 9 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** October 30, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 - 📁 **Archived Developer Jobs:** 42 (older than 1 week)
@@ -78,16 +78,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Data Engineer - Entry Level (Buffalo, NY) | Buffalo | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65757&source=WEB_Search_NA) | 1d |
 | Data Engineer - Entry Level (Baton Rouge, LA) | BATON ROUGE | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65787&source=WEB_Search_NA) | 1d |
 
-### 🚀 **Consulting & Services** (7 positions)
-
-#### 🛡️ **BAE Systems** (4 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Data Scientist | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0225955?q=data+science) | 6d |
-| Data Scientist | Springfield, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist_R0225585?q=data+science) | 1d |
-| Geospatial Data Scientist | St. Louis, MO | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/St-Louis-MO/Geospatial-Data-Scientist_R0228776?q=data+science) | 2d |
-| Data Analyst | San Antonio, TX | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Data-Analyst_R0228769?q=data+science) | 2d |
+### 🚀 **Consulting & Services** (3 positions)
 
 #### ⚙️ **General Dynamics** (3 positions)
 
@@ -175,7 +166,7 @@ List of top locations and number of positions.
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 35+ verified roles for data analysts and scientists from 10 elite tech companies.
+✅ **100% Real Jobs:** 31+ verified roles for data analysts and scientists from 9 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -244,7 +235,7 @@ Either still hiring or useful for research.
 
 📁 **Total Jobs:** 42 positions
 
-🏢 **Companies:** 10 companies
+🏢 **Companies:** 9 companies
 
 
 ### 🏢 **FAANG+** (10 positions)
@@ -346,7 +337,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 35 current opportunities from 10 elite companies.**
+**🎯 31 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
