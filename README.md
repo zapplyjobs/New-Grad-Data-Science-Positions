@@ -25,7 +25,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - 🏢 **Top Companies:** 10 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** October 30, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 43 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 42 (older than 1 week)
 
 ---
 
@@ -38,7 +38,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Research Scientist, Materials Team, AWS Center for Quantum Computing | Pasadena, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3118308/research-scientist-materials-team-aws-center-for-quantum-computing) | 9h |
+| Research Scientist, Materials Team, AWS Center for Quantum Computing | Pasadena, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3118308/research-scientist-materials-team-aws-center-for-quantum-computing) | 10h |
 | Applied Scientist II, AWS Agentic AI | NY | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3117028/applied-scientist-ii-aws-agentic-ai) | 2d |
 
 #### 🟢 **Google** (14 positions)
@@ -103,8 +103,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| 2026 Asset Management Data Scientist - Summer Associate | NY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210669358/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 17h |
-| Associate Data Scientist, Payments Data & Analytics | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210673274/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 19h |
+| 2026 Asset Management Data Scientist - Summer Associate | NY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210669358/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 18h |
+| Associate Data Scientist, Payments Data & Analytics | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210673274/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 20h |
 | Data Scientist [Multiple Positions Available] | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210679354/?keyword=data+science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2d |
 
 ### 🛡️ **Autonomous & Aerospace** (1 position)
@@ -236,18 +236,18 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 43 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 42 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 43 positions
+📁 **Total Jobs:** 42 positions
 
 🏢 **Companies:** 10 companies
 
 
-### 🏢 **FAANG+** (9 positions)
+### 🏢 **FAANG+** (8 positions)
 
 #### 📦 **Amazon** (3 positions)
 
@@ -257,7 +257,7 @@ Either still hiring or useful for research.
 | Data Engineer, AWS DC Central Operations | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3103409/data-engineer-aws-dc-central-operations) | 3w |
 | Applied Scientist, AWS Neuron Science Team | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3102580/applied-scientist-aws-neuron-science-team) | 3w |
 
-#### 🍎 **Apple** (6 positions)
+#### 🍎 **Apple** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -266,7 +266,6 @@ Either still hiring or useful for research.
 | Data Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0836/data-engineer?team=HRDWR) | 3w |
 | Data Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0157/data-engineer?team=HRDWR) | 3w |
 | AppleCare Data Scientist | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200619185-0157/applecare-data-scientist?team=CUST) | 1w |
-| Health Sensing Data Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626165-3543/health-sensing-data-engineer?team=HRDWR) | 2w |
 
 ### 🏢 **Top Tech** (1 position)
 
