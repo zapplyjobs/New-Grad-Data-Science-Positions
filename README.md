@@ -186,7 +186,6 @@ List of top locations and number of positions.
 - **NY**: 4 positions
 - **San Bruno, CA**: 2 positions
 - **Phoenix, AZ**: 1 positions
-- **Sunnyvale, CA**: 1 positions
 - **Palo Alto, CA**: 1 positions
 - **Seattle, WA**: 1 positions
 - **Santa Clara, CA**: 1 positions
