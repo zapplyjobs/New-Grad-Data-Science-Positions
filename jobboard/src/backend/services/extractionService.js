@@ -3,27 +3,6 @@ const { buildApplyLink, convertToDescriptionLink } = require('../utils/urlBuilde
 const { EXTRACTION_CONSTANTS } = require('../utils/constants.js');
 
 /**
- * Apply company-specific slicing to job elements
- * @param {Array} jobElements - Array of job elements
- * @param {string} companyName - Name of the company
- * @returns {Array} Sliced job elements array
- */
-function applyCompanySlicing(jobElements, companyName) {
-  const originalCount = jobElements.length;
-  let slicedElements = jobElements;
-  
-  if (companyName === 'Applied Materials') {
-    slicedElements = jobElements.slice(-EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
-    console.log(`[${companyName}] Keeping last ${EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT} jobs (${originalCount} -> ${slicedElements.length})`);
-  } else if (companyName === 'Infineon Technologies' || companyName === 'Arm') {
-    slicedElements = jobElements.slice(0, 15);
-    console.log(`[${companyName}] Keeping first 15 jobs (${originalCount} -> ${slicedElements.length})`);
-  }
-  
-  return slicedElements;
-}
-
-/**
  * Extract job data for a single page with integrated description extraction
  * @param {Object} page - Puppeteer page instance
  * @param {Object} selector - Selector configuration
@@ -35,18 +14,15 @@ async function extractJobData(page, selector, company, pageNum) {
   const jobs = [];
 
   try {
-    // Reduced initial wait from 2000ms to 1000ms
-    await new Promise(resolve => setTimeout(resolve, 3000));
-    
     await waitForJobSelector(page, selector.jobSelector);
     await preparePageForExtraction(page);
-    
-    // Reduced post-preparation wait from 1000ms to 500ms
-    await new Promise(resolve => setTimeout(resolve, 500));
 
     let jobElements = await page.$$(selector.jobSelector);
-    jobElements = applyCompanySlicing(jobElements, selector.name);
-    
+
+    if (selector.name === 'Applied Materials') {
+      jobElements = jobElements.slice(-EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
+    }
+
     console.log(`Found ${jobElements.length} job elements for ${company.name} on page ${pageNum}`);
 
     if (jobElements.length === 0) {
@@ -54,72 +30,45 @@ async function extractJobData(page, selector, company, pageNum) {
       return jobs;
     }
 
+    // Check description type and extract accordingly
     const descriptionType = selector.descriptionType || 'same-page';
-    const needsNextPageExtraction = descriptionType === 'next-page' || selector.postedType === 'next-page';
     const currentUrl = page.url();
 
-    if (needsNextPageExtraction) { 
-      const allJobData = [];
-      
+    if (descriptionType === 'next-page') {
+      // Extract basic data first, then navigate to each job page
       for (let i = 0; i < jobElements.length; i++) {
+        // Re-fetch job elements to avoid stale references after navigation
+        jobElements = await page.$$(selector.jobSelector);
+        if (selector.name === 'Applied Materials') {
+          jobElements = jobElements.slice(-EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
+        }
+        
+        if (i >= jobElements.length) {
+          console.warn(`Job element ${i} no longer exists, skipping...`);
+          continue;
+        }
+
         const jobData = await extractSingleJobData(page, jobElements[i], selector, company, i, pageNum);
+        
         if (jobData.title || jobData.applyLink) {
-          allJobData.push(jobData);
-        }
-      }
-      
-      console.log(`Extracted ${allJobData.length} jobs upfront, now navigating for details...`);
-      
-      for (let i = 0; i < allJobData.length; i++) {
-        const jobData = allJobData[i];
-        
-        // Reduced delay from 1500ms to 800ms
-        if (i > 0) {
-          await new Promise(resolve => setTimeout(resolve, 800));
-        }
-        
-        if (jobData.applyLink && (selector.descriptionSelector || selector.postedType === 'next-page')) {
-          const { description, posted } = await extractFromNextPage(
-            page, 
-            jobData.applyLink, 
-            selector, 
-            currentUrl, 
-            i + 1,
-            jobData.posted
-          );
-          
-          if (selector.descriptionSelector) {
-            jobData.description = description;
+          // Extract description by navigating to job page
+          if (selector.descriptionSelector && jobData.applyLink) {
+            jobData.description = await extractDescriptionNextPage(page, jobData.applyLink, selector, currentUrl, i + 1);
           }
-          
-          if (selector.postedType === 'next-page') {
-            jobData.posted = posted;
-          }
+          jobs.push(jobData);
         }
-        
-        jobs.push(jobData);
       }
       
     } else {
-      const totalElements = await page.$$eval(selector.jobSelector, els => els.length);
-      
-      let jobCount = totalElements;
-      if (selector.name === 'Applied Materials') {
-        jobCount = Math.min(totalElements, EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
-      } else if (selector.name === 'Infineon Technologies' || selector.name === 'Arm') {
-        jobCount = Math.min(totalElements, EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
-      }
-      
-      console.log(`Processing ${jobCount} jobs for same-page extraction...`);
+      // Same-page extraction - FIXED VERSION
+      const jobCount = await page.$$eval(selector.jobSelector, els => els.length);
       
       for (let i = 0; i < jobCount; i++) {
-        // Reduced delay from 800ms to 500ms
-        if (i > 0) {
-          await new Promise(resolve => setTimeout(resolve, 500));
+        // Re-select job elements fresh each time to avoid detached nodes
+        const currentJobElements = await page.$$(selector.jobSelector);
+        if (selector.name === 'Applied Materials') {
+          currentJobElements = currentJobElements.slice(-EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
         }
-        
-        let currentJobElements = await page.$$(selector.jobSelector);
-        currentJobElements = applyCompanySlicing(currentJobElements, selector.name);
         
         if (i >= currentJobElements.length) {
           console.warn(`Job element ${i} no longer exists, skipping...`);
@@ -129,6 +78,7 @@ async function extractJobData(page, selector, company, pageNum) {
         const jobData = await extractSingleJobData(page, currentJobElements[i], selector, company, i, pageNum);
         
         if (jobData.title || jobData.applyLink) {
+          // Extract description on same page if selector exists - FIXED TO USE INDEX
           if (selector.descriptionSelector) {
             jobData.description = await extractDescriptionSamePage(page, i, selector, i + 1);
           }
@@ -157,6 +107,7 @@ async function extractJobData(page, selector, company, pageNum) {
 async function extractSingleJobData(page, jobElement, selector, company, index, pageNum) {
   const rawJobData = await jobElement.evaluate(
     (el, sel, jobIndex) => {
+      // Helper functions
       const getText = (selector) => {
         const elem = selector ? el.querySelector(selector) : null;
         return elem ? elem.textContent.trim() : '';
@@ -167,6 +118,7 @@ async function extractSingleJobData(page, jobElement, selector, company, index, 
         return elem ? elem.getAttribute(attr) : '';
       };
 
+      // Extract title
       let title = '';
       if (sel.titleAttribute) {
         title = getAttr(sel.titleSelector, sel.titleAttribute);
@@ -174,6 +126,7 @@ async function extractSingleJobData(page, jobElement, selector, company, index, 
         title = getText(sel.titleSelector);
       }
 
+      // Extract raw apply link
       let applyLink = '';
       if (sel.applyLinkSelector) {
         applyLink = getAttr(sel.applyLinkSelector.replace(/\${index}/g, jobIndex), sel.linkAttribute);
@@ -183,6 +136,7 @@ async function extractSingleJobData(page, jobElement, selector, company, index, 
         applyLink = el.getAttribute(sel.linkAttribute) || '';
       }
 
+      // Extract location with special handling
       let location = '';
       if (['Honeywell', 'JPMorgan Chase', 'Texas Instruments'].includes(sel.name)) {
         const locationSpans = el.querySelectorAll('span:not(.job-tile__title)');
@@ -203,13 +157,16 @@ async function extractSingleJobData(page, jobElement, selector, company, index, 
         location = getText(sel.locationSelector);
       }
 
-      let posted = 'Recently';
-      if (sel.postedType !== 'next-page') {
-        posted = sel.postedSelector ? getText(sel.postedSelector) : 'Recently';
+      // Extract posted date - return null if not found
+      let posted = null;
+      if (sel.postedSelector) {
+        const postedText = getText(sel.postedSelector);
+        posted = postedText || null;
 
-        if (sel.name === '10x Genomics' && sel.postedSelector) {
+        // Special handling for 10x Genomics
+        if (sel.name === '10x Genomics') {
           const dateElements = el.querySelectorAll(sel.postedSelector);
-          posted = 'Recently';
+          posted = null;
           for (const div of dateElements) {
             const text = div.textContent.trim();
             if (
@@ -232,29 +189,13 @@ async function extractSingleJobData(page, jobElement, selector, company, index, 
     index
   );
 
-  let finalApplyLink = '';
-  
-  if (selector.extractUrlAfterClick) {
-    try {
-      console.log(`[${selector.name} ${index + 1}] Clicking job to extract URL...`);
-      await jobElement.click();
-      
-      // Reduced wait from 1200ms to 800ms
-      await new Promise(resolve => setTimeout(resolve, 800));
-      
-      finalApplyLink = page.url();
-      console.log(`[${selector.name} ${index + 1}] Extracted URL after click: ${finalApplyLink}`);
-    } catch (error) {
-      console.error(`[${selector.name} ${index + 1}] Failed to extract URL after click: ${error.message}`);
-      finalApplyLink = company.baseUrl || '';
-    }
-  } else {
-    finalApplyLink = buildApplyLink(rawJobData.applyLink, company.baseUrl || '');
-    if (!finalApplyLink && company.baseUrl) {
-      finalApplyLink = company.baseUrl;
-    }
+  // Build full apply link
+  let finalApplyLink = buildApplyLink(rawJobData.applyLink, company.baseUrl || '');
+  if (!finalApplyLink && company.baseUrl) {
+    finalApplyLink = company.baseUrl;
   }
 
+  // Build job object
   const job = {
     company: selector.name,
     title: rawJobData.title,
@@ -263,6 +204,7 @@ async function extractSingleJobData(page, jobElement, selector, company, index, 
     posted: rawJobData.posted,
   };
 
+  // Add optional fields
   if (selector.reqIdSelector) {
     job.reqId = await jobElement.evaluate((el, sel) => {
       const elem = el.querySelector(sel.reqIdSelector);
@@ -289,187 +231,106 @@ async function extractSingleJobData(page, jobElement, selector, company, index, 
  * @returns {string} Job description
  */
 async function extractDescriptionSamePage(page, jobIndex, selector, jobNumber) {
-  let retries = 1;
-  
-  while (retries > 0) {
-    try {
-      console.log(`[${jobNumber}] Same-page description extraction (attempt ${4 - retries})...`);
+  try {
+    console.log(`[${jobNumber}] Same-page description extraction...`);
+    
+    // Wait for job elements to be stable
+    await page.waitForSelector(selector.jobSelector, { timeout: 5000 });
+    
+    // Use page.evaluate to handle clicking in a more robust way - avoids detached nodes
+    const clickResult = await page.evaluate((jobSelector, titleSelector, jobIdx) => {
+      const jobElements = document.querySelectorAll(jobSelector);
       
-      // Reduced timeout from 5000ms to 3000ms
-      await page.waitForSelector(selector.jobSelector, { timeout: 3000 });
-      
-      const clickResult = await page.evaluate((jobSelector, titleSelector, jobIdx, companyName) => {
-        let jobElements = document.querySelectorAll(jobSelector);
-        
-        const LIMIT = 15;
-        if (companyName === 'Applied Materials') {
-          const allElements = Array.from(jobElements);
-          jobElements = allElements.slice(-LIMIT);
-        } else if (companyName === 'Infineon Technologies' || companyName === 'Arm') {
-          const allElements = Array.from(jobElements);
-          jobElements = allElements.slice(0, LIMIT);
-        }
-        
-        if (!jobElements[jobIdx]) {
-          return { success: false, error: 'Job element not found' };
-        }
-        
-        const titleElement = jobElements[jobIdx].querySelector(titleSelector);
-        if (!titleElement) {
-          return { success: false, error: 'Title element not found' };
-        }
-        
-        titleElement.click();
-        return { success: true };
-      }, selector.jobSelector, selector.titleSelector, jobIndex, selector.name);
-      
-      if (!clickResult.success) {
-        throw new Error(clickResult.error);
+      if (!jobElements[jobIdx]) {
+        return { success: false, error: 'Job element not found' };
       }
       
-      // Reduced wait from 1200ms to 800ms
-      await new Promise(resolve => setTimeout(resolve, 800));
-      
-      // Reduced timeout from 6000ms to 4000ms
-      await page.waitForSelector(selector.descriptionSelector, { timeout: 4000 });
-      
-      const description = await extractAndFormatDescription(page, selector.descriptionSelector);
-      
-      console.log(`[${jobNumber}] Same-page description extracted (${description.length} chars)`);
-      return description;
-      
-    } catch (error) {
-      retries--;
-      console.warn(`[${jobNumber}] Same-page attempt failed: ${error.message}${retries > 0 ? ' - Retrying...' : ''}`);
-      
-      if (retries > 0) {
-        // Reduced retry wait from 1000ms to 600ms
-        await new Promise(resolve => setTimeout(resolve, 600));
-        try {
-          await waitForJobSelector(page, selector.jobSelector);
-        } catch (waitError) {
-          console.warn(`[${jobNumber}] Wait for job selector failed: ${waitError.message}`);
-        }
+      const titleElement = jobElements[jobIdx].querySelector(titleSelector);
+      if (!titleElement) {
+        return { success: false, error: 'Title element not found' };
       }
+      
+      titleElement.click();
+      return { success: true };
+    }, selector.jobSelector, selector.titleSelector, jobIndex);
+    
+    if (!clickResult.success) {
+      throw new Error(clickResult.error);
     }
+    
+    // Wait for description to load
+    await new Promise(resolve => setTimeout(resolve, 1200));
+    await page.waitForSelector(selector.descriptionSelector, { timeout: 6000 });
+    
+    // Extract description
+    const description = await extractAndFormatDescription(page, selector.descriptionSelector);
+    
+    console.log(`[${jobNumber}] Same-page description extracted (${description.length} chars)`);
+    return description;
+    
+  } catch (error) {
+    console.warn(`[${jobNumber}] Same-page extraction failed: ${error.message}`);
+    return 'Same-page description extraction failed';
   }
-  
-  return 'Same-page description extraction failed after retries';
 }
 
 /**
- * Extract description and/or posted date by navigating to job details page
+ * Extract description by navigating to job details page
  * @param {Object} page - Puppeteer page instance
  * @param {string} applyLink - URL to job details page
  * @param {Object} selector - Selector configuration
  * @param {string} originalUrl - Original listing page URL to return to
  * @param {number} jobNumber - Job number for logging
- * @param {string} fallbackPosted - Fallback posted date if extraction fails
- * @returns {Object} Object with description and posted date
- */
-async function extractFromNextPage(page, applyLink, selector, originalUrl, jobNumber, fallbackPosted = 'Recently') {
-  let retries = 2;
-  
-  while (retries > 0) {
-    try {
-      console.log(`[${jobNumber}] Next-page extraction (attempt ${3 - retries})...`);
-      
-      const descriptionLink = convertToDescriptionLink(applyLink, selector.name);
-      console.log(`[${jobNumber}] Navigating to ${descriptionLink}`);
-      
-      // Reduced pre-navigation delay from 1000ms to 600ms
-      await new Promise(resolve => setTimeout(resolve, 600));
-      
-      // Reduced timeout from 20000ms to 15000ms
-      await page.goto(descriptionLink, { 
-        waitUntil: 'domcontentloaded', 
-        timeout: 15000 
-      });
-      
-      // Reduced stabilization wait from 1500ms to 1000ms
-      await new Promise(resolve => setTimeout(resolve, 1000));
-
-      let description = 'Description not available';
-      let posted = fallbackPosted;
-
-      if (selector.descriptionSelector) {
-        try {
-          // Reduced timeout from 10000ms to 8000ms
-          await page.waitForSelector(selector.descriptionSelector, { timeout: 8000 });
-          description = await extractAndFormatDescription(page, selector.descriptionSelector);
-          console.log(`[${jobNumber}] Description extracted (${description.length} chars)`);
-        } catch (descError) {
-          console.warn(`[${jobNumber}] Description extraction failed: ${descError.message}`);
-        }
-      }
-
-      if (selector.postedType === 'next-page' && selector.postedSelector) {
-        try {
-          // Reduced timeout from 5000ms to 3000ms
-          await page.waitForSelector(selector.postedSelector, { timeout: 3000 });
-          posted = await page.$eval(selector.postedSelector, el => el.textContent.trim());
-          console.log(`[${jobNumber}] Posted date extracted: ${posted}`);
-        } catch (postedError) {
-          console.warn(`[${jobNumber}] Posted date extraction failed: ${postedError.message}`);
-          posted = fallbackPosted;
-        }
-      }
-      
-      try {
-        // Reduced back navigation timeout from 115000ms to 12000ms
-        await page.goto(originalUrl, { 
-          waitUntil: 'domcontentloaded', 
-          timeout: 12000 
-        });
-        await waitForJobSelector(page, selector.jobSelector);
-        
-        // Reduced stability pause from 500ms to 300ms
-        await new Promise(resolve => setTimeout(resolve, 300));
-        console.log(`[${jobNumber}] Successfully returned to listing page`);
-      } catch (backNavError) {
-        console.error(`[${jobNumber}] Failed to navigate back to listing: ${backNavError.message}`);
-      }
-      
-      return { description, posted };
-      
-    } catch (error) {
-      retries--;
-      console.warn(`[${jobNumber}] Next-page attempt failed: ${error.message}${retries > 0 ? ' - Retrying...' : ''}`);
-      
-      if (retries > 0) {
-        try {
-          // Reduced retry navigation timeout from 10000ms to 8000ms
-          await page.goto(originalUrl, { waitUntil: 'domcontentloaded', timeout: 8000 });
-          await waitForJobSelector(page, selector.jobSelector);
-        } catch (retryNavError) {
-          console.error(`Failed to navigate back for retry: ${retryNavError.message}`);
-        }
-        // Reduced retry delay from 1000ms to 600ms
-        await new Promise(resolve => setTimeout(resolve, 600));
-      }
-    }
-  }
-  
-  try {
-    // Reduced final navigation timeout from 15000ms to 10000ms
-    await page.goto(originalUrl, { waitUntil: 'domcontentloaded', timeout: 10000 });
-    await waitForJobSelector(page, selector.jobSelector);
-  } catch (finalNavError) {
-    console.error(`[${jobNumber}] Failed final navigation back to listing: ${finalNavError.message}`);
-  }
-  
-  return { 
-    description: 'Next-page extraction failed after retries',
-    posted: fallbackPosted
-  };
-}
-
-/**
- * DEPRECATED: Use extractFromNextPage instead
+ * @returns {string} Job description
  */
 async function extractDescriptionNextPage(page, applyLink, selector, originalUrl, jobNumber) {
-  const { description } = await extractFromNextPage(page, applyLink, selector, originalUrl, jobNumber);
-  return description;
+  try {
+    console.log(`[${jobNumber}] Next-page extraction...`);
+    
+    // Convert apply link to description link and navigate
+    const descriptionLink = convertToDescriptionLink(applyLink, selector.name);
+    console.log(`[${jobNumber}] Converting ${applyLink} to ${descriptionLink}`);
+    
+    await page.goto(descriptionLink, { 
+      waitUntil: 'domcontentloaded', 
+      timeout: 20000 
+    });
+    
+    // Extract description
+    await page.waitForSelector(selector.descriptionSelector, { timeout: 10000 });
+    const description = await extractAndFormatDescription(page, selector.descriptionSelector);
+    
+    console.log(`[${jobNumber}] Next-page description extracted (${description.length} chars)`);
+    
+    // Navigate back to the original listing page
+    try {
+      await page.goto(originalUrl, { 
+        waitUntil: 'domcontentloaded', 
+        timeout: 115000 
+      });
+      await waitForJobSelector(page, selector.jobSelector);
+      await new Promise(resolve => setTimeout(resolve, 500)); // Brief pause for page stability
+      console.log(`[${jobNumber}] Successfully returned to listing page`);
+    } catch (backNavError) {
+      console.error(`[${jobNumber}] Failed to navigate back to listing: ${backNavError.message}`);
+      // Still return the description even if navigation back fails
+    }
+    
+    return description;
+    
+  } catch (error) {
+    console.warn(`[${jobNumber}] Next-page extraction failed: ${error.message}`);
+    
+    // Try to go back to original URL
+    try {
+      await page.goto(originalUrl, { waitUntil: 'domcontentloaded', timeout: 15000 });
+      await waitForJobSelector(page, selector.jobSelector);
+    } catch (finalNavError) {
+      console.error(`[${jobNumber}] Failed navigation back to listing: ${finalNavError.message}`);
+    }
+    
+    return 'Next-page description extraction failed';
+  }
 }
 
 /**
@@ -484,11 +345,17 @@ async function extractAndFormatDescription(page, descriptionSelector) {
     
     if (descElements.length === 0) return 'No description found';
     
+    // Enhanced keywords for filtering relevant content - prioritizing experience/qualification mentions
     const highPriorityKeywords = [
+      // Experience and qualification keywords (highest priority)
       'experience', 'years', 'minimum', 'required', 'require', 'must have', 'need', 
       'prefer', 'qualification', 'background', 'track record', 'proven', 'demonstrated',
+      
+      // Education keywords
       'degree', 'bachelor', 'master', 'phd', 'doctorate', 'education', 'graduate',
       'university', 'college', 'certification', 'certified',
+      
+      // Skill and requirement keywords
       'skill', 'ability', 'knowledge', 'expertise', 'proficient', 'familiar',
       'essential', 'should', 'preferred', 'ideal', 'candidate', 'applicant'
     ];
@@ -498,6 +365,7 @@ async function extractAndFormatDescription(page, descriptionSelector) {
       'opportunity', 'team', 'company', 'department', 'organization'
     ];
     
+    // Level indicators that are important for filtering
     const levelKeywords = [
       'junior', 'senior', 'lead', 'principal', 'entry', 'entry-level', 'associate',
       'manager', 'director', 'head', 'chief', 'expert', 'specialist', 'consultant',
@@ -507,6 +375,7 @@ async function extractAndFormatDescription(page, descriptionSelector) {
     let relevantSections = [];
     let allText = '';
     
+    // First pass: collect high-priority content (experience, qualifications, requirements)
     Array.from(descElements).forEach(element => {
       const text = element.textContent.trim().toLowerCase();
       const hasHighPriority = highPriorityKeywords.some(keyword => text.includes(keyword));
@@ -521,7 +390,9 @@ async function extractAndFormatDescription(page, descriptionSelector) {
       }
     });
     
+    // If we have high-priority content, prioritize it
     if (relevantSections.length > 0) {
+      // Sort by priority (high first), then by text length
       relevantSections.sort((a, b) => {
         if (a.priority !== b.priority) {
           return a.priority === 'high' ? -1 : 1;
@@ -532,6 +403,7 @@ async function extractAndFormatDescription(page, descriptionSelector) {
       allText = relevantSections.slice(0, 10).map(section => section.text).join(' ');
     }
     
+    // Fallback: if no high-priority content, look for medium priority
     if (!allText) {
       Array.from(descElements).forEach(element => {
         const text = element.textContent.trim().toLowerCase();
@@ -543,6 +415,7 @@ async function extractAndFormatDescription(page, descriptionSelector) {
       });
     }
     
+    // Final fallback: get all text if nothing else worked
     if (!allText) {
       allText = Array.from(descElements)
         .map(el => el.textContent.trim())
@@ -554,12 +427,15 @@ async function extractAndFormatDescription(page, descriptionSelector) {
       return 'Description content not available';
     }
     
+    // Enhanced text processing for better experience extraction
     function processTextForExperienceExtraction(text) {
+      // Split into sentences and filter for experience-related content
       const sentences = text
         .split(/[.!?;]+/)
         .map(s => s.trim())
-        .filter(s => s.length > 20);
+        .filter(s => s.length > 20); // Longer sentences more likely to contain requirements
       
+      // Prioritize sentences with experience keywords
       const experienceKeywords = [
         'year', 'experience', 'minimum', 'require', 'must', 'need', 'prefer',
         'background', 'qualification', 'degree', 'education', 'skill'
@@ -577,14 +453,16 @@ async function extractAndFormatDescription(page, descriptionSelector) {
         )
       );
       
+      // Combine experience-related sentences first, then others
       const prioritizedSentences = [...experienceRelatedSentences, ...otherSentences];
       
-      return prioritizedSentences.slice(0, 8);
+      return prioritizedSentences.slice(0, 8); // Limit to 8 most relevant sentences
     }
     
     const processedSentences = processTextForExperienceExtraction(allText);
     
     if (processedSentences.length === 0) {
+      // If no sentences, format the raw text
       let cleanText = allText.trim();
       cleanText = cleanText.charAt(0).toUpperCase() + cleanText.slice(1);
       
@@ -595,16 +473,24 @@ async function extractAndFormatDescription(page, descriptionSelector) {
       return `• ${cleanText}`;
     }
     
+    // Format sentences with proper structure
     return processedSentences
       .map(sentence => {
+        // Clean up the sentence
         let cleanSentence = sentence.trim();
+        
+        // Remove redundant spaces and normalize
         cleanSentence = cleanSentence.replace(/\s+/g, ' ');
+        
+        // Capitalize first letter
         cleanSentence = cleanSentence.charAt(0).toUpperCase() + cleanSentence.slice(1);
         
+        // Ensure it ends with proper punctuation
         if (!cleanSentence.endsWith('.') && !cleanSentence.endsWith('!') && !cleanSentence.endsWith('?')) {
           cleanSentence += '.';
         }
         
+        // Add bullet point with proper indentation
         return `• ${cleanSentence}`;
       })
       .join('\n');
@@ -612,6 +498,7 @@ async function extractAndFormatDescription(page, descriptionSelector) {
   }, descriptionSelector);
 }
 
+// Helper function to validate if extracted description contains experience info
 function validateDescriptionForExperience(description) {
   if (!description || description === 'Description content not available' || description === 'No description found') {
     return { hasExperience: false, confidence: 0 };
@@ -631,13 +518,13 @@ function validateDescriptionForExperience(description) {
   
   return {
     hasExperience: matches > 0,
-    confidence: Math.min(matches * 0.3, 1),
+    confidence: Math.min(matches * 0.3, 1), // 0.3 per match, max 1.0
     matchCount: matches
   };
 }
 
 /**
- * Extract descriptions in batch for multiple jobs
+ * Extract descriptions in batch for multiple jobs (alternative approach)
  * @param {Object} page - Puppeteer page instance
  * @param {Array} jobs - Array of job objects with apply links
  * @param {Object} selector - Selector configuration
@@ -657,20 +544,16 @@ async function extractDescriptionsInBatch(page, jobs, selector) {
     try {
       console.log(`[${i + 1}/${jobs.length}] Batch extracting: ${job.title.substring(0, 40)}...`);
       
-      // Reduced timeout from 15000ms to 12000ms
       await page.goto(job.applyLink, { 
         waitUntil: 'domcontentloaded', 
-        timeout: 12000 
+        timeout: 15000 
       });
       
-      // Reduced timeout from 8000ms to 6000ms
-      await page.waitForSelector(selector.descriptionSelector, { timeout: 6000 });
+      await page.waitForSelector(selector.descriptionSelector, { timeout: 8000 });
       job.description = await extractAndFormatDescription(page, selector.descriptionSelector);
       
       console.log(`Batch description extracted (${job.description.length} characters)`);
-      
-      // Reduced delay from 500ms to 300ms
-      await new Promise(resolve => setTimeout(resolve, 300));
+      await new Promise(resolve => setTimeout(resolve, 500));
       
     } catch (error) {
       console.error(`Batch extraction failed for "${job.title}": ${error.message}`);

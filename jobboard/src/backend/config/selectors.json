@@ -140,8 +140,44 @@
     }
 
   },
- 
+  "salesforce": {
+    "name": "Salesforce",
+    "jobSelector": "div.card.card-job",
+    "titleSelector": "a.stretched-link.js-view-job",
+    "applyLinkSelector": "a.stretched-link.js-view-job",
+    "linkAttribute": "href",
+    "locationSelector": "ul.list-inline.locations li.list-inline-item",
+    
+    "postedSelector": "time",
+    "descriptionType": "next-page",
 
+    "descriptionSelector": "ul",
+  
+
+    "pagination": {
+      "type": "url-page",
+      "pageParam": "page"
+     
+    }
+  },
+  "dell": {
+    "name": "Dell",
+    "jobSelector": "li.css-1q2dra3",
+    "titleSelector": "h3",
+    "applyLinkSelector": "a",
+    "linkAttribute": "href",
+    "locationSelector": "div[data-automation-id='locations'] dd.css-129m7dg",
+    "postedSelector": "div[data-automation-id='postedOn'] dd.css-129m7dg",
+    "categorySelector": "div[data-automation-id='jobCategory'] dd.css-129m7dg",
+    "reqIdSelector": "div[data-automation-id='jobReqId'] dd.css-129m7dg",
+    "descriptionSelector": "ul",
+    "pagination": {
+      "type": "chevron-click",
+      "nextButtonSelector": "svg.wd-icon-chevron-right-small.wd-icon",
+      "parentButtonSelector": "button",
+      "disabledAttribute": "aria-disabled"
+    }
+  },
   "10xgenomics": {
     "name": "10x Genomics",
     "jobSelector": "[data-test-id=\"job-listing\"]",
@@ -346,7 +382,6 @@
     "applyLinkSelector": "a",
     "linkAttribute": "href",
     "locationSelector": "span.job-tile__location",
-    "postedType":"next-page",
     "postedSelector": "#main > job-details-wrapper > div > div > job-details-checker > job-details-loader > job-details-page > div > article > job-details-content > div > div.cc-page.cc-page--job-details-fullscreen > div > div > div > div:nth-child(1) > div > div > div > div.component-styling-wrapper-89164 > div > div.job-details__info-section > div > div > ul > li:nth-child(4)>span.job-meta__subitem",
     "categorySelector": "span.job-tile__category",
     "descriptionSelector": "ul",
@@ -399,7 +434,7 @@
     "linkAttribute": "href",
     "locationSelector": "span.location",
     "categorySelector": "span.category",
-    "postedType": "next-page",
+    
     "postedSelector": "#ajd-header > div > div > div.ajd_header__job-heading.fs-m-7.fs-l-5.pb-l-1.pb-xl-0 > span.job-date.job-info",
     "descriptionType": "next-page",
     "descriptionSelector": "span",
