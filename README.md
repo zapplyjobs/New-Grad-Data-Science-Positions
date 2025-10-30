@@ -155,9 +155,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 8 | 22% | No or minimal experience. |
+| 🟢 Entry Level & New Grad | 6 | 17% | No or minimal experience. |
 | 🟡 Beginner & Early Career | 21 | 58% | 1-2 years of experience. |
-| 🔴 Manager | 7 | 19% | 2+ years of experience. |
+| 🔴 Manager | 9 | 25% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -277,7 +277,7 @@ Either still hiring or useful for research.
 |------|----------|-----------|-----|
 | AI/ML System Simulation Engineer | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/AI-ML-Engineer-HW-SW_2501958?q=data+science&Country=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 
-### 🚀 **Consulting & Services** (29 positions)
+### 🚀 **Consulting & Services** (28 positions)
 
 #### 🛡️ **BAE Systems** (13 positions)
 
