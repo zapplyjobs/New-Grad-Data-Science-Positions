@@ -34,5 +34,101 @@
     "job_title": "Data Scientist",
     "company": "Waymo",
     "first_seen": "2025-10-30T13:17:37.884Z"
+  },
+  "abb-business-operations-support-analyst-phoenix": {
+    "assigned_date": "2025-10-30T15:18:22.793Z",
+    "job_title": "Business Operations Support Analyst",
+    "company": "ABB",
+    "first_seen": "2025-10-30T15:18:22.793Z"
+  },
+  "google-data-scientist,-research,-search-ads-": {
+    "assigned_date": "2025-10-30T15:18:22.793Z",
+    "job_title": "Data Scientist, Research, Search Ads",
+    "company": "Google",
+    "first_seen": "2025-10-30T15:18:22.793Z"
+  },
+  "google-data-scientist-iii,-research-mountain-view": {
+    "assigned_date": "2025-10-30T15:18:22.793Z",
+    "job_title": "Data Scientist III, Research",
+    "company": "Google",
+    "first_seen": "2025-10-30T15:18:22.793Z"
+  },
+  "google-data-scientist,-research,-ads-insight-and-measurement-": {
+    "assigned_date": "2025-10-30T15:18:22.793Z",
+    "job_title": "Data Scientist, Research, Ads Insight and Measurement",
+    "company": "Google",
+    "first_seen": "2025-10-30T15:18:22.793Z"
+  },
+  "google-data-scientist-iii,-research,-search-ads-mountain-view": {
+    "assigned_date": "2025-10-30T15:18:22.793Z",
+    "job_title": "Data Scientist III, Research, Search Ads",
+    "company": "Google",
+    "first_seen": "2025-10-30T15:18:22.793Z"
+  },
+  "google-data-scientist-iii,-research,-search-ai-mode-mountain-view": {
+    "assigned_date": "2025-10-30T15:18:22.793Z",
+    "job_title": "Data Scientist III, Research, Search AI Mode",
+    "company": "Google",
+    "first_seen": "2025-10-30T15:18:22.793Z"
+  },
+  "google-data-scientist,-research,-search-experiments-mountain-view": {
+    "assigned_date": "2025-10-30T15:18:22.793Z",
+    "job_title": "Data Scientist, Research, Search Experiments",
+    "company": "Google",
+    "first_seen": "2025-10-30T15:18:22.793Z"
+  },
+  "google-data-scientist,-research,-ai-data-mountain-view": {
+    "assigned_date": "2025-10-30T15:18:22.793Z",
+    "job_title": "Data Scientist, Research, AI Data",
+    "company": "Google",
+    "first_seen": "2025-10-30T15:18:22.793Z"
+  },
+  "google-data-scientist,-research,-youtube-gaming-discovery-san-bruno": {
+    "assigned_date": "2025-10-30T15:18:22.793Z",
+    "job_title": "Data Scientist, Research, YouTube Gaming Discovery",
+    "company": "Google",
+    "first_seen": "2025-10-30T15:18:22.793Z"
+  },
+  "google-data-scientist,-brand-bidding-optimization,-youtube-mountain-view": {
+    "assigned_date": "2025-10-30T15:18:22.793Z",
+    "job_title": "Data Scientist, Brand Bidding Optimization, YouTube",
+    "company": "Google",
+    "first_seen": "2025-10-30T15:18:22.793Z"
+  },
+  "google-discover-data-scientist,-research-mountain-view": {
+    "assigned_date": "2025-10-30T15:18:22.793Z",
+    "job_title": "Discover Data Scientist, Research",
+    "company": "Google",
+    "first_seen": "2025-10-30T15:18:22.793Z"
+  },
+  "google-data-scientist,-product,-google-ads-creative-": {
+    "assigned_date": "2025-10-30T15:18:22.793Z",
+    "job_title": "Data Scientist, Product, Google Ads Creative",
+    "company": "Google",
+    "first_seen": "2025-10-30T15:18:22.793Z"
+  },
+  "google-business-data-scientist,-impact-measurement-san-bruno": {
+    "assigned_date": "2025-10-30T15:18:22.793Z",
+    "job_title": "Business Data Scientist, Impact Measurement",
+    "company": "Google",
+    "first_seen": "2025-10-30T15:18:22.793Z"
+  },
+  "google-business-data-scientist,-statistics,-platform-analytics,-google-cloud-sunnyvale": {
+    "assigned_date": "2025-10-30T15:18:22.793Z",
+    "job_title": "Business Data Scientist, Statistics, Platform Analytics, Google Cloud",
+    "company": "Google",
+    "first_seen": "2025-10-30T15:18:22.793Z"
+  },
+  "google-data-scientist---product,-play-monetization,-fraud-and-abuse-mountain-view": {
+    "assigned_date": "2025-10-30T15:18:22.793Z",
+    "job_title": "Data Scientist - Product, Play Monetization, Fraud and Abuse",
+    "company": "Google",
+    "first_seen": "2025-10-30T15:18:22.793Z"
+  },
+  "salesforce-research-scientist---salesforce-ai-research-palo-alto": {
+    "assigned_date": "2025-10-30T15:18:22.793Z",
+    "job_title": "Research Scientist - Salesforce AI Research",
+    "company": "Salesforce",
+    "first_seen": "2025-10-30T15:18:22.793Z"
   }
 }
