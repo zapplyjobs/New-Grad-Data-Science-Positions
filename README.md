@@ -69,7 +69,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - 🏢 **Top Companies:** 7 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** October 31, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 28 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 26 (older than 1 week)
 
 ---
 
@@ -92,7 +92,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Scientist, Research, Ads Metrics | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/140037696671097542-data-scientist-research-ads-metrics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 9h |
-| Data Scientist, Product, Google Ads Creative | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/139337264814531270-data-scientist-product-google-ads-creative?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 12h |
+| Data Scientist, Product, Google Ads Creative | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/139337264814531270-data-scientist-product-google-ads-creative?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 13h |
 | Data Scientist III, Research | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/107698822020244166-data-scientist-iii-research?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1d |
 | Data Scientist, Platforms and Devices Insights and Analytics | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/132436463550636742-data-scientist-platforms-and-devices-insights-and-analytics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1d |
 | Data Scientist III, Research, Search Ads | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127872487017849542-data-scientist-iii-research-search-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1d |
@@ -110,8 +110,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Scientist | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626416-0157/data-scientist?team=SFTWR) | 2d |
 | AI Evaluation Data Scientist | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200618553-3337/ai-evaluation-data-scientist?team=HRDWR) | 2d |
+| Data Analyst | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200615676-3956/data-analyst?team=MKTG) | 4d |
 
 ### 🚀 **Consulting & Services** (7 positions)
 
@@ -184,9 +184,9 @@ List of top locations and number of positions.
 - **Mountain View, CA**: 11 positions
 - **New York, NY**: 2 positions
 - **San Bruno, CA**: 2 positions
+- **Sunnyvale, CA**: 2 positions
 - **Seattle, WA**: 2 positions
 - **Phoenix, AZ**: 1 positions
-- **Sunnyvale, CA**: 1 positions
 - **Santa Clara, CA**: 1 positions
 - **Pasadena, CA**: 1 positions
 
@@ -255,18 +255,18 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 28 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 26 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 28 positions
+📁 **Total Jobs:** 26 positions
 
 🏢 **Companies:** 7 companies
 
 
-### 🏢 **FAANG+** (9 positions)
+### 🏢 **FAANG+** (7 positions)
 
 #### 📦 **Amazon** (3 positions)
 
@@ -276,15 +276,13 @@ Either still hiring or useful for research.
 | Data Engineer, AWS DC Central Operations | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3103409/data-engineer-aws-dc-central-operations) | 3w |
 | Applied Scientist, AWS Neuron Science Team | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3102580/applied-scientist-aws-neuron-science-team) | 3w |
 
-#### 🍎 **Apple** (6 positions)
+#### 🍎 **Apple** (4 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Cellular Data Science & Machine Learning Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626568-3543/cellular-data-science-machine-learning-engineer?team=HRDWR) | 1w |
 | AppleCare Data Scientist | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200619185-0157/applecare-data-scientist?team=CUST) | 1w |
-| Health Sensing Data Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626165-3543/health-sensing-data-engineer?team=HRDWR) | 2w |
 | Data Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-3543/data-engineer?team=HRDWR) | 3w |
-| Data Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0836/data-engineer?team=HRDWR) | 3w |
 | Data Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0157/data-engineer?team=HRDWR) | 3w |
 
 ### 🚀 **Consulting & Services** (18 positions)
