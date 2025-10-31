@@ -110,8 +110,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Data Scientist | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626416-0157/data-scientist?team=SFTWR) | 2d |
 | AI Evaluation Data Scientist | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200618553-3337/ai-evaluation-data-scientist?team=HRDWR) | 2d |
-| Data Analyst | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200615676-3956/data-analyst?team=MKTG) | 4d |
 
 ### 🏢 **Top Tech** (1 position)
 
@@ -181,8 +181,8 @@ No companies available
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
 | 🟢 Entry Level & New Grad | 1 | 3% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 22 | 76% | 1-2 years of experience. |
-| 🔴 Manager | 6 | 21% | 2+ years of experience. |
+| 🟡 Beginner & Early Career | 21 | 72% | 1-2 years of experience. |
+| 🔴 Manager | 7 | 24% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -191,10 +191,10 @@ List of top locations and number of positions.
 - **Mountain View, CA**: 11 positions
 - **New York, NY**: 2 positions
 - **San Bruno, CA**: 2 positions
-- **Sunnyvale, CA**: 2 positions
 - **Seattle, WA**: 2 positions
 - **Indianapolis, IN**: 1 positions
 - **Phoenix, AZ**: 1 positions
+- **Sunnyvale, CA**: 1 positions
 - **Santa Clara, CA**: 1 positions
 
 ---
