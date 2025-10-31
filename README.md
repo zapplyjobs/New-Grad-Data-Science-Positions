@@ -9,9 +9,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-30-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-29-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-21-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-20-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -44,7 +44,7 @@
   
   # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 7+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 30+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 7+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 29+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -65,7 +65,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 30 hot data-focused jobs
+- 🔥 **Current Positions:** 29 hot data-focused jobs
 - 🏢 **Top Companies:** 7 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** October 31, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -76,7 +76,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🎯 Fresh Data Science Job Listings 2026 (under 1 week)
 
-### 🏢 **FAANG+** (21 positions)
+### 🏢 **FAANG+** (20 positions)
 
 #### 📦 **Amazon** (4 positions)
 
@@ -92,7 +92,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Scientist, Research, Ads Metrics | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/140037696671097542-data-scientist-research-ads-metrics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 10h |
-| Data Scientist, Product, Google Ads Creative | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/139337264814531270-data-scientist-product-google-ads-creative?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 13h |
+| Data Scientist, Product, Google Ads Creative | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/139337264814531270-data-scientist-product-google-ads-creative?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 14h |
 | Data Scientist III, Research | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/107698822020244166-data-scientist-iii-research?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1d |
 | Data Scientist, Platforms and Devices Insights and Analytics | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/132436463550636742-data-scientist-platforms-and-devices-insights-and-analytics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1d |
 | Data Scientist III, Research, Search Ads | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127872487017849542-data-scientist-iii-research-search-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1d |
@@ -106,12 +106,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Business Data Scientist, Statistics, Platform Analytics, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/83762677221860038-business-data-scientist-statistics-platform-analytics-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 1d |
 | Data Scientist - Product, Play Monetization, Fraud and Abuse | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/116838310160016070-data-scientist-product-play-monetization-fraud-and-abuse?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 1d |
 
-#### 🍎 **Apple** (3 positions)
+#### 🍎 **Apple** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Scientist | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626416-0157/data-scientist?team=SFTWR) | 2d |
-| AI Evaluation Data Scientist | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200618553-3337/ai-evaluation-data-scientist?team=HRDWR) | 2d |
 | Data Analyst | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200615676-3956/data-analyst?team=MKTG) | 4d |
 
 ### 🚀 **Consulting & Services** (7 positions)
@@ -158,7 +157,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (14 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (3) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (4)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (14 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (4)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -175,7 +174,7 @@ No companies available
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
 | 🟢 Entry Level & New Grad | 1 | 3% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 24 | 80% | 1-2 years of experience. |
+| 🟡 Beginner & Early Career | 23 | 79% | 1-2 years of experience. |
 | 🔴 Manager | 5 | 17% | 2+ years of experience. |
 
 ### 🌍 Top Locations
@@ -186,8 +185,8 @@ List of top locations and number of positions.
 - **New York, NY**: 2 positions
 - **San Bruno, CA**: 2 positions
 - **Sunnyvale, CA**: 2 positions
-- **Seattle, WA**: 2 positions
 - **Phoenix, AZ**: 1 positions
+- **Seattle, WA**: 1 positions
 - **Santa Clara, CA**: 1 positions
 - **Pasadena, CA**: 1 positions
 
@@ -195,7 +194,7 @@ List of top locations and number of positions.
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 30+ verified roles for data analysts and scientists from 7 elite tech companies.
+✅ **100% Real Jobs:** 29+ verified roles for data analysts and scientists from 7 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -333,7 +332,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 30 current opportunities from 7 elite companies.**
+**🎯 29 current opportunities from 7 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
