@@ -67,9 +67,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 - 🔥 **Current Positions:** 31 hot data-focused jobs
 - 🏢 **Top Companies:** 8 elite tech including Tesla, NVIDIA, Raytheon
-- 📅 **Last Updated:** November 1, 2025
+- 📅 **Last Updated:** November 2, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 23 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 26 (older than 1 week)
 
 ---
 
@@ -82,10 +82,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Training Solutions Research Scientist, AWS Training and Certification | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3118606/training-solutions-research-scientist-aws-training-and-certification) | 2d |
-| Applied Scientist, Console Science | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3118661/applied-scientist-console-science) | 2d |
-| Research Scientist, Materials Team, AWS Center for Quantum Computing | Pasadena, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3118308/research-scientist-materials-team-aws-center-for-quantum-computing) | 2d |
-| Applied Scientist II, AWS Agentic AI | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3117028/applied-scientist-ii-aws-agentic-ai) | 4d |
+| Training Solutions Research Scientist, AWS Training and Certification | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3118606/training-solutions-research-scientist-aws-training-and-certification) | 3d |
+| Applied Scientist, Console Science | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3118661/applied-scientist-console-science) | 3d |
+| Research Scientist, Materials Team, AWS Center for Quantum Computing | Pasadena, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3118308/research-scientist-materials-team-aws-center-for-quantum-computing) | 3d |
+| Applied Scientist II, AWS Agentic AI | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3117028/applied-scientist-ii-aws-agentic-ai) | 5d |
 
 #### 🟢 **Google** (14 positions)
 
@@ -110,9 +110,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Scientist | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626416-0157/data-scientist?team=SFTWR) | 3d |
-| AI Evaluation Data Scientist | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200618553-3337/ai-evaluation-data-scientist?team=HRDWR) | 3d |
-| Data Analyst | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200615676-3956/data-analyst?team=MKTG) | 5d |
+| Data Scientist | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626416-0157/data-scientist?team=SFTWR) | 4d |
+| AI Evaluation Data Scientist | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200618553-3337/ai-evaluation-data-scientist?team=HRDWR) | 4d |
+| Data Analyst | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200615676-3956/data-analyst?team=MKTG) | 6d |
 
 ### 🏢 **Top Tech** (1 position)
 
@@ -197,7 +197,7 @@ List of top locations and number of positions.
 - **Seattle, WA**: 2 positions
 - **Fort Meade, MD**: 1 positions
 - **Phoenix, AZ**: 1 positions
-- **Santa Clara, CA**: 1 positions
+- **Indianapolis, IN**: 1 positions
 
 ---
 
@@ -264,18 +264,18 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 23 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 26 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 23 positions
+📁 **Total Jobs:** 26 positions
 
 🏢 **Companies:** 8 companies
 
 
-### 🏢 **FAANG+** (6 positions)
+### 🏢 **FAANG+** (9 positions)
 
 #### 📦 **Amazon** (3 positions)
 
@@ -285,13 +285,16 @@ Either still hiring or useful for research.
 | Data Engineer, AWS DC Central Operations | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3103409/data-engineer-aws-dc-central-operations) | 3w |
 | Applied Scientist, AWS Neuron Science Team | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3102580/applied-scientist-aws-neuron-science-team) | 3w |
 
-#### 🍎 **Apple** (3 positions)
+#### 🍎 **Apple** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Cellular Data Science & Machine Learning Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626568-3543/cellular-data-science-machine-learning-engineer?team=HRDWR) | 1w |
-| Data Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0157/data-engineer?team=HRDWR) | 3w |
+| Data Scientist, Streaming Media | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627262-0836/data-scientist-streaming-media?team=SFTWR) | 1w |
+| Health Sensing Data Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626165-3543/health-sensing-data-engineer?team=HRDWR) | 2w |
+| Data Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0836/data-engineer?team=HRDWR) | 3w |
 | Data Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-3543/data-engineer?team=HRDWR) | 3w |
+| Data Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625200-0157/data-engineer?team=HRDWR) | 3w |
 
 ### 🚀 **Consulting & Services** (16 positions)
 
@@ -344,6 +347,6 @@ Either still hiring or useful for research.
 
 ---
 
-**Last Updated:** November 1, 2025 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** November 2, 2025 • **Next Update:** Daily at 9 AM UTC
 
 </div>
