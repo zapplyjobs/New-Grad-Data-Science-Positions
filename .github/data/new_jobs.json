@@ -1,15 +1,5 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Business Data Scientist II, gTech",
-    "job_city": "Boulder",
-    "job_state": "CO",
-    "job_posted_at": "1h",
-    "job_description": "data science job for the role Business Data Scientist II, gTech",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/108054456049771206-business-data-scientist-ii-gtech?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2",
-    "id": "google-business-data-scientist-ii-gtech-boulder"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Business Operations Support Analyst",
     "job_city": "Phoenix",
