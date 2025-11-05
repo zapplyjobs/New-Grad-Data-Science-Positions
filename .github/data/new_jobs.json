@@ -1,5 +1,15 @@
 [
   {
+    "employer_name": "Amazon",
+    "job_title": "Applied Scientist",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "data science job for the role Applied Scientist",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3121030/applied-scientist",
+    "id": "amazon-applied-scientist-santa-clara"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Business Operations Support Analyst",
     "job_city": "Phoenix",
