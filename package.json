@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "discord.js": "^14.24.2",
-    "puppeteer": "^24.28.0"
+    "puppeteer": "^24.29.0"
   }
 }
