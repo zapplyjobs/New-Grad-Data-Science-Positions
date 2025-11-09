@@ -95,7 +95,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Business Data Scientist, gDATA | Boulder, CO | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/78081210730848966-business-data-scientist-gdata?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 3d |
 | Data Scientist, Research, Ads Insight and Measurement | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/104474343110517446-data-scientist-research-ads-insight-and-measurement?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 4d |
 | Data Scientist, Search AI Mode | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/94897760041345734-data-scientist-search-ai-mode?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 4d |
-| Business Data Scientist II, gTech | Boulder, CO | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/108054456049771206-business-data-scientist-ii-gtech?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 4d |
+| Business Data Scientist II, gTech | Boulder, CO | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/108054456049771206-business-data-scientist-ii-gtech?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 5d |
 
 #### 🍎 **Apple** (1 position)
 
@@ -151,8 +151,8 @@ No companies available
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 1 | 7% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 10 | 71% | 1-2 years of experience. |
+| 🟢 Entry Level & New Grad | 2 | 14% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 9 | 64% | 1-2 years of experience. |
 | 🔴 Manager | 3 | 21% | 2+ years of experience. |
 
 ### 🌍 Top Locations
