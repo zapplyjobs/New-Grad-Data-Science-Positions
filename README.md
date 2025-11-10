@@ -69,7 +69,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - 🏢 **Top Companies:** 6 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** November 10, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 32 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 31 (older than 1 week)
 
 ---
 
@@ -82,7 +82,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Applied Scientist, Prime Air Navigation | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3123965/applied-scientist-prime-air-navigation) | 21h |
+| Applied Scientist, Prime Air Navigation | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3123965/applied-scientist-prime-air-navigation) | 22h |
 | Applied Scientist | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3121030/applied-scientist) | 6d |
 
 #### 🟢 **Google** (8 positions)
@@ -91,11 +91,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Research Scientist, Machine Learning, Geospatial AI | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/121076217070658246-research-scientist-machine-learning-geospatial-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3) | 11h |
 | Business Data Scientist, Search Analytics | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/125280667930895046-business-data-scientist-search-analytics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 3d |
-| Data Scientist, Research, YouTube Ads User Experience | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/130063028115645126-data-scientist-research-youtube-ads-user-experience?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 4d |
 | Business Data Scientist, gDATA | Boulder, CO | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/78081210730848966-business-data-scientist-gdata?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 4d |
 | Data Scientist, Research, PhD, Early Career, 2026 Start | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/106428613359739590-data-scientist-research-phd-early-career-2026-start?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 5d |
 | Data Scientist, Research, Ads Insight and Measurement | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/104474343110517446-data-scientist-research-ads-insight-and-measurement?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 5d |
 | Data Scientist, Search AI Mode | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/94897760041345734-data-scientist-search-ai-mode?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 5d |
+| Data Scientist, Research, YouTube Ads User Experience | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/130063028115645126-data-scientist-research-youtube-ads-user-experience?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 5d |
 | Business Data Scientist II, gTech | Boulder, CO | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/108054456049771206-business-data-scientist-ii-gtech?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 6d |
 
 #### 🍎 **Apple** (1 position)
@@ -231,13 +231,13 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 32 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 31 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 32 positions
+📁 **Total Jobs:** 31 positions
 
 🏢 **Companies:** 6 companies
 
@@ -275,9 +275,9 @@ Either still hiring or useful for research.
 | AppleCare Data Scientist | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200619185-0157/applecare-data-scientist?team=CUST) | 3w |
 | Health Sensing Data Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626165-3543/health-sensing-data-engineer?team=HRDWR) | 3w |
 
-### 🚀 **Consulting & Services** (14 positions)
+### 🚀 **Consulting & Services** (13 positions)
 
-#### 🛡️ **BAE Systems** (12 positions)
+#### 🛡️ **BAE Systems** (11 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -288,7 +288,6 @@ Either still hiring or useful for research.
 | Training Assessment Data Scientist | Twenty-Nine Palms, CA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Twenty-Nine-Palms-CA/Training-Assessment-Data-Scientist_R0228486?q=data+science) | 2w |
 | Training Assessment Data Scientist | Camp Lejeune, NC | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Lejeune-NC/Training-Assessment-Data-Scientist_R0228481?q=data+science) | 2w |
 | Training Assessment Data Scientist | Camp Pendleton, CA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Pendleton-CA/Training-Assessment-Data-Scientist_R0228485?q=data+science) | 2w |
-| Palantir Data Engineer and Application Developer | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Palantir-Foundry-Data-Engineer-and-Application-Developer_R0228244?q=data+science) | 2w |
 | Data Scientist | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0221949?q=data+science) | 3w |
 | Data Scientist | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Scientist_R0228330?q=data+science) | 3w |
 | Data Scientist | Alexandria, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist_R0228335?q=data+science) | 3w |
@@ -308,6 +307,14 @@ Either still hiring or useful for research.
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Scientist | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/data-scientist-mountain-view-california-united-states-san-francisco) | 1w |
+
+### 🏭 **Manufacturing & Industrial** (1 position)
+
+#### ⚡ **ABB** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Business Operations Support Analyst | Phoenix, AZ | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012734/Business-Operations-Support-Analyst) | 1w |
 
 
 
