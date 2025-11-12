@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Amazon",
+    "job_title": "Data Engineer, WWGDT Store Systems",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "18h",
+    "job_description": "data science job for the role Data Engineer, WWGDT Store Systems",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3125646/data-engineer-wwgdt-store-systems",
+    "id": "amazon-data-engineer-wwgdt-store-systems-austin"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Data Engineer, WWGS Data & Analytics",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "18h",
+    "job_description": "data science job for the role Data Engineer, WWGS Data & Analytics",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3125647/data-engineer-wwgs-data-analytics",
+    "id": "amazon-data-engineer-wwgs-data-analytics-austin"
+  }
+]
