@@ -143,8 +143,8 @@ No companies available
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 2 | 18% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 8 | 73% | 1-2 years of experience. |
+| 🟢 Entry Level & New Grad | 1 | 9% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 9 | 82% | 1-2 years of experience. |
 | 🔴 Manager | 1 | 9% | 2+ years of experience. |
 
 ### 🌍 Top Locations
@@ -241,8 +241,8 @@ Either still hiring or useful for research.
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Training Solutions Research Scientist, AWS Training and Certification | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3118606/training-solutions-research-scientist-aws-training-and-certification) | 1w |
 | Applied Scientist II, Amazon AWS Agentic AI, AWS AI Fundamental Research | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3120171/applied-scientist-ii-amazon-aws-agentic-ai-aws-ai-fundamental-research) | 1w |
+| Training Solutions Research Scientist, AWS Training and Certification | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3118606/training-solutions-research-scientist-aws-training-and-certification) | 1w |
 | Applied Scientist, Console Science | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3118661/applied-scientist-console-science) | 1w |
 | Applied Scientist, Seller Fees Science | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114685/applied-scientist-seller-fees-science) | 2w |
 
