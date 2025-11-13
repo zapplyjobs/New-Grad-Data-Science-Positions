@@ -107,13 +107,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Data Analytics Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/73403/login) | 6d |
 
-### 🏭 **Manufacturing & Industrial** (1 position)
+### 🚀 **Consulting & Services** (1 position)
 
-#### ⚡ **ABB** (1 position)
+#### ⚙️ **General Dynamics** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| R&D Applied Scientist | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/95951038/R-D-Applied-Scientist) | 3d |
+| AI/ML Delivery Engineer | Herndon, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/AI-ML-Delivery-Engineer_RQ210085-1?q=data+science) | 1d |
 
 
 
@@ -140,9 +140,9 @@ No companies available
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 2 | 25% | No or minimal experience. |
+| 🟢 Entry Level & New Grad | 1 | 13% | No or minimal experience. |
 | 🟡 Beginner & Early Career | 6 | 75% | 1-2 years of experience. |
-| 🔴 Manager | 0 | 0% | 2+ years of experience. |
+| 🔴 Manager | 1 | 13% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -150,9 +150,9 @@ List of top locations and number of positions.
 
 - **Mountain View, CA**: 2 positions
 - **Seattle, WA**: 2 positions
+- **Herndon, VA**: 1 positions
 - **New York, NY**: 1 positions
 - **Arlington, VA**: 1 positions
-- **San Jose, CA**: 1 positions
 - **Austin, TX**: 1 positions
 
 ---
