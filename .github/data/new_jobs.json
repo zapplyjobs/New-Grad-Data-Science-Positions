@@ -1,12 +1,1 @@
-[
-  {
-    "employer_name": "Apple",
-    "job_title": "Data Engineer - Camera Intelligence",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_posted_at": "18h",
-    "job_description": "• Minimum QualificationsExcellent written and verbal communication skills.\n• Strong programming skills in Python with hands-on experience with Dask for distributed data processingFamiliarity with ML frameworks (TensorFlow, PyTorch) and modern deep learning architecturesUnderstanding of imaging fundamentals: raw sensor data, ISP outputs, color spaces, and image quality metrics.\n• Bachelor's degree in Computer Science, Engineering, or related field with relevant experience in data engineering and computer vision/imaging domains.\n• Proven ability to collaborate across multiple teams including data collection/annotation, ML researchers, and camera feature teams.\n• Ability to work independently and resolve infrastructure challenges with minimal support.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200631946-0836/data-engineer-camera-intelligence?team=SFTWR",
-    "id": "apple-data-engineer-camera-intelligence-cupertino"
-  }
-]
+[]
