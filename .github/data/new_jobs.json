@@ -1,12 +1,1 @@
-[
-  {
-    "employer_name": "AMD",
-    "job_title": "AI/ML Compiler Development Engineer",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "• Analyzing code for high performance CONV, GEMM and non-linear operators Deep understanding of AI frameworks, preferably ONNX.\n• Practical experience applying these concepts to solve real-world problems in the context of research or work experience.\n• You should have experience in optimizing and accelerating CNN/Generative AI models.\n• Person needs excellent cross team collaboration skills to succeed in this role.\n• We are looking for a candidate who possesses strong engineering skills to tackle complex challenges on AI model development work.\n• Experience with any of the following also a plus: LLMs, stable diffusion, NeRF, or text-to-video generation.\n• AMD Partner Hub Authorized Distributors AMD University Program Experience on model compression, quantization, and end-to-end inference optimization.\n• Strong experience in developing ML compiler for efficient network mapping on NPU Experience with deep learning framework, e.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/57214/login",
-    "id": "amd-ai-ml-compiler-development-engineer-san-jose"
-  }
-]
+[]
