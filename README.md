@@ -69,7 +69,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - 🏢 **Top Companies:** 4 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** November 14, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 34 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 33 (older than 1 week)
 
 ---
 
@@ -134,8 +134,8 @@ No companies available
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 1 | 14% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 5 | 71% | 1-2 years of experience. |
+| 🟢 Entry Level & New Grad | 0 | 0% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 6 | 86% | 1-2 years of experience. |
 | 🔴 Manager | 1 | 14% | 2+ years of experience. |
 
 ### 🌍 Top Locations
@@ -215,13 +215,13 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 34 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 33 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 34 positions
+📁 **Total Jobs:** 33 positions
 
 🏢 **Companies:** 4 companies
 
@@ -260,9 +260,9 @@ Either still hiring or useful for research.
 | Cellular Data Science & Machine Learning Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626568-3543/cellular-data-science-machine-learning-engineer?team=HRDWR) | 3w |
 | Data Scientist, Streaming Media | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627262-0836/data-scientist-streaming-media?team=SFTWR) | 3w |
 
-### 🚀 **Consulting & Services** (15 positions)
+### 🚀 **Consulting & Services** (14 positions)
 
-#### 🛡️ **BAE Systems** (12 positions)
+#### 🛡️ **BAE Systems** (11 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -274,7 +274,6 @@ Either still hiring or useful for research.
 | Training Assessment Data Scientist | Twenty-Nine Palms, CA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Twenty-Nine-Palms-CA/Training-Assessment-Data-Scientist_R0228486?q=data+science) | 3w |
 | Training Assessment Data Scientist | Camp Lejeune, NC | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Lejeune-NC/Training-Assessment-Data-Scientist_R0228481?q=data+science) | 3w |
 | Training Assessment Data Scientist | Camp Pendleton, CA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Pendleton-CA/Training-Assessment-Data-Scientist_R0228485?q=data+science) | 3w |
-| Palantir Data Engineer and Application Developer | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Palantir-Foundry-Data-Engineer-and-Application-Developer_R0228244?q=data+science) | 3w |
 | Data Scientist | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0221949?q=data+science) | 4w |
 | Data Scientist | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Scientist_R0228330?q=data+science) | 4w |
 | Data Scientist | Alexandria, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist_R0228335?q=data+science) | 4w |
