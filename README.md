@@ -67,7 +67,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 - 🔥 **Current Positions:** 11 hot data-focused jobs
 - 🏢 **Top Companies:** 5 elite tech including Tesla, NVIDIA, Raytheon
-- 📅 **Last Updated:** November 15, 2025
+- 📅 **Last Updated:** November 16, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 - 📁 **Archived Developer Jobs:** 30 (older than 1 week)
 
@@ -82,8 +82,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Scientist II, AWS Managed Operations Data Science (MODS) | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3124720/data-scientist-ii-aws-managed-operations-data-science-mods) | 4d |
-| Applied Scientist, Prime Air Navigation | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3123965/applied-scientist-prime-air-navigation) | 5d |
+| Data Scientist II, AWS Managed Operations Data Science (MODS) | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3124720/data-scientist-ii-aws-managed-operations-data-science-mods) | 5d |
+| Applied Scientist, Prime Air Navigation | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3123965/applied-scientist-prime-air-navigation) | 6d |
 
 #### 🟢 **Google** (5 positions)
 
@@ -158,7 +158,7 @@ List of top locations and number of positions.
 - **Honolulu, HI**: 1 positions
 - **McLean, VA**: 1 positions
 - **Herndon, VA**: 1 positions
-- **Arlington, VA**: 1 positions
+- **Mountain View, CA**: 1 positions
 
 ---
 
@@ -326,6 +326,6 @@ Either still hiring or useful for research.
 
 ---
 
-**Last Updated:** November 15, 2025 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** November 16, 2025 • **Next Update:** Daily at 9 AM UTC
 
 </div>
